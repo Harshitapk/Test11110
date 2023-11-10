@@ -1,0 +1,509 @@
+Name,Categories,Cuisine Types,Nationalities,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price,City
+Halong Bay Noodle House,Vietnamese,Vietnamese,Vietnamese,4.0,"16971 127 Street NW, Edmonton",53.6319339503734,-113.539941883853,56,505.6050353804598,17803716800,False,$$,Edmonton
+Memphis Blues Barbeque House,"Barbeque, Whiskey Bars","Barbeque, Whiskey Bars",NA,3.0,"16907 127 Street NW, Edmonton",53.6307499,-113.5392564,61,589.9397481961237,17804796227,False,$$,Edmonton
+Denny's,"Breakfast & Brunch, American",Breakfast & Brunch,American,3.5,"16711 127 Street, Edmonton",53.6296698,-113.5408665,7,739.1413979755677,17804573265,False,$$,Edmonton
+Panda Express,"Chinese, Fast Food",Fast Food,Chinese,3.0,"16704 127th St NW, Edmonton",53.6305167,-113.5412121,33,681.2678636717711,17804578056,False,$$,Edmonton
+Royal Pizza,Pizza,Pizza,NA,3.0,"16721 127 Street, Edmonton",53.6301570239027,-113.537069941158,27,601.1873567461297,17804762241,False,$$,Edmonton
+Teriyaki Corner,Japanese,Japanese,Japanese,3.0,"16815 127 Street NW, Edmonton",53.6303348935283,-113.54025468882,22,662.6863804447119,17804846325,False,$$,Edmonton
+kb&co,"Juice Bars & Smoothies, Coffee & Tea, Sandwiches","Juice Bars & Smoothies, Coffee & Tea, Sandwiches",NA,5.0,"16715 127 Street, Edmonton",53.62949,-113.53886,2,734.4185373406592,17804726931,False,$$,Edmonton
+Shawarma Shack & Donair,"Middle Eastern, Burgers",Burgers,Middle Eastern,4.5,"12432 167 Ave NW, Edmonton",53.6296397543399,-113.537738956511,2,667.7889768664661,17802508845,False,$$,Edmonton
+Bar Burrito,"Mexican, Fast Food",Fast Food,Mexican,2.5,"16955 127 Street NW, Edmonton",53.6319636260914,-113.53912360531754,7,470.1770814602197,17802492090,False,$$,Edmonton
+Apna Dhaba,"Indian, Desserts, Burgers","Desserts, Burgers",Indian,4.0,"16741 127 Street NW, Edmonton",53.6301869,-113.53874738400208,1,632.0560946692775,17807522061,False,$$,Edmonton
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,3.5,"Albany Market Square, Edmonton",53.6291617167243,-113.543608388607,3,897.2613699600284,17804763334,False,$$,Edmonton
+Dairy Queen Grill & Chill,"Ice Cream & Frozen Yogurt, Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"16981 127th St, Edmonton",53.6318812,-113.5404316,3,531.2000117818741,17807056757,False,$,Edmonton
+Taco Time,Mexican,Mexican,Mexican,3.0,"12712 167 Avenue NW, Edmonton",53.6290418,-113.5431007,3,887.1858602350877,15875210375,False,$,Edmonton
+Freshii,"Vegetarian, Salad, Fast Food",Fast Food,NA,3.5,"12444 167th Ave NW, Edmonton",53.6297049671041,-113.537630662322,4,658.9116925830709,15877826959,False,$,Edmonton
+Mary Brown's,Fast Food,Fast Food,NA,2.5,"16703 127th Street NW, Edmonton",53.6293776,-113.540856,3,777.638365359269,<NA>,False,$,Edmonton
+Woodwork,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),4.0,"10132-100 Street, Edmonton",53.5419431693898,-113.490731079867,175,249.3064804631126,17807574100,False,$$,Edmonton
+OEB Breakfast,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"10174 100A Street, Edmonton",53.54252,-113.49257,245,273.6480187217013,15875200936,False,$$,Edmonton
+JOEY Bell Tower,"Canadian (New), Lounges, Steakhouses",Steakhouses,Canadian (New),4.0,"10310-101 Street NW, Edmonton",53.5450960300911,-113.49416913725828,81,356.82596942917644,17809905639,False,$$,Edmonton
+Sabor,"Portuguese, Spanish",Portuguese,NA,4.0,"10220 103 Street, Edmonton",53.543381087231,-113.497605148344,175,564.9015309905166,17807571114,False,$$$,Edmonton
+XO Bistro & Bar,"Vietnamese, Bars",Bars,Vietnamese,4.5,"10236 103 Street, Edmonton",53.5438,-113.49757,82,564.1678932570613,17807619696,False,$$,Edmonton
+Sorrentino's Downtown,Italian,Italian,Italian,4.0,"10162 100 St NW, Edmonton",53.5424039,-113.4904816,46,196.0844453915229,17804247500,False,$$$,Edmonton
+CRAFT Beer Market,"Canadian (New), Burgers, Beer Bar","Burgers, Beer Bar",Canadian (New),3.5,"10013 101A Avenue, Edmonton",53.5422011,-113.4913926,259,247.6191400053271,17804242337,False,$$,Edmonton
+Bistro Praha,"Modern European, Czech",Modern European,Modern European,4.0,"10117 101 Street NW, Edmonton",53.5414213451344,-113.493436306746,75,402.2824905593063,17804244218,False,$$,Edmonton
+De Dutch,"Breakfast & Brunch, Gluten-Free, Canadian (New)",Breakfast & Brunch,Canadian (New),4.0,"10030 Jasper Ave, Edmonton",53.54125,-113.49157,159,338.93852262258025,15875208841,False,$$,Edmonton
+Ruth's Chris Steak House,Steakhouses,Steakhouses,NA,4.0,"9990 Jasper Avenue, Edmonton",53.54163,-113.48989,113,283.2345496311538,17809900123,False,$$$$,Edmonton
+Confederation Lounge,"Lounges, Canadian (New)",Lounges,Canadian (New),4.0,"10065 100th Street, Edmonton",53.54012,-113.48925,40,413.099316742387,17804245181,False,$$$,Edmonton
+The Underground Tap & Grill,"Pubs, American",Pubs,American,3.5,"10004 Jasper Avenue NW, Edmonton",53.5412956,-113.4907434,107,316.14425217698573,17804251880,False,$$,Edmonton
+Padmanadi Vegetarian Restaurant,"Vegetarian, Indonesian, Vegan",Vegetarian,NA,4.5,"10740 101 Street, Edmonton",53.5525155187002,-113.493800139724,326,999.5554539458216,17804288899,False,$$,Edmonton
+Harvest Room,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),4.0,"10065 - 100th Street, Edmonton",53.54012,-113.48925,62,413.099316742387,17804245181,False,$$$,Edmonton
+Dalla Tavola Zenari,Italian,Italian,Italian,4.5,"10166-100 A Street NW, Edmonton",53.54228243384595,-113.49259960450878,27,297.03307672125686,17805408920,False,$$$,Edmonton
+Rosewood Foods,"Breakfast & Brunch, Cafes, Salad",Cafes,NA,4.5,"101-10150 100 Street NW, Edmonton",53.5424329438608,-113.4909425,18,209.21635862772575,17807578030,False,$$$,Edmonton
+Chop steakhouse,"Seafood, Steakhouses, Lounges","Seafood, Steakhouses",NA,3.5,"10235 101 Street, Edmonton",53.54506,-113.4935,86,284.65671581108575,17804413075,False,$$$,Edmonton
+Rigoletto's Cafe,Italian,Italian,Italian,4.0,"10305 - 100 Avenue NW, Edmonton",53.541919782814006,-113.4869648735873,39,268.4069648940955,17804290701,False,$$,Edmonton
+La Ronde Revolving Restaurant,Steakhouses,Steakhouses,NA,4.0,"10111 Bellamy Hill NW, Edmonton",53.53916,-113.49416,91,637.625298829233,17804286611,False,$$$,Edmonton
+L'espresso Cafe,"Coffee & Tea, Pizza, Sandwiches","Coffee & Tea, Pizza, Sandwiches",NA,3.5,"Main Floor, Chancery Hall Building, Edmonton",53.5441557,-113.4888695,19,26.29668677631431,17804290007,False,$,Edmonton
+Pazzo Pazzo Italian Cuisine,Italian,Italian,Italian,3.5,"10016-103 Avenue NW, Edmonton",53.5456955,-113.4918893,63,265.56617602894056,17804257711,False,$$,Edmonton
+Braven,"Steakhouses, Seafood, Cocktail Bars","Steakhouses, Seafood, Cocktail Bars",NA,3.5,"10344 102 Street NW, Edmonton",53.54565,-113.49582,45,480.9762700256527,17807848580,False,$$,Edmonton
+Thanh Thanh Oriental Noodle House,Vietnamese,Vietnamese,Vietnamese,4.0,"10718 101 Street NW, Edmonton",53.55186,-113.49402,88,936.9434309894458,17804265068,False,$$,Edmonton
+Continental Treat Fine Bistro,"Gluten-Free, Modern European",Gluten-Free,Modern European,4.5,"9698 Jasper Avenue, Edmonton",53.54266,-113.48533,10,305.95806988155977,17807580442,False,$$,Edmonton
+Share,"Steakhouses, Canadian (New)",Steakhouses,Canadian (New),4.0,"10135 100 Street NW, Edmonton",53.54213210416221,-113.48918483779909,10,204.26051182893704,17804938994,False,$$$,Edmonton
+Atlas Steak + Fish,"Steakhouses, Seafood, Bars","Steakhouses, Seafood, Bars",NA,3.5,"10204 104 Avenue NW, Edmonton",53.546778403750665,-113.49601816105528,63,552.9646551828051,17804133178,False,$$$,Edmonton
+LUX Steakhouse and Bar,"Lounges, Steakhouses, Canadian (New)",Steakhouses,Canadian (New),3.5,"Commerce Pl, Edmonton",53.7139416,-113.217024,94,410.69243270679885,17804240400,False,$$$,Edmonton
+Old Spaghetti Factory,Italian,Italian,Italian,4.0,"10220 103 St NW, Edmonton",53.5436156204755,-113.49757270344,74,560.3425503244084,17804226088,False,$$,Edmonton
+Amore Pasta,Italian,Italian,Italian,4.5,"10235 101St NW, Edmonton",53.54506,-113.4935,12,276.18172213119584,<NA>,False,$$,Edmonton
+Board N Brew Café,"Cafes, Arts & Entertainment",Cafes,NA,4.5,"9929 103 Street, Edmonton",53.53793,-113.49693,18,824.9154409039484,17807578262,False,$$,Edmonton
+The Hallway Cafe,"Diners, Sandwiches",Sandwiches,NA,4.0,"1 Sir Winston Churchill Square, Edmonton",53.5451531552997,-113.490537751431,10,161.90589812836578,17804138060,False,$$,Edmonton
+Normand's Bistro,Canadian (New),Canadian (New),Canadian (New),3.5,"10177 99 Street NW, Edmonton",53.542962,-113.488372,32,122.16130549775288,17804251008,False,$$,Edmonton
+Asian Express Hot Pot,"Asian Fusion, Hot Pot",Asian Fusion,Asian Fusion,4.5,"10586 100 Street NW, Edmonton",53.5496,-113.49212,52,656.8687086811489,17804218300,False,$$,Edmonton
+Lee House,"Korean, Barbeque",Barbeque,Korean,4.0,"10704 97 Street NW, Edmonton",53.5519,-113.48977,32,885.5121289725212,17804380790,False,$$,Edmonton
+Oil Lamp Unique Dining,"Mediterranean, Greek, Wine Bars",Wine Bars,"Mediterranean, Greek",4.0,"10247-97 Street, Edmonton",53.545087,-113.486374,34,219.57503029896512,17804290808,False,$$,Edmonton
+Bianco,Italian,Italian,Italian,4.0,"120-10020 101 A Avenue, Edmonton",53.5424557443708,-113.49200528115,52,254.60105616959632,17807618838,False,$$,Edmonton
+Pho Tau Bay,Vietnamese,Vietnamese,Vietnamese,4.5,"10660 98 St NW, Edmonton",53.5513,-113.4909,86,825.4811976345867,17804210807,False,$,Edmonton
+Buco Pizzeria + Vino Bar,"Italian, Wine Bars",Wine Bars,Italian,4.0,"10423 101 Street NW, Edmonton",53.5474078413525,-113.493180844696,26,467.42970419345346,17802502826,False,$,Edmonton
+The Greenhouse,"Salad, Vegetarian",Salad,NA,4.5,"10119 101 Street, Edmonton",53.54136,-113.49341,18,404.24806498852695,15875249226,False,$$,Edmonton
+Remedy Cafe,"Indian, Coffee & Tea, Pakistani",Coffee & Tea,Indian,3.5,"10279 Jasper Avenue, Edmonton",53.5405807,-113.4971619,163,644.073502930026,17807577720,False,$$,Edmonton
+Boualouang Laos & Thai Cuisine,Thai,Thai,Thai,4.0,"10569 97th Street NW, Edmonton",53.54999,-113.48822,78,668.4025994133676,17804234207,False,$$,Edmonton
+Double Greeting Wonton House,Chinese,Chinese,Chinese,4.0,"10212 96 Street NW, Edmonton",53.54492,-113.48305,59,413.03508925069895,17804242486,False,$$,Edmonton
+The Creperie,"Creperies, French",Creperies,French,3.5,"10220 103 Street NW, Edmonton",53.54342138915762,-113.49768801165672,102,569.8440264526597,17804206656,False,$$$,Edmonton
+All Happy Family Restaurant,Chinese,Chinese,Chinese,3.5,"10011 106 Avenue NW, Edmonton",53.5497293363,-113.492411,110,676.6152764336197,17804218297,False,$$,Edmonton
+New Tan Tan,Dim Sum,Dim Sum,NA,4.0,"10133 97 Street NW, Edmonton",53.5429,-113.48525,23,278.64955804044484,17804201838,False,$$,Edmonton
+97 Hot Pot,"Hot Pot, Chinese",Hot Pot,Chinese,4.0,"10602 97 Street NW, Edmonton",53.550362,-113.4888101,66,711.1978541177803,15875211888,False,$$,Edmonton
+Haweli Restaurant,Indian,Indian,Indian,3.5,"10220 103 Street NW, Edmonton",53.54314,-113.49784,45,563.8024676587717,17804218100,False,$$,Edmonton
+Golden Bird Restaurant,Vietnamese,Vietnamese,Vietnamese,4.5,"10544 97 Street NW, Edmonton",53.54968,-113.48868,40,635.9698998279323,17804201612,False,$$,Edmonton
+King Noodle House Pho Hoang,Vietnamese,Vietnamese,Vietnamese,4.0,"10615 97 Street North West, Edmonton",53.550617,-113.488633,53,741.463118503123,17804288983,False,$,Edmonton
+Bodega Tapas and Wine Bar,"Tapas Bars, Wine Bars","Tapas Bars, Wine Bars",NA,4.0,"10220 103 Street, Edmonton",53.5430823,-113.4974613,38,560.3431979563181,17807571114,False,$$$,Edmonton
+Dang Good Restaurant,"Vietnamese, Soup",Vietnamese,Vietnamese,4.5,"13308-118 Avenue NW, Edmonton",53.5703784483657,-113.551643864452,86,755.6095577359206,17807563264,False,$$,Edmonton
+Dutch Delicious Bakery & Deli,"Bakeries, Cafes, Delis",Cafes,NA,4.5,"13232 118 Avenue NW, Edmonton",53.57062,-113.55156,31,794.1151599658859,17804552323,False,$$,Edmonton
+Favoloso,Italian,Italian,Italian,4.5,"13240 118 Avenue NW, Edmonton",53.5688712919887,-113.552158988,17,597.6958441129285,17804546329,False,$$,Edmonton
+Mountain Bistro,"Indian, Bistros",Indian,Indian,4.5,"11120 142 Street NW, Edmonton",53.55965,-113.56644,17,789.9990558354267,17807571346,False,$$,Edmonton
+Boston Pizza,"Pizza, Italian",Pizza,Italian,3.5,"11320 Groat Road NW, Edmonton",53.56237,-113.55178,21,444.0836442247782,17804528585,False,$$,Edmonton
+Tony Roma's,"Steakhouses, American, Barbeque","Steakhouses, Barbeque",American,2.5,"111th & Ave. Groat Rd, Edmonton",53.5619496842281,-113.551572957672,30,494.1403840217031,17804887427,False,$$,Edmonton
+Nikki's,"Fast Food, Burgers","Fast Food, Burgers",NA,4.0,"11035 Groat Road NW, Edmonton",53.56092779198601,-113.55450003798292,10,454.8017302205988,<NA>,False,$,Edmonton
+Bravo Pizza & Kitchen,"Italian, Pizza, Burgers","Pizza, Burgers",Italian,5.0,"13240 118 Avenue NW, Edmonton",53.57062,-113.55175,4,779.865131971326,17804552341,False,$,Edmonton
+Dairy Queen Grill & Chill,"Ice Cream & Frozen Yogurt, Fast Food",Fast Food,NA,3.0,"13356-114th Ave, Edmonton",53.5642069428091,-113.552950777275,6,310.1789656419747,17804541818,False,$$,Edmonton
+Panda Hut Express,Chinese,Chinese,Chinese,3.0,"14204 118 Avenue NW, Edmonton",53.57078,-113.5665,24,896.6939712562233,15874733663,False,$$,Edmonton
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"11260 Groat Road, Edmonton",53.5615311677433,-113.552036089144,6,500.1097754335554,17804552117,False,$,Edmonton
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,4.0,"Westmount Shopping Centre, Edmonton",53.5608892813286,-113.554171510041,1,468.7332383960941,17804546311,False,$,Edmonton
+Tim Hortons,"Coffee & Tea, Delis, Sandwiches","Coffee & Tea, Sandwiches",NA,1.5,"11240 Groat Rd North West, Edmonton",53.5613060863068,-113.551578149199,3,539.3158101101608,17804551982,False,$,Edmonton
+Purple Pear,"Pizza, Burgers, Sandwiches","Pizza, Burgers, Sandwiches",NA,2.5,"11211 142 Street NW, Edmonton",53.5607144,-113.5656058,3,562.2808408389875,17804513344,False,$,Edmonton
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,1.0,"13326-114 Ave, Edmonton",53.56473829999999,-113.5524237,3,342.6854663311123,17807329387,False,$,Edmonton
+Smitty's Family Restaurant,"American, Breakfast & Brunch",American,American,3.0,"Westmount Shopping Centre, Edmonton",53.560411533732,-113.553657531738,15,531.6640202645003,<NA>,False,$$,Edmonton
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"14205 118th Avenue, Edmonton",53.57007,-113.5665,11,843.3541409700787,17804512669,False,$,Edmonton
+Church´s Texas Chicken,"Chicken Wings, Fast Food",Fast Food,NA,3.0,"13412-111 Avenue NW, Edmonton",53.5590849,-113.5542548,9,602.2284491194098,17804547376,False,$,Edmonton
+Tim Hortons,"Delis, Sandwiches",Sandwiches,NA,2.5,"11240 Groat Road NW, Edmonton",53.5610872,-113.5516949,9,522.162790569755,17804551982,False,$,Edmonton
+Oriental Gourmet,"Fast Food, Chinese",Fast Food,Chinese,3.0,"Westmount Shopping Centre, Edmonton",53.5609179579613,-113.554321713746,1,461.1978966923484,<NA>,False,$,Edmonton
+Edo Japan,Japanese,Japanese,Japanese,3.5,"Westmount Shopping Ctr, Edmonton",53.55884,-113.55152,3,754.1152327409922,17804555965,False,$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.0,"11843 St Albert Trail, Edmonton",53.57105,-113.54907,3,928.9844475816408,17804525863,False,$,Edmonton
+Coronation Corner,"Restaurants, Health & Medical",Restaurants,NA,3.0,"142 Street & 111 Avenue, West Edmonton",53.55883,-113.5659,1,837.0047975344102,<NA>,False,$$,Edmonton
+Msi Maiorana Stone Incorporated,NA,NA,NA,5.0,"11840 142 Street NW, Edmonton",53.57152,-113.56649,1,945.1441953660496,17804542104,False,$$,Edmonton
+Arby's,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"310 Westmount Shopping Centre, Edmonton",53.5675419766158,-113.564889154233,2,583.0440344378497,17804514264,False,$,Edmonton
+Mr Sub,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.0,"14116 118 Avenue NW, Edmonton",53.57069,-113.5653,6,850.7925166298164,17804556242,False,$,Edmonton
+Million Thai,Thai,Thai,Thai,4.5,"4109 118 Avenue NW, Edmonton",53.5704061642824,-113.405551884703,51,323.1479838713304,17804771617,False,$$,Edmonton
+Swiss 2 Go,Sandwiches,Sandwiches,NA,4.5,"4306-118 Avenue, Edmonton",53.5706599,-113.40801,74,484.1323344458839,15875209400,False,$$,Edmonton
+Old Beverly Cafe In & Out,"Cafes, Breakfast & Brunch, Burgers","Cafes, Burgers",NA,4.0,"3908 118 Avenue, Edmonton",53.57064,-113.4023,15,151.92635124310758,17809642758,False,$$,Edmonton
+Yang Ming Buffet,"Buffets, Chinese, Sushi Bars",Sushi Bars,Chinese,3.5,"3414 118 Ave NW, Edmonton",53.5711299,-113.39573,96,445.96812019905457,17807527888,False,$$,Edmonton
+Jay Bee's Diner,"Diners, Breakfast & Brunch",Diners,NA,3.5,"3633 118 Avenue NW, Edmonton",53.57011,-113.3982,48,213.0888325972878,17804775885,False,$$,Edmonton
+Donair Lover,"Donairs, Pizza",Pizza,NA,4.0,"3731 118 Avenue NW, Edmonton",53.5702931788744,-113.399890176952,8,137.5527128234553,17802445566,False,$$,Edmonton
+Mumbai Dakar Restaurant,"Indian, African",Indian,"Indian, African",4.5,"4322 118 Avenue NW, Edmonton",53.570563952753,-113.408877924085,7,536.6338306281689,17804740833,False,$$,Edmonton
+24 Hours Pizza and Donair,"Donairs, Pizza",Pizza,NA,1.5,"4018-118 Avenue, Edmonton",53.5703965,-113.4041897,6,242.43154385523513,15875241966,False,$$,Edmonton
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"4205 118 Avenue NW, Edmonton",53.5701796,-113.4067955,4,392.722939834597,17804747346,False,$,Edmonton
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,2.5,"11740 34th Street, Edmonton",53.56997,-113.39546,3,392.0779760696431,17804715569,False,$,Edmonton
+Taco Bell,Fast Food,Fast Food,NA,1.0,"3349 118 Avenue NW, Edmonton",53.5699692,-113.3931885,5,511.28411314449664,17804482621,False,$,Edmonton
+DQ Grill & Chill Restaurant,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,1.0,"3415 118 Ave NW, Edmonton",53.570097,-113.394288,5,452.6559569103365,17804713232,False,$,Edmonton
+Dairy Queen Grill & Chill,"Ice Cream & Frozen Yogurt, Fast Food",Fast Food,NA,1.0,"3415 118 Ave Nw, Edmonton",53.57008504537067,-113.394293412566,3,455.3949641768413,17804713232,False,$,Edmonton
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,1.0,"3349 - 118th Avenue NW, Edmonton",53.56997,-113.39319,1,511.28411314449664,17804482621,False,$,Edmonton
+Tysons Grill,Breakfast & Brunch,Breakfast & Brunch,NA,2.0,"3414 118th Aveenue NW, Edmonton",53.5705735940502,-113.394711242665,2,443.1372862280468,17804740456,False,$,Edmonton
+Anvil Coffee House,"Coffee & Tea, Sandwiches, Breakfast & Brunch","Coffee & Tea, Sandwiches",NA,4.5,"6148-90 Avenue, Edmonton",53.525396,-113.427337,17,696.938088175625,17802505245,False,$,Edmonton
+Donair Stop,"Fast Food, Donairs, Burgers","Fast Food, Burgers",NA,3.5,"9718 Ottewell Road NW, Edmonton",53.53703,-113.43821,19,804.4546179003745,17804654484,False,$$,Edmonton
+The Chopped Leaf,"Soup, Sandwiches, Salad",Sandwiches,NA,5.0,"5004 98 Avenue NW, Edmonton",53.53900274638107,-113.4222111850977,1,1023.13557173907,15877589111,False,$$,Edmonton
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,2.0,"6104 Terrace Rd, Edmonton",53.54021813178372,-113.42651814222336,12,1027.436730764779,17804692431,False,$,Edmonton
+Pizza 73,Pizza,Pizza,NA,2.0,"9722 Ottewell Rd, Edmonton",53.5370599,-113.4382,7,804.5792467843507,17804737373,False,$$,Edmonton
+Buds Lounge,Breakfast & Brunch,Breakfast & Brunch,NA,2.5,"5615 101 Avenue NW, Edmonton",53.5399048,-113.4231285,3,1078.5919981849993,<NA>,False,$$,Edmonton
+Ernest's Dining Room,Canadian (New),Canadian (New),Canadian (New),4.5,"118 Avenue 106 Street, Edmonton",53.5704,-113.48739,13,277.40644137846766,17804718676,False,$$,Edmonton
+Ernest's,Canadian (New),Canadian (New),Canadian (New),4.5,"Hokanson Centre for Culinary Arts, Edmonton",53.56986,-113.5040228,20,263.7734757746886,17804718676,False,$$,Edmonton
+Chicken For You,"Chicken Shop, Korean",Chicken Shop,Korean,5.0,"10406 118 Ave NW, Edmonton",53.57061,-113.49957,7,296.412495332275,17807053336,False,$$,Edmonton
+Moxies,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.0,"10628 Kingsway Avenue, Edmonton",53.559431,-113.5046145,47,982.1692282576884,17809440232,False,$$,Edmonton
+Swagat India Bar and Bistro,"Indian, Himalayan/Nepalese",Indian,Indian,4.5,"9737 118 Avenue NW, Edmonton",53.57009,-113.49308,11,579.8791853358817,17804798838,False,$$,Edmonton
+Nhatrang Vietnamese Restaurant,Vietnamese,Vietnamese,Vietnamese,4.0,"10120 111 Avenue NW, Edmonton",53.5590830516534,-113.494898583992,24,1085.8913803468954,17804794649,False,$$,Edmonton
+Jimmy The Greek,"Fast Food, Greek",Fast Food,Greek,3.5,"Kingsway Mall, Edmonton",53.56529,-113.50557,13,409.08805711241496,17804374376,False,$$,Edmonton
+Boston Pizza,Pizza,Pizza,NA,3.5,"Kingsway Mall, Edmonton",53.5646971,-113.5036576,10,448.6112775025655,17804749996,False,$$,Edmonton
+Pur & Simple,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"1 Kingsway Garden Mall NW, Edmonton",53.561900054875416,-113.50647174289574,5,757.7892152890096,17802500037,False,$$,Edmonton
+Runway 29,"Breakfast & Brunch, Pubs, Lounges",Pubs,NA,2.5,"11312 109 Street NW, Edmonton",53.5632,-113.50946,19,748.4198469777743,17804792042,False,$$,Edmonton
+The Barbecue House,Barbeque,Barbeque,NA,3.5,"9711 118 Avenue NW, Edmonton",53.57016,-113.49247,16,623.0577871858324,17804776113,False,$,Edmonton
+Jin's Chinese Cuisine,"Chinese, Seafood, Hot Pot",Seafood,Chinese,4.0,"11828 103 Street NW, Edmonton",53.571093,-113.498781,2,392.3071096734107,17804788805,False,$,Edmonton
+Jollibee,"Chicken Shop, Fast Food",Fast Food,NA,3.5,"1 Kingsway Garden Mall Northwest, Edmonton",53.562677,-113.50511367471904,11,642.398778797163,18252575022,False,$,Edmonton
+Donair Way,"Donairs, Fish & Chips, Burgers",Burgers,NA,3.5,"11824 103 Street, Edmonton",53.57096,-113.49844,7,375.03390690248096,17804777884,False,$$,Edmonton
+Kim Chi Korean Delight,Korean,Korean,Korean,3.5,"109st Kingsway Garden Mall, Edmonton",53.562227,-113.506374,14,722.3231225363114,17804910138,False,$$,Edmonton
+The Blind Duck,"Bars, American",Bars,American,3.0,"10416 118 Avenue NW, Edmonton",53.5705,-113.49996,5,286.04759603680094,17804797193,False,$$,Edmonton
+Polish Food Centre,Polish,Polish,NA,3.5,"10133 Princess Elizabeth Avenue NW, Edmonton",53.5693,-113.49436,5,495.56162042845176,17804778687,False,$$,Edmonton
+ALL NIGHT PIZZA,"Donairs, Pizza, Burgers","Pizza, Burgers",NA,1.0,"9715 118 Avenue NW, Edmonton",53.57009,-113.49268,5,622.1607578170626,17804480004,False,$$,Edmonton
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"10520 111 Avenue NW, Edmonton",53.5593399,-113.502248716561,13,968.1228194971202,17804148301,False,$$,Edmonton
+Thai Express,Thai,Thai,Thai,2.0,"109 Street & Princess Elizabeth Avenue, Edmonton",53.56529,-113.50557,9,630.5977038535634,17804910138,False,$$,Edmonton
+New York Steak & Pizza Lounge,"Steakhouses, Pizza","Steakhouses, Pizza",NA,1.5,"11824 103 St NW, Edmonton",53.57096,-113.49844,5,374.2579050005814,17804790333,False,$$,Edmonton
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"10823 Kingsway Avenue NW, Edmonton",53.5600462,-113.5074557,11,972.1542516833564,17804776436,False,$$,Edmonton
+Polonia Sausage & Deli,"Imported Food, Delis, International Grocery",Imported Food,NA,2.0,"10135 Princess Elizabeth Avenue NW, Edmonton",53.5691871970085,-113.495427867552,4,419.2339062310364,17804798826,False,$$,Edmonton
+Sbarro,Pizza,Pizza,NA,3.0,"Kingsway Garden Mall, Edmonton",53.56227233785473,-113.50663310016104,6,725.6965136442002,17804131847,False,$$,Edmonton
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,1.0,"Kingsway Mall Food Court, Edmonton",53.56129,-113.50344,1,650.7514620445323,17804741186,False,$$,Edmonton
+New York Pizza & Donair,"Pizza, Donairs, Burgers","Pizza, Burgers",NA,1.5,"9715 118 Avenue NW, Edmonton",53.57016,-113.49254,13,622.1607578170626,17804480004,False,$$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,3.0,"1 Kingsway Garden Mall NW, Edmonton",53.562586,-113.505991,6,653.6221385948285,17804791372,False,$,Edmonton
+Dairy Queen,"Ice Cream & Frozen Yogurt, Fast Food",Fast Food,NA,3.0,"109 St & Princess Elizabeth Ave, Edmonton",53.5624539216933,-113.50633263588,2,698.5977696556024,17804747367,False,$,Edmonton
+KFC,"Fast Food, Chicken Wings, Chicken Shop",Fast Food,NA,1.0,"2054 - 109th Street, Edmonton",53.5624499,-113.5067111,1,710.8182979041919,17804484940,False,$,Edmonton
+Roma Bistro,"Canadian (New), Music Venues",Canadian (New),Canadian (New),2.0,"9737 118 Avenue NW, Edmonton",53.57005,-113.49324,4,579.8791853358817,17804798838,False,$,Edmonton
+New York Fries - Kingsway Mall,Fast Food,Fast Food,NA,3.0,"1 Kingsway NW, Edmonton",53.5612900000938,-113.50344,1,650.7514620445323,17804776108,False,$,Edmonton
+Qwik Wok,Chinese,Chinese,Chinese,2.0,"Kingsway Mall, Edmonton",53.56072,-113.5084,7,915.0817812789644,17804747376,False,$,Edmonton
+Mucho Burrito,"Mexican, Fast Food",Fast Food,Mexican,4.5,"9558-9630 137th Avenue NW, Edmonton",53.5998573303223,-113.487594604492,14,685.7906333188871,<NA>,False,$$,Edmonton
+Nam Kitchen Express,"Vietnamese, Chinese",Vietnamese,"Vietnamese, Chinese",4.0,"9316 - 137 Avenue NW, Edmonton",53.6001157,-113.4858681,15,624.8843346194943,17804783313,False,$$,Edmonton
+Japanese Village,"Japanese, Steakhouses, Seafood","Steakhouses, Seafood",Japanese,3.5,"9499 137 Avenue, Edmonton",53.5983053048221,-113.487188177485,22,565.3303770415629,17804226083,False,$$$,Edmonton
+Glengarry Elementary School,Elementary Schools,Elementary Schools,NA,5.0,"9211 135 Avenue NW, Edmonton",53.5966451,-113.4838127,2,296.89567388537466,17804765373,False,$$$,Edmonton
+Mediterranean Pita Bakery,"Bakeries, Mediterranean, Grocery",Bakeries,Mediterranean,4.5,"9046 132 Avenue NW, Edmonton",53.592122,-113.481658,8,436.4881907913489,17804766666,False,$,Edmonton
+Jerusalem Shawarma,Mediterranean,Mediterranean,Mediterranean,4.5,"9320 137 Avenue NW, Edmonton",53.600176,-113.48585,3,626.2231686109849,17803710606,False,$,Edmonton
+Red Swan Pizza,Pizza,Pizza,NA,3.5,"13705 93 Street NW, Edmonton",53.59995,-113.48479,6,565.5945298666759,17802440234,False,$,Edmonton
+Good Buddy Express,Vietnamese,Vietnamese,Vietnamese,4.0,"9499 137th Avenue, Edmonton",53.5992951,-113.4878341,2,565.5699841441943,17804063838,False,$,Edmonton
+Your Pizza Guy,"Pizza, Italian, Chicken Wings",Pizza,Italian,3.5,"9412 137 Ave NW, Edmonton",53.599892231448585,-113.4877834841609,3,697.8227751702935,17809008526,False,$,Edmonton
+Quiznos,Sandwiches,Sandwiches,NA,1.5,"9403 137 Ave NW, Edmonton",53.5999094,-113.4858468,3,606.7792875995049,17804765944,False,$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,4.0,"9499 137 Avenue NW, Edmonton",53.5992847,-113.4878347,4,573.6389898864849,17804762853,False,$,Edmonton
+Splash Poke,"Hawaiian, Poke",Hawaiian,NA,2.0,"9499 137 Avenue NW, Edmonton",53.59928,-113.4881,1,573.6389898864849,17807569650,False,$,Edmonton
+Edo Japan,"Fast Food, Japanese",Fast Food,Japanese,4.0,"9322 137 Avenue NW, Edmonton",53.6002394,-113.4858667,1,635.2893082703575,17807605556,False,$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,2.5,"Northgate Centre, Edmonton",53.5992847,-113.4878347,3,636.5599133671038,17804068040,False,$,Edmonton
+Mary brown's,Fast Food,Fast Food,NA,2.5,"13707 93 Street NW, Edmonton",53.60006,-113.48479,4,575.236271596148,17804060786,False,$,Edmonton
+Skyking Chinese Food,Chinese,Chinese,Chinese,2.0,"4F North Town Mall NW, Edmonton",53.60001,-113.48815,2,745.7378361450477,17804783313,False,$,Edmonton
+Little Caesar's Pizza,Pizza,Pizza,NA,3.0,"NorthTown Plaza, Edmonton",53.599908,-113.487767,2,698.1161133609803,17804423500,False,$,Edmonton
+Turquaz Kebab House,"Middle Eastern, Kebab",Middle Eastern,Middle Eastern,4.5,"13310 137 Avenue, Edmonton",53.6002731,-113.5511798,82,347.25902032474676,17804764511,False,$$,Edmonton
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,4.0,"13960 137th Avenue NW, Edmonton",53.5999,-113.56187,87,678.6863151682338,17804720707,False,$$$,Edmonton
+Albert's Family Restaurant,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"13234 - 137 Ave, Edmonton",53.5997049,-113.5498996,13,348.27809319675043,17804566074,False,$$,Edmonton
+Pho 39,Vietnamese,Vietnamese,Vietnamese,4.0,"13138 137 Avenue NW, Edmonton",53.599578,-113.5473584,31,554.7560117373719,17804562997,False,$$,Edmonton
+Fionn MacCool's,"Bars, Beer, Wine & Spirits, Gastropubs","Bars, Beer, Wine & Spirits, Gastropubs",NA,3.0,"13580 137th Avenue West, Edmonton",53.599861,-113.555342,35,391.3855389568188,17802291466,False,$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,3.5,"13322 137 Avenue NW, Edmonton",53.60029514993175,-113.55285748465732,13,318.36177695972435,17804783361,False,$,Edmonton
+Papa Johns Pizza,Pizza,Pizza,NA,4.0,"13142 137 Avenue NW, Edmonton",53.599975,-113.547685,8,508.03274423613334,17804257979,False,$$,Edmonton
+Mr Sub,Restaurants,Restaurants,NA,4.0,"13256 137 Avenue NW, Edmonton",53.5996949,-113.5497673,6,395.6078565174655,17804062800,False,$,Edmonton
+Thai Express,Thai,Thai,Thai,3.5,"13680 137 Avene Northwest, Edmonton",53.59988,-113.55934,10,541.8299826817231,17804789838,False,$$,Edmonton
+Burger King,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"13338 137 Avenue NW, Edmonton",53.599939840577,-113.553107462385,15,357.01749721838536,17804060486,False,$,Edmonton
+Tim Hortons,"Delis, Sandwiches, Coffee & Tea","Sandwiches, Coffee & Tea",NA,2.0,"13604 137 Avenue NW, Edmonton",53.599925,-113.556709,2,426.1228903305898,17804728018,False,$,Edmonton
+Freshii,"Salad, Vegetarian, Fast Food",Fast Food,NA,1.5,"13320 137 Avenue NW, Edmonton",53.60025648072254,-113.5527221,3,323.44926489375956,15877734022,False,$,Edmonton
+Phonatics Vietnamese Restaurant,Vietnamese,Vietnamese,Vietnamese,2.5,"13138 137 Ave, Edmonton",53.59977,-113.54782,12,514.816912747338,17804562997,False,$$,Edmonton
+The Bothy Wine & Whisky Bar,"Wine Bars, Scottish, Whiskey Bars","Wine Bars, Whiskey Bars",Scottish,4.5,"5482 Calgary Trail, Edmonton",53.491939,-113.497311,91,580.7323871994581,17807611761,False,$$,Edmonton
+Lemongrass Cafe,"Vietnamese, Cafes",Cafes,Vietnamese,4.0,"10417 51 Avenue NW, Edmonton",53.4874321047514,-113.498316627114,73,807.966376244102,17804130088,False,$$,Edmonton
+Sir Winston's Fish & Chips,"Fish & Chips, Seafood, British",Seafood,British,4.0,"10505 51st Avenue NW, Edmonton",53.48785,-113.50038,62,704.9234751451587,17804307170,False,$$,Edmonton
+Tropika Malaysian Cuisine,"Malaysian, Thai",Malaysian,"Malaysian, Thai",3.5,"6004 - 104 Street, Edmonton",53.4970622,-113.4980783,71,673.3364593151308,17804396699,False,$$,Edmonton
+Mythos Greek Taverna,Greek,Greek,Greek,4.0,"5524 Calgary Trail, Edmonton",53.4924394999322,-113.498134033164,34,516.5208815786543,17807586161,False,$$$,Edmonton
+High Voltage Food & Coffee Bar,"Greek, Mediterranean, Coffee & Tea",Coffee & Tea,"Greek, Mediterranean",4.5,"10387 63 Ave NW, Edmonton",53.4996651,-113.4963067,72,920.7285076847688,17804373202,False,$,Edmonton
+Italian Centre Shop,"Grocery, International Grocery, Pizza",Pizza,NA,4.0,"5028 104A Street NW, Edmonton",53.487472,-113.4997548,74,749.2697869894714,17809894869,False,$$,Edmonton
+IPho and Grill,"Vietnamese, Chinese, Thai",Vietnamese,"Vietnamese, Chinese, Thai",4.0,"6104 104th Street NW, Edmonton",53.49857,-113.49829,23,764.7604736039855,17807609900,False,$$,Edmonton
+Spinelli's Bar Italia,"Desserts, Coffee & Tea, Sandwiches","Desserts, Coffee & Tea, Sandwiches",NA,4.0,"5028 104A Street, Edmonton",53.48745,-113.49957,17,744.7117991375346,17809894869,False,$,Edmonton
+Rae Mi Hyang,"Korean, Chinese, Asian Fusion",Korean,"Korean, Chinese, Asian Fusion",4.5,"10625 51 Avenue NW, Edmonton",53.48798,-113.50531633113071,18,576.112879899668,17807053966,False,$$,Edmonton
+LETS Grill Restaurant,"Chinese, Kebab",Chinese,Chinese,4.0,"5926 104th Street NW, Edmonton",53.49665,-113.49802,20,643.8476394890369,17807051535,False,$$,Edmonton
+Calgary Trail Noodle House Restaurant,"Chinese, Seafood, Noodles",Seafood,Chinese,4.0,"5730 104 Street NW, Edmonton",53.49463,-113.49815,17,548.0844683232779,17809888233,False,$$,Edmonton
+South Silk Road,Chinese,Chinese,Chinese,4.0,"5552 Calgary Trail NW, Edmonton",53.49298,-113.49811,14,514.6104374899925,17807602222,False,$$,Edmonton
+Asian Express Hot Pot,"Hot Pot, Asian Fusion",Hot Pot,Asian Fusion,3.5,"10412-63 Avenue NW, Edmonton",53.499766986404175,-113.49970693068984,40,840.3837273872364,17809883318,False,$$,Edmonton
+Sushi Shop,Sushi Bars,Sushi Bars,NA,5.0,"5015 111 Street NW, Edmonton",53.48351,-113.51589,4,997.8948610844676,17807600020,False,$$,Edmonton
+Hula Poke,Hawaiian,Hawaiian,NA,4.5,"5015 111 Street NW, Edmonton",53.48351,-113.51589,4,997.8948610844676,15874697314,False,$$,Edmonton
+Backstairs Burger,Burgers,Burgers,NA,4.0,"11010 51 Avenue, Edmonton",53.48859,-113.51472,9,774.2427497607098,15874990576,False,$$,Edmonton
+Sian City BBQ Bar,"Bars, Barbeque, Asian Fusion","Bars, Barbeque",Asian Fusion,4.0,"5728 - 104 Street NW, Edmonton",53.49479,-113.49806,5,536.3724202547829,17807609420,False,$$,Edmonton
+Palabok House,Filipino,Filipino,Filipino,2.5,"10525 51 Avenue NW, Edmonton",53.48785,-113.50152,17,680.4126522346168,17804365047,False,$$,Edmonton
+New Asian Village Express,Indian,Indian,Indian,4.0,"927 Southgate Centre, Edmonton",53.4853579740613,-113.514325618744,7,1032.1829994237585,<NA>,False,$$,Edmonton
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"6104 109th Street NW, Edmonton",53.49851,-113.51239,19,737.5104932601818,17804148428,False,$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.5,"5904 104th St, Edmonton",53.49714,-113.49819,4,613.6659235787065,17804365289,False,$,Edmonton
+Pharaohs Restaurant,"Egyptian, Mediterranean, Seafood",Seafood,Mediterranean,5.0,"5524 Calgary Trail NW, Edmonton",53.49243559912044,-113.49824845790864,1,509.1097959864676,17807583114,False,$,Edmonton
+Dairy Queen Grill & Chill,"Fast Food, Burgers, Ice Cream & Frozen Yogurt","Fast Food, Burgers",NA,2.0,"10421 51st Ave South Trail Corners, Edmonton",53.487577140087296,-113.49846169352526,17,789.356058515652,17804384044,False,$,Edmonton
+Boss Pizza,Pizza,Pizza,NA,2.0,"10404 64 Avenue NW, Edmonton",53.5008370498442,-113.497919887304,4,1002.7400847176708,17807602677,False,$,Edmonton
+Potato Corner,Fast Food,Fast Food,NA,3.5,"5015 111 Street NW, Edmonton",53.485907183668594,-113.51273620262984,5,925.4271725856564,17805403499,False,$,Edmonton
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,3.0,"Southgate Centre, Edmonton",53.4866737,-113.5162895,2,997.8948610844676,17804372604,False,$,Edmonton
+Home Style Donair,"Donairs, Burgers, Poutineries",Burgers,NA,3.0,"10425 51 Avenue, Edmonton",53.487715,-113.499689474702,4,729.0477474058889,17804350628,False,$,Edmonton
+Sweet Basil Vietnamese Kitchen,Vietnamese,Vietnamese,Vietnamese,4.5,"5588 Windermere Boulevard, Edmonton",53.440012,-113.62019,33,477.6882294928567,17809880821,False,$,Edmonton
+Buco Pizzeria + Vino Bar,"Pizza, Italian",Pizza,Italian,4.0,"1249 Windermere Way SW, Edmonton",53.43614,-113.61701,54,609.5985204100126,17805402826,False,$,Edmonton
+Khazana Indian Express N Pizza,"Pizza, Indian",Pizza,Indian,4.0,"5592 Windermere Boulevard NW, Edmonton",53.43989,-113.62083,7,435.3791443307876,17803280088,False,$,Edmonton
+Teriyaki Corner Japanese Bistro,Japanese,Japanese,Japanese,2.5,"Windermere Boulevard SW, Edmonton",53.4384131701789,-113.617894196455,21,551.8781576173038,17804846325,False,$$,Edmonton
+Pizza City Donair & Broast,"Donairs, Pizza, Halal",Pizza,NA,3.5,"5572 Windermere Boulevard SW, Edmonton",53.4396458839877,-113.620151918991,29,457.7389924771679,17804379800,False,$$,Edmonton
+Gangnam & CoCo,"Korean, Bubble Tea, Chicken Shop",Korean,Korean,5.0,"1109 Windermere Way SW, Edmonton",53.4384,-113.61816,4,560.7205552884534,17802504407,False,$$,Edmonton
+Best Bite,"Pizza, Burgers, Donairs","Pizza, Burgers",NA,3.5,"324 Windermere Road NW, Edmonton",53.4404738723931,-113.618622707935,17,592.4428965437581,17809890444,False,$$,Edmonton
+Chopped Leaf windermere,"Salad, Soup, Sandwiches",Sandwiches,NA,3.5,"1229 Windermere Way, Edmonton",53.4367153,-113.6180715,5,578.0567580507886,17809895323,False,$$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,2.5,"Windermere Crossing, Edmonton",53.4386283,-113.6188659,5,530.2713697988645,17803917004,False,$$,Edmonton
+Atlas Steak + Fish,"Steakhouses, Seafood, Bars","Steakhouses, Seafood, Bars",NA,4.5,"8882 170 Street NW, Edmonton",53.522599,-113.623021,25,298.3682312887958,15874602423,False,$$,Edmonton
+Cactus Club Cafe,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),4.0,"8882 170th Street NW, Edmonton",53.5243182557454,-113.618906747993,209,311.6565749908283,17804891002,False,$$,Edmonton
+Jubilations,Dinner Theater,Dinner Theater,NA,3.5,"8882 170 Street, Edmonton",53.521579,-113.619586,58,24.229692450903567,17804842424,False,$$$,Edmonton
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,4.5,"9960 170 Street NW, Edmonton",53.53747937317268,-113.6161144,79,1786.2872368888352,17804141114,False,$$$,Edmonton
+Halley's Club,Supper Clubs,Supper Clubs,NA,4.0,"2710 - 8882 170 Street NW, Edmonton",53.5237287589304,-113.621573,25,290.0840267203644,15874602428,False,$$$,Edmonton
+L2 Grill,"Canadian (New), Breakfast & Brunch, Buffets",Canadian (New),Canadian (New),3.5,"Fantasyland Hotel, Edmonton",53.5224397,-113.6218712,37,202.10165669300713,17804445538,False,$$$,Edmonton
+The Old Spaghetti Factory,Italian,Italian,Italian,3.5,"8882 170th Street, Edmonton",53.5234664064058,-113.623803990491,91,371.589515860952,17804442181,False,$$,Edmonton
+Famoso Neapolitan Pizzeria,Pizza,Pizza,NA,4.0,"8882 170 Street, Edmonton",53.52443094768407,-113.61922073227316,57,323.44485503487556,17804870046,False,$$,Edmonton
+Guru,Indian,Indian,Indian,4.0,"17021 100 Avenue, Edmonton",53.539317,-113.615715,148,1992.3041016901009,17804844300,False,$$$,Edmonton
+Chachi's,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,4.5,"8882 170 Street NW, Edmonton",53.522884,-113.622204,25,248.04598092204344,17807052160,False,$$,Edmonton
+Earls Kitchen + Bar,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"WEM 8882- 170th Street, Edmonton",53.52332873520589,-113.62364938543584,94,354.4306621195459,17804818279,False,$$,Edmonton
+Moxies,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.0,"8882 170th Street, Edmonton",53.523573,-113.6155849,64,229.03490898961184,17804846669,False,$$,Edmonton
+Hudsons Canada's Pub,"Burgers, Pubs, Chicken Wings","Burgers, Pubs",NA,3.5,"West Edmonton Mall, Edmonton",53.5234219213895,-113.62391098275,36,374.5527313204359,17804893035,False,$$,Edmonton
+Five & Dive,"Dive Bars, Fish & Chips, Poutineries",Dive Bars,NA,3.5,"1650 Bourbon Street WEM, Edmonton",53.52209843319049,-113.6239358816601,19,317.4827863015521,17804443483,False,$$,Edmonton
+Homefire Grill,"Canadian (New), Desserts, Pizza","Desserts, Pizza",Canadian (New),4.0,"18210 100 Avenue NW, Edmonton",53.53804195813738,-113.6359310321059,72,2142.9964586772935,17804898086,False,$$,Edmonton
+Mogouyan,"Noodles, Chinese, Desserts",Desserts,Chinese,3.5,"8882 170 Street NW, Edmonton",53.52338168273696,-113.62412744278524,15,384.0259789658474,17802498221,False,$$,Edmonton
+Match Eatery & Public House,"Sports Bars, Burgers, Pizza","Sports Bars, Burgers, Pizza",NA,3.5,"8882 170 Street NW, Edmonton",53.5223139,-113.6224307,14,229.04101180193808,17804442112,False,$$,Edmonton
+Bubba Gump Shrimp Co.,Seafood,Seafood,NA,2.5,"2393-8882 Edmonton Mall 170 St Nw, Edmonton",53.522444741502,-113.6276397,168,565.183771902156,17802444867,False,$$,Edmonton
+Jamaican Jerk Shak,Caribbean,Caribbean,Caribbean,5.0,"1532 - 8882 170 Street NW, Edmonton",53.5214507,-113.619387,1,12.956175859467876,<NA>,False,$$,Edmonton
+La Pagode,Vietnamese,Vietnamese,Vietnamese,4.0,"17020 90 Avenue, Edmonton",53.5257991568341,-113.618757134996,40,476.61732890539326,17809301921,False,$$,Edmonton
+Kathmandu Rasoi,"Hakka, Indian, Himalayan/Nepalese",Hakka,Indian,5.0,"17759 98A Avenue NW, Edmonton",53.533699,-113.628146,22,1476.640081281589,17807560112,False,$$,Edmonton
+MR MIKES SteakhouseCasual,"Steakhouses, Canadian (New)",Steakhouses,Canadian (New),2.5,"8882 170 Street, Edmonton",53.5233069994239,-113.624286481259,92,388.6204646503646,17809301135,False,$$,Edmonton
+Zesty Family Restaurant,"American, Breakfast & Brunch, Bars",Bars,American,4.5,"17620 100 Avenue NW, Edmonton",53.5383579802225,-113.62527217716,7,1914.1496413526777,17804432525,False,$$,Edmonton
+Tony Roma's,"Steakhouses, American, Barbeque","Steakhouses, Barbeque",American,2.5,"1640 Bourbon Street, Edmonton",53.523166,-113.624156,43,373.30837733379406,17804443105,False,$$,Edmonton
+Chow Lucky Noodle Bar,"Noodles, Chinese",Noodles,Chinese,4.0,"8882 170 St NW, Edmonton",53.523573,-113.6155849,5,44.96446250502521,<NA>,False,$$,Edmonton
+Mikado - Westside,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"9942 170 Street NW, Edmonton",53.537197,-113.617707,76,1745.87539138732,17804812202,False,$$,Edmonton
+Meltwich,"Cheesesteaks, Burgers, Sandwiches","Cheesesteaks, Burgers, Sandwiches",NA,5.0,"8882 170 Street NW, Edmonton",53.52321,-113.61652,4,229.04101180193808,17804436358,False,$$,Edmonton
+TSUJIRI,"Japanese, Cafes",Cafes,Japanese,4.5,"8882 170 St Nw, Edmonton",53.5224750583131,-113.62636191482412,6,483.0882943802185,<NA>,False,$$,Edmonton
+Spinelli's Bar Italia,Cafes,Cafes,NA,4.0,"17010 90th Avenue, Edmonton",53.5265,-113.61645,14,583.265894686141,17804544869,False,$$,Edmonton
+Hoang Long Noodle House,"Vietnamese, Asian Fusion",Vietnamese,"Vietnamese, Asian Fusion",3.0,"West Edmonton Mall, Edmonton",53.522414,-113.621903,52,202.5044294634985,17804830891,False,$$,Edmonton
+New York Fries,Fast Food,Fast Food,NA,4.0,"8882 - 170 Street, Edmonton",53.521387,-113.618877,1,27.876991012919746,17804861829,False,$$,Edmonton
+Mai Vietamese Fusion,Vietnamese,Vietnamese,Vietnamese,3.0,"8882 170 Street NW, Edmonton",53.522436,-113.621884,33,202.62590178903127,17803287211,False,$$,Edmonton
+Dookbaeki Korean Restaurant,"Korean, Soup",Korean,Korean,4.5,"8882 170 Street NW, Edmonton",53.523485388183055,-113.62416747215492,5,392.552018614995,17802441906,False,$$,Edmonton
+Japanese Village,"Japanese, Steakhouses, Seafood","Steakhouses, Seafood",Japanese,3.0,"1638-8882 170 Street NW, Edmonton",53.5235019198861,-113.623856273728,15,376.6998805460236,17804226083,False,$$,Edmonton
+Catcher Teppanyaki & Tea,"Japanese, Coffee & Tea, Sushi Bars","Coffee & Tea, Sushi Bars",Japanese,4.0,"1846-8882 170 Street NW, Edmonton",53.521754645049505,-113.61867798381478,1,44.83971949091488,<NA>,False,$$,Edmonton
+Chez Cora,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"9977 - 178th Street NW, Edmonton",53.53710777287602,-113.62561865857386,49,1783.708043273149,17804878898,False,$$,Edmonton
+TC Sandwiches,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,4.5,"8882 170 Street NW, Edmonton",53.5235519,-113.6157074,10,306.56699303831493,17804834661,False,$,Edmonton
+New Asian Village,"Indian, Asian Fusion",Indian,"Indian, Asian Fusion",3.5,"17507 100 Avenue, Edmonton",53.53815,-113.62308,68,1867.077313089168,17804886666,False,$$,Edmonton
+Cake & Dessert Cafe,"Desserts, Cafes, Coffee & Tea","Desserts, Cafes, Coffee & Tea",NA,4.5,"8278 175 Street NW, Edmonton",53.5155963870875,-113.624841682613,9,756.1094955157175,17804897250,False,$$,Edmonton
+SPLASH POKE,"Hawaiian, Poke",Hawaiian,NA,4.5,"1604-8882 170 Street NW, Edmonton",53.5229450323404,-113.625485428689,6,442.6244845406682,17804878677,False,$$,Edmonton
+Earls Kitchen + Bar,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"170th Street, Edmonton",53.538905,-113.614075,50,1961.8490470773904,17804812222,False,$$,Edmonton
+Sorrentino's West,Italian,Italian,Italian,3.5,"6867 170 Street NW, Edmonton",53.503952,-113.6152251,42,1941.8798269119904,17804440524,False,$$$,Edmonton
+NYF,Fast Food,Fast Food,NA,3.5,"8882-170th Street, Edmonton",53.522447,-113.621873,10,202.6151568210273,17804848535,False,$,Edmonton
+Koryo Korean BBQ,"Korean, Fast Food",Fast Food,Korean,4.0,"8882 170 Street, Edmonton",53.523059,-113.620344,13,186.0258371187828,17804831239,False,$,Edmonton
+Moxies,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.5,"17109 100 Ave NW, Edmonton",53.5384,-113.61952,42,1891.9393354135032,17804842040,False,$$,Edmonton
+OPA! of Greece West Edmonton Mall - A,"Fast Food, Greek",Fast Food,Greek,3.0,"West Edmonton Mall, Edmonton",53.5230380163569,-113.620267530788,12,181.9232204505454,17804864455,False,$,Edmonton
+Jimmy the Greek,"Greek, Fast Food",Fast Food,Greek,4.5,"West Edmonton Mall, West Edmonton",53.5235519,-113.6157074,3,229.04101180193808,17804847666,False,$,Edmonton
+JusFruit,"Bubble Tea, Juice Bars & Smoothies, Waffles",Juice Bars & Smoothies,NA,4.0,"8882 170 Street NW, Edmonton",53.52321,-113.61652,4,229.04101180193808,15874625127,False,$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,3.0,"8882 170 Street NW, Edmonton",53.523573,-113.6155849,9,165.00628739903996,17804441109,False,$$,Edmonton
+Donair Station,"Mediterranean, Donairs, Halal",Mediterranean,Mediterranean,3.5,"17234 95 Avenue NW, Edmonton",53.53213,-113.62008,31,1183.0786829935298,17804895464,False,$,Edmonton
+Gintaro Japanese Kitchen,Japanese,Japanese,Japanese,4.5,"11850 145 Avenue NW, Edmonton",53.60817450933586,-113.5271143,17,1731.5328012710297,17804738300,False,$,Edmonton
+Yeg Burger,Burgers,Burgers,NA,4.0,"15131 121 Street NW, Edmonton",53.613341,-113.529668,56,1329.8192511032314,15874592874,False,$,Edmonton
+Castle Bake,"Lebanese, Pizza",Pizza,NA,5.0,"16849 109 Street NW, Edmonton",53.63039,-113.51144,25,955.4537656548196,17804781821,False,$,Edmonton
+Sahara Mediterranean Restaurant ,"Mediterranean, Lebanese, Turkish",Mediterranean,Mediterranean,4.0,"10807 Castle Downs Road, Edmonton",53.6278114,-113.5080414,32,824.3849243438964,17803711113,False,$$,Edmonton
+Laziza,"Italian, Pizza",Pizza,Italian,4.5,"154-15277 Castle Downs Road NW, Edmonton",53.613639,-113.515375,25,981.5504102959608,17807578787,False,$$,Edmonton
+Refinery Grill,"Breakfast & Brunch, Greek, Delis",Breakfast & Brunch,Greek,4.5,"15327 Castle Downs Road NW, Edmonton",53.6154479,-113.5164651,4,871.7282371179373,17803718910,False,$$,Edmonton
+In & Out Donair,"Donairs, Mediterranean",Donairs,Mediterranean,2.5,"12110 161 Avenue NW, Edmonton",53.62233,-113.5341,4,1153.3225528232106,17802447776,False,$$,Edmonton
+Chicago Joe's Pizza & Pub,"Pubs, Pizza","Pubs, Pizza",NA,3.5,"10425 158 Ave NW, Edmonton",53.61878,-113.50198,9,1046.755810720167,17804573030,False,$$,Edmonton
+Pita Pit,Sandwiches,Sandwiches,NA,4.0,"15351 Castle Downs Road NW, Edmonton",53.615489,-113.5164651,1,866.9565375131857,17804066661,False,$$,Edmonton
+Butter Chicken & More,Indian,Indian,Indian,4.5,"6875 Ad Astra Boulevard NW, Edmonton",53.6067569,-113.5153563,2,1740.136830771633,17807618001,False,$$,Edmonton
+Eat & Dip,"Donairs, Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.5,"6877 Ad Astra Boulevard Northwest, Edmonton",53.60678670969342,-113.51549126051862,9,1741.7511151448148,17802503435,False,$$,Edmonton
+Ralph’s Fried Chicken,Chicken Shop,Chicken Shop,NA,5.0,"10807 Castle Downs Road, Edmonton",53.627702,-113.5077768,2,824.3849243438964,18778071148,False,$$,Edmonton
+El-fino Kabab And shawarma,"Syrian, Kebab",Syrian,NA,4.0,"11832 145 Avenue NW, Edmonton",53.607822,-113.526827,1,1753.4231771988566,17807600120,False,$$,Edmonton
+Little Caesars Pizza,Pizza,Pizza,NA,2.0,"15349 Castledowns Rd, Edmonton",53.6152971,-113.5163693,6,843.8254252333702,17804570900,False,$$,Edmonton
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"15333 Castle Downs Rd. NW, Edmonton",53.6154582,-113.5164651,8,882.7032643896538,17804148323,False,$,Edmonton
+Babas Donair,"Donairs, Middle Eastern",Donairs,Middle Eastern,3.5,"103 - 10807 Castle Downs Road NW, Edmonton",53.6277192,-113.5079035,6,819.8922848549574,17804063006,False,$,Edmonton
+Retro Burgers and Fried Chicken,"Chicken Wings, Chicken Shop, Burgers",Burgers,NA,4.0,"10807 Castle Downs Road NW, Edmonton",53.62786,-113.5082,1,824.3849243438964,<NA>,False,$,Edmonton
+Knights Pub & Grill,"Pubs, Chicken Wings, Pizza","Pubs, Pizza",NA,2.5,"11860 145th Avenue NW, Edmonton",53.607488,-113.526828,17,1794.514347808677,17804728505,False,$$,Edmonton
+Mary Brown's Famous Chicken & Taters,"Chicken Shop, Fast Food, Halal",Fast Food,NA,3.0,"15303 Castle Downs Road NW, Edmonton",53.61536,-113.51603,1,787.8958146831296,17804722907,False,$$,Edmonton
+Hadi Cocktail & Waffle,"Juice Bars & Smoothies, Waffles",Juice Bars & Smoothies,NA,5.0,"11842 145 Avenue Northwest, Edmonton",53.6082828199586,-113.52678265745912,1,1711.7892950935925,15874553394,False,$$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,2.0,"Lakeside Landing Edmonton S/C, Edmonton",53.615,-113.51604,2,761.0649545089605,17804561395,False,$$,Edmonton
+Mos Pizza & Donair,"Donairs, Pizza",Pizza,NA,1.0,"11832 145th Avenue NW, Edmonton",53.60786,-113.52655,3,1752.7046510262546,17804722525,False,$$,Edmonton
+Alwadi Mediterranean Restaurant,Mediterranean,Mediterranean,Mediterranean,3.0,"11850 145 Ave NW, Edmonton",53.60817,-113.52711,3,1731.1286036611953,17807577826,False,$$,Edmonton
+Orlando Pizza & Steakhouse,"Steakhouses, Pizza","Steakhouses, Pizza",NA,3.0,"15163 121 Street NW, Edmonton",53.613646,-113.529249,1,1286.080465638927,17804571195,False,$$,Edmonton
+Empire Grill,Indian,Indian,Indian,5.0,"4316 17 Street NW, Edmonton",53.4790713,-113.3690949,19,1513.0306856096158,17804622222,False,$$,Edmonton
+Browns Socialhouse Tamarack,"Canadian (New), Pubs, Burgers","Pubs, Burgers",Canadian (New),3.5,"2511 17th Street NW, Edmonton",53.45663914362706,-113.36712389755326,51,1412.7717612715232,15875204665,False,$$,Edmonton
+Popeyes Louisiana Chicken,"Fast Food, Chicken Wings",Fast Food,NA,3.5,"3773 17 Street NW, Edmonton",53.4767381097261,-113.367345815541,65,1070.982644191976,17804667789,False,$$,Edmonton
+Oodle Noodle,Noodles,Noodles,NA,4.0,"2515 17 Street, Edmonton",53.4568516,-113.3689866,13,1442.111432598825,17807564363,False,$$,Edmonton
+Montana's,"Steakhouses, Comfort Food, Canadian (New)",Steakhouses,Canadian (New),2.5,"3816 17Th Street, Edmonton",53.477633,-113.37005,46,1251.6495411419417,17804628789,False,$$,Edmonton
+Carl's Jr,"Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"3791 17 Street, Edmonton",53.475944552588984,-113.36792077233054,15,1017.0424677854642,15874581566,False,$,Edmonton
+Triple L,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"710 Tamarack Way NW, Edmonton",53.47718669363801,-113.3649153047307,4,1045.6391502877575,17804900298,False,$,Edmonton
+AFC chicken,"Chicken Shop, Fast Food",Fast Food,NA,3.5,"2435 17 Street NorthWest, Edmonton",53.456259,-113.367001,17,1452.9075099122074,15874983487,False,$,Edmonton
+Freshii,"Vegetarian, Fast Food, Salad",Fast Food,NA,4.5,"3924 17th St NW, Edmonton",53.4785636996425,-113.370810337365,5,1365.3612488520514,17803061366,False,$,Edmonton
+Streets of India,Indian,Indian,Indian,4.0,"1764 34 Avenue NW, Edmonton",53.468089,-113.370754,6,767.9968437286053,17802500320,False,$,Edmonton
+BD Donair & Poutine,"Donairs, Pizza, Poutineries",Pizza,NA,5.0,"2569 17th Street NW, Edmonton",53.45734646152904,-113.367965,1,1362.9670648454378,18255125595,False,$,Edmonton
+Delicious Pho,"Vietnamese, Asian Fusion",Vietnamese,"Vietnamese, Asian Fusion",4.5,"3832 17 Street NW, Edmonton",53.47754236259502,-113.3708740635465,2,1275.7945108880265,17804400170,False,$,Edmonton
+South Point Pizza,Pizza,Pizza,NA,3.5,"805 Tamarack Way NW, Edmonton",53.47943,-113.36567,11,1274.6636253163945,17802441444,False,$,Edmonton
+Joey's Fish Shack,"Seafood, Salad, Fish & Chips",Seafood,NA,2.5,"2571 17 St Nw, Edmonton",53.4573311,-113.3686823,3,1354.025437403619,17804404111,False,$,Edmonton
+Swiss Chalet Rotisserie & Grill,"American, Comfort Food",American,American,2.0,"4004 17 St Nw, Edmonton",53.4785194396973,-113.36971282959,8,1321.5358210951638,17804856531,False,$$,Edmonton
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.5,"835 Tamarack Way NW, Edmonton",53.4795,-113.36662,9,1323.2793806254451,17804651744,False,$$,Edmonton
+Wok Box,Asian Fusion,Asian Fusion,Asian Fusion,2.5,"3922 17 Street, Edmonton",53.4779484,-113.3691284,14,1358.9264373680578,17804628269,False,$,Edmonton
+Alberta Fried Chicken,"Burgers, Chicken Wings, Poutineries",Burgers,NA,3.0,"2435 17 Street NW, Edmonton",53.456259,-113.367001,1,1453.5714062082056,15874983493,False,$,Edmonton
+The Golden Spoon,Indian,Indian,Indian,5.0,"3820 17 Street NW, Edmonton",53.4776441,-113.370442,1,1270.0796674761434,17807612222,False,$,Edmonton
+Jollibee,"Chicken Shop, Fast Food",Fast Food,NA,4.0,"881 Tamarack Way NW, Edmonton",53.48002222524692,-113.36733013113098,3,1397.888516744206,18259020290,False,$,Edmonton
+The Chopped Leaf,"Breakfast & Brunch, Salad, Soup",Breakfast & Brunch,NA,3.0,"3771 17 Street, Edmonton",53.4719935,-113.3684851,4,1408.5046814817686,15874630602,False,$$,Edmonton
+Pho Vietnamese Noodle Soup,Vietnamese,Vietnamese,Vietnamese,2.5,"4426 17th Street NW, Edmonton",53.481803,-113.372224,18,1720.1068188079444,15874588787,False,$$,Edmonton
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,1.5,"895 Tamarack Way NW, Edmonton",53.4795898059641,-113.368182442022,6,1377.1608279766192,15874632605,False,$$,Edmonton
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,3.0,"2547 17 St Nw, Edmonton",53.457399,-113.36703190674592,5,1332.353046628165,17804855118,False,$$,Edmonton
+Mary Brown's Chicken and Taters,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"2338-23rd Avenue, Edmonton",53.4542049,-113.376128,6,1907.7670546796155,17802246947,False,$$,Edmonton
+Meltwich Food,Fast Food,Fast Food,NA,5.0,"981 Tamarack Way NW, Edmonton",53.47802793,-113.3637356,1,1443.5057665749412,14372405314,False,$$,Edmonton
+Panago Pizza,"Chicken Wings, Pizza, Food Delivery Services",Pizza,NA,2.5,"2431 17th St. NW, Edmonton",53.4556023,-113.3687315,2,1461.6645673865255,18663100001,False,$$,Edmonton
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,2.0,"3930-17th St NW, Edmonton",53.4779535,-113.3691427,1,1374.875407685676,17804697820,False,$$,Edmonton
+Flame Pizzeria,"Pizza, Indian, Chicken Wings",Pizza,Indian,3.0,"989 Tamarack Way NW, Edmonton",53.48043964581668,-113.36784180253744,1,1453.8451535973636,17809001414,False,$$,Edmonton
+Domino's Pizza,Pizza,Pizza,NA,1.0,"4324 17 St NW, Edmonton",53.4790858,-113.3690949,1,1527.639946985306,17804969912,False,$$,Edmonton
+Mucho Burrito Fresh Mexican Grill,"Fast Food, Mexican",Fast Food,Mexican,1.5,"4328 17 Street NW, Edmonton",53.479501,-113.372814,2,1531.8740491371618,17804664409,False,$$,Edmonton
+Choice Shawarma & Kabab,"Middle Eastern, Kebab, Donairs",Middle Eastern,Middle Eastern,2.5,"2423 Maple Road NW, Edmonton",53.47728,-113.36656,2,1144.926192087756,15874565808,False,$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,3.0,"4320 17 Street NW, Edmonton",53.4790657,-113.3690949,2,1521.2526543446638,15874630733,False,$$,Edmonton
+Ganesh Sweets,"Indian, Bakeries",Indian,Indian,3.0,"2336 23 Avenue NW, Edmonton",53.45455,-113.37635,2,1914.3371922836432,17805043444,False,$$,Edmonton
+Cafe Bicyclette,French,French,French,4.0,"8627 91 Street NorthWest, Edmonton",53.5226377438339,-113.466963575685,91,303.5141444651996,15875248090,False,$$,Edmonton
+Bul Go Gi House,Korean,Korean,Korean,4.0,"8813 92 Street NW, Edmonton",53.52395,-113.46786,82,180.80322100741037,17804662330,False,$$,Edmonton
+Ragazzi Bistro Italiano,"Pizza, Italian",Pizza,Italian,4.0,"8110-82 Avenue NW, Edmonton",53.51837,-113.45351,77,1194.2957364462336,17804140500,False,$$,Edmonton
+Szechuan Sweet Mango,"Chinese, Vietnamese, Thai",Chinese,"Chinese, Vietnamese, Thai",4.0,"9120 82 Avenue NW, Edmonton",53.5183899,-113.46856,55,779.1553699836984,17804628929,False,$$,Edmonton
+Biera,"Beer Bar, Canadian (New)",Beer Bar,Canadian (New),4.0,"9570 - 76th Avenue, Edmonton",53.51263,-113.476381,80,1537.2005755180392,15875258589,False,$$,Edmonton
+Duggan's Boundary Irish Pub,Gastropubs,Gastropubs,NA,4.0,"9013 88 Avenue NW, Edmonton",53.52316,-113.46669,51,230.99138350395023,17804654834,False,$$,Edmonton
+Mill Creek Cafe,"Breakfast & Brunch, Cafes",Cafes,NA,4.0,"9562 - 82 Avenue, Edmonton",53.51843,-113.47638,76,991.356771596569,17804395535,False,$$,Edmonton
+Little Brick,"Cafes, Gift Shops",Cafes,NA,4.0,"10004  90th Street, Edmonton",53.54209,-113.46948,101,1870.0534838748777,17807051230,False,$$,Edmonton
+Blue Chair Café,"Music Venues, Cafes, Vegan",Cafes,NA,3.5,"9624 76 Avenue NW, Edmonton",53.51253,-113.47803,65,1579.339987521602,17809892861,False,$$,Edmonton
+AUM Cafe,"Coffee & Tea, Sandwiches, Bakeries","Coffee & Tea, Sandwiches",NA,4.5,"155-8330 82 Avenue NW, Edmonton",53.52077,-113.4574,5,830.5120273932699,17804052780,False,$$,Edmonton
+Korean Village Restaurant,"Korean, Buffets, Karaoke",Korean,Korean,4.0,"7729 85 Street NW, Edmonton",53.51429,-113.45779,13,1376.5900374921655,17804665666,False,$$,Edmonton
+Green Ash Cafe,Cafes,Cafes,NA,4.5,"8903 83 Avenue NW, Edmonton",53.51867,-113.46464,4,745.6370830763548,15874092277,False,$$,Edmonton
+Humpty's Family Restaurants,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"9555 82 Avenue NW, Edmonton",53.5177789372142,-113.475978296498,12,1019.1846652347136,17804370727,False,$$,Edmonton
+Hollywood Pizza & Donair,Pizza,Pizza,NA,4.0,"9542 87 Street NW, Edmonton",53.53263,-113.46132,12,900.7106756528805,17804626379,False,$$,Edmonton
+Sushi Cafe Madang,"Sushi Bars, Japanese, Korean",Sushi Bars,"Japanese, Korean",4.5,"8903 83 Avenue NW, Edmonton",53.51884894444175,-113.4646869,4,744.4413494609597,15874092277,False,$$,Edmonton
+Chick N Flames,Fast Food,Fast Food,NA,4.5,"8927B 82 Avenue NW, Edmonton",53.5178235,-113.4654192894578,4,847.2472372769946,17804404777,False,$$,Edmonton
+French Toast,"Breakfast & Brunch, Buffets",Breakfast & Brunch,NA,1.5,"8937 82 Avenue NW, Edmonton",53.517721,-113.466593,4,849.1217266418656,17804681510,False,$$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.5,"172 Bonnie Doon Shopping Center, Edmonton",53.5206099135,-113.457079858,3,858.1480966668883,17804655660,False,$$,Edmonton
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,5.0,"8330 82nd Avenue, Edmonton",53.5190748,-113.4578528,1,937.74052405276,17804667050,False,$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,2.5,"8330 82 Avenue NW, Edmonton",53.51986718322283,-113.45771364232866,3,880.6574902249305,17804661460,False,$$,Edmonton
+Albert's Family Restaurant,"Fast Food, Breakfast & Brunch, American",Fast Food,American,2.5,"Bonnie Doon Mall, Edmonton",53.5211991438758,-113.456971042365,7,825.3983617666416,<NA>,False,$$,Edmonton
+China Court,"Food Court, Fast Food, Chinese",Fast Food,Chinese,2.5,"Bonnie Doon Mall, Edmonton",53.5199036277738,-113.45754413695,6,885.9847632824035,17804691886,False,$,Edmonton
+Mario's Poutine & Pizzeria,"Poutineries, Sandwiches, Pizza","Sandwiches, Pizza",NA,3.0,"8943 82 Avenue NW, Edmonton",53.51781751825818,-113.4670542110451,5,838.7966763030697,17804697525,False,$,Edmonton
+Ralph's Handi Mart,"Fast Food, Personal Shopping",Fast Food,NA,3.5,"9508 87 Street NW, Edmonton",53.53193,-113.46146,6,826.703664013221,17804655615,False,$,Edmonton
+Taco Time,"Mexican, Fast Food",Fast Food,Mexican,1.5,"8330 82 Avenue NW, Edmonton",53.5182249,-113.4563504,4,949.878455263231,17804697860,False,$,Edmonton
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"Bonnie Doon Mall, Edmonton",53.5199073121532,-113.457534713009,1,886.1585423650984,17804667050,False,$,Edmonton
+Cohen Corner Cafe,Cafes,Cafes,NA,4.0,"9552 87 Sreet, Edmonton",53.53286,-113.46132,1,923.8345150745384,17807200484,False,$,Edmonton
+Pizza 73,Pizza,Pizza,NA,1.0,"8106 82 Avenue NW, Edmonton",53.518382,-113.4524816,2,1250.2431465640589,17804737373,False,$,Edmonton
+Take Care Cafe,"Coffee & Tea, Cafes","Coffee & Tea, Cafes",NA,5.0,"9621 82 Avenue NW, Edmonton",53.51764,-113.47793,1,1097.1899262286895,18255125631,False,$,Edmonton
+Crystal BBQ,"Vietnamese, Korean, Barbeque",Barbeque,"Vietnamese, Korean",2.5,"9645-101A Avenue, Edmonton",53.5432,-113.48417,5,2278.779238836644,17804483636,False,$$,Edmonton
+Ritchie Foods,Sandwiches,Sandwiches,NA,2.5,"9606 76 Avenue NW, Edmonton",53.51261,-113.47734,4,1566.1501813739892,17804331024,False,$$,Edmonton
+Shine Bistro & Catering,"Restaurants, Caterers",Restaurants,NA,3.0,"9828 101 Ave NW, Edmonton",53.54282,-113.48743,1,2246.5191325339533,<NA>,False,$$,Edmonton
+Thai Flavours,Thai,Thai,Thai,4.0,"2570 Guardian Rd NW, Edmonton",53.5113263542477,-113.675537109375,57,939.4082494643416,17804847911,False,$$,Edmonton
+Monty's Pizza,"American, Italian, Pizza",Pizza,"American, Italian",4.0,"1027 Potter Greens Drive NW, Edmonton",53.5140625091579,-113.67669348631,47,1182.194338284398,17804811999,False,$$,Edmonton
+Original Joe's Restaurant & Bar,"American, Bars",Bars,American,3.5,"2512 Guardian Road NW, Edmonton",53.5095648,-113.6745811,35,818.5914451291522,17804860909,False,$$,Edmonton
+Delhi 86,"Indian, Soup, Pizza",Pizza,Indian,5.0,"2470 Guardian Road NW, Edmonton",53.50939,-113.67564,8,751.3647182858831,17804448866,False,$$,Edmonton
+The Kitchen Restaurant,"Breakfast & Brunch, Cafes, Seafood","Cafes, Seafood",NA,3.0,"300 E Lapotac Boulevard, Enoch",53.510119636860395,-113.6969464392479,29,1150.0195319113354,17809302679,False,$$,Edmonton
+Good Buddy Granville,Chinese,Chinese,Chinese,4.0,"3026 Granville Drive NW, Edmonton",53.5117430907046,-113.678812526762,21,892.8912391343403,17807528833,False,$$,Edmonton
+Firezone Pizza & Donair,"Pizza, Donairs, Chicken Wings",Pizza,NA,3.5,"2490 Guardian Road NW, Edmonton",53.509036,-113.674793,24,765.9626617133754,17807560377,False,$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,4.5,"3004 Granville Dive NW, Edmonton",53.511699501009986,-113.67926751650724,4,879.7288002319416,<NA>,False,$$,Edmonton
+Coco Deep Fried Chicken,"Korean, Chicken Shop",Korean,Korean,4.0,"3030 Granville Drive NW, Edmonton",53.5116316159713,-113.678954988193,11,878.2691448461362,17787613392,False,$$,Edmonton
+Popeyes Louisiana Chicken,"Fast Food, Chicken Wings",Fast Food,NA,2.5,"7201 Winterburn Road NW, Edmonton",53.507123123083474,-113.6877412893494,20,469.1258718407864,17802498442,False,$$,Edmonton
+Classic Indian Restaurant & Bar,Indian,Indian,Indian,5.0,"2470 Guardian Road NW, Edmonton",53.509289,-113.675747,2,751.3688926199907,17804444455,False,$$,Edmonton
+Saigon Flavours,Vietnamese,Vietnamese,Vietnamese,3.5,"2506 Guardian Road NW, Edmonton",53.5094185,-113.6746292,12,804.2608841709684,17804835988,False,$$,Edmonton
+Teriyaki Corner Japanese Bistro,Japanese,Japanese,Japanese,3.5,"6270 199 Street NW, Edmonton",53.4949803,-113.6657602,32,1405.6349635886404,17804846325,False,$$,Edmonton
+Golden Panda,Chinese,Chinese,Chinese,5.0,"2506 Guardian Road NW, Edmonton",53.5094185,-113.6746321,2,804.2608841709684,17804835988,False,$$,Edmonton
+Wendy's,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"7231 Winterburn Road, Edmonton",53.50828,-113.68782,3,528.735466599303,<NA>,False,$$,Edmonton
+Careit Urban Deli,Delis,Delis,NA,4.5,"5236 199 St NW, Edmonton",53.4886158630059,-113.665058389306,4,2082.8030292123553,17804861123,False,$$,Edmonton
+Denny's,"Breakfast & Brunch, Diners",Breakfast & Brunch,NA,5.0,"7231 Winterburn Rd NW, Edmonton",53.507808,-113.687894,1,529.2702772255573,17807576610,False,$$,Edmonton
+Tim Horton's,"Coffee & Tea, Donuts, Sandwiches","Coffee & Tea, Sandwiches",NA,3.5,"3042 Granville Dr NW, Edmonton",53.5117747498446,-113.679446093738,2,884.7300100803681,17803414420,False,$$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,2.5,"2574 Guardian Rd NW, Edmonton",53.5084974697495,-113.672059150667,5,865.5556495582655,17804812263,False,$,Edmonton
+Papa Johns Pizza,"Chicken Wings, Pizza",Pizza,NA,2.5,"7223 Winterburn Rd. N W, Edmonton",53.507667,-113.687813,3,508.36622183732027,17804847276,False,$$$,Edmonton
+Boston Pizza,Pizza,Pizza,NA,2.5,"6238 199 Street NW, Edmonton",53.4949281,-113.667929,18,1416.5854599324268,17804841727,False,$$,Edmonton
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,1.0,"2474 Guardian Road NW, Edmonton",53.5091867386084,-113.675652381337,7,740.4462350229501,17804445145,False,$$,Edmonton
+Western Pizza,Pizza,Pizza,NA,1.0,"2490 Guardian Road, Edmonton",53.5115305153923,-113.674850463867,1,982.585927001694,17807612233,False,$$,Edmonton
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,2.5,"6214 199th St Nw, Edmonton",53.49427655735592,-113.66649203383076,6,1534.8631054640211,17804971177,False,$$,Edmonton
+The Grill at Lewis Estates,"Desserts, Salad, Breakfast & Brunch",Desserts,NA,3.5,"260 Suder Greens Drive NW, Edmonton",53.5215,-113.68035,3,1950.485206251954,17804894653,False,$$,Edmonton
+Pizza 73,Pizza,Pizza,NA,2.0,"5240 199 Street, Edmonton",53.48862,-113.66494,8,2087.1055724205494,17804737373,False,$$,Edmonton
+Reinette Cafe & Patisserie,"Desserts, Cafes, Coffee & Tea","Desserts, Cafes, Coffee & Tea",NA,4.5,"301 Woodvale Road W, Edmonton",53.4677492194575,-113.431308257578,42,678.069243550807,17805770974,False,$,Edmonton
+Pho Hoan Pasteur,Vietnamese,Vietnamese,Vietnamese,3.5,"6566 - 28 Avenue NW, Edmonton",53.4596423756613,-113.433174043894,35,291.02487922352253,15875209898,False,$$,Edmonton
+The Punjab Paratha Hut,"Indian, Vegetarian",Indian,Indian,4.5,"6574 28 Avenue NW, Edmonton",53.4591542,-113.4333249,19,340.5017720015144,17802501881,False,$,Edmonton
+O2's,"Sports Bars, Canadian (New)",Sports Bars,Canadian (New),3.5,"6550 28th Avenue NW, Edmonton",53.4583888,-113.4326004,15,393.2573162864167,17805400222,False,$,Edmonton
+Wok This Way,"Vietnamese, Chinese",Vietnamese,"Vietnamese, Chinese",4.5,"4028 - 50 Street, Edmonton",53.4768387,-113.4174821,40,1890.6681372795751,17805770039,False,$$,Edmonton
+Memphis Blues Barbeque House,"Barbeque, Whiskey Bars","Barbeque, Whiskey Bars",NA,3.0,"5317 23 Avenue NW, Edmonton",53.4534723497737,-113.423807572226,109,1011.275204560532,17804286328,False,$$,Edmonton
+Royal Pizza,Pizza,Pizza,NA,3.5,"2906 66 St, Edmonton",53.4570937494645,-113.432067134723,23,521.1615948279813,17804906337,False,$$,Edmonton
+Pan's Fish & Chips,Fish & Chips,Fish & Chips,NA,3.5,"6530 28 Avenue NW, Edmonton",53.4602,-113.432321,14,207.3488132096759,17804406696,False,$$,Edmonton
+Ricky's All Day Grill,Canadian (New),Canadian (New),Canadian (New),2.5,"6108 28th Avenue, Edmonton",53.4593582,-113.4273987,13,317.53291453791195,17807587676,False,$$,Edmonton
+Denny's,"Breakfast & Brunch, Diners, American",Breakfast & Brunch,American,2.5,"5011 25th Ave, Edmonton",53.4562850393388,-113.421494364738,25,840.9455545738517,17804503663,False,$,Edmonton
+Manila Grill Express,Filipino,Filipino,Filipino,4.5,"6554 28 Avenue, Edmonton",53.458961,-113.4326686,3,273.86345511190825,17807605222,False,$,Edmonton
+Himalayan Village,"Indian, Chinese, Himalayan/Nepalese",Indian,"Indian, Chinese",4.0,"2331 66 Street North West, Edmonton",53.4543582,-113.4342792,10,654.0129428963149,17807579166,False,$,Edmonton
+Noodle Xtreme,Vietnamese,Vietnamese,Vietnamese,3.5,"2605-66 Street, Edmonton",53.4570703,-113.4340365,17,520.8648377169171,17804698081,False,$$,Edmonton
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"6510 - 28th Avenue, Edmonton",53.4584849,-113.4325064,6,288.81896536411347,17804501427,False,$,Edmonton
+Yummy Chicken,Korean,Korean,Korean,3.5,"6111 28 Avenue NW, Edmonton",53.45881,-113.42728,9,387.4018934639949,17802509866,False,$,Edmonton
+Woodvale Pizza & Hillview Pub,"Pizza, Pubs, Donairs","Pizza, Pubs",NA,4.0,"311 Woodvale Road W, Edmonton",53.4680089,-113.4323128,11,704.984257001986,17804620468,False,$,Edmonton
+Pho 4 Me,Vietnamese,Vietnamese,Vietnamese,4.5,"2809 Mill Woods Road, Edmonton",53.4591,-113.44745,7,1164.2741248093137,15877542804,False,$,Edmonton
+Smitty's Family Restaurant,American,American,American,3.5,"211 2331- 66 Street NW, Edmonton",53.45577696044658,-113.432123,9,665.6210070078874,17804611825,False,$,Edmonton
+Arbys,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,4.5,"6535 28 Ave NW, Edmonton",53.4582151,-113.4327115,2,453.8712895897051,17804694774,False,$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,2.0,"Millwoods MainSt SC, Edmonton",53.45908,-113.43327,5,361.2321531297322,17804616396,False,$,Edmonton
+Tim Hortons,"Delis, Sandwiches",Sandwiches,NA,2.0,"6566 28 Avenue NW, Edmonton",53.459044,-113.430837,9,293.9460916571649,17804614250,False,$,Edmonton
+Irie Foods,Caribbean,Caribbean,Caribbean,4.0,"2807 Mill Woods Road NW, Edmonton",53.4591,-113.44753,23,1169.344249540424,17804141341,False,$$,Edmonton
+Tim Hortons,"Sandwiches, Coffee & Tea","Sandwiches, Coffee & Tea",NA,3.5,"5204 23rd Ave, Edmonton",53.45503,-113.42227,14,909.8727137271388,17804699925,False,$,Edmonton
+2nd Floor Cafe,Cafes,Cafes,NA,4.5,"2610 Hewes Way, Edmonton",53.4566,-113.4274,2,598.3557458132032,17809445926,False,$,Edmonton
+Pizza 38,Pizza,Pizza,NA,4.0,"5403 38 Avenue NW, Edmonton",53.4711651,-113.4216875,14,1202.7108632866828,17804850038,False,$$,Edmonton
+Boston Pizza,Pizza,Pizza,NA,2.0,"5228 23rd Ave NW, Edmonton",53.45494,-113.42293,33,892.3285453080061,17804615400,False,$$,Edmonton
+Panago Pizza,"Pizza, Chicken Wings, Food Delivery Services",Pizza,NA,3.0,"6132 - 28th Avenue, Edmonton",53.45926,-113.42788,2,314.5869477713841,18663100001,False,$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,4.0,"2331 66 Street NW, Edmonton",53.455298,-113.429363,3,654.0129428963149,17804615133,False,$$,Edmonton
+Punjab Chaat House,Indian,Indian,Indian,4.0,"1523 50 Street NW, Edmonton",53.4450231756067,-113.418437468506,5,2014.021754151648,17802496660,False,$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,4.0,"5509 23 Avenue NW, Edmonton",53.45332,-113.42572,5,979.7303132032648,17804980862,False,$$,Edmonton
+Lee Garden Cuisine,Chinese,Chinese,Chinese,2.5,"317 Woodvale Road W, Edmonton",53.4678497,-113.4319992,7,711.8380730016266,17804508888,False,$$,Edmonton
+New York Fries - Millwoods Town Centre,Fast Food,Fast Food,NA,5.0,"2331 66 Street NW, Edmonton",53.455732,-113.432066,1,669.9174516059766,17804690614,False,$$,Edmonton
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,2.0,"6504 28th Avenue, Edmonton",53.45886,-113.43248,4,345.40274596016394,17804483813,False,$$,Edmonton
+Magma Donair Burgers & Subs,"Burgers, Donairs, Poutineries",Burgers,NA,4.0,"5513 23rd Avenue NW, Edmonton",53.4532955,-113.425938,5,982.8551837427522,17802503662,False,$$,Edmonton
+Tokyo Express,"Japanese, Sushi Bars",Sushi Bars,Japanese,2.5,"5220 23rd Avenue NW, Edmonton",53.4549,-113.42293,11,887.5124613366936,17804681668,False,$,Edmonton
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,2.0,"5403 23rd Ave, Edmonton",53.45337644210753,-113.42500738799572,18,989.52690182097,17804628045,False,$$,Edmonton
+Rolymie Bakery,"Bakeries, Filipino",Bakeries,Filipino,4.0,"1083 Knottwood Road E, Edmonton",53.44492,-113.44445,5,2078.890020532016,17804501319,False,$$,Edmonton
+Taco Time,Mexican,Mexican,Mexican,2.0,"2331 66 Street NW, Edmonton",53.4543582,-113.4342792,3,654.0129428963149,17804381214,False,$,Edmonton
+Arby's,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,3.0,"6535 28 Avenue NW, Edmonton",53.4582151,-113.4327115,3,453.8712895897051,17804694774,False,$$,Edmonton
+Supreme Pizza,Pizza,Pizza,NA,4.0,"1079 Knottwood Road E, Edmonton",53.4450313,-113.4428088,5,2024.753464388078,17804851213,False,$,Edmonton
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"5360-23rd Avenue, Edmonton",53.454781,-113.42407,11,873.7996706158141,17804148449,False,$,Edmonton
+Harvey's,"Burgers, Fast Food, American","Burgers, Fast Food",American,3.0,"5303 23rd Avenue NW, Edmonton",53.453854,-113.423794,4,973.5753854306464,17803959982,False,$,Edmonton
+La Tastebuds,"Canadian (New), Indian",Canadian (New),"Canadian (New), Indian",4.5,"5513 23 Avenue NW, Edmonton",53.4533,-113.42594,3,982.8551837427522,17807575522,False,$,Edmonton
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"2420 50 Street NW, Edmonton",53.4559136,-113.4213899,3,875.5645545811616,17804504067,False,$,Edmonton
+Mary Brown's Famous Chicken & Taters,"Fast Food, Canadian (New)",Fast Food,Canadian (New),3.0,"4004 50 Street NW, Edmonton",53.47643,-113.41778,19,1838.9429586533763,17804906211,False,$,Edmonton
+Burger King,Fast Food,Fast Food,NA,2.0,"6521 28 Avenue NW, Edmonton",53.4582152,-113.4318706,6,440.3990141289896,17804632322,False,$,Edmonton
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"Mill Woods Town Centre, Edmonton",53.4543557,-113.4342639,1,689.9619793079169,17804850077,False,$,Edmonton
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"2331 66th Street NW, Edmonton",53.4543582,-113.4342792,1,654.0129428963149,17804509814,False,$,Edmonton
+New York Fries,Fast Food,Fast Food,NA,3.0,"Millwoods Town Centre, Edmonton",53.4545331,-113.4344439,2,837.956202359128,14163563066,False,$,Edmonton
+Classic Pizza Donair & Sub,"Donairs, Pizza, Burgers","Pizza, Burgers",NA,2.5,"2811 Mill Woods Road NW, Edmonton",53.4591,-113.44737,7,1158.848006640027,17804635517,False,$,Edmonton
+The Workshop Eatery,Canadian (New),Canadian (New),Canadian (New),4.0,"2003 - 91 Street SW, Edmonton",53.4158,-113.47997,174,1150.6242419540763,17807052205,False,$$,Edmonton
+Brown Butter cafe,Cafes,Cafes,NA,4.5,"1528 91 St SW, Edmonton",53.418910197224,-113.478978957888,40,1068.961722170857,17807529900,False,$$,Edmonton
+Mini Mango,"Vietnamese, Thai, Gluten-Free",Vietnamese,"Vietnamese, Thai",4.0,"1056 91 Street SW, Edmonton",53.4234858470792,-113.476409555526,74,1108.4983653512706,17807566464,False,$$,Edmonton
+Zaika Bistro & Bar,"Indian, Buffets",Indian,Indian,4.0,"2303 Ellwood Drive SW, Edmonton",53.430490696969,-113.47104549408,95,1538.2444654053231,17804628722,False,$$,Edmonton
+Original Joe's Restaurant & Bar,"Bars, American",Bars,American,4.0,"9246 Ellerslie Road SW, Edmonton",53.4252379,-113.4753443,36,1301.490409026845,17804856578,False,$$,Edmonton
+Saffron Indian Cuisine,"Indian, Buffets",Indian,Indian,4.0,"469 Parsons Road SW, Edmonton",53.42971,-113.47936,45,1719.5079873677405,17804907088,False,$$,Edmonton
+Kurry Kebab,Indian,Indian,Indian,4.5,"1060 91 Street SW, Edmonton",53.423349641309,-113.476388736176,31,1098.3741765526372,17807610150,False,$$,Edmonton
+Wing Chicx,Korean,Korean,Korean,4.0,"2912 Ellwood Drive SW, Edmonton",53.4298813,-113.4782618,65,1706.5526489870451,17804662852,False,$$,Edmonton
+Woodshed Burgers,Burgers,Burgers,NA,4.0,"2307 Ellwood Drive SW, Edmonton",53.43054,-113.47086,33,1528.3570816986007,15876359663,False,$$,Edmonton
+Teacup2go,"Juice Bars & Smoothies, Bubble Tea, Cafes","Juice Bars & Smoothies, Cafes",NA,4.5,"2960 Ellwood Drive SW, Edmonton",53.42995,-113.47873,19,1732.1228416506483,17804888228,False,$,Edmonton
+Fresh Healthy Cafe,"Juice Bars & Smoothies, Cafes","Juice Bars & Smoothies, Cafes",NA,5.0,"1052 91 Street SW, Edmonton",53.4232251,-113.4745462,5,1120.5086630504338,15874146835,False,$,Edmonton
+The Canadian Brewhouse,"Sports Bars, Canadian (New)",Sports Bars,Canadian (New),3.0,"9538 Ellerslie Road Southwest, Edmonton",53.4257036,-113.4785873,87,1376.2861944282413,17804692232,False,$$,Edmonton
+Teriyaki Corner Japanese Bistro,Japanese,Japanese,Japanese,3.5,"1064-91 Street SW, Edmonton",53.4232221789497,-113.476716805847,30,1107.7956834837664,17804846325,False,$$,Edmonton
+Tien Tuyen,Vietnamese,Vietnamese,Vietnamese,3.5,"2619 Ellwood Drive SW, Edmonton",53.42916,-113.47357,27,1470.065935859,17804698436,False,$$,Edmonton
+Kami,Japanese,Japanese,Japanese,4.0,"2915 Ellwood Dr SW, Edmonton",53.4288,-113.47872,15,1650.9204048072895,17804895949,False,$$,Edmonton
+Ellwood Pizza,Pizza,Pizza,NA,4.0,"2431 Ellwood Dr SW, Edmonton",53.43046,-113.47176,10,1553.6109979879134,17804650014,False,$$,Edmonton
+Spot On Donair and Kebab,"Donairs, Fast Food",Fast Food,NA,3.0,"9516 Ellerslie Rd SW, Edmonton",53.4250123,-113.4788525,17,1340.3658215942703,17804654625,False,$,Edmonton
+Yeg Pizza on Wheels,Pizza,Pizza,NA,4.5,"2976 Ellwood Drive SW, Edmonton",53.43009996840714,-113.4787688,3,1746.077505929447,17807072219,False,$,Edmonton
+Mucho Burrito Fresh Mexican Grill,Mexican,Mexican,Mexican,2.5,"1132 91 Street SW, Edmonton",53.42357,-113.47478,17,1030.2127087307808,17804622288,False,$$,Edmonton
+Second Cup,Cafes,Cafes,NA,4.0,"9238 Ellerslie Road, Edmonton",53.4252372,-113.4753884,5,1284.667376239093,17804690738,False,$,Edmonton
+Izakaya Tenkuu,Japanese,Japanese,Japanese,5.0,"2980 Ellwood Drive SW, Edmonton",53.43009,-113.4789,1,1749.0078453853623,17803341700,False,$,Edmonton
+Pho Hoa,Vietnamese,Vietnamese,Vietnamese,2.5,"2963 Ellwood Drive SW, Edmonton",53.429060567201,-113.47895691401,35,1662.749262093046,17804858860,False,$$,Edmonton
+Wok Box,"Asian Fusion, Fast Food, Chinese",Fast Food,"Asian Fusion, Chinese",2.0,"9228 Ellerslie Road SW, Edmonton",53.4252319,-113.4752731,13,1273.0199718007284,17804859705,False,$$,Edmonton
+Mary Brown's Famous Chicken & Taters!,Fast Food,Fast Food,NA,3.5,"1042 91st Street SW, Edmonton",53.4276373,-113.4735524,15,1324.8399145941366,17807567860,False,$$,Edmonton
+Prime Time Donair and Kebab,"Donairs, Kebab, Poutineries",Donairs,NA,3.5,"1128 91 Street SW, Edmonton",53.423535,-113.474953,4,1036.3912056824345,17809892416,False,$$,Edmonton
+Pizza 73,Pizza,Pizza,NA,2.0,"1109 Summerside Drive SW, Edmonton",53.4238425854683,-113.46212447423,8,706.67596312351,17804737373,False,$$,Edmonton
+Panago Pizza,"Pizza, Chicken Wings, Food Delivery Services",Pizza,NA,4.0,"932 - 91st Street SW, Edmonton",53.4242824,-113.4742958,1,1156.963861715028,18663100001,False,$$,Edmonton
+Annam South Indian Cuisine,Indian,Indian,Indian,5.0,"2935 Ellwood Drive SW, Edmonton",53.428718,-113.4785574,1,1615.9003525062176,15874983275,False,$$,Edmonton
+Golden Taste Restaurant,Chinese,Chinese,Chinese,3.0,"2940-2944 Ellwood Drive SW, Edmonton",53.4302358208668,-113.478471836265,17,1746.6051128232896,17804306380,False,$$,Edmonton
+Joey's Seafood Restaurant Ellerslie,"Seafood, Fish & Chips, Mexican",Seafood,Mexican,1.0,"9238 Ellerslie Road SW, Edmonton",53.4260728,-113.4762282,2,1284.6447859761483,15876353300,False,$$,Edmonton
+Calabash Cafe,"Cafes, Desserts, Breakfast & Brunch","Cafes, Desserts",NA,3.5,"228 91 Street SW, Edmonton",53.4317319,-113.469209,4,1633.726314084825,17809077302,False,$$,Edmonton
+KFC,"Fast Food, Chicken Wings, Chicken Shop",Fast Food,NA,1.5,"9260 Ellerslie Road SW, Edmonton",53.4253966194717,-113.4766196,9,1257.434407298243,17804851474,False,$$,Edmonton
+Pizza Hut ,"Chicken Wings, Pizza, Fast Food","Pizza, Fast Food",NA,1.0,"9224 Ellerslie Road SW, Edmonton",53.426061,-113.475736,9,1270.4591395335092,17804683150,False,$$,Edmonton
+Suvai Dosa’s,Indian,Indian,Indian,4.5,"7 - 445 Parsons Road, Edmonton",53.43003,-113.47936,4,1746.8847193171523,17804637228,False,$$,Edmonton
+Freshii,"Fast Food, Vegetarian, Salad",Fast Food,NA,3.0,"9240 Ellerslie Rd SW, Edmonton",53.4252353,-113.4752882,6,1292.3477400186189,17808092114,False,$$,Edmonton
+Tim Horton's,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,1.5,"862 Parsons Road SW, Edmonton",53.426,-113.4804,5,1499.0183199377796,17804850451,False,$$,Edmonton
+Taco Bell,"Fast Food, Mexican",Fast Food,Mexican,1.5,"9260 Ellerslie Road SW, Edmonton",53.425244,-113.475475,8,1259.0185836187818,17804851474,False,$$,Edmonton
+Quiznos,"Sandwiches, Soup, Pizza","Sandwiches, Pizza",NA,2.5,"9264 Ellerslie Rd SW, Edmonton",53.4251703,-113.4792832,3,1373.6430720934434,17804691801,False,$,Edmonton
+Summerside Pizza and Donair,"Pizza, Donairs, Indian",Pizza,Indian,2.5,"2956 Ellwood Drive SW, Edmonton",53.42981,-113.47891,16,1721.91991266138,17807611314,False,$,Edmonton
+Rasam Indian Cuisine,"Indian, Vegetarian, Meat Shops",Indian,Indian,3.5,"248 91 Street SW, Edmonton",53.43172,-113.46879,2,1598.762094657346,17804663535,False,$,Edmonton
+Curry Corner,Indian,Indian,Indian,4.5,"616 Riverbend Square NW, Edmonton",53.4682719260197,-113.586990878296,43,1337.7833303274924,17804381008,False,$$,Edmonton
+Hart's Table & Bar,Canadian (New),Canadian (New),Canadian (New),3.5,"14229 23 Avenue, Edmonton",53.4538434,-113.5665852,122,831.5835175680229,17804884278,False,$$,Edmonton
+Oliveto Trattoria,"Italian, Wine Bars",Wine Bars,Italian,4.5,"500 Riverbend Square, Edmonton",53.4695568,-113.5869428,39,1396.221002480775,17804356411,False,$$,Edmonton
+Original Joe's Restaurant & Bar,"Bars, American",Bars,American,3.5,"2323 Rabbit Hill Rd NW, Edmonton",53.4547075,-113.5653153,48,933.3127981425804,17809885637,False,$$,Edmonton
+Famoso Neapolitan Pizza,"Pizza, Italian",Pizza,Italian,4.0,"14123 23 Avenue NW, Edmonton",53.452957050375,-113.56286413606,27,1094.336554084877,17804368799,False,$$,Edmonton
+Mai Mai Viet Street Kitchen,Vietnamese,Vietnamese,Vietnamese,4.5,"14211 23 Avenue NW, Edmonton",53.45332296247143,-113.56665844278406,9,858.850241381453,<NA>,False,$$,Edmonton
+Remedy Cafe,Cafes,Cafes,NA,3.5,"1707 Towne Centre Boulevard NW, Edmonton",53.4448449861354,-113.577646203339,42,1429.4748265849016,17809884010,False,$$,Edmonton
+Amore Pasta,Italian,Italian,Italian,3.5,"14016 23rd Avenue, Edmonton",53.4542849,-113.5601192,19,1002.9120468502256,17804864869,False,$$,Edmonton
+Saigon Cuisine,Vietnamese,Vietnamese,Vietnamese,3.5,"508 Riverbend Square, Edmonton",53.4677090385651,-113.586659431458,29,1272.3553525008429,17804361188,False,$$,Edmonton
+Kokoriko,"Chicken Wings, Korean, Fast Food",Fast Food,Korean,4.5,"1713 Towne Centre Blvd NW, Edmonton",53.44521,-113.5775,10,1383.349027659891,<NA>,False,$$,Edmonton
+Mary Browns,"Chicken Wings, Fast Food, Sandwiches","Fast Food, Sandwiches",NA,4.0,"2347 Rabbit Hill Road NW, Edmonton",53.4552023628026,-113.564942152804,8,866.9632166520848,15874694564,False,$$,Edmonton
+Boardwalk,Burgers,Burgers,NA,5.0,"14203 23 Avenue NW, Edmonton",53.45364966591091,-113.5664151983955,1,852.4302879881554,15874691913,False,$$,Edmonton
+Mac T Donair & Shawarma,"Donairs, Middle Eastern, Burgers",Burgers,Middle Eastern,4.0,"14245 23 Avenue NW, Edmonton",53.453308769708,-113.567835353315,13,796.8335108446659,<NA>,False,$$,Edmonton
+Boston Pizza,Pizza,Pizza,NA,3.5,"378 Bulyea Road NW, Edmonton",53.4755782299844,-113.574388796522,20,1997.658461795448,17804318431,False,$$,Edmonton
+Towne Chef Indian Fusion,"Indian, Chinese",Indian,"Indian, Chinese",4.5,"5233 Terwillegar Boulevard NW, Edmonton",53.444572100000045,-113.5783074,6,1461.0661275843636,15874992225,False,$$,Edmonton
+Tim Hortons,"Sandwiches, Coffee & Tea","Sandwiches, Coffee & Tea",NA,2.5,"2309 Rabbit Hill Road NW, Edmonton",53.454534,-113.564477,15,921.4489426955508,17804324451,False,$,Edmonton
+Papa Johns Pizza,Pizza,Pizza,NA,4.0,"14030  23Rd Ave, Edmonton",53.45482,-113.56339,6,982.437905442564,17804397220,False,$$,Edmonton
+Indian Villa,"Indian, Chinese",Indian,"Indian, Chinese",4.0,"448 Riverbend Square NW, Edmonton",53.468285,-113.584082,1,1258.6851894234549,17807602799,False,$$,Edmonton
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,3.5,"14307 23 Avenue NW, Edmonton",53.45367,-113.56816,7,748.5300406566257,17804309011,False,$,Edmonton
+KFC,"Fast Food, Chicken Wings, Chicken Shop",Fast Food,NA,2.5,"14311 23rd Avenue, Edmonton",53.45373,-113.56824,11,746.7637729475993,17809888000,False,$,Edmonton
+PhoXpress Vietnamese Noodle House,Vietnamese,Vietnamese,Vietnamese,3.0,"436 Riverbend Square NW, Edmonton",53.4685507,-113.584228,23,1289.737872250931,17807052280,False,$$,Edmonton
+Oodle Noodle,Asian Fusion,Asian Fusion,Asian Fusion,2.5,"2305 Rabbit Hill Rd NW, Edmonton",53.4546002,-113.5654051,5,879.0352884753073,17804354222,False,$$,Edmonton
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.5,"14257 23rd Ave, Edmonton",53.4538351,-113.5680228,5,797.4803523791333,17804338036,False,$,Edmonton
+A&W,Fast Food,Fast Food,NA,3.0,"470 Riverbend Square Road Northwest, Edmonton",53.46864726,-113.583784,6,1289.7811632396008,17804324384,False,$,Edmonton
+McDonald's,"Burgers, Fast Food, Coffee & Tea","Burgers, Fast Food, Coffee & Tea",NA,2.5,"494 Riverbend Square, Edmonton",53.4690762166949,-113.586354694402,11,1398.5466552860944,17804148403,False,$,Edmonton
+Hanako Sushi,"Sushi Bars, Desserts, Ramen","Sushi Bars, Desserts",NA,5.0,"2341 Rabbit Hill Road NW, Edmonton",53.45538706957625,-113.56442995369434,1,893.0247524158659,18254801923,False,$,Edmonton
+Ricky's Breakfast Café,"Breakfast & Brunch, Cafes, Desserts","Cafes, Desserts",NA,3.5,"14111 23 Avenue NW, Edmonton",53.45288471216956,-113.56223490089178,2,1134.7944114131365,15874692804,False,$,Edmonton
+Dairy Queen Grill & Chill,"Ice Cream & Frozen Yogurt, Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"14151 23 Ave Nw, Edmonton",53.4536036,-113.56316931926358,6,1043.3421093430482,17804393742,False,$$,Edmonton
+Taco Bell,Fast Food,Fast Food,NA,1.5,"14311 23rd Avenue, Edmonton",53.4538351,-113.5701874,7,746.7637729475993,17809888000,False,$$,Edmonton
+Domino's Pizza,"Chicken Wings, Pizza, Sandwiches","Pizza, Sandwiches",NA,2.0,"420 Riverbend Square NW, Edmonton",53.46843410677529,-113.5847622155069,6,1290.6492633573555,17804969917,False,$$,Edmonton
+Tokyo Express,Japanese,Japanese,Japanese,1.5,"2341 Rabbit Hill Road, Edmonton",53.4547729,-113.5653229,13,849.5868785138716,17809886883,False,$$,Edmonton
+Osmow's,Mediterranean,Mediterranean,Mediterranean,2.5,"468 Riverbend Square NW, Edmonton",53.4684514,-113.5833279605743,2,1259.4316693470116,15874146818,False,$$,Edmonton
+Pizza 73,Pizza,Pizza,NA,3.0,"107 Haddow Close NW, Edmonton",53.45863,-113.59119,2,920.0706974359548,17804737373,False,$$,Edmonton
+Pizza Box,Pizza,Pizza,NA,3.5,"512 Riverbend Square NW, Edmonton",53.4695651,-113.5869784,5,1344.5704131535383,17804367271,False,$$,Edmonton
+Donna's Eatery,Sandwiches,Sandwiches,NA,4.0,"21516 115 Ave NW, Edmonton",53.56629,-113.68973,47,1729.5811914084666,17804298894,False,$,Edmonton
+Winter's Restaurant & Bar,Diners,Diners,NA,1.5,"10650 Winterburn Road NW, Edmonton",53.5502801,-113.6892582,4,827.2950609447199,17804473656,False,$,Edmonton
+Big 'n' Juicy Dawgs,Hot Dogs,Hot Dogs,NA,3.0,"304 - Westmount Centre, Edmonton",53.5624771118164,-113.567268371582,1,860.3520141533337,<NA>,False,$,Edmonton
+Chefs Butter Chicken,Indian,Indian,Indian,5.0,"19926 Lessard Road NW, Edmonton",53.47851,-113.67237,8,980.7150934510768,17804132231,False,$,Edmonton
+Yummy Kitchen,Chinese,Chinese,Chinese,4.0,"20035 Lessard Road NW, Edmonton",53.47653,-113.671772,4,721.906074995803,17802509888,False,$,Edmonton
+Spice N Rice,"Caribbean, African",Caribbean,"Caribbean, African",4.5,"20020 Lessard Road NW, Edmonton",53.478429,-113.67331,2,981.3932865593152,17806163364,False,$,Edmonton
+Royal Pizza,"Pizza, Italian",Pizza,Italian,5.0,"20024 Lessard Road NW, Edmonton",53.478399584365135,-113.67327904235329,1,977.8001228455956,17807579699,False,$,Edmonton

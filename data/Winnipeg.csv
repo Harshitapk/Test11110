@@ -1,0 +1,549 @@
+Name,Categories,Cuisine Types,Nationalities,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price,City
+Sun Fortune Restaurant,Chinese,Chinese,Chinese,4.5,"2077 Pembina Hwy, Winnipeg",49.814192,-97.152262,36,1571.46,12042696868,False,$$,Winnipeg
+Tehran Market & Cafe,"Mediterranean, Cafes",Cafes,Mediterranean,4.5,"8-1875 Pembina Highway, Winnipeg",49.822556,-97.153154,9,1069.94,12047834726,False,$$,Winnipeg
+TH Dang Restaurant,Vietnamese,Vietnamese,Vietnamese,4.0,"1425 Pembina Highway, Winnipeg",49.837431,-97.151375,30,1762.99,<NA>,False,$$,Winnipeg
+Delicious Vegetarian Restaurant,"Vegetarian, Vegan",Vegetarian,NA,4.5,"1467 Pembina Highway, Winnipeg",49.836045,-97.151037,20,1669.45,12044771530,False,$$,Winnipeg
+Nicolino's,Italian,Italian,Italian,3.5,"4-2077 Pembina Highway, Winnipeg",49.815574,-97.153198,21,1541.5,12042695004,False,$$$,Winnipeg
+IGI BBQ and Sushi Bistro,"Sushi Bars, Korean, Barbeque","Sushi Bars, Barbeque",Korean,3.5,"10-1875 Pembina Highway, Winnipeg",49.822563,-97.153183,26,1127.38,12044779909,False,$$,Winnipeg
+Stella's,"Breakfast & Brunch, Bakeries, Sandwiches",Sandwiches,NA,3.0,"1463 Pembina Highway, Winnipeg",49.836316,-97.151069,34,1688.9,12042752001,False,$$,Winnipeg
+Coconut Island Thai Cuisine,Thai,Thai,Thai,5.0,"1607 Pembina Highway, Winnipeg",49.83158,-97.15153,5,1350.77,12046158288,False,$$,Winnipeg
+Pony Corral Restaurant & Bar,"Greek, Lounges, Steakhouses",Steakhouses,Greek,2.5,"1700 Pembina Highway, Winnipeg",49.828672,-97.151649,31,1260.32,12042753687,False,$$,Winnipeg
+North Garden Restaurant,"Chinese, Asian Fusion",Chinese,"Chinese, Asian Fusion",2.5,"33 University Crescent, Winnipeg",49.817414,-97.150364,26,1558.17,12042752591,False,$$,Winnipeg
+Dancing Noodle,Chinese,Chinese,Chinese,3.5,"1393A Pembina Highway, Winnipeg",49.83837,-97.15172,8,1832.57,12046910205,False,$,Winnipeg
+Best Pizza & Donair,"Mediterranean, Donairs, Pizza",Pizza,Mediterranean,3.5,"1469 Pembina Highway, Winnipeg",49.835964,-97.151016,18,1690.79,12042750444,False,$,Winnipeg
+Golden Loong Restaurant,Chinese,Chinese,Chinese,3.5,"2237 Pembina Highway, Winnipeg",49.809948,-97.153633,13,2029.03,12045046766,False,$,Winnipeg
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,4.0,"1875 Pembina Highway, Winnipeg",49.821226,-97.154267,4,1096.19,12042695706,False,$$,Winnipeg
+Huang Pu River Restaurant,Chinese,Chinese,Chinese,3.5,"1875 Pembina Hwy, Winnipeg",49.822556,-97.153154,6,1088.75,12042614407,False,$$,Winnipeg
+Lot 88,"Bars, Steakhouses","Bars, Steakhouses",NA,2.0,"2005 Pembina Hwy, Winnipeg",49.817366,-97.153026,11,1412.06,12042693496,False,$$,Winnipeg
+Kimchi Sushi,"Korean, Sushi Bars",Sushi Bars,Korean,4.0,"1270 Pembina Highway, Winnipeg",49.84291,-97.15282,6,2204.15,12042618888,False,$$,Winnipeg
+Mr Calzone,"Pizza, Mediterranean, Halal",Pizza,Mediterranean,4.5,"1254 Pembina Highway, Winnipeg",49.843132,-97.153025,4,2213.39,12044524203,False,$$,Winnipeg
+Dagu rice noodle,Chinese,Chinese,Chinese,1.5,"102-1855 Pembina Highway, Winnipeg",49.822914,-97.153178,3,976.63,12042191597,False,$$,Winnipeg
+Kiwa Korean Restaurant,Korean,Korean,Korean,5.0,"2077 Pembina Highway, Winnipeg",49.814742,-97.152136,1,1571.46,12042613131,False,$$,Winnipeg
+Ta.Ke Sushi Take-Out,Sushi Bars,Sushi Bars,NA,4.0,"1235 Pembina Highway, Winnipeg",49.84352,-97.15391,6,2208.2,12042840028,False,$$,Winnipeg
+George's Inn & Submarine,"Persian/Iranian, Diners, Burgers",Burgers,Persian/Iranian,4.0,"1395 Pembina Highway, Winnipeg",49.838417,-97.151634,3,1815.68,12044522258,False,$$,Winnipeg
+Summer Palace,Chinese,Chinese,Chinese,3.0,"1755 Pembina Hwy, Winnipeg",49.82635,-97.152764,5,1068.46,12042619241,False,$$$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,3.5,"2027 Pembina, Winnipeg",49.81661,-97.15257,2,1499.4,12049496019,False,$$$,Winnipeg
+Gondola Pizza Restaurants,"Pizza, Italian",Pizza,Italian,2.0,"1292 Pembina Hwy, Winnipeg",49.84174,-97.15294,8,2078.7,12049492910,False,$$,Winnipeg
+Quesada Burritos & Tacos,Mexican,Mexican,Mexican,3.5,"1566 Pembina Highway, Winnipeg",49.83274,-97.15018,2,1495.26,12044755401,False,$$,Winnipeg
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,2.0,"1910 Pembina Highway, Winnipeg",49.82263,-97.152497,4,1318.62,12049534133,False,$$,Winnipeg
+Pizza Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,2.0,"1740 Pembina Highway, Winnipeg",49.826575,-97.15207,1,1172.63,12049571111,False,$$,Winnipeg
+Morals Village HotPot,"Chinese, Hot Pot",Chinese,Chinese,3.0,"102-1855 Pembina Highway, Winnipeg",49.822914,-97.153178,2,976.63,<NA>,False,$$,Winnipeg
+Vietnamese Paradise,"Chinese, Vietnamese, Imported Food",Chinese,"Chinese, Vietnamese",3.0,"1480 Pembina Hwy, Winnipeg",49.83573,-97.15005,2,1694.37,12042848507,False,$,Winnipeg
+Aalto's Garden Cafe,"Breakfast & Brunch, Canadian (New), Buffets",Breakfast & Brunch,Canadian (New),1.5,"1824 Pembina Hwy, Winnipeg",49.823924,-97.152574,3,1187.04,12044786422,False,$,Winnipeg
+Yougot Chinese Restaurant,Chinese,Chinese,Chinese,2.0,"1521 Pembina Highway, Winnipeg",49.83415,-97.15072,5,1555.49,12042846618,False,$$,Winnipeg
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,1.0,"2079 Pembi Highway, Winnipeg",49.814608,-97.152477,1,1655.64,12049878312,False,$$,Winnipeg
+Idol Asian Cuisine,"Korean, Chinese",Korean,"Korean, Chinese",2.0,"1910 Pembina Hwy, Winnipeg",49.82263,-97.152497,4,1318.62,12042696688,False,$$,Winnipeg
+Szechuan Restaurant,Chinese,Chinese,Chinese,1.0,"1607 Pembina Highway, Winnipeg",49.83158,-97.15153,1,1350.77,12044535241,False,$$,Winnipeg
+Chicken Delight,Chicken Wings,Chicken Wings,NA,1.5,"1349 Pembina Hwy, Winnipeg",49.8397,-97.15279,6,1895.72,12049821350,False,$$,Winnipeg
+Banh Mi House,"Sandwiches, Vietnamese",Sandwiches,Vietnamese,3.5,"1373 Pembina Highway, Winnipeg",49.83914,-97.152237,3,1870.27,12044149090,False,$$,Winnipeg
+Masa Japanese Restaurant,Japanese,Japanese,Japanese,2.5,"2077 Pembina Hwy, Winnipeg",49.814192,-97.152262,3,1571.46,12042613131,False,$$,Winnipeg
+YGF Malatang Hotpot,"Hot Pot, Chinese",Hot Pot,Chinese,1.0,"1609 Pembina Highway, Winnipeg",49.83146,-97.15155,1,1343.27,<NA>,False,$$,Winnipeg
+Salisbury House of Canada,Restaurants,Restaurants,NA,3.0,"2081 Pembina Hwy, Winnipeg",49.813973,-97.152309,2,1667.83,12042610664,False,$$,Winnipeg
+Top 10 Desserts and Bistro,Asian Fusion,Asian Fusion,Asian Fusion,2.0,"16-2077 Pembina Highway, Winnipeg",49.814209,-97.152283,2,1571.46,12044219138,False,$$,Winnipeg
+Za Pizza Bistro,Pizza,Pizza,NA,4.0,"E-1220 St. Mary's Road, Winnipeg",49.828415,-97.116082,20,1101.92,12046150808,False,$$,Winnipeg
+Maxime's Restaurant & Lounge,"Lounges, Comfort Food",Lounges,NA,3.0,"1131 Saint Mary's Road, Winnipeg",49.83305,-97.11394,30,1230.17,12042571521,False,$$,Winnipeg
+Earls Kitchen + Bar,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),2.5,"1215 St. Mary's Road, Winnipeg",49.828686,-97.113975,23,1240.34,12042541600,False,$$,Winnipeg
+Kawaii Crepe,"Creperies, Bubble Tea",Creperies,NA,3.0,"1220 St Marys Road, Winnipeg",49.828349,-97.115817,17,1122.2,12046913700,False,$$,Winnipeg
+Montana's BBQ & Bar,"Comfort Food, Steakhouses, Canadian (New)",Steakhouses,Canadian (New),3.0,"1221 St Mary'S Rd, Winnipeg",49.827912,-97.114083,17,1255.32,12042542128,False,$$,Winnipeg
+Restö,"Restaurants, Resorts, Day Spas",Restaurants,NA,5.0,"775 Crescent Dr, Winnipeg",49.8335,-97.13948,1,677.22,12042846868,False,$$,Winnipeg
+George's Burgers & Subs,"Sandwiches, Burgers","Sandwiches, Burgers",NA,3.0,"1141 St Mary's Rd, Winnipeg",49.83265,-97.11412,29,1202.93,12042573856,False,$$,Winnipeg
+Rakan House Restaurant,"Asian Fusion, Thai, Malaysian",Asian Fusion,"Asian Fusion, Thai, Malaysian",2.5,"1127 St. Mary's Road, Winnipeg",49.83364,-97.11365,6,1244.31,12044176688,False,$$,Winnipeg
+Chef Song’s Chinese Restaurant,Chinese,Chinese,Chinese,5.0,"1127 Saint Marys Road, Winnipeg",49.83364,-97.11365,1,1244.31,12044176688,False,$$,Winnipeg
+Original Joe's Restaurant & Bar,"American, Bars",Bars,American,1.5,"1220 St. Mary's Road, Winnipeg",49.82833,-97.11587,3,1119.07,12044142966,False,$$,Winnipeg
+La Pampa Empanadas Gourmet,"Argentine, Desserts",Desserts,NA,5.0,"1604 St Mary's Road, Winnipeg",49.819543,-97.113453,1,1799.56,12046158969,False,$$,Winnipeg
+Burrito Splendido,Mexican,Mexican,Mexican,3.5,"1504 St Mary's Road, Winnipeg",49.826105,-97.115538,8,1234.82,12042576127,False,$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"1501 St. Mary's Road, Winnipeg",49.82641,-97.114305,4,1312.5,12049496042,False,$,Winnipeg
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"1225 St. Mary's Rd., Winnipeg",49.826578,-97.113993,1,1312.54,12049495419,False,$,Winnipeg
+Victoria Seafood Restaurant,Chinese,Chinese,Chinese,2.5,"1086 St Marys Rd, Winnipeg",49.83545,-97.11387,6,1314.12,12042550665,False,$$,Winnipeg
+Miriwa Restaurant,Chinese,Chinese,Chinese,2.5,"1572 Saint Mary's Road, Winnipeg",49.82335,-97.11444,8,1469.59,12042571650,False,$$,Winnipeg
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,1.0,"1100 St Mary's Road, Winnipeg",49.83488,-97.11397,4,1275.09,12049878209,False,$$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,1.0,"1225 St Mary's Rd, Winnipeg",49.829062,-97.114563,1,1224.31,12042574683,False,$$,Winnipeg
+Quality Pizza,Pizza,Pizza,NA,4.5,"840 St Mary's Road, Winnipeg",49.848463,-97.112931,2,2306.15,12047773901,False,$$,Winnipeg
+Jimmy The Greek,"Fast Food, Greek",Fast Food,Greek,2.0,"1225 St Mary's Road, Winnipeg",49.829062,-97.114563,4,1224.31,12042567325,False,$$,Winnipeg
+Pizza Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,1.5,"1074 St Marys Road, Winnipeg",49.836616,-97.113429,2,1383.42,12049571111,False,$$,Winnipeg
+Wendy's,"Burgers, Fast Food","Burgers, Fast Food",NA,1.0,"1230 St. Marys Road, Winnipeg",49.82785,-97.11539,2,1173.1,<NA>,False,$$,Winnipeg
+Dairy Queen/Orange Julius Treat Ctr,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,1.0,"140-1225 St Mary's Rd, Winnipeg",49.82893,-97.11455,1,1224.31,12042531589,False,$$,Winnipeg
+Burger King,Fast Food,Fast Food,NA,1.5,"1496 St Mary's Rd, Winnipeg",49.826571,-97.114821,3,1226.31,12049878425,False,$$,Winnipeg
+Popeye's Chicken,"Fast Food, Chicken Wings, Seafood","Fast Food, Seafood",NA,3.0,"1070 St Mary's Road, Winnipeg",49.836714,-97.113075,2,1403.12,12042558771,False,$$,Winnipeg
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"333 St Mary Ave, Winnipeg",49.825706,-97.114822,1,1300.95,12046911484,False,$$,Winnipeg
+Dairy Queen Store,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,1.0,"920 St Marys Rd, Winnipeg",49.844285,-97.113033,1,1932.53,12042564806,False,$$,Winnipeg
+Lahori Kitchen,"Halal, Pakistani",Halal,NA,1.0,"1125 St Mary's Road, Winnipeg",49.833789,-97.113631,1,1264.93,12044144000,False,$$,Winnipeg
+Bourbon St. Grill,Canadian (New),Canadian (New),Canadian (New),2.5,"1225 St. Mary's Road, Winnipeg",49.829562,-97.113579,2,1249.98,12044150168,False,$$,Winnipeg
+Bayview Restaurants,American,American,American,2.0,"Deer Point Road, Winnipeg",49.847469,-97.148178,1,2193.88,<NA>,False,$$,Winnipeg
+Sizzling Dhaba,Indian,Indian,Indian,4.5,"628A St Anne's Rd, Winnipeg",49.830559,-97.08818,11,495.95,12046634222,False,$$,Winnipeg
+Harth Mozza & Wine Bar,Italian,Italian,Italian,4.0,"980 St Anne's Road, Winnipeg",49.818796,-97.081331,36,1696.52,12042550003,False,$$$,Winnipeg
+Santa Ana Pizzeria & Bistro,"Pizza, Italian",Pizza,Italian,4.5,"1631 St. Mary's Road, Winnipeg",49.81991,-97.11201,25,1743.65,12044151440,False,$$,Winnipeg
+Siam Authentic Thai Cuisine,"Thai, Soup, Vegetarian",Thai,Thai,3.0,"587 St.Anne's Road, Winnipeg",49.83278,-97.08874,18,473.4,12042547765,False,$$,Winnipeg
+Big Guy's Ranch & Saloon,"Sports Bars, Comfort Food, American",Sports Bars,American,4.0,"16-200 Meadowood Drive, Winnipeg",49.82757,-97.105637,17,851.89,12042536569,False,$,Winnipeg
+Bellamy's Restaurant & Bar,"Mediterranean, American, Bars",Bars,"Mediterranean, American",4.0,"845 Dakota Street, Winnipeg",49.82964,-97.10505,6,717.99,12042536335,False,$,Winnipeg
+Sushi Ai,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"680 St. Annes Road, Winnipeg",49.826689,-97.085717,11,834.23,12044155445,False,$$,Winnipeg
+Dairy Delight,Burgers,Burgers,NA,4.5,"467 St Anne's Road, Winnipeg",49.84435,-97.095808,11,1472.57,12042554945,False,$$,Winnipeg
+La Fiesta Cafecito & Restaurant,Mexican,Mexican,Mexican,3.5,"730 St Anne's Rd, Winnipeg",49.823189,-97.085103,16,1136.58,12042577108,False,$$,Winnipeg
+Bellamy's,"Canadian (New), Salad",Canadian (New),Canadian (New),4.5,"1-845 Dakota Street, Winnipeg",49.82964,-97.10505,2,720.91,12042536335,False,$$,Winnipeg
+Smitty's Family Restaurant & Lounge,"American, Breakfast & Brunch, Chicken Wings",American,American,3.5,"150 Meadowood Drive, Winnipeg",49.82543,-97.11108,6,1306.5,12042561242,False,$,Winnipeg
+Red Swan Pizza,Pizza,Pizza,NA,4.5,"620 Dakota Street, Winnipeg",49.835289,-97.112141,5,1306.86,12043068888,False,$,Winnipeg
+New China Kitchen,Chinese,Chinese,Chinese,4.0,"446 St Anne's Rd, Winnipeg",49.845099,-97.097004,8,1569.51,12042530713,False,$$,Winnipeg
+Cafe LemonTree,"Korean, Breakfast & Brunch, Asian Fusion",Korean,"Korean, Asian Fusion",4.5,"1631 St Mary's Road, Winnipeg",49.819678,-97.112514,6,1782.17,12046912454,False,$$,Winnipeg
+Joey's Seafood Restaurants,"Seafood, Salad, Fish & Chips",Seafood,NA,4.0,"166 Meadowood Drive, Winnipeg",49.82621,-97.10933,1,1138.09,12042577544,False,$$,Winnipeg
+Tang Dynasty Chinese Restaurant,Chinese,Chinese,Chinese,4.0,"730 St.Annes Road, Winnipeg",49.823296,-97.085149,8,1125.31,12048886661,False,$$,Winnipeg
+Sushi N,Sushi Bars,Sushi Bars,NA,3.5,"726 St Anne's Road, Winnipeg",49.822782,-97.08306,10,1190.62,12042544647,False,$$,Winnipeg
+QDOBA Mexican Eats,"Mexican, Fast Food",Fast Food,Mexican,5.0,"831 Dakota Street, Winnipeg",49.83044,-97.1064,1,817.12,12042537768,False,$$,Winnipeg
+Boston Pizza,Pizza,Pizza,NA,2.0,"1919 Bishop Grandin Blvd, Winnipeg",49.839664,-97.094129,8,953.17,12049254104,False,$$,Winnipeg
+Sushi Gozen Japanese Restaurant,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.0,"1225 St Mary's Road, Winnipeg",49.829062,-97.111948,11,1229.26,12042548247,False,$,Winnipeg
+Fu Lin Chinese,"Chinese, Noodles",Chinese,Chinese,4.0,"956 St Mary's Road, Winnipeg",49.84216,-97.1128,5,1764.02,12046155126,False,$,Winnipeg
+KimChi Korean Delight,"Food Court, Korean, Barbeque",Barbeque,Korean,2.0,"1225 St.Mary's Road, Winnipeg",49.828264,-97.109057,1,1049.57,12042199876,False,$,Winnipeg
+Diana's Cucina Pizza,"Pizza, Italian",Pizza,Italian,3.0,"730 Saint Anne's Road, Winnipeg",49.8233,-97.085153,5,1124.78,12046912828,False,$,Winnipeg
+Royal Paan,Indian,Indian,Indian,2.0,"166 Meadowood Drive, Winnipeg",49.826144,-97.109252,3,1155.3,12046154040,False,$,Winnipeg
+Tapp's Neighbourhood Pub,"Pubs, Comfort Food, Sports Bars","Pubs, Sports Bars",NA,3.5,"1105 St. Mary's Road, Winnipeg",49.83518,-97.11261,6,1331.19,12042564315,False,$$,Winnipeg
+Lamar Donair & Burgers,"Middle Eastern, Donairs, Burgers",Burgers,Middle Eastern,3.0,"17 - 160 Meadowood Drive, Winnipeg",49.82568,-97.110462,1,1256.24,12044217770,False,$$,Winnipeg
+Thai Express,Thai,Thai,Thai,1.0,"1225 Saint Mary's Road, Winnipeg",49.828109,-97.108721,1,1032.05,12042558424,False,$$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,1.0,"835 St Mary's Rd, Winnipeg",49.848878,-97.112163,1,2323.15,12042536628,False,$,Winnipeg
+Little Caesar's Pizza,Pizza,Pizza,NA,4.0,"845 Dakota St, Winnipeg",49.82891,-97.10457,1,721.61,12042575555,False,$,Winnipeg
+Jolly Mug Restaurant,Diners,Diners,NA,3.0,"1077 St Mary's Road, Winnipeg",49.836426,-97.11245,5,1341.91,12042564269,False,$,Winnipeg
+Gondola Pizza Restaurants,Pizza,Pizza,NA,2.5,"12 Britannica Rd, Winnipeg",49.8146,-97.11106,3,2163.08,12042556440,False,$,Winnipeg
+Copper Penny Restaurant,Restaurants,Restaurants,NA,2.0,"1105 St Mary's Rd, Winnipeg",49.83518,-97.11261,1,1331.19,12042564315,False,$,Winnipeg
+Falafel Place,Falafel,Falafel,NA,4.5,"1101 Corydon Ave, Winnipeg",49.8663,-97.1677,47,1891.27,12044895811,False,$$,Winnipeg
+Pho Hoang,Vietnamese,Vietnamese,Vietnamese,4.5,"794 Sargent Avenue, Winnipeg",49.89659,-97.16797,68,1756.18,12044156893,False,$$,Winnipeg
+Thom Bargen Coffee and Tea,"Canadian (New), Coffee & Tea",Coffee & Tea,Canadian (New),4.5,"64 Sherbrook Street, Winnipeg",49.880777,-97.159964,27,1264.47,<NA>,False,$,Winnipeg
+De Luca's Specialty Food Store,"Grocery, Delis, Cooking Classes",Grocery,NA,4.0,"950 Portage Avenue, Winnipeg",49.8846,-97.173121,14,425.12,12047747617,False,$$,Winnipeg
+Preservation Hall,"French, Wine Bars, Steakhouses","Wine Bars, Steakhouses",French,5.0,"655 Empress Street, Winnipeg",49.887421,-97.196151,10,1349.32,12047832386,False,$$,Winnipeg
+529 Wellington,Steakhouses,Steakhouses,NA,4.0,"529 Wellington Cresent, Winnipeg",49.87655,-97.16128,74,1300.0,12044878325,False,$$$$,Winnipeg
+Pizzeria Gusto,"Pizza, Wine Bars, Italian","Pizza, Wine Bars",Italian,4.0,"404 Academy Road, Winnipeg",49.87353,-97.18344,35,1026.28,12049448786,False,$$$,Winnipeg
+Rae and Jerry's Steak House,"Steakhouses, Lounges, Caterers",Steakhouses,NA,3.5,"1405 Portage Avenue, Winnipeg",49.88267,-97.19253,58,1083.7,12047836155,False,$$$,Winnipeg
+Tre Visi Cafe,Italian,Italian,Italian,4.5,"926 Grosvenor Avenue, Winnipeg",49.870461,-97.163072,13,1650.02,12044754447,False,$$,Winnipeg
+Verde Juice Bar,"Juice Bars & Smoothies, Salad, Coffee & Tea","Juice Bars & Smoothies, Coffee & Tea",NA,5.0,"887 Westminster Avenue, Winnipeg",49.88181,-97.17095,4,474.15,12046158733,False,$$,Winnipeg
+Wall Street Slice,Pizza,Pizza,NA,4.5,"753 Wall Street, Winnipeg",49.88898,-97.18227,15,848.36,12042217272,False,$$,Winnipeg
+Sargent Taco Shop,Mexican,Mexican,Mexican,4.5,"698 Sargent Avenue, Winnipeg",49.89644,-97.16335,16,1904.04,12045051121,False,$$,Winnipeg
+The Grove Pub & Restaurant,"British, Pubs",Pubs,British,4.0,"164 Stafford St, Winnipeg",49.87072,-97.16318,24,1619.58,12044153262,False,$$,Winnipeg
+Pho Kim Tuong,Vietnamese,Vietnamese,Vietnamese,4.0,"856 Ellice Avenue, Winnipeg",49.89311,-97.1709,21,1322.83,12046618888,False,$,Winnipeg
+Máquè,Asian Fusion,Asian Fusion,Asian Fusion,4.5,"909 Dorchester Avenue, Winnipeg",49.87001,-97.16265,16,1709.45,12042843385,False,$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,4.0,"1146 Portage Ave, Winnipeg",49.88347,-97.18137,2,316.32,12047755203,False,$$,Winnipeg
+Roughage Eatery,Vegan,Vegan,NA,5.0,"126 Sherbrook Street, Winnipeg",49.88262,-97.159901,8,1263.08,12047798344,False,$$,Winnipeg
+Lucky Koi Chinese Restaurant,Chinese,Chinese,Chinese,5.0,"1100 Portage Avenue, Winnipeg",49.883883,-97.179335,1,244.85,12049439933,False,$$,Winnipeg
+QDOBA Mexican Eats,"Mexican, Fast Food",Fast Food,Mexican,4.0,"1340 Ellice Ave, Winnipeg",49.893643,-97.19502,21,1801.04,12047831601,False,$,Winnipeg
+Cilantro's Modern Indian Cuisine,Indian,Indian,Indian,4.5,"1132 Portage Ave, Winnipeg",49.883782,-97.180175,2,273.53,12043066354,False,$,Winnipeg
+Aladin's,"Pizza, Mediterranean, Italian",Pizza,"Mediterranean, Italian",4.5,"912 Portage Avenue, Winnipeg",49.88486,-97.17099,4,566.59,12044164560,False,$,Winnipeg
+Cindy's Burgers & Subs,"Sandwiches, Burgers","Sandwiches, Burgers",NA,3.5,"904 Portage Avenue, Winnipeg",49.88509,-97.17009,10,638.17,12047791136,False,$,Winnipeg
+Viena Do Castelo,"Portuguese, Bakeries, Grocery",Portuguese,NA,4.5,"105-819 Sargent Ave, Winnipeg",49.897091,-97.169411,8,1755.91,12044154615,False,$,Winnipeg
+Rice Bowl,"Vietnamese, Filipino, Chinese",Vietnamese,"Vietnamese, Filipino, Chinese",4.5,"641 Sargent Avenue, Winnipeg",49.896878,-97.161169,8,2024.34,12047792777,False,$,Winnipeg
+Montana's,"Steakhouses, Comfort Food, Canadian (New)",Steakhouses,Canadian (New),3.5,"665 Empress Street, Winnipeg",49.886484,-97.194592,22,1320.85,12047899939,False,$$,Winnipeg
+Sabai Thai Eatery,Thai,Thai,Thai,3.5,"1113 Corydon Avenue, Winnipeg",49.866024,-97.168156,14,1890.52,12048886508,False,$$,Winnipeg
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.0,"1132 Portage Avenue, Winnipeg",49.883631,-97.180333,1,270.19,12047838822,False,$$,Winnipeg
+Slices Pizza,Pizza,Pizza,NA,3.5,"1329 Portage Avenue, Winnipeg",49.882811,-97.188999,14,828.15,12047863434,False,$,Winnipeg
+Taco Del Mar,"Mexican, Tex-Mex, Fast Food",Fast Food,Mexican,1.0,"1132 Portage Ave, Winnipeg",49.883694,-97.18011,1,263.32,<NA>,False,$,Winnipeg
+Portage Meat & Sausage Deli,"Delis, Sandwiches",Sandwiches,NA,3.5,"1032 Portage Avenue, Winnipeg",49.884254,-97.176267,3,264.47,12047755023,False,$,Winnipeg
+Blady Middle Eastern,"Middle Eastern, Mediterranean",Middle Eastern,"Middle Eastern, Mediterranean",5.0,"1324 Portage Ave, Winnipeg",49.882315,-97.189116,2,832.51,12046152994,False,$,Winnipeg
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,2.0,"981 Portage Ave, Winnipeg",49.884868,-97.175269,3,354.58,12047744849,False,$$,Winnipeg
+Shorty’s Pizza,"Italian, Pizza, Sandwiches","Pizza, Sandwiches",Italian,4.5,"53 Maryland Street, Winnipeg",49.8805,-97.16082,7,1203.8,12047797968,False,$$,Winnipeg
+Flea Whiskey's,"Pool Halls, American",Pool Halls,American,3.5,"601 Erin Street, Winnipeg",49.8835,-97.185075,4,593.39,12047752727,False,$,Winnipeg
+The Original Pancake House,"Breakfast & Brunch, Desserts, Waffles",Desserts,NA,3.0,"1445 Portage Avenue, Winnipeg",49.882332,-97.195378,18,1280.99,12047759035,False,$$,Winnipeg
+Domino's Pizza,Pizza,Pizza,NA,1.0,"980 Portage Avenue, Winnipeg",49.884406,-97.17508,2,311.53,12049875550,False,$$,Winnipeg
+Nhu Quynh Restaurant,Vietnamese,Vietnamese,Vietnamese,4.0,"609 Ellice Ave, Winnipeg",49.8932,-97.15952,8,1775.59,12047861182,False,$,Winnipeg
+Mr Calzone,"Halal, Middle Eastern, Pizza",Pizza,Middle Eastern,3.5,"749 Ellice Avenue, Winnipeg",49.893311,-97.165827,11,1508.43,12047793408,False,$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,5.0,"949 Corydon Ave, Winnipeg",49.86837,-97.161079,2,1921.04,12042845411,False,$,Winnipeg
+Tropikis Restaurant,Restaurants,Restaurants,NA,4.0,"878 Ellice Ave, Winnipeg",49.89323,-97.17228,10,1301.86,12047884733,False,$$,Winnipeg
+Taco Bell,Mexican,Mexican,Mexican,5.0,"1275 Portage Avenue, Winnipeg",49.883252,-97.186465,1,656.32,12049878004,False,$$,Winnipeg
+Santa Lucia Pizza,"Pizza, Italian, Greek",Pizza,"Italian, Greek",4.0,"905 Corydon Avenue, Winnipeg",49.86897,-97.159633,8,1935.73,12044888090,False,$$,Winnipeg
+Hildegard's Bakery,"Pizza, Coffee & Tea, Bakeries","Pizza, Coffee & Tea",NA,4.0,"686 Portage Avenue, Winnipeg",49.887682,-97.160787,4,1352.98,12046150889,False,$$,Winnipeg
+One Sixteen,"Coffee & Tea, Burgers, Beer Bar","Coffee & Tea, Burgers, Beer Bar",NA,3.0,"116 Sherbrook Street, Winnipeg",49.88221,-97.15993,4,1258.69,14318872337,False,$$,Winnipeg
+Banza Noodle &Tea House,"Asian Fusion, Bubble Tea",Asian Fusion,Asian Fusion,5.0,"102 Sherbrook Street, Winnipeg",49.882011,-97.159771,4,1272.91,12043064188,False,$$,Winnipeg
+Shawarma Time Restaurant,Halal,Halal,NA,2.5,"616 Ellice Ave, Winnipeg",49.89284,-97.159859,17,1740.67,12047742109,False,$,Winnipeg
+Hi-Ball Restaurant,"Chinese, Seafood, Soup",Seafood,Chinese,3.0,"421 Academy Road, Winnipeg",49.87396,-97.184555,7,1039.79,12044884487,False,$,Winnipeg
+Burger King,"Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"333 Home Street, Winnipeg",49.88668,-97.16752,4,904.95,12049878428,False,$,Winnipeg
+Good Lands Cafe,"Vegan, Middle Eastern, Coffee & Tea",Coffee & Tea,Middle Eastern,5.0,"679 Sargent Avenue, Winnipeg",49.896751,-97.16265,3,1956.46,12044164883,False,$,Winnipeg
+Portage Eatery,Chinese,Chinese,Chinese,5.0,"103-912 Portage Avenue, Winnipeg",49.88486,-97.17099,1,566.59,12045040369,False,$,Winnipeg
+Juneberry,"Breakfast & Brunch, Desserts, Coffee & Tea","Desserts, Coffee & Tea",NA,4.0,"531 St Mary's Road, Winnipeg",49.86693,-97.11039,10,388.05,12043068838,False,$,Winnipeg
+Pho Yo,Vietnamese,Vietnamese,Vietnamese,4.0,"513 Saint Mary's Road, Winnipeg",49.867609,-97.110542,10,442.69,12046150234,False,$,Winnipeg
+Marion Street Eatery,Canadian (New),Canadian (New),Canadian (New),4.0,"393 Marion Street, Winnipeg",49.88223,-97.10902,56,1913.09,12042332843,False,$$,Winnipeg
+Red Top Drive Inn,"Burgers, Greek",Burgers,Greek,4.0,"219 Saint Mary's Road, Winnipeg",49.87543,-97.11773,36,1433.66,12042337943,False,$,Winnipeg
+Vanxai's Lao Thai Restaurant,Thai,Thai,Thai,4.0,"79 B Saint Anne's Road, Winnipeg",49.86167,-97.1084,9,432.54,12049969994,False,$$,Winnipeg
+Shahi Flames,Indian,Indian,Indian,5.0,"208 Marion Street, Winnipeg",49.88128,-97.11885,9,2030.35,12043068000,False,$$,Winnipeg
+Inferno's Bistro,French,French,French,4.0,"312 Des Meurons Street, Winnipeg",49.8822,-97.11054,30,1930.25,12042627400,False,$$$,Winnipeg
+Salisbury House,"Coffee & Tea, Breakfast & Brunch, Burgers","Coffee & Tea, Burgers",NA,4.0,"255 St. Anne's Road, Winnipeg",49.85475,-97.10297,9,1174.16,12042552823,False,$$$,Winnipeg
+Aroma Bistro,"Chinese, Hong Kong Style Cafe",Hong Kong Style Cafe,Chinese,5.0,"741 St Mary's Road, Winnipeg",49.855055,-97.111505,6,1190.3,12046916364,False,$$$,Winnipeg
+Dairi-Wip Drive-In,Burgers,Burgers,NA,4.5,"383 Marion St, Winnipeg",49.882106,-97.109612,17,1928.75,12042335144,False,$$,Winnipeg
+Helios Restaurant,Greek,Greek,Greek,4.5,"241 St Mary's Road, Winnipeg",49.874839,-97.11696,4,1348.64,12042333655,False,$$,Winnipeg
+Mrs Mike's,"Burgers, Fast Food, Hot Dogs","Burgers, Fast Food",NA,4.5,"286 Tache Avenue, Winnipeg",49.88079,-97.12307,15,2145.58,12042373977,False,$,Winnipeg
+Pho Cuu Long Restaurant,"Vietnamese, Chinese",Vietnamese,"Vietnamese, Chinese",4.5,"757 St Mary's Road, Winnipeg",49.854246,-97.111251,6,1269.31,12045050400,False,$,Winnipeg
+Yellow Derny Cafe,"Cafes, Coffee & Tea","Cafes, Coffee & Tea",NA,4.5,"Woodcock Cycle, Winnipeg",49.87091,-97.11205,6,798.88,12042535896,False,$,Winnipeg
+Vientiane Restaurant,Thai,Thai,Thai,4.0,"12-208 Marion Street, Winnipeg",49.88128,-97.11885,14,2030.35,12042351576,False,$$,Winnipeg
+Chicken Chef,"Chicken Wings, Pizza, American",Pizza,American,4.0,"6-276 Marion Street, Winnipeg",49.881568,-97.115378,7,1957.21,12042312433,False,$$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,3.5,"144 St. Anne's Rd., Winnipeg",49.859184,-97.107512,5,669.48,12049496072,False,$$,Winnipeg
+Marigold Restaurants,"Caterers, Chinese, Imported Food",Caterers,Chinese,2.0,"487 St Mary's Rd, Winnipeg",49.86888,-97.110557,7,520.19,12042331453,False,$$,Winnipeg
+Nola,Canadian (New),Canadian (New),Canadian (New),4.0,"101-300 Tache Avenue, Winnipeg",49.881256,-97.1232,6,2189.13,12045050760,False,$$,Winnipeg
+Thyme Cafe and Books,"Cafes, Donuts, Used Bookstore",Cafes,NA,4.5,"268 Tache Avenue, Winnipeg",49.8801,-97.12305,4,2082.4,12042330441,False,$$,Winnipeg
+Eat On Samosa,Indian,Indian,Indian,4.0,"460 St Mary's Rd, Winnipeg",49.86941,-97.11148,2,631.97,12043382800,False,$$,Winnipeg
+Johnny's Marion Restaurant,Burgers,Burgers,NA,3.5,"382 Marion St, Winnipeg",49.88175,-97.10962,10,1873.05,12042376219,False,$$,Winnipeg
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,4.0,"249 Saint Mary's Road, Winnipeg",49.87434,-97.116401,1,1280.2,12049405567,False,$$,Winnipeg
+Alibaba Turkish Restaurant,Turkish,Turkish,NA,4.5,"754 St Mary's Rd, Winnipeg",49.85383,-97.11229,3,1320.19,12044167878,False,$$,Winnipeg
+Sato Sushi,Sushi Bars,Sushi Bars,NA,4.0,"160 St. Anne's Road, Winnipeg",49.85851,-97.10698,4,733.29,12042542525,False,$$,Winnipeg
+Miss Christine's kitchen,Caribbean,Caribbean,Caribbean,5.0,"611 Archibald Street, Winnipeg",49.88232,-97.09936,1,1974.44,12046981546,False,$$,Winnipeg
+Dairy Queen,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,1.0,"152 St Annes Rd, Winnipeg",49.858992,-97.107192,1,686.61,12042564779,False,$$,Winnipeg
+Niakwa Pizza,Pizza,Pizza,NA,4.0,"688 Elizabeth Road, Winnipeg",49.870993,-97.090558,2,1271.05,12042567655,False,$$,Winnipeg
+Boun's Restaurant,"Vietnamese, Laotian, Thai",Vietnamese,"Vietnamese, Thai",3.5,"4-208 Marion Street, Winnipeg",49.88128,-97.11885,7,2044.72,12042313005,False,$$,Winnipeg
+Deen's Caribbean Restaurant & Patio,Caribbean,Caribbean,Caribbean,3.5,"205 Marion Street, Winnipeg",49.881737,-97.118992,8,2083.87,12042332208,False,$,Winnipeg
+Taco Del Mar,"Mexican, Tex-Mex, Fast Food",Fast Food,Mexican,1.0,"249 St. Mary's Rd, Winnipeg",49.87446,-97.1164,2,1290.19,12049405567,False,$,Winnipeg
+Loona Rosa Pizza,"Caterers, Pizza",Pizza,NA,3.0,"460 St Mary's Rd, Winnipeg",49.869335,-97.11136,1,631.97,12042351289,False,$,Winnipeg
+Dad's Family Restaurant,Fast Food,Fast Food,NA,2.0,"145 St Anne's Rd, Winnipeg",49.859207,-97.106658,2,649.35,12042577500,False,$$,Winnipeg
+Junior's Restaurant,Burgers,Burgers,NA,2.5,"785 St Mary's Rd, Winnipeg",49.85224,-97.11153,7,1472.31,12042566571,False,$$,Winnipeg
+Red Foot Kitchen,"Chicken Shop, Fast Food",Fast Food,NA,4.0,"741 St Mary's Rd, Winnipeg",49.854933,-97.111527,1,1191.32,12042191215,False,$$,Winnipeg
+Atta Sushi,Sushi Bars,Sushi Bars,NA,5.0,"741 Saint Mary's Road, Winnipeg",49.854778,-97.11157,1,1220.9,12046916364,False,$$,Winnipeg
+Oriental Pearl Chinese Food Home Delivery,"Caterers, Chinese, Imported Food",Caterers,Chinese,2.5,"407 Marion St, Winnipeg",49.882134,-97.108746,2,1905.82,12042378985,False,$$,Winnipeg
+Chicken Delight of Canada,Chicken Wings,Chicken Wings,NA,1.0,"280 St Anne's Road, Winnipeg",49.85245,-97.10229,5,1440.37,12049821305,False,$$,Winnipeg
+Kai Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.0,"680 Elizabeth Road, Winnipeg",49.87085,-97.08889,3,1355.59,12046913651,False,$$,Winnipeg
+JOEY Polo Park,"Canadian (New), Lounges, Steakhouses",Steakhouses,Canadian (New),4.5,"635 Saint James St, Winnipeg",49.8816,-97.2012,56,1397.19,12043395639,False,$$,Winnipeg
+Les Saj Restaurant,"Middle Eastern, Mediterranean, Halal",Middle Eastern,"Middle Eastern, Mediterranean",4.5,"1038 St James Street, Winnipeg",49.89549,-97.20107,50,1467.57,12042198939,False,$$,Winnipeg
+Fusion Grill,Canadian (New),Canadian (New),Canadian (New),4.5,"550 Academy Road, Winnipeg",49.874008,-97.197368,36,1798.41,12044896963,False,$$$,Winnipeg
+Cafe Dario,Latin American,Latin American,Latin American,4.5,"1390 Erin Street, Winnipeg",49.90091,-97.18417,22,1462.14,12047832813,False,$$$,Winnipeg
+Sushi Cushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1045 St James Street, Winnipeg",49.895559,-97.200287,38,1310.95,12047729257,False,$$,Winnipeg
+Saucers Cafe,"Cafes, Salad, Sandwiches","Cafes, Sandwiches",NA,4.0,"570 Academy Road, Winnipeg",49.874313,-97.198271,16,1804.99,12044899204,False,$$,Winnipeg
+Ye's Buffet,"Buffets, Japanese",Buffets,Japanese,3.5,"616 Saint James Street, Winnipeg",49.881195,-97.201897,43,1463.96,12048966666,False,$$,Winnipeg
+Jollibee,"Chicken Shop, Fast Food",Fast Food,NA,3.5,"1406 Ellice Ave, Winnipeg",49.893502,-97.198501,25,1206.11,12047726701,False,$,Winnipeg
+Earls Kitchen + Bar,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"1455 Portage Ave, Winnipeg",49.881561,-97.197057,37,1151.58,12049751845,False,$$,Winnipeg
+Za Pizza Bistro,Pizza,Pizza,NA,4.0,"1424 Ellice Avenue, Winnipeg",49.893185,-97.199318,16,1238.73,12048881999,False,$$,Winnipeg
+Red Lobster,"Seafood, American",Seafood,American,3.5,"1540 Portage Avenue, Winnipeg",49.880081,-97.200939,28,1473.34,12047839434,False,$$,Winnipeg
+Tony Roma's,"Steakhouses, American, Barbeque","Steakhouses, Barbeque",American,2.5,"656 St. James Street, Winnipeg",49.8823,-97.20205,11,1415.02,12049499426,False,$$,Winnipeg
+Hooters,"Chicken Wings, Burgers",Burgers,NA,3.0,"1501 St. Matthews Avenue, Winnipeg",49.891085,-97.198779,10,1160.47,12047749464,False,$$,Winnipeg
+Moxies,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.0,"1485 Portage Ave, Winnipeg",49.882141,-97.198638,22,1209.39,12047831840,False,$$,Winnipeg
+Cora,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"1440 Jack Blick Avenue, Winnipeg",49.885863,-97.197855,9,1001.16,12044157730,False,$$,Winnipeg
+Olive Garden Italian Restaurant,"Italian, Salad, Soup",Italian,Italian,2.5,"1544 Portage Avenue, Winnipeg",49.879915,-97.201546,34,1519.45,12047749725,False,$$,Winnipeg
+Boston Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,3.5,"690 St James Street, Winnipeg",49.883983,-97.201646,13,1339.0,12049254107,False,$$,Winnipeg
+Vi-Ann Restaurant,Vietnamese,Vietnamese,Vietnamese,4.5,"1020 Notre Dame Avenue, Winnipeg",49.905474,-97.172555,8,2137.28,12045058823,False,$$,Winnipeg
+OPA! of Greece Polo Park,"Greek, Fast Food",Fast Food,Greek,4.0,"1485 Portage Ave, Winnipeg",49.882366,-97.1988,8,1206.68,12047729743,False,$$,Winnipeg
+Tavern United,"Sports Bars, Burgers","Sports Bars, Burgers",NA,2.5,"1405 St. Matthews Avenue, Winnipeg",49.891596,-97.194366,10,843.05,12047898879,False,$$,Winnipeg
+chachi's,Sandwiches,Sandwiches,NA,5.0,"1485 Portage Avenue, Winnipeg",49.881051,-97.198161,2,1150.1,12046918969,False,$$,Winnipeg
+Empty Cup,"Cafes, Coffee & Tea, Bakeries","Cafes, Coffee & Tea",NA,4.5,"544 Academy Road, Winnipeg",49.874001,-97.196737,4,1775.77,12044167350,False,$$,Winnipeg
+Mongo's Grill,Mongolian,Mongolian,NA,3.5,"1412 Ellice Avenue, Winnipeg",49.894035,-97.198926,6,1199.01,12047722698,False,$$,Winnipeg
+Smitty's,"Lounges, Breakfast & Brunch, Canadian (New)",Lounges,Canadian (New),2.5,"1017 St James Street, Winnipeg",49.89471,-97.19981,8,1365.89,12047864445,False,$$,Winnipeg
+Pho Linh Linh,Vietnamese,Vietnamese,Vietnamese,4.5,"1060 Ellice Avenue, Winnipeg",49.893421,-97.181862,2,646.41,12045050898,False,$$,Winnipeg
+PF Chang's,"Chinese, Asian Fusion",Chinese,"Chinese, Asian Fusion",3.0,"865 St James Street, Winnipeg",49.889325,-97.199013,6,1075.06,12047751777,False,$$,Winnipeg
+Wayback Burgers,"Burgers, Hot Dogs, Sandwiches","Burgers, Sandwiches",NA,3.5,"1255 St James Street, Winnipeg",49.90206,-97.1991,8,1910.83,12042197829,False,$$,Winnipeg
+Fortune Cooking Chinese Restaurant,Chinese,Chinese,Chinese,3.0,"1045 St. James St, Winnipeg",49.894909,-97.198846,18,1315.19,12047747888,False,$$,Winnipeg
+Sous Sol,"French, Cocktail Bars",Cocktail Bars,French,5.0,"222 Osborne Street, Winnipeg",49.87565,-97.142347,21,227.78,<NA>,False,$$$$,Winnipeg
+Nuburger,Burgers,Burgers,NA,4.0,"472 Stradbrook Avenue, Winnipeg",49.877505,-97.145412,66,527.03,12048881001,False,$$,Winnipeg
+Passero,Italian,Italian,Italian,4.5,"1 Forks Market Road, Winnipeg",49.88819,-97.13186,25,1043.72,12042197300,False,$$,Winnipeg
+Confusion Corner Drinks + Food,"Bars, Canadian (New), Pizza","Bars, Pizza",Canadian (New),3.5,"500 Corydon Avenue, Winnipeg",49.873903,-97.143494,29,195.38,12042846666,False,$$,Winnipeg
+Brazen Hall,"Canadian (New), Breweries, Barbeque",Barbeque,Canadian (New),3.5,"800 Pembina Highway, Winnipeg",49.85726,-97.15096,74,1981.06,12044537980,False,$$,Winnipeg
+Capital Grill & Bar,"American, Bars, Canadian (New)",Bars,"American, Canadian (New)",4.5,"275 Broadway Avenue, Winnipeg",49.888299,-97.138444,15,1617.62,12044161144,False,$$,Winnipeg
+Saperavi,"Middle Eastern, Modern European",Middle Eastern,"Middle Eastern, Modern European",4.5,"709 Corydon Avenue, Winnipeg",49.871436,-97.15189,17,857.53,12044163996,False,$$$,Winnipeg
+Stella's Plug In,"Breakfast & Brunch, Sandwiches, Bakeries",Sandwiches,NA,4.0,"460 Portage Avenue, Winnipeg",49.890534,-97.151736,85,2016.86,12047721556,False,$$,Winnipeg
+Kawaii Crepe,"Creperies, Breakfast & Brunch, Bubble Tea",Creperies,NA,4.0,"99 Osborne Street, Winnipeg",49.87865,-97.14641,79,674.23,12044152833,False,$,Winnipeg
+The Roost,"Cocktail Bars, Tapas/Small Plates",Cocktail Bars,NA,4.5,"651 Corydon Avenue, Winnipeg",49.87222,-97.15,13,684.02,12044149313,False,$,Winnipeg
+East India Company Pub & Eatery,Indian,Indian,Indian,4.0,"349 York Avenue, Winnipeg",49.888947,-97.143075,96,1689.1,12049473097,False,$$,Winnipeg
+Naru Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"159 Osborne Street, Winnipeg",49.87722,-97.14451,26,462.02,12048880028,False,$$,Winnipeg
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,4.0,"115 Garry St, Winnipeg",49.88909,-97.13769,40,1711.25,12049427619,False,$$$,Winnipeg
+Arabesque Hookah Cafe,"Hookah Bars, Middle Eastern, Falafel",Hookah Bars,Middle Eastern,4.5,"201-659 Corydon Avenue, Winnipeg",49.87212,-97.15028,10,705.9,12046155175,False,$,Winnipeg
+Fergies Fish N Chips & Seafood Market,"Seafood, Fish & Chips",Seafood,NA,4.0,"1 Forks Market Road, Winnipeg",49.887121,-97.131597,42,1617.57,12049429444,False,$$,Winnipeg
+Santa Lucia Pizza,"Italian, Greek, Pizza",Pizza,"Italian, Greek",3.5,"4 Saint Mary's Road, Winnipeg",49.880919,-97.128435,35,1184.39,12042374134,False,$$,Winnipeg
+Bangkok Thai Restaurant,Thai,Thai,Thai,4.0,"100 Osborne Street, Winnipeg",49.879034,-97.145989,26,689.14,12044740908,False,$$,Winnipeg
+Sukhothai,Thai,Thai,Thai,4.0,"191 Osborne Street, Winnipeg",49.8762,-97.14381,26,335.17,12046336907,False,$$,Winnipeg
+Elephant & Castle,"British, Pubs",Pubs,British,3.5,"350 St Mary Ave, Winnipeg",49.889905,-97.143624,47,1811.63,12049425555,False,$$,Winnipeg
+Daly Burgers,"Hot Dogs, Burgers",Burgers,NA,3.5,"619 Corydon Ave, Winnipeg",49.87267,-97.14855,25,570.29,12042844944,False,$,Winnipeg
+Golden Elephant,"Vietnamese, Thai",Vietnamese,"Vietnamese, Thai",5.0,"635 Pembina Highway, Winnipeg",49.863433,-97.148536,14,1283.01,12044148366,False,$,Winnipeg
+Wakoya sushi,"Japanese, Korean",Japanese,"Japanese, Korean",4.0,"167 Osborne Street, Winnipeg",49.876724,-97.143974,12,403.17,12047837777,False,$$,Winnipeg
+Burrito del Rio,Mexican,Mexican,Mexican,3.5,"433 River Avenue, Winnipeg",49.879659,-97.14566,33,736.89,12044155600,False,$,Winnipeg
+Carlos & Murphy's,"Mexican, Burgers, Chicken Wings",Burgers,Mexican,3.0,"129 Osborne Street, Winnipeg",49.87807,-97.14584,33,595.04,12042843510,False,$$,Winnipeg
+VJ's Drive-In,Burgers,Burgers,NA,4.0,"170 Main Street, Winnipeg",49.88948,-97.13577,63,1787.83,12049432655,False,$,Winnipeg
+O Station Cafe,Cafes,Cafes,NA,4.5,"100A-257 Osborne Street, Winnipeg",49.874254,-97.141963,2,97.68,12042212709,False,$,Winnipeg
+Cocoabeans Bakeshop,"Bakeries, Gluten-Free, Breakfast & Brunch",Bakeries,NA,4.0,"774 Corydon ave, Winnipeg",49.870517,-97.154295,9,1036.86,12049185313,False,$$,Winnipeg
+Miss Browns,"Coffee & Tea, Breakfast & Brunch, Sandwiches","Coffee & Tea, Sandwiches",NA,4.0,"1-242 Hargrave Street, Winnipeg",49.891114,-97.144072,26,1936.51,12046151161,False,$$,Winnipeg
+Spicy Noodle House,Chinese,Chinese,Chinese,3.5,"99 Osborne Street, Winnipeg",49.878786,-97.146345,25,674.23,12042872388,False,$$,Winnipeg
+A Little Pizza Heaven,Pizza,Pizza,NA,3.5,"120 Osborne Street, Winnipeg",49.878627,-97.145793,40,603.25,12047775255,False,$,Winnipeg
+Smith Restaurant,"Canadian (New), Breakfast & Brunch, Lounges",Canadian (New),Canadian (New),3.5,"75 Forks Market Road, Winnipeg",49.88773,-97.129265,30,1760.34,12049442445,False,$$$,Winnipeg
+Frenchway Cafe,"French, Bakeries, Breakfast & Brunch",French,French,4.0,"238 Lilac Street, Winnipeg",49.86979,-97.157538,17,1292.0,12044219002,False,$$,Winnipeg
+Vera,Pizza,Pizza,NA,5.0,"670 Osborne Street, Winnipeg",49.862657,-97.132268,9,1383.63,12042226306,False,$$,Winnipeg
+Carbone Coal Fired Pizza,"Pizza, Italian",Pizza,Italian,4.0,"260 Saint Mary Avenue, Winnipeg",49.891066,-97.139465,12,1902.69,12046912213,False,$$,Winnipeg
+Thida's Thai Restaurant,"Thai, Seafood, Noodles",Seafood,Thai,3.5,"78 Donald Street, Winnipeg",49.88688,-97.1402,37,1465.26,12049422639,False,$$,Winnipeg
+Affinity Vegetarian Garden Restaurant,"Vegetarian, Vegan",Vegetarian,NA,4.0,"208 Edmonton Street, Winnipeg",49.890157,-97.146194,21,1856.76,12049430251,False,$$,Winnipeg
+Little Bones Wings,"Chicken Wings, Food Trucks",Chicken Wings,NA,4.5,"123 Regent Ave W, Winnipeg",49.89535,-97.00418,11,10070.08,12047772663,False,$,Winnipeg
+The Palm Room,"Cocktail Bars, Music Venues, Breakfast & Brunch",Cocktail Bars,NA,4.0,"222 Broadway, Winnipeg",49.88789,-97.13672,10,1599.94,12049428251,False,$$,Winnipeg
+BMC Market,Mexican,Mexican,Mexican,4.5,"722 Osborne Street, Winnipeg",49.861694,-97.131635,28,1499.77,12044155192,False,$,Winnipeg
+Niko's Restaurant,Greek,Greek,Greek,4.0,"740 Corydon Avenue, Winnipeg",49.870654,-97.152472,19,909.9,12044781144,False,$$,Winnipeg
+The Oakwood,"Salad, Burgers, Poutineries",Burgers,NA,3.5,"660 Osborne Street, Winnipeg",49.86315,-97.132251,30,1335.2,12044754250,False,$$,Winnipeg
+Massawa,Ethiopian,Ethiopian,Ethiopian,4.0,"121 Osborne St, Winnipeg",49.878333,-97.145988,13,613.11,12042843194,False,$$,Winnipeg
+Ramallah Cafe After Hours,"Hookah Bars, Middle Eastern, Sandwiches","Hookah Bars, Sandwiches",Middle Eastern,4.0,"325 Pembina Highway, Winnipeg",49.871133,-97.14446,17,389.49,12046155535,False,$$,Winnipeg
+Banh Mi King,"Vietnamese, Desserts, Bubble Tea",Desserts,Vietnamese,4.5,"510 Portage Avenue, Winnipeg",49.889844,-97.153295,20,1982.63,12047759323,False,$$,Winnipeg
+Smitty's Family Restaurant & Lounge,"Breakfast & Brunch, Chicken Wings, American",Breakfast & Brunch,American,3.5,"580 Pembina Highway, Winnipeg",49.86567,-97.14603,11,922.13,12042611005,False,$$,Winnipeg
+The Don Restaurant,"Breakfast & Brunch, Sandwiches, Burgers","Sandwiches, Burgers",NA,3.5,"120 Donald Street, Winnipeg",49.888302,-97.141102,20,1609.48,12049476644,False,$$,Winnipeg
+Poké Mono,"Japanese, Poke, Hawaiian",Japanese,Japanese,5.0,"77 Edmonton Street, Winnipeg",49.886112,-97.143507,6,1379.88,12049441987,False,$$,Winnipeg
+2 Kelly's Cafe,Cafes,Cafes,NA,4.5,"81 Garry Street, Winnipeg",49.887249,-97.136736,20,1519.99,12049424020,False,$,Winnipeg
+Monticchio Ristorante Italiano,"Italian, Pizza, Salad",Pizza,Italian,4.0,"684 Osborne Street, Winnipeg",49.862522,-97.132132,14,1402.43,12044774773,False,$$,Winnipeg
+Asian Hot Pot,Hot Pot,Hot Pot,NA,4.0,"740 Corydon Avenue, Winnipeg",49.87063,-97.15301,14,943.77,12046158878,False,$$,Winnipeg
+Resto Gare Bistro,French,French,French,4.0,"630 Des Meurons Street, Winnipeg",49.893158,-97.11238,24,811.9,12042377072,False,$$$,Winnipeg
+Stella's,"Breakfast & Brunch, Burgers, American",Burgers,American,4.0,"340 Provencher Boulevard, Winnipeg",49.893384,-97.1139,13,864.83,12044778393,False,$$,Winnipeg
+La Belle Baguette,"Coffee & Tea, Bakeries, Sandwiches","Coffee & Tea, Sandwiches",NA,4.0,"248 Avenue de la Cathedrale, Winnipeg",49.889933,-97.117963,18,1339.69,12042192123,False,$,Winnipeg
+JC's Tacos and More,Mexican,Mexican,Mexican,4.5,"187 Henderson Highway, Winnipeg",49.91296,-97.11533,15,1715.46,12044149187,False,$$,Winnipeg
+Chaise Cafe & Lounge,"Lounges, Cafes",Cafes,NA,3.5,"271 Provencher Boulevard, Winnipeg",49.893374,-97.117678,25,1072.84,12045044012,False,$$,Winnipeg
+Seine River Cafe,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"390 Provencher Blvd, Winnipeg",49.894534,-97.111805,20,739.48,12042374864,False,$,Winnipeg
+Charlee's Restaurant And Lounge,"American, Asian Fusion, Buffets",American,"American, Asian Fusion",4.5,"185 Stadacona Street, Winnipeg",49.910389,-97.106415,5,1276.55,12046636484,False,$,Winnipeg
+The Yellow Deli,"Sandwiches, Desserts, Salad","Sandwiches, Desserts",NA,4.0,"490 Des Meurons Street, Winnipeg",49.88793,-97.111323,7,1293.52,12044535156,False,$,Winnipeg
+Sausage Makers Delicatessen Meat Market,"Delis, Meat Shops, Grocery",Delis,NA,4.0,"630 Nairn Avenue, Winnipeg",49.902779,-97.095387,4,837.16,12046672981,False,$,Winnipeg
+Zax Drive Inn,"Burgers, Salad, Hot Dogs",Burgers,NA,4.0,"290 Henderson Highway, Winnipeg",49.916162,-97.114575,6,2025.33,12046544664,False,$,Winnipeg
+Plaza Restaurant,Chinese,Chinese,Chinese,3.5,"412 Union Avenue W, Winnipeg",49.91194,-97.10285,3,1468.04,12046676387,False,$,Winnipeg
+Belgian Club,"Venues & Event Spaces, Canadian (New)",Venues & Event Spaces,Canadian (New),3.0,"407 Provencher Boulevards, Winnipeg",49.895255,-97.111164,2,579.13,12042374263,False,$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.0,"680 Nairn Ave, Winnipeg",49.902145,-97.09232,2,1004.84,12049496005,False,$,Winnipeg
+George's Burgers & Subs,"Sandwiches, Hot Dogs, Burgers","Sandwiches, Burgers",NA,2.0,"212 Henderson Hwy, Winnipeg",49.91394,-97.11557,7,1827.04,12046694805,False,$,Winnipeg
+Societe Historique De St Boniface,Restaurants,Restaurants,NA,4.0,"340 Provencher Blvd, Winnipeg",49.89383,-97.114495,1,840.71,12042334888,False,$,Winnipeg
+Five Spice Restaurant,"Chinese, Vietnamese",Chinese,"Chinese, Vietnamese",3.0,"295 Nairn Ave, Winnipeg",49.90666,-97.11207,2,994.16,12046688887,False,$$,Winnipeg
+KYU Grill,"Food Trucks, Asian Fusion, Japanese",Food Trucks,"Asian Fusion, Japanese",2.0,"260 Henderson Highway, Winnipeg",49.915367,-97.11471,2,1942.56,12046158828,False,$$,Winnipeg
+Pastrami and Things,Delis,Delis,NA,3.0,"400 Tache Ave, Winnipeg",49.88471,-97.12335,2,2028.23,12042333354,False,$$,Winnipeg
+Golden Dragon Home Delivery,"Chinese, Imported Food",Chinese,Chinese,1.0,"341 Henderson Hwy, Winnipeg",49.91694,-97.11318,1,2085.15,12046682647,False,$$,Winnipeg
+The Great Burger & Fry Company,"Hot Dogs, Burgers",Burgers,NA,1.0,"290 Henderson Hwy, Winnipeg",49.91622,-97.11453,1,2023.37,12046544664,False,$$,Winnipeg
+Gather Craft Kitchen & Bar,"International, Tapas/Small Plates, Cocktail Bars",Cocktail Bars,NA,4.0,"145 The Leaf Way, Winnipeg",49.869718,-97.224157,13,792.93,12049277222,False,$$,Winnipeg
+Stella's Grant,"Cafes, Breakfast & Brunch, Juice Bars & Smoothies","Cafes, Juice Bars & Smoothies",NA,4.0,"1895 Grant Avenue, Winnipeg",49.857809,-97.205205,40,1343.37,12044887810,False,$$,Winnipeg
+Silver Heights Restaurant & Lounge,"Steakhouses, American, Lounges",Steakhouses,American,4.0,"2169 Portage Avenue, Winnipeg",49.876892,-97.238842,25,2002.01,12048897246,False,$$,Winnipeg
+The Park Cafe,"Breakfast & Brunch, Cafes",Cafes,NA,4.0,"330 Assiniboine Park Drive, Winnipeg",49.87325,-97.233632,23,1457.23,12049276080,False,$$,Winnipeg
+Yafa Cafe,"Cafes, Middle Eastern, Halal",Cafes,Middle Eastern,4.0,"1785 Portage Ave, Winnipeg",49.87904,-97.2121,15,2014.25,12042211636,False,$$,Winnipeg
+Spice Circle East Indian restaurant,Indian,Indian,Indian,5.0,"2015 Portage Avenue, Winnipeg",49.87817,-97.22882,3,1828.78,12044160782,False,$$,Winnipeg
+The Burger Place,"Hot Dogs, Burgers",Burgers,NA,3.5,"1909 Portage Ave, Winnipeg",49.87891,-97.22145,23,1841.85,12048317967,False,$$,Winnipeg
+Tuxedo Village Family Restaurant,"Greek, Sandwiches, Comfort Food",Sandwiches,Greek,3.0,"2090 Corydon Avenue, Winnipeg",49.866124,-97.215292,14,683.2,12048976565,False,$$,Winnipeg
+Original Joe's Restaurant & Bar,"American, Bars",Bars,American,3.5,"102-530 Kenaston Boulevard, Winnipeg",49.857778,-97.206111,22,1284.48,12044892272,False,$$,Winnipeg
+Captain's Table Restaurant,Seafood,Seafood,NA,4.0,"1823 Portage Ave, Winnipeg",49.878931,-97.21449,9,1950.2,12048373474,False,$$,Winnipeg
+Folio Cafe,Cafes,Cafes,NA,3.5,"2299 Grant Avenue, Winnipeg",49.85832,-97.232192,3,809.7,12044873300,False,$,Winnipeg
+Cheezy Tales,"Korean, Hot Dogs",Korean,Korean,4.0,"1855 Portage Avenue, Winnipeg",49.878891,-97.217193,1,1894.6,12048327421,False,$,Winnipeg
+Good Earth Restaurant,Chinese,Chinese,Chinese,3.0,"1849 Portage Ave, Winnipeg",49.878895,-97.21653,17,1910.44,12048898880,False,$$,Winnipeg
+K &S Island Grill,Caribbean,Caribbean,Caribbean,4.5,"2069 Portage Avenue, Winnipeg",49.87752,-97.23181,4,1813.95,12044155550,False,$$,Winnipeg
+Joe Black Coffee Bar,"Coffee & Tea, Breakfast & Brunch, Sandwiches","Coffee & Tea, Sandwiches",NA,3.5,"2037 Portage Avenue, Winnipeg",49.877528,-97.230602,15,1795.06,12044151660,False,$$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,5.0,"1877 Portage Ave, Winnipeg",49.87899,-97.21948,1,1886.42,12048318141,False,$,Winnipeg
+Sei Sushi,Sushi Bars,Sushi Bars,NA,4.5,"2105 Portage Ave, Winnipeg",49.87747,-97.23413,8,1886.33,12044157770,False,$$,Winnipeg
+China City Restaurant & Lounge,"Chinese, Buffets, Lounges",Chinese,Chinese,2.5,"1811 Portage Avenue, Winnipeg",49.877719,-97.21614,8,1785.53,12044151103,False,$,Winnipeg
+V & M 96 Cent Pizza,Pizza,Pizza,NA,4.5,"1870 Portage Avenue, Winnipeg",49.878364,-97.218404,2,1820.77,12044154994,False,$,Winnipeg
+Gus & Tony's at the Park,Greek,Greek,Greek,3.0,"2015 Portage Avenue, Winnipeg",49.87817,-97.22882,3,1828.78,12044145508,False,$$,Winnipeg
+Santa Lucia Pizza,"Pizza, Italian, Greek",Pizza,"Italian, Greek",3.5,"2029 Portage Ave, Winnipeg",49.877738,-97.229905,8,1804.63,12048898989,False,$$,Winnipeg
+Chachi's,"Food Court, Sandwiches",Sandwiches,NA,3.5,"555 Sterling Lyon Parkway, Winnipeg",49.84558,-97.213072,3,1973.64,12042198127,False,$$,Winnipeg
+St James Hotel,"Hotels, Burgers, Pubs","Burgers, Pubs",NA,1.0,"1719 Portage Avenue, Winnipeg",49.879362,-97.207537,1,2192.46,12048882341,False,$,Winnipeg
+Bimi Japanese Restaurant,"Japanese, Korean",Japanese,"Japanese, Korean",2.0,"1893 Grant Avenue, Winnipeg",49.85785,-97.20524,18,1337.27,12048952464,False,$$,Winnipeg
+Sushi Place,Sushi Bars,Sushi Bars,NA,5.0,"1799 Portage Avenue, Winnipeg",49.878944,-97.213211,1,1979.79,12048329910,False,$$,Winnipeg
+fruit de la vie juice,"Juice Bars & Smoothies, Coffee & Tea, Vegan","Juice Bars & Smoothies, Coffee & Tea",NA,3.0,"1853 Portage Avenue, Winnipeg",49.87894,-97.21706,2,1905.0,12044141388,False,$$,Winnipeg
+Big Smoke Burger,"Burgers, Fast Food, Poutineries","Burgers, Fast Food",NA,2.5,"555 Sterling Lyon Pkwy, Winnipeg",49.845105,-97.213636,5,2009.9,12046158817,False,$$,Winnipeg
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.0,"1925 Portage Ave, Winnipeg",49.87888,-97.22296,1,1867.56,12049884508,False,$,Winnipeg
+KFC,"Fast Food, Chicken Wings, Chicken Shop",Fast Food,NA,1.0,"555 Sterling Lyon Parkway, Winnipeg",49.841741,-97.212693,1,1973.63,12044534157,False,$,Winnipeg
+Pizza Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,2.5,"1873 Portage Avenue, Winnipeg",49.878845,-97.218714,3,1874.5,12049571111,False,$$,Winnipeg
+BarBurrito - Winnepeg,"Fast Food, Mexican",Fast Food,Mexican,2.0,"555 Sterling Lyon Pkwy, Winnipeg",49.841744,-97.212617,1,2013.03,12049627007,False,$$,Winnipeg
+Sushi Edoichi,Sushi Bars,Sushi Bars,NA,2.0,"1799 Portage Avenue, Winnipeg",49.87908,-97.21318,1,1979.79,12048329910,False,$$,Winnipeg
+Jumbo Supreme 3 For 1 Pizza,Pizza,Pizza,NA,1.0,"1870 Portage Ave, Winnipeg",49.878437,-97.218454,1,1812.99,12049826901,False,$$$$,Winnipeg
+Deer + Almond,Tapas Bars,Tapas Bars,NA,4.5,"85 Princess Street, Winnipeg",49.89784,-97.14227,74,1141.95,12045048562,False,$$,Winnipeg
+Clementine,"Cafes, Breakfast & Brunch",Cafes,NA,4.5,"123 Princess Street, Winnipeg",49.89897,-97.14141,144,1222.14,12049429497,False,$$,Winnipeg
+Peasant Cookery,French,French,French,4.0,"283 Bannatyne Avenue, Winnipeg",49.89853,-97.14123,61,1160.51,12049897700,False,$$$,Winnipeg
+Clay Oven East Indian Restaurants,"Indian, Hakka",Indian,Indian,4.0,"1 Portage Avenue E, Winnipeg",49.894054,-97.134115,23,528.44,12049827426,False,$$,Winnipeg
+Simon’s Steaks,"Steakhouses, Sandwiches","Steakhouses, Sandwiches",NA,5.0,"132-1 Forks Market Road, Winnipeg",49.886846,-97.131332,8,317.51,12046918939,False,$$,Winnipeg
+The Old Spaghetti Factory,Italian,Italian,Italian,3.5,"110-25 Forks Market Road, Winnipeg",49.888387,-97.133204,46,106.29,12049571391,False,$$,Winnipeg
+Browns Socialhouse Portage,"Pubs, Burgers, Canadian (New)","Pubs, Burgers",Canadian (New),4.0,"311 Portage Avenue, Winnipeg",49.893896,-97.14396,17,899.79,12049427921,False,$$,Winnipeg
+Chosabi,Asian Fusion,Asian Fusion,Asian Fusion,4.5,"100 King Street, Winnipeg",49.898054,-97.141414,33,1122.85,12046158338,False,$$,Winnipeg
+The Merchant Kitchen,"Cocktail Bars, Latin American, Wine Bars","Cocktail Bars, Wine Bars",Latin American,4.0,"314 Donald Street, Winnipeg",49.893837,-97.143806,34,949.07,12046152278,False,$$,Winnipeg
+King's Head Pub,"Pubs, British",Pubs,British,4.0,"120 King Street, Winnipeg",49.89883,-97.141,72,1184.33,12049577710,False,$$,Winnipeg
+Famena's Famous Roti & Curry,"Indian, Caribbean, Latin American",Indian,"Indian, Caribbean, Latin American",4.5,"295 Gary Street, Winnipeg",49.89396,-97.14043,53,715.22,12044149040,False,$$,Winnipeg
+Dwarf No Cachette Cafe & Gift,"Japanese, Gift Shops, Sushi Bars",Sushi Bars,Japanese,4.0,"157 Provencher Boulevard, Winnipeg",49.892014,-97.123469,31,782.73,12046919950,False,$$,Winnipeg
+OEB Breakfast,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"100 - 330 Main Street, Winnipeg",49.894034,-97.138219,23,621.86,12043063447,False,$$,Winnipeg
+Nick's on Broadway,"Sandwiches, Breakfast & Brunch, Soup",Sandwiches,NA,4.0,"287 Broadway, Winnipeg",49.888127,-97.139073,10,431.88,12046152872,False,$$,Winnipeg
+Cibo Waterfront Cafe,"Mediterranean, Italian, Cafes",Cafes,"Mediterranean, Italian",3.5,"339 Waterfront Drive, Winnipeg",49.898822,-97.131979,46,1063.17,12045940339,False,$$,Winnipeg
+The Original Pancake House,Breakfast & Brunch,Breakfast & Brunch,NA,2.5,"1 Forks Market Road, Winnipeg",49.887264,-97.130947,44,295.02,12049475077,False,$$,Winnipeg
+Earls Kitchen + Bar,"Breakfast & Brunch, Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),5.0,"300 Main Street, Winnipeg",49.89835,-97.13949,5,998.89,12049890103,False,$$,Winnipeg
+Ivory Restaurant,Indian,Indian,Indian,3.5,"200 Main Street, Winnipeg",49.889032,-97.140694,28,512.03,12049441600,False,$$,Winnipeg
+Corrientes Argentine Pizzeria,Pizza,Pizza,NA,4.0,"137 Bannatyne Avenue, Winnipeg",49.89769,-97.13581,27,941.44,12042195398,False,$$,Winnipeg
+Era Bistro,Canadian (New),Canadian (New),Canadian (New),3.5,"85 Israel Asper Way, Winnipeg",49.89076,-97.13074,7,258.16,12042892190,False,$$,Winnipeg
+King + Bannatyne,Sandwiches,Sandwiches,NA,4.0,"100 King Street, Winnipeg",49.898207,-97.141337,35,1134.92,12046919757,False,$$,Winnipeg
+Pho No 1 Restaurant,Vietnamese,Vietnamese,Vietnamese,4.5,"81 Isabel Street, Winnipeg",49.90051,-97.1504,17,1735.22,12049437449,False,$,Winnipeg
+Yellow Dog Tavern,"Pubs, Burgers","Pubs, Burgers",NA,3.5,"386 Donald Street, Winnipeg",49.896195,-97.144158,30,1083.87,12047756676,False,$$,Winnipeg
+Blufish Japanese Restaurant,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"179 Bannatyne Avenue, Winnipeg",49.89798,-97.1375,21,1011.27,12047799888,False,$$,Winnipeg
+Johnny G's,"American, Bars",Bars,American,3.0,"172 Main Street, Winnipeg",49.88958,-97.13582,18,151.02,12049431072,False,$$,Winnipeg
+Modern Electric Lunch,Cafes,Cafes,NA,4.0,"232 Main Street, Winnipeg",49.8916,-97.13677,9,342.7,12043066404,False,$$,Winnipeg
+LOCAL Public Eatery,"Canadian (New), Burgers, Beer, Wine & Spirits","Burgers, Beer, Wine & Spirits",Canadian (New),4.0,"274 Garry Street, Winnipeg",49.89328,-97.14066,11,678.43,12045571729,False,$$,Winnipeg
+Wienerpeg,"Hot Dogs, Poutineries",Hot Dogs,NA,4.5,"1 Forks Market Road, Winnipeg",49.88739,-97.131341,3,292.14,12044215055,False,$$,Winnipeg
+Feast Cafe Bistro,"Canadian (New), Burgers, Sandwiches","Burgers, Sandwiches",Canadian (New),4.5,"587 Ellice Avenue, Winnipeg",49.89317,-97.15845,19,562.94,12046915979,False,$$,Winnipeg
+Viva Restaurant,Vietnamese,Vietnamese,Vietnamese,4.5,"1-505 Sargent Ave, Winnipeg",49.896633,-97.154135,22,670.57,12047723167,False,$$,Winnipeg
+Mercadito Latino,"Mexican, Salvadoran",Mexican,Mexican,4.5,"570-C Sargent Avenue, Winnipeg",49.896525,-97.158468,13,807.31,12044152870,False,$$,Winnipeg
+White Star Diner,"Burgers, Diners, Sandwiches","Burgers, Sandwiches",NA,4.5,"258 Kennedy St, Winnipeg",49.891185,-97.148305,13,225.48,12049476930,False,$,Winnipeg
+Taste of Mediterranean,Mediterranean,Mediterranean,Mediterranean,4.5,"244 Kennedy Street, Winnipeg",49.890503,-97.147873,7,245.11,12049422304,False,$,Winnipeg
+Bistro Dansk,"Modern European, German, Scandinavian",Modern European,"Modern European, German",4.5,"63 Sherbrook St, Winnipeg",49.880635,-97.159446,16,1277.04,12047755662,False,$$,Winnipeg
+Moxies,"Sports Bars, Lounges, Canadian (New)",Sports Bars,Canadian (New),3.5,"233 Hargrave Street, Winnipeg",49.893363,-97.144805,23,548.94,12049427400,False,$$,Winnipeg
+Little Korea,Korean,Korean,Korean,4.5,"519 Ellice Avenue, Winnipeg",49.892983,-97.15515,9,356.73,12047835188,False,$$,Winnipeg
+Kokeb Restaurant,Ethiopian,Ethiopian,Ethiopian,4.0,"266 Edmonton Street, Winnipeg",49.89156,-97.14718,17,327.92,12047849267,False,$$,Winnipeg
+Sushi Gen,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.0,"500 Portage Ave, Winnipeg",49.890079,-97.152671,28,118.46,<NA>,False,$$,Winnipeg
+The Nook Diner,"Diners, Breakfast & Brunch",Diners,NA,4.5,"43 Sherbrook Street, Winnipeg",49.880113,-97.159468,27,1327.38,12047740818,False,$,Winnipeg
+Ichiban Japanese Steakhouse,"Japanese, Sushi Bars, Steakhouses","Sushi Bars, Steakhouses",Japanese,4.0,"189 Carlton St, Winnipeg",49.88957,-97.1439,20,531.23,12049257400,False,$$$,Winnipeg
+Rudy's Eat & Drink,American,American,American,3.0,"375 Graham Ave, Winnipeg",49.89151,-97.14608,18,341.97,12044219094,False,$$$,Winnipeg
+Bistro on Notre Dame,"Breakfast & Brunch, Bistros, Comfort Food",Breakfast & Brunch,NA,5.0,"784 Notre Dame Avenue, Winnipeg",49.9025,-97.163348,5,1550.91,12046911515,False,$$$,Winnipeg
+Kazoku,Sushi Bars,Sushi Bars,NA,4.0,"30-2583 Pembina hwy, Winnipeg",49.798416,-97.157372,22,1812.76,12042690042,False,$$,Winnipeg
+Five Guys,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"2425 Pembina Highway, Winnipeg",49.803161,-97.15767,14,1285.99,12042615555,False,$$,Winnipeg
+Shawarma Khan,Middle Eastern,Middle Eastern,Middle Eastern,3.5,"2589 Pembina Highway, Winnipeg",49.798323,-97.158086,5,1824.75,12046156006,False,$$,Winnipeg
+Sushi Jet,Japanese,Japanese,Japanese,2.0,"2425 Pembina Highway, Winnipeg",49.80336,-97.157693,23,1263.95,12043397888,False,$$$,Winnipeg
+Sugar Marmalade,"Chinese, Desserts",Desserts,Chinese,4.0,"2589 Pembina Hwy, Winnipeg",49.798399,-97.158097,2,1812.46,12043067333,False,$$$,Winnipeg
+Ume Yummy Restaurant,"Chinese, Breakfast & Brunch",Chinese,Chinese,1.0,"2615 Pembina Highway, Winnipeg",49.797497,-97.157597,3,1902.13,12046150888,False,$$$,Winnipeg
+Kazoku Restaurant,"Sushi Bars, Korean",Sushi Bars,Korean,1.5,"30-2583 Pembina Hwy, Winnipeg",49.797436,-97.157372,3,1921.68,12042690042,False,$$$,Winnipeg
+Papa Johns Pizza,Pizza,Pizza,NA,1.0,"2425 Pembina Highway, Winnipeg",49.803355,-97.157659,1,1265.26,12044787272,False,$$$,Winnipeg
+Wasabi Sabi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"1360 Taylor Ave, Winnipeg",49.85094,-97.17721,32,833.18,12044157878,False,$$$,Winnipeg
+Bellissimo Restaurant & Lounge,"Italian, Lounges",Italian,Italian,4.0,"877 Waverley Street, Winnipeg",49.84484,-97.18037,23,1113.58,12044890495,False,$$,Winnipeg
+Tony Roma's,"Steakhouses, American, Barbeque","Steakhouses, Barbeque",American,4.0,"1500 Pembina Hwy, Winnipeg",49.83513,-97.150096,15,1899.15,12044775195,False,$$,Winnipeg
+Alfy's Noodle House,Noodles,Noodles,NA,4.5,"3B-840 Waverley Street, Winnipeg",49.848703,-97.178825,8,827.27,12044896814,False,$$,Winnipeg
+Tony's Master Of Pizza,Pizza,Pizza,NA,4.5,"1110 Pembina Highway, Winnipeg",49.848041,-97.152594,10,975.78,12044529797,False,$$,Winnipeg
+New Golden Inn Restaurant,Chinese,Chinese,Chinese,4.5,"1084 Pembina Hwy, Winnipeg",49.849006,-97.152512,7,980.73,12042842837,False,$$,Winnipeg
+Prairie Ink Restaurant,"Coffee & Tea, Burgers, Sandwiches","Coffee & Tea, Burgers, Sandwiches",NA,3.0,"1120 Grant Avenue, Winnipeg",49.856622,-97.167351,20,896.18,12049752659,False,$$,Winnipeg
+Cho Ichi Ramen,Ramen,Ramen,NA,3.5,"1151 Pembina Highway, Winnipeg",49.84652,-97.15354,21,931.96,12046158832,False,$$,Winnipeg
+Cora's,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"840 Waverley St, Winnipeg",49.849993,-97.178765,13,827.27,12049281200,False,$$,Winnipeg
+La Grotta Mediterranean Market,"Delis, Grocery, Bakeries",Delis,NA,3.0,"1360 Taylor Avenue, Winnipeg",49.850852,-97.177434,12,845.15,12049829461,False,$$,Winnipeg
+Salisbury House of Canada,"Breakfast & Brunch, Coffee & Tea, Burgers","Coffee & Tea, Burgers",NA,3.0,"759 Pembina Highway, Winnipeg",49.85773,-97.15236,16,1417.24,12044536404,False,$$,Winnipeg
+Applebee's Grill + Bar,"Sports Bars, Burgers, American","Sports Bars, Burgers",American,2.5,"1150 Grant Avenue, Winnipeg",49.85849,-97.165812,13,1100.17,12044752277,False,$$$,Winnipeg
+Coen Sushi,Japanese,Japanese,Japanese,4.5,"2-871 Waverley Street, Winnipeg",49.845848,-97.181706,3,1154.79,12044153474,False,$$$,Winnipeg
+Boston Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,2.0,"1160 Taylor Avenue, Winnipeg",49.85329,-97.1662,6,519.42,12049254106,False,$$,Winnipeg
+Pony Corral Restaurant & Bar,"Bars, Steakhouses, Breakfast & Brunch","Bars, Steakhouses",NA,2.5,"400 Wilton Street, Winnipeg",49.859373,-97.162966,4,1219.94,12044754464,False,$$,Winnipeg
+Piazza De Nardi,"Delis, Specialty Food, Sandwiches, Shopping, Grocery",Sandwiches,NA,5.0,"1360 Taylor Ave, Winnipeg",49.85094,-97.17721,2,833.18,12049829461,False,$$,Winnipeg
+The Captain's Boil,"Seafood, Cajun/Creole, Asian Fusion",Seafood,Asian Fusion,2.5,"667 Stafford St, Winnipeg",49.856813,-97.154252,13,1269.88,12045009729,False,$$,Winnipeg
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"867 Waverley Street, Winnipeg",49.845843,-97.180084,5,1043.25,12044870381,False,$,Winnipeg
+House of Pizza,Pizza,Pizza,NA,4.5,"1011 Pembina Hwy, Winnipeg",49.85089,-97.1531,4,1077.42,12042841118,False,$$,Winnipeg
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.5,"425 Nathaniel Street, Winnipeg",49.856917,-97.168969,3,946.39,12049496031,False,$$,Winnipeg
+Koya Japan,Ramen,Ramen,NA,3.0,"1120 Grant Avenue, Winnipeg",49.857212,-97.1654,4,959.46,12044524199,False,$$,Winnipeg
+Burger King,"Burgers, Fast Food","Burgers, Fast Food",NA,1.0,"1140 Taylor Avenue, Winnipeg",49.852733,-97.164641,1,472.69,12049878355,False,$$,Winnipeg
+Little Caesars,Pizza,Pizza,NA,2.5,"1235 Pembina Highway, Winnipeg",49.843825,-97.154052,2,1018.54,12046157407,False,$$,Winnipeg
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.5,"877 Waverly Street, Winnipeg",49.84484,-97.18037,2,1113.58,12044890923,False,$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,1.0,"1510 Pembina Hwy, Winnipeg",49.8349,-97.14956,3,1947.37,12044523079,False,$,Winnipeg
+Sushi Ichiro,Japanese,Japanese,Japanese,2.0,"871 Waverly St, Winnipeg",49.845669,-97.180359,1,1029.3,12044153474,False,$$,Winnipeg
+Slices Pizza,Pizza,Pizza,NA,3.5,"401 Stafford Street, Winnipeg",49.862782,-97.157539,4,1694.27,12044753443,False,$$,Winnipeg
+Little Caesar's Pizza,Pizza,Pizza,NA,2.0,"1387 Grant Ave, Winnipeg",49.856352,-97.17884,2,1272.78,12049538899,False,$$,Winnipeg
+Tommy's Pizzeria,Pizza,Pizza,NA,4.5,"842 Corydon Avenue, Winnipeg",49.869325,-97.157229,8,1831.17,<NA>,False,$$,Winnipeg
+Cafe Carlo,Canadian (New),Canadian (New),Canadian (New),3.5,"243 Lilac Street, Winnipeg",49.86993,-97.15707,18,1892.26,12044775544,False,$$$,Winnipeg
+Tandoor House,Indian,Indian,Indian,4.0,"598 Ebby Avenue, Winnipeg",49.864282,-97.148156,6,1265.04,12042878287,False,$$,Winnipeg
+Bar Italia,"Bars, Coffee & Tea, Burgers","Bars, Coffee & Tea, Burgers",NA,3.0,"737 Corydon Ave, Winnipeg",49.87117,-97.1528,16,2010.26,12044521929,False,$$,Winnipeg
+Beaurivage Bistro,"Lebanese, Bistros",Lebanese,NA,4.5,"788 Corydon Avenue, Winnipeg",49.8701,-97.15461,2,1903.06,12046916999,False,$$,Winnipeg
+Wako Sushi Cafe,Japanese,Japanese,Japanese,4.0,"875 Corydon Avenue, Winnipeg",49.86947,-97.15821,11,1862.49,12043397777,False,$,Winnipeg
+Next Stop Cafe,"Kebab, Coffee & Tea, Burgers","Coffee & Tea, Burgers",NA,4.0,"333 Pembina Hwy, Winnipeg",49.87046,-97.14488,2,1987.61,12044775439,False,$,Winnipeg
+Kristina's On Corydon,"Mediterranean, Greek",Mediterranean,"Mediterranean, Greek",3.5,"761 Corydon Avenue, Winnipeg",49.870742,-97.153928,8,1955.86,12044531241,False,$$,Winnipeg
+Garwood Grill,"Pizza, Canadian (New)",Pizza,Canadian (New),4.0,"435 Pembina Highway, Winnipeg",49.86841,-97.14625,8,1758.16,12044533012,False,$$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"630 Pembina Highway, Winnipeg",49.863206,-97.14755,10,1160.23,12049496091,False,$,Winnipeg
+The Oxbow,Restaurants,Restaurants,NA,4.5,"557 Osborne Street, Winnipeg",49.864858,-97.134387,2,1815.16,12046915373,False,$,Winnipeg
+Diner's Choice Chinese Restaurant,Chinese,Chinese,Chinese,5.0,"470 Osborne Street, Winnipeg",49.86816,-97.1365,1,2005.88,12044527915,False,$,Winnipeg
+Evergreen Restaurant,Restaurants,Restaurants,NA,4.0,"331 Pembina Hwy, Winnipeg",49.870784,-97.144593,5,2062.52,12044534679,False,$,Winnipeg
+Dal's Restaurant Lounge & Take Out,"Pizza, Burgers, Greek","Pizza, Burgers",Greek,4.5,"701 Regent Ave W, Winnipeg",49.89606,-97.02191,16,1063.19,12042224255,False,$$,Winnipeg
+Browns Socialhouse - Kildonan Green,"Canadian (New), Pubs, Burgers","Pubs, Burgers",Canadian (New),3.5,"1750 Plessis Road, Winnipeg",49.909679,-97.027108,5,1742.83,12042221600,False,$$,Winnipeg
+Smoke's Poutinerie,"Poutineries, Fast Food",Fast Food,NA,3.5,"855 Regent Avenue W, Winnipeg",49.89569,-97.02944,3,522.85,12042552873,False,$$,Winnipeg
+Wayback Burgers,"Fast Food, Burgers","Fast Food, Burgers",NA,5.0,"18-801 Regent Avenue W, Winnipeg",49.896097,-97.026582,1,733.4,12044142225,False,$$,Winnipeg
+Little Ceasers,Pizza,Pizza,NA,3.0,"801 Regent Avenue W, Winnipeg",49.895794,-97.026622,3,727.16,12049538888,False,$,Winnipeg
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,1.5,"1510 Plessis Road, Winnipeg",49.899819,-97.026279,7,903.22,<NA>,False,$,Winnipeg
+Wendy’s,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"808 Regent Avenue W, Winnipeg",49.894762,-97.025819,2,784.65,12042249289,False,$,Winnipeg
+Mr B's Pizza & Chicken,Pizza,Pizza,NA,4.0,"1783 Plessis Road, Winnipeg",49.910757,-97.024548,4,1929.29,12042226365,False,$,Winnipeg
+Quiznos,Sandwiches,Sandwiches,NA,1.0,"855 Regent Ave W, Winnipeg",49.895445,-97.029557,1,522.85,12042229001,False,$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"1475 Regent Ave West, Winnipeg",49.895779,-97.048869,4,870.27,12049496654,False,$,Winnipeg
+Classic Star Pizza,Pizza,Pizza,NA,4.0,"1320 Concordia Ave E, Winnipeg",49.91191,-97.05024,2,2089.39,12046158383,False,$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,3.0,"1750 Plessis Rd, Winnipeg",49.895125,-97.042644,1,1760.79,12046634618,False,$,Winnipeg
+Steve's Bistro,Mediterranean,Mediterranean,Mediterranean,4.0,"3123 Portage Avenue, Winnipeg",49.88097,-97.28531,23,1015.32,12048315531,False,$$,Winnipeg
+Olympia Diner,Greek,Greek,Greek,4.0,"3253 Portage Avenue, Winnipeg",49.88184,-97.29223,26,923.41,12048888884,False,$$,Winnipeg
+Burrito Splendido,Mexican,Mexican,Mexican,4.0,"4-3380 Portage Avenue, Winnipeg",49.88187,-97.298416,21,973.14,12048853889,False,$$,Winnipeg
+Taverna Rodos,"Greek, Mediterranean",Greek,"Greek, Mediterranean",4.0,"5114 Roblin Boulevard, Winnipeg",49.85806,-97.28636,13,1843.96,12046152232,False,$$,Winnipeg
+D-Jay's Restaurant Ichabod's Lounge & Patio,"Pizza, Steakhouses, Nightlife","Pizza, Steakhouses",NA,4.5,"3354 Portage Ave, Winnipeg",49.881919,-97.297492,6,958.41,12048883361,False,$$,Winnipeg
+Joey's Seafood Restaurant,"Fish & Chips, Seafood",Seafood,NA,4.5,"3421 Portage Avenue, Winnipeg",49.883855,-97.301265,5,1254.9,12048890346,False,$$,Winnipeg
+Academy Lanes West,"Bowling, Pizza, Pool Halls",Pizza,NA,5.0,"479 Westwood Drive, Winnipeg",49.880857,-97.293095,3,806.93,12044219404,False,$$,Winnipeg
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,4.0,"3011 Portage Avenue, Winnipeg",49.879958,-97.279407,5,1254.71,12048857633,False,$$,Winnipeg
+The Green & Grain,Sandwiches,Sandwiches,NA,4.5,"3131 Portage Avenue, Winnipeg",49.880818,-97.285823,3,987.57,12048325966,False,$$,Winnipeg
+Sushi Maru,Sushi Bars,Sushi Bars,NA,4.5,"3421 Portage Avenue, Winnipeg",49.883094,-97.300702,6,1329.31,12047746278,False,$$,Winnipeg
+Sushi Terrace,Sushi Bars,Sushi Bars,NA,4.5,", Westwood",49.873337,-97.302132,3,440.5,<NA>,False,$$,Winnipeg
+Dawning Restaurant,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"3277 Portage Ave, Winnipeg",49.882014,-97.293424,4,954.75,12048979123,False,$$,Winnipeg
+Cork & Flame,"Canadian (New), Lounges, American",Canadian (New),"Canadian (New), American",2.5,"3106 Portage Avenue, Winnipeg",49.88006,-97.28476,14,976.06,12042212777,False,$$,Winnipeg
+Roblin Choice Meats,"Delis, Sandwiches, Meat Shops",Sandwiches,NA,4.0,"5606 Roblin Blvd, Winnipeg",49.859676,-97.295118,3,1562.79,12048891881,False,$$$,Winnipeg
+Five Guys,"Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"3380 Portage Ave, Winnipeg",49.88186,-97.298255,10,968.3,12048325555,False,$$,Winnipeg
+22 Pizza,"Pizza, Salad, Chicken Wings",Pizza,NA,1.5,"3269 Portage Ave, Winnipeg",49.882179,-97.293013,7,953.99,12049407771,False,$$,Winnipeg
+Tokyo Sushi Japanese Restaurant,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.0,"3140 Portage Avenue, Winnipeg",49.88043,-97.28659,10,920.54,12048899700,False,$$,Winnipeg
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,3.5,"3421 Portage Avenue, Winnipeg",49.883373,-97.301322,7,1208.24,12049534124,False,$$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,3.0,"3296 Portage Ave, Winnipeg",49.881768,-97.294565,3,879.62,12048954772,False,$,Winnipeg
+Gondola Pizza Restaurants,Pizza,Pizza,NA,4.5,"4910 Roblin Blvd, Winnipeg",49.857515,-97.282922,3,1987.76,12048379999,False,$,Winnipeg
+Salisbury House of Canada,Canadian (New),Canadian (New),Canadian (New),3.0,"3315 Portage Avenue, Winnipeg",49.88249,-97.29527,10,991.39,12048893156,False,$,Winnipeg
+New Dynasty,Chinese,Chinese,Chinese,5.0,"3025 Ness Avenue, Winnipeg",49.888642,-97.280152,1,1939.03,12044149458,False,$$,Winnipeg
+Domino's Pizza,Pizza,Pizza,NA,2.5,"3059 Portage Avenue W, Winnipeg",49.88029,-97.28167,7,1150.65,12049875555,False,$$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"3401 Portage Avenue, Winnipeg",49.8833,-97.30015,4,1165.74,12049496022,False,$,Winnipeg
+Dragon Palace,"Chinese, Imported Food",Chinese,Chinese,3.0,"3060 Portage Ave, Winnipeg",49.879768,-97.282031,3,1072.98,12048317727,False,$,Winnipeg
+Yan Yan Chinese Food Restaurant,Chinese,Chinese,Chinese,3.5,"3166 Portage Ave, Winnipeg",49.88043,-97.28734,4,881.08,12048311374,False,$,Winnipeg
+Iyara Thai,Thai,Thai,Thai,3.0,"5606 Roblin Boulevard, Winnipeg",49.859252,-97.294826,9,1598.91,12042191269,False,$,Winnipeg
+Zesto's Subs & Wraps,Sandwiches,Sandwiches,NA,1.0,"3334 Portage Ave, Winnipeg",49.882066,-97.296493,1,836.96,12048325966,False,$,Winnipeg
+Super Boy's Restaurant,Burgers,Burgers,NA,4.5,"1480 Main Street, Winnipeg",49.9283,-97.1242,26,1200.02,12045898437,False,$,Winnipeg
+Baraka Pita Bakery & Mediteranean Deli,"Sandwiches, Middle Eastern, Halal",Sandwiches,Middle Eastern,4.0,"1783 Main Street, Winnipeg",49.936974,-97.117056,54,1235.74,12043342004,False,$,Winnipeg
+Pizzaland,Pizza,Pizza,NA,4.5,"1765 Main Street, Winnipeg",49.93648,-97.11735,7,1200.85,12043363333,False,$,Winnipeg
+Sushi Daruma,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"1128 Henderson Highway, Winnipeg",49.9389,-97.09336,15,1585.94,12044151011,False,$$$,Winnipeg
+Watt Street Bistro,"Vietnamese, Canadian (New)",Vietnamese,"Vietnamese, Canadian (New)",4.5,"710 Watt Street, Winnipeg",49.922789,-97.091717,8,1252.1,12042219830,False,$$$,Winnipeg
+888 Chinese Express,Chinese,Chinese,Chinese,4.0,"1163 Henderson Highway, Winnipeg",49.93897,-97.09156,7,1664.09,12043388882,False,$$$,Winnipeg
+Santa Lucia Pizza,"Italian, Greek, Pizza",Pizza,"Italian, Greek",3.0,"805 Henderson Hwy, Winnipeg",49.92917,-97.10219,5,432.04,12042242264,False,$$$,Winnipeg
+Ocean King Restaurant,"Chinese, Seafood",Seafood,Chinese,3.5,"1800 Main Street, Winnipeg",49.93773,-97.11738,8,1293.49,12043389333,False,$$,Winnipeg
+Jessie's Kitchen,Ukrainian,Ukrainian,NA,4.0,"460 Munroe Avenue, Winnipeg",49.917716,-97.09953,4,1261.19,12046613332,False,$$,Winnipeg
+Santa Lucia Pizza,"Pizza, Italian, Greek",Pizza,"Italian, Greek",2.5,"1473 Main Street, Winnipeg",49.927783,-97.123589,10,1158.92,12045868171,False,$$,Winnipeg
+Empress of China Restaurant,"Chinese, Seafood, Soup",Seafood,Chinese,3.5,"14-1050 Henderson Highway, Winnipeg",49.936735,-97.095589,13,1290.54,12043349700,False,$$,Winnipeg
+Gondola Pizza Restaurants,Pizza,Pizza,NA,3.5,"771 Henderson Hwy, Winnipeg",49.92894,-97.1022,3,379.77,12046612441,False,$$,Winnipeg
+Prairie's Edge,Cafes,Cafes,NA,3.0,"2015 Main Street, Winnipeg",49.943819,-97.104318,13,1782.05,12042847275,False,$$,Winnipeg
+Salisbury House of Canada,"Coffee & Tea, Breakfast & Brunch, Burgers","Coffee & Tea, Burgers",NA,3.5,"1545 Main Street, Winnipeg",49.92895,-97.12285,3,1121.12,12045892955,False,$$,Winnipeg
+Nhu Y,Vietnamese,Vietnamese,Vietnamese,2.0,"839 Henderson Hwy, Winnipeg",49.930594,-97.100908,1,546.17,12044149166,False,$$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,2.5,"1848 Main St, Winnipeg",49.93898,-97.1163,4,1396.84,12043346711,False,$,Winnipeg
+Dim Sum Garden,"Dim Sum, Seafood, Soup",Seafood,NA,1.0,"885 Henderson Highway, Winnipeg",49.93184,-97.09955,1,706.09,12046613135,False,$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"979 Henderson Hwy, Winnipeg",49.934876,-97.095702,7,1135.34,12049495110,False,$,Winnipeg
+Toy Sun Restaurant,Chinese,Chinese,Chinese,3.0,"1133 Henderson Highway, Winnipeg",49.93831,-97.0921,4,1586.55,12043390068,False,$,Winnipeg
+Burger King,Fast Food,Fast Food,NA,1.0,"1640 Main St, Winnipeg",49.93335,-97.12193,3,1175.21,12049878434,False,$,Winnipeg
+Dairy Queen Store,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,2.0,"1030 Henderson Hwy, Winnipeg",49.936043,-97.095366,4,1243.95,12043389497,False,$,Winnipeg
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.0,"Seven Oaks Plaza, Winnipeg",49.938471,-97.11659,3,1350.91,12043383659,False,$,Winnipeg
+Presto Pizza,Pizza,Pizza,NA,4.0,"1824 Main Street, Winnipeg",49.938546,-97.116535,1,1367.63,12043348899,False,$,Winnipeg
+Annie's Attic,"Thrift Stores, Pet Adoption, Themed Cafes",Themed Cafes,NA,3.0,"1560 Main Street, Winnipeg",49.92994,-97.1232,1,1160.34,12043349300,False,$,Winnipeg
+One 777 Family Restaurant,Vietnamese,Vietnamese,Vietnamese,3.0,"1777 Main Street, Winnipeg",49.9369,-97.11683,3,1209.06,12045059336,False,$,Winnipeg
+The Pizza Oven,Pizza,Pizza,NA,3.0,"1215 Henderson Highway, Winnipeg",49.940339,-97.090125,5,1849.6,12049493000,False,$$,Winnipeg
+BMC Taqueria,Mexican,Mexican,Mexican,4.0,"1113 Henderson Hwy, Winnipeg",49.938262,-97.092882,1,1545.96,12044151113,False,$$,Winnipeg
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"1887 Main Street, Winnipeg",49.93998,-97.11459,1,1439.23,12049496029,False,$,Winnipeg
+Little Caesar's Pizza,Pizza,Pizza,NA,1.0,"1050 Henderson Hwy, Winnipeg",49.936194,-97.094972,1,1262.78,12043397400,False,$,Winnipeg
+Punjab Sweet House & Restaurant,"Middle Eastern, Indian, Pakistani",Middle Eastern,"Middle Eastern, Indian",4.0,"88 Mandalay Dr, Winnipeg",49.9482,-97.18371,18,1104.3,12046331600,False,$$,Winnipeg
+My Indigo,Indian,Indian,Indian,4.0,"55 Waterford Green Commons, Winnipeg",49.956346,-97.196299,1,630.05,12044143388,False,$$,Winnipeg
+Alfie's Restaurant & Billiards Lounge,"Pool Halls, Chicken Wings",Pool Halls,NA,4.5,"1042 Keewatin St, Winnipeg",49.944765,-97.195519,3,1555.54,12046336677,False,$$,Winnipeg
+Jeepney,"Filipino, Asian Fusion",Filipino,"Filipino, Asian Fusion",5.0,"1833 Inkster Boulevard, Winnipeg",49.946486,-97.193425,1,1337.72,12046325933,False,$$,Winnipeg
+Kimchi Sushi,"Japanese, Korean, Sushi Bars",Sushi Bars,"Japanese, Korean",4.0,"14-998 Keewatin Street, Winnipeg",49.942902,-97.196548,5,1777.31,12046941269,False,$$,Winnipeg
+Pizza Depot,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,1.0,"86 Mandalay Drive, Winnipeg",49.948186,-97.183563,2,1108.7,14312229711,False,$$,Winnipeg
+Tandoor House,Canadian (New),Canadian (New),Canadian (New),1.5,"1-998 Keewatin Street, Winnipeg",49.944546,-97.201042,14,1755.97,12047796666,False,$$,Winnipeg
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.0,"1030 Keewatin Street, Winnipeg",49.944143,-97.195355,2,1641.89,12049405553,False,$$,Winnipeg
+Samosa Crown Sweets & Restaurant,Indian,Indian,Indian,3.5,"1030 Keewatin St, Winnipeg",49.94415,-97.19603,9,1641.89,12046942400,False,$$,Winnipeg
+Johnny's Maples Pizza & Restaurant,Pizza,Pizza,NA,3.5,"670 Sheppard St, Winnipeg",49.945525,-97.174363,7,1681.8,12046332718,False,$$,Winnipeg
+Chester Fried Chicken & Pizza Delivery,"Chicken Wings, Pizza",Pizza,NA,4.0,"1488 Inkster Blvd, Winnipeg",49.943939,-97.176168,1,1760.72,12047773333,False,$$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,3.0,"1490 Inkster Blvd, Winnipeg",49.943965,-97.176244,2,1751.94,12046946535,False,$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"994 Keewatin, Winnipeg",49.94275,-97.19573,2,1782.0,12049496079,False,$,Winnipeg
+Jas Indian Cuisine,"Indian, Imported Food",Indian,Indian,3.0,"1875 Inkster Boulevard, Winnipeg",49.946329,-97.192635,8,1326.14,12046941000,False,$$,Winnipeg
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,1.5,"1030 Keewatin Street, Winnipeg",49.944094,-97.196154,3,1641.47,12049878314,False,$$,Winnipeg
+Pizza Hotline,Pizza,Pizza,NA,2.5,"998 Keewatin Street, Winnipeg",49.9429,-97.19655,2,1808.64,12042222222,False,$$,Winnipeg
+Swagat Indian Sweets And Restaurant,Indian,Indian,Indian,1.0,"Rte 25, Winnipeg",49.94508,-97.17833,1,1540.7,12046321552,False,$$,Winnipeg
+Smitty's,"Lounges, Canadian (New), Breakfast & Brunch",Lounges,Canadian (New),3.0,"1919 Henderson Hwy, Winnipeg",49.95565,-97.0729,11,1067.46,12043341162,False,$,Winnipeg
+Misa's Pizza,Pizza,Pizza,NA,3.5,"16-2595 Main Street, Winnipeg",49.95962,-97.089324,3,262.09,12049404994,False,$,Winnipeg
+Boston Pizza,"Chicken Wings, Pizza, Italian",Pizza,Italian,4.0,"1475 Henderson Highway, Winnipeg",49.946794,-97.084264,5,1076.92,12049254114,False,$,Winnipeg
+Taco Del Mar,"Mexican, Tex-Mex, Fast Food",Fast Food,Mexican,5.0,"2579 Main St, Winnipeg",49.95879,-97.0899,1,328.44,12043390139,False,$,Winnipeg
+Stella's,"Bakeries, Breakfast & Brunch",Bakeries,NA,4.5,"1795 Henderson Highway, Winnipeg",49.952779,-97.075718,2,930.42,14314781377,False,$,Winnipeg
+Frank's Pizza,"Pizza, Seafood, Chicken Wings","Pizza, Seafood",NA,4.0,"3317 Portage Ave, Winnipeg",49.955869,-97.098898,3,812.56,12043387922,False,$,Winnipeg
+Browns Socialhouse Ridgecrest,"Canadian (New), Pubs, Burgers","Pubs, Burgers",Canadian (New),2.0,"2419 Main Street, Winnipeg",49.954741,-97.098007,14,766.19,12043360516,False,$,Winnipeg
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"2585 Main Street, Winnipeg",49.959094,-97.089638,3,350.18,12043382503,False,$,Winnipeg
+Jeffrey's Restaurant Lounge,"Lounges, Pizza, Italian",Pizza,Italian,2.5,"1420 Henderson Highway, Winnipeg",49.945571,-97.086944,17,1187.66,12043387398,False,$$,Winnipeg
+Leopold's Tavern - Winnipeg,"Burgers, Poutineries, Beer Bar","Burgers, Beer Bar",NA,5.0,"1347 Henderson Highway, Winnipeg",49.94357,-97.08726,2,1410.23,18555225367,False,$$,Winnipeg
+Triple B's Restaurant & Billiards,"Pool Halls, Sports Bars, Canadian (New)",Sports Bars,Canadian (New),2.5,"1873 Henderson Highway, Winnipeg",49.95449,-97.07457,3,951.1,12043390886,False,$$,Winnipeg
+Za Pizza Bistro,Pizza,Pizza,NA,3.5,"C-2360 Main St, Winnipeg",49.954209,-97.100723,3,968.87,12046157035,False,$$,Winnipeg
+Tim Hortons,Cafes,Cafes,NA,2.0,"2500 Main St North, Winnipeg",49.957483,-97.095006,1,550.53,12043343126,False,$,Winnipeg
+Popeyes Louisiana Chicken,"Fast Food, Chicken Wings",Fast Food,NA,2.5,"1455 Henderson Highway, Winnipeg",49.946261,-97.085101,6,1131.45,12043391939,False,$,Winnipeg
+Ginza Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"27 Red River Boulevard, Winnipeg",49.958834,-97.09229,2,444.57,12043389999,False,$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.5,"1460 Henderson Highway, Winnipeg",49.94608,-97.08632,3,1147.23,12049496074,False,$,Winnipeg
+Salisbury House,"Breakfast & Brunch, Sandwiches, Coffee & Tea","Sandwiches, Coffee & Tea",NA,1.5,"1277 Henderson Hwy., Winnipeg",49.94186,-97.08882,2,1617.17,12046612374,False,$,Winnipeg
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch, Sandwiches","Coffee & Tea, Sandwiches",NA,3.0,"25 Donwood Dr, Winnipeg",49.945031,-97.084911,2,1261.16,12049426064,False,$,Winnipeg
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"1403 Henderson Highway, Winnipeg",49.94449,-97.08612,2,1308.78,12043385023,False,$,Winnipeg
+Pizza Hotline,Pizza,Pizza,NA,1.0,"1795 Henderson Hwy, Winnipeg",49.95284,-97.07568,2,930.42,12042222222,False,$,Winnipeg
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,2.0,"1341 Henderson Highway, Winnipeg",49.943142,-97.08652,7,1457.45,<NA>,False,$,Winnipeg
+Bromley's Family Restaurant,Breakfast & Brunch,Breakfast & Brunch,NA,1.0,"1763 Henderson Hwy, Winnipeg",49.952764,-97.07734,1,857.01,12043380334,False,$,Winnipeg
+Degrees Restaurant,Cafes,Cafes,NA,3.5,"Third Floor, University Centre, Winnipeg",49.809453,-97.134216,10,1443.46,12044747370,False,$$,Winnipeg
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"248L University Centre, Winnipeg",49.809696,-97.133362,1,1434.17,12044746344,False,$$,Winnipeg
+Daily Bread Cafe,"Breakfast & Brunch, Salad, Sandwiches",Sandwiches,NA,3.0,"92 Dysart Road, Winnipeg",49.811092,-97.13707,2,1389.3,12044746826,False,$$,Winnipeg
+The Hub,Restaurants,Restaurants,NA,3.5,"66 Chancellors Circle, Winnipeg",49.809742,-97.133224,4,1455.51,<NA>,False,$$,Winnipeg
+4 Seasons Chinese Food,Chinese,Chinese,Chinese,4.5,"10-35 Lakewood Boulevard, Winnipeg",49.854691,-97.075786,11,944.67,12042542221,False,$$,Winnipeg
+Mc's curry,Indian,Indian,Indian,4.5,"13 - 20 Island Shore Boulevard, Winnipeg",49.839715,-97.066317,4,965.25,12049272150,False,$$,Winnipeg
+Southdale Village Family Restaurant,Canadian (New),Canadian (New),Canadian (New),4.0,"35 Lakewood Boulevard, Winnipeg",49.854654,-97.075528,6,929.29,12042547039,False,$$,Winnipeg
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"1040 Beaverhill Blvd., Winnipeg",49.855244,-97.06594,5,766.11,12042576736,False,$,Winnipeg
+Rebel Pizza,Pizza,Pizza,NA,5.0,"110-245 Vermillion Road, Winnipeg",49.854559,-97.066355,1,687.81,12043069600,False,$,Winnipeg
+Komodo Chinese Restaurant,Chinese,Chinese,Chinese,4.5,"1031 Autumnwood Dr, Winnipeg",49.862954,-97.077094,3,1775.47,12042533678,False,$$,Winnipeg
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"107 Vermillion Road, Winnipeg",49.855391,-97.071491,2,844.08,12042552176,False,$$,Winnipeg
+Little Ceasers,Pizza,Pizza,NA,5.0,"320-119 Vermillion Road, Winnipeg",49.855006,-97.070319,1,774.6,12042564725,False,$$,Winnipeg
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.5,"65 Vermillion Road, Winnipeg",49.855347,-97.075416,5,983.47,12049496015,False,$,Winnipeg
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,3.5,"16 Lakewood Boulevard, Winnipeg",49.85547,-97.0791,3,1170.32,12049878309,False,$$,Winnipeg
+Yami Garden Restaurant,Chinese,Chinese,Chinese,1.0,"8-20 Island Shore Boulevard, Winnipeg",49.83984,-97.066289,1,951.43,12046158866,False,$$,Winnipeg
+Burger King Restaurants of Canada,"Hot Dogs, Burgers, Fast Food","Burgers, Fast Food",NA,1.0,"71 Vermillion Rd, Winnipeg",49.854099,-97.07384,5,938.95,12049878429,False,$$,Winnipeg
+Honba Sushi,Sushi Bars,Sushi Bars,NA,5.0,"65 Goulet Street, Winnipeg",49.882344,-97.125616,8,1007.6,12042370001,False,$$,Winnipeg
+Sushi Kuni,Japanese,Japanese,Japanese,4.0,"131 Provencher, Winnipeg",49.891712,-97.124672,12,1803.83,12042313553,False,$$,Winnipeg
+Pasquale's,"Italian, Pizza",Pizza,Italian,2.5,"109 Marion Street, Winnipeg",49.88167,-97.12419,20,871.75,12042311403,False,$$,Winnipeg
+Leopold's Tavern Winnipeg - Osborne South,"Burgers, Beer Bar, American","Burgers, Beer Bar",American,4.0,"696 Osborne Street, Winnipeg",49.862283,-97.131948,12,2061.02,18555225367,False,$$,Winnipeg
+Singyun,Chinese,Chinese,Chinese,5.0,"150 Provencher Boulevard, Winnipeg",49.89142,-97.12364,7,1749.49,12042314054,False,$$,Winnipeg
+Danny's All Day Breakfast,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"1 Forks Market Road, Winnipeg",49.887914,-97.131147,11,1665.31,12049562227,False,$$,Winnipeg
+Wood Tavern & Grill,"Barbeque, Steakhouses","Barbeque, Steakhouses",NA,3.5,"112 Marion St, Winnipeg",49.881272,-97.123964,6,835.27,12042334475,False,$$,Winnipeg
+Pizza King,Pizza,Pizza,NA,4.5,"660 Osborne Street, Winnipeg",49.86308,-97.13234,3,2001.04,12042335464,False,$$,Winnipeg
+Pauline Bistro,"Breakfast & Brunch, French, Bistros",Breakfast & Brunch,French,3.0,"112 Marion Street, Winnipeg",49.88111,-97.12421,2,835.27,12042356001,False,$$,Winnipeg
+Tabula Rasa,"Salad, Burgers, Cocktail Bars","Burgers, Cocktail Bars",NA,5.0,"725 Osborne Street, Winnipeg",49.861511,-97.131713,1,2119.62,<NA>,False,$$,Winnipeg

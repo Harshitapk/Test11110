@@ -1,0 +1,643 @@
+Name,Categories,Cuisine Types,Nationalities,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price,City
+JOEY Lansdowne,"Canadian (New), Lounges, Steakhouses",Steakhouses,Canadian (New),4.0,"825 Exhibition Way, Ottawa",45.399658,-75.684106,126,916.29,16136955639,False,$$,Ottawa
+The Belmont,"Tapas/Small Plates, Cocktail Bars",Cocktail Bars,NA,4.5,"1169 Bank Street, Ottawa",45.392288,-75.681671,29,213.1,16139793663,False,$$,Ottawa
+Pelican Seafood Market & Grill,"Seafood, Seafood Markets","Seafood, Seafood Markets",NA,4.5,"1500 Bank Street, Ottawa",45.381098,-75.670445,139,1590.17,16135265229,False,$$,Ottawa
+Oat Couture Oatmeal Cafe,"Breakfast & Brunch, Coffee & Tea, Cafes","Coffee & Tea, Cafes",NA,4.5,"1154 Bank Street, Ottawa",45.39299,-75.68284,30,192.85,16137376654,False,$$,Ottawa
+Stella Luna Gelato Cafe,"Ice Cream & Frozen Yogurt, Desserts, Cafes","Desserts, Cafes",NA,4.5,"1103 Bank St, Ottawa",45.39396,-75.68289,137,276.76,16135231116,False,$,Ottawa
+The Rowan,"British, Gastropubs",Gastropubs,British,4.5,"915 Bank Street, Ottawa",45.400241,-75.686612,26,976.86,16137809292,False,$$,Ottawa
+Green Door Vegetarian Restaurant & Bakery,"Vegetarian, Buffets, Vegan",Vegetarian,NA,4.5,"198 Main Street, Ottawa",45.408238,-75.677707,146,1964.66,16132349597,False,$$,Ottawa
+Table Sodam,Korean,Korean,Korean,4.0,"1200 Bank St, Ottawa",45.391603,-75.681312,35,233.33,13434888036,False,$$,Ottawa
+Quinn's Ale House,"Pubs, Burgers, Beer Bar","Pubs, Burgers, Beer Bar",NA,4.5,"1070 Bank Street, Ottawa",45.39461,-75.68392,21,363.09,16135232200,False,$$,Ottawa
+Jack's Astor's,"Canadian (New), Burgers",Burgers,Canadian (New),4.0,"425 Marché Way, Ottawa",45.400819,-75.682937,33,1033.0,16135654862,False,$$,Ottawa
+Jericho Lebanese Food,"Mediterranean, Lebanese",Mediterranean,Mediterranean,4.5,"840 Bank Street, Ottawa",45.40182,-75.68798,40,1178.62,16132351289,False,$$,Ottawa
+Patty's Pub,"Irish, Pubs",Pubs,Irish,3.5,"1186 Bank Street, Ottawa",45.391905,-75.681701,34,196.02,16137302434,False,$$,Ottawa
+Feleena's,"Mexican, Wine Bars, Cocktail Bars","Wine Bars, Cocktail Bars",Mexican,3.5,"742 Bank Street, Ottawa",45.403792,-75.688999,67,1406.83,16132332010,False,$$,Ottawa
+Local Public Eatery,"Burgers, Salad, Cocktail Bars","Burgers, Cocktail Bars",NA,3.5,"826 Exhibition Way, Ottawa",45.399888,-75.684036,87,924.22,16132333772,False,$$,Ottawa
+Pomelo Hat,"Bubble Tea, Juice Bars & Smoothies, Breakfast & Brunch",Juice Bars & Smoothies,NA,5.0,"1196 Bank Street, Ottawa",45.39163,-75.681373,8,227.93,18193197199,False,$$,Ottawa
+Erling's Variety,"Tapas/Small Plates, Wine Bars",Wine Bars,NA,4.0,"225 Strathcona Avenue, Ottawa",45.407635,-75.690519,33,1850.28,16132318484,False,$$$,Ottawa
+Black Squirrel Books & Espresso Bar,"Bookstores, Cafes",Cafes,NA,4.5,"1073 Bank Street, Ottawa",45.394656,-75.683501,18,347.86,16134229050,False,$,Ottawa
+Allo Mon Coco,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"2277 Riverside Drive, Ottawa",45.386598,-75.6799,44,820.31,16137892626,False,$,Ottawa
+Hareg Cafe,Ethiopian,Ethiopian,Ethiopian,4.5,"587 Bank Street, Ottawa",45.407946,-75.690996,28,1888.09,16136952488,False,$$,Ottawa
+Wild Oat Bakery Cafe and Farm,"Bakeries, Vegan, Creperies",Bakeries,NA,4.0,"817 Bank Street, Ottawa",45.402512,-75.687964,47,1249.02,16132326232,False,$$,Ottawa
+The WORKS Gourmet Burger Bistro,"Burgers, Poutineries",Burgers,NA,3.5,"580 Bank Street, Ottawa",45.40779,-75.69143,120,1888.19,16132350406,False,$$,Ottawa
+CRAFT Beer Market,"Canadian (New), Breakfast & Brunch, Beer Bar",Beer Bar,Canadian (New),3.0,"975 Bank Street, Ottawa",45.398731,-75.685608,67,801.93,16134227238,False,$$,Ottawa
+Sula Wok,Asian Fusion,Asian Fusion,Asian Fusion,4.5,"184 Main Street, Ottawa",45.408954,-75.678226,23,1989.45,16138907852,False,$,Ottawa
+Cinnaholic,"Vegan, Bakeries, Desserts",Desserts,NA,4.5,"900 Exhibition Way, Ottawa",45.399383,-75.684093,16,867.99,16135632867,False,$,Ottawa
+Ramen Isshin,Ramen,Ramen,NA,4.5,"775 Bank Street, Ottawa",45.403583,-75.688507,18,1379.17,16134216600,False,$,Ottawa
+Crust & Crate Public House,"Gastropubs, Pizza","Gastropubs, Pizza",NA,3.5,"325 Marché Way, Ottawa",45.400302,-75.683608,44,971.53,16132345959,False,$$,Ottawa
+Sweet Basil Restaurant,"Thai, Noodles",Thai,Thai,4.0,"1585 Bank Street, Ottawa",45.379025,-75.667414,26,1920.27,16137318424,False,$$,Ottawa
+Cantina Gia,"Wine Bars, Italian",Wine Bars,Italian,4.0,"749 Bank St, Ottawa",45.404235,-75.688741,20,1452.82,16135690464,False,$$,Ottawa
+Crazy Pho You,"Vietnamese, Chinese, Thai",Vietnamese,"Vietnamese, Chinese, Thai",4.5,"696 Bronson Avenue, Ottawa",45.401811,-75.700302,12,1689.89,16134210942,False,$$,Ottawa
+Anthony's,Pizza,Pizza,NA,4.0,"753 Bank Street, Ottawa",45.40417,-75.6887,23,1444.77,16136959669,False,$$,Ottawa
+Mad Radish,"Salad, Juice Bars & Smoothies, Sandwiches","Juice Bars & Smoothies, Sandwiches",NA,4.0,"859 Bank St, Ottawa",45.40134,-75.68722,23,1110.65,16134214564,False,$$,Ottawa
+SEN Asian Cuisine,Asian Fusion,Asian Fusion,Asian Fusion,3.5,"200 Marché Way, Ottawa",45.39994,-75.684416,22,929.79,16132320111,False,$$,Ottawa
+Wei's Noodle House,"Vietnamese, Noodles",Vietnamese,Vietnamese,4.0,"610 Bronson Ave, Ottawa",45.40406,-75.70179,23,1947.11,16132306815,False,$,Ottawa
+Mahal Tanjore,Indian,Indian,Indian,3.5,"108 Third Avenue, Ottawa",45.40308,-75.68761,28,1304.31,16136951969,False,$,Ottawa
+Milestones Restaurants,"Comfort Food, Bars, Canadian (New)",Bars,Canadian (New),3.0,"325 Marche Way, Ottawa",45.400354,-75.684062,25,976.03,16136951669,False,$$,Ottawa
+The Clocktower Brew Pub,"Breweries, Pubs, Canadian (New)",Pubs,Canadian (New),3.0,"575 Bank Street, Ottawa",45.40835,-75.69108,45,1943.72,<NA>,False,$$,Ottawa
+Last Train To Delhi,Indian,Indian,Indian,5.0,"103 Fourth Avenue, Ottawa",45.402736,-75.687499,5,1265.6,16138820035,False,$$,Ottawa
+Kiramaki Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"1196 Bank Street, Ottawa",45.391698,-75.681386,3,227.92,<NA>,False,$$,Ottawa
+Paper Tiger Noodle Bar,"Ramen, Asian Fusion, Cocktail Bars",Cocktail Bars,Asian Fusion,4.0,"1091 Bank Street, Ottawa",45.394153,-75.68319,5,299.15,16135212125,False,$$,Ottawa
+La Strada Restaurant,Italian,Italian,Italian,4.5,"697 Bank Street, Ottawa",45.405434,-75.689566,16,1593.81,16135672066,False,$$$,Ottawa
+Ad Mare Seafood,"Seafood, Food Trucks",Seafood,NA,4.0,"2265 Robertson Rd, Ottawa",45.318088,-75.844185,29,14928.35,<NA>,False,$$,Ottawa
+Roost & Grills,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,4.5,"1202 Bank Street, Ottawa",45.391578,-75.681342,3,230.92,16135232255,False,$$,Ottawa
+Thai Kitchen Catering Services,"Thai, Diners, Noodles",Thai,Thai,4.5,"1300 Bank Street, Ottawa",45.390123,-75.679398,3,415.55,16135264535,False,$$,Ottawa
+Tenfish Sushi,Sushi Bars,Sushi Bars,NA,4.0,"1149B Bank Street, Ottawa",45.39301,-75.682372,6,219.05,16137021777,False,$$,Ottawa
+107 Fourth Avenue Wine Bar & Cafe,"Wine Bars, Cafes","Wine Bars, Cafes",NA,4.0,"107 Fourth Ave, Ottawa",45.4027,-75.68766,15,1261.72,16132360040,False,$$$,Ottawa
+Cacao 70,"Desserts, Breakfast & Brunch, Cafes","Desserts, Cafes",NA,2.5,"225 Marche Way, Ottawa",45.400235,-75.684331,56,962.64,16136809288,False,$$,Ottawa
+Panago Pizza,"Pizza, Chicken Wings, Food Delivery Services",Pizza,NA,3.5,"1069 Bank Street, Ottawa",45.39487,-75.68342,9,363.09,18663100001,False,$$,Ottawa
+Hometown Sports and Grill,"Sports Bars, Pubs, Canadian (New)","Sports Bars, Pubs",Canadian (New),2.5,"1525 Bank Street, Ottawa",45.381033,-75.668922,42,1678.38,16137330808,False,$$,Ottawa
+Canal Ritz Restaurant,"Italian, Canadian (New)",Italian,"Italian, Canadian (New)",2.5,"375 Queen Elizabeth Drive, Ottawa",45.404131,-75.681649,56,1411.04,16132388998,False,$$,Ottawa
+Taj-Mahal,Indian,Indian,Indian,3.5,"925 Bank St, Ottawa",45.400048,-75.686546,24,957.94,16132341280,False,$$,Ottawa
+Bowman's Bar & Grill,"Bars, Canadian (New), Gastropubs","Bars, Gastropubs",Canadian (New),4.5,"1170 Carling Avenue, Ottawa",45.387926,-75.729272,93,1254.69,16136809339,False,$$,Ottawa
+Gezellig,Canadian (New),Canadian (New),Canadian (New),4.5,"337 Richmond Road, Ottawa",45.39229,-75.75409,86,2011.66,16136809086,False,$$$,Ottawa
+Pure Kitchen Westboro,"Vegan, Vegetarian, Juice Bars & Smoothies",Juice Bars & Smoothies,NA,4.5,"357 Richmond Road, Ottawa",45.391751,-75.754726,124,2000.83,16136805500,False,$$,Ottawa
+La Cabaña,Salvadoran,Salvadoran,NA,4.0,"848 Merivale Road, Ottawa",45.3853,-75.73269,27,886.26,16137247762,False,$$,Ottawa
+Sapporo Sushi,Sushi Bars,Sushi Bars,NA,4.5,"1671 Carling Avenue, Ottawa",45.379663,-75.749401,48,927.56,16137296018,False,$$,Ottawa
+Miss Molly’s,"Breakfast & Brunch, Diners",Breakfast & Brunch,NA,4.5,"1577 Laperriere Ave, Ottawa",45.37674,-75.7456,11,651.63,16133665548,False,$$,Ottawa
+Al's Diner,"Diners, Pizza, Breakfast & Brunch",Pizza,NA,4.0,"834 Clyde Avenue N, Ottawa",45.377892,-75.749733,54,942.09,16137617488,False,$$,Ottawa
+The Works Gourmet Burger Bistro,"Burgers, Salad, Poutineries",Burgers,NA,4.0,"326 Richmond Road, Ottawa",45.39221,-75.75316,54,1970.2,16135640406,False,$$,Ottawa
+Georgie's Pizza,Pizza,Pizza,NA,4.5,"1661 Carling Avenue, Ottawa",45.379594,-75.74956,24,905.34,16137295929,False,$$,Ottawa
+Aahar The Taste Of India,Indian,Indian,Indian,4.0,"727 Churchill Avenue N, Ottawa",45.3812,-75.74684,40,786.71,16136884444,False,$$,Ottawa
+Pita Bell Kabab,Middle Eastern,Middle Eastern,Middle Eastern,4.0,"1696 Carling Avenue, Ottawa",45.378604,-75.750533,21,1003.92,16136861740,False,$$,Ottawa
+Equator Coffee Roasters,"Coffee & Tea, Coffee Roasteries, Sandwiches","Coffee & Tea, Coffee Roasteries, Sandwiches",NA,4.0,"412 Churchill Avenue N, Ottawa",45.39173,-75.753707,34,1947.0,16137221919,False,$,Ottawa
+Lexington,"Cocktail Bars, Smokehouse, Barbeque","Cocktail Bars, Barbeque",NA,4.0,"344 Richmond Road, Ottawa",45.391858,-75.754076,31,1977.41,16134210219,False,$$,Ottawa
+Markie's Montreal Smoked Meat,"Delis, Meat Shops, Sandwiches",Sandwiches,NA,4.5,"E-1679 Carling Ave, Ottawa",45.379763,-75.750254,14,994.71,16137929191,False,$$,Ottawa
+Churchills,"British, Pubs",Pubs,British,4.0,"356 Richmond Road, Ottawa",45.39156,-75.75447,29,1980.77,16134213775,False,$$,Ottawa
+Fratelli,Italian,Italian,Italian,3.5,"275 Richmond Road, Ottawa",45.39353,-75.75134,36,1985.48,16137226772,False,$$,Ottawa
+Mr. Mic,Asian Fusion,Asian Fusion,Asian Fusion,4.5,"956 Merivale Road, Ottawa",45.381659,-75.733166,5,512.84,16137220888,False,$$,Ottawa
+The Burger's Priest,Burgers,Burgers,NA,4.5,"1365 Baseline Road, Ottawa",45.36318,-75.73666,16,1726.31,16134221111,False,$$,Ottawa
+Nando's Flame Grilled Chicken,"South African, Portuguese",South African,South African,3.5,"1461 Merivale Road, Ottawa",45.361576,-75.733611,43,1888.26,16137497445,False,$$,Ottawa
+Maple Delight Pizza,"Pizza, Canadian (New), Italian",Pizza,"Canadian (New), Italian",5.0,"1012 Merivale Road, Ottawa",45.379559,-75.733569,2,350.12,16137159919,False,$$,Ottawa
+St. Louis Bar and Grill,"Sports Bars, Chicken Wings",Sports Bars,NA,3.5,"1331 Clyde Avenue, Ottawa",45.363006,-75.740024,26,1711.98,16132740296,False,$$,Ottawa
+Trio Lounge,"Lounges, Tapas Bars, Cocktail Bars","Tapas Bars, Cocktail Bars",NA,4.0,"307D Richmond Road, Ottawa",45.392841,-75.752518,21,1987.73,16137223887,False,$$$,Ottawa
+Reynolds Restaurant,Canadian (New),Canadian (New),Canadian (New),3.5,"874 Clyde Avenue, Ottawa",45.376604,-75.748988,12,902.98,16137282391,False,$$,Ottawa
+Mucho Burrito Fresh Mexican Grill,"Mexican, Fast Food",Fast Food,Mexican,3.5,"1385 Baseline Rd, Ottawa",45.36242,-75.73814,37,1767.69,16132244444,False,$,Ottawa
+Pietro's Corner,Italian,Italian,Italian,4.5,"300 Richmond Road, Ottawa",45.392589,-75.752516,8,1964.94,16136957600,False,$,Ottawa
+Villa Pizzeria N The Greek Place,"Pizza, Greek, Burgers","Pizza, Burgers",Greek,4.0,"1009 Merivale Road, Ottawa",45.37962,-75.7328,6,412.12,16137271222,False,$$,Ottawa
+Milano Pizzeria,Pizza,Pizza,NA,2.5,"1078 Merivale Road, Ottawa",45.377744,-75.733377,17,342.49,16137299738,False,$$,Ottawa
+MHK Sushi,Sushi Bars,Sushi Bars,NA,4.0,"283 Richmond Rd, Ottawa",45.393234,-75.751669,13,1986.14,16137980800,False,$$,Ottawa
+House of Lasagna,"Italian, Pizza",Pizza,Italian,3.5,"984 Merivale Rd, Ottawa",45.38054,-75.73353,3,408.41,16137289700,False,$$,Ottawa
+Boston Pizza,"Pizza, Sandwiches, Burgers","Pizza, Sandwiches, Burgers",NA,3.0,"1640 Carling Avenue, Ottawa",45.37952,-75.748294,15,839.29,16137222222,False,$$,Ottawa
+Newport Restaurant,"Pizza, Burgers","Pizza, Burgers",NA,3.5,"322 Churchill Avenue N, Ottawa",45.39469,-75.75548,16,2285.37,16137229322,False,$$,Ottawa
+Full House Asian Cuisine,"Chinese, Asian Fusion",Chinese,"Chinese, Asian Fusion",3.5,"1766 Carling Avenue, Ottawa",45.37739,-75.7534,17,1231.24,16137985697,False,$$,Ottawa
+Yorgo's,"Greek, Salad, Pizza",Pizza,Greek,4.0,"1356 Clyde Aveune, Ottawa",45.36264,-75.740943,13,1761.34,16138208200,False,$$,Ottawa
+Pi Co,"Pizza, Salad, Fast Food","Pizza, Fast Food",NA,4.0,"236 Richmond Road, Ottawa",45.393776,-75.749854,12,1964.39,16134227426,False,$$,Ottawa
+Domino's Pizza,Pizza,Pizza,NA,2.5,"1393 Carling Avenue, Ottawa",45.385407,-75.738861,12,794.04,16137284000,False,$,Ottawa
+The Newboro,Gastropubs,Gastropubs,NA,4.5,"295 Richmond Road, Ottawa",45.39352,-75.75204,8,1984.05,16136952676,False,$,Ottawa
+Zaky Grill & Broast,"Halal, Fast Food",Fast Food,NA,4.5,"1385 Baseline Road, Ottawa",45.362333,-75.738136,6,1767.66,16132247774,False,$,Ottawa
+Da Chicken Cribb,"Caribbean, Southern, Burgers",Burgers,Caribbean,4.5,"840 Boyd Avenue, Ottawa",45.376856,-75.751529,3,1093.28,16137225582,False,$,Ottawa
+Colonnade Pizza,"Pizza, Salad, Sandwiches","Pizza, Sandwiches",NA,4.0,"1463 Merivale Road, Ottawa",45.361232,-75.734498,9,1915.63,16137278686,False,$$,Ottawa
+Seven Tea Miles,"Indian, Coffee & Tea",Coffee & Tea,Indian,5.0,"342 Richmond Road, Ottawa",45.391916,-75.754016,4,1978.38,16134767777,False,$$,Ottawa
+Strawberry Blonde Bakery,"Bakeries, Vegan, Gluten-Free",Bakeries,NA,3.5,"111 Richmond Road, Ottawa",45.396274,-75.744712,24,2071.06,16137252253,False,$$,Ottawa
+Thai Go,Thai,Thai,Thai,4.5,"1309 Carling Avenue, Ottawa",45.386957,-75.735381,5,977.72,16137616888,False,$,Ottawa
+House of Pizza,"Pizza, Italian, Salad",Pizza,Italian,4.0,"160 Richmond Road, Ottawa",45.39516,-75.74627,3,1991.08,16137282422,False,$,Ottawa
+1 For 1 Pizza,Pizza,Pizza,NA,4.0,"1012 Merivale Rd, Ottawa",45.379552,-75.733501,1,349.62,<NA>,False,$,Ottawa
+Morning Owl,"Cafes, Sandwiches, Breakfast & Brunch","Cafes, Sandwiches",NA,4.5,"1621 Woodward Drive, Ottawa",45.374847,-75.747969,3,890.9,16137287928,False,$,Ottawa
+Whispers Bar & Restaurant,Canadian (New),Canadian (New),Canadian (New),3.0,"249 Richmond Rd, Ottawa",45.39397,-75.75029,16,1993.5,16137229603,False,$$,Ottawa
+Green Papaya,Thai,Thai,Thai,4.0,"1374 Baseline Road, Ottawa",45.362222,-75.737002,9,1790.13,16132388424,False,$$,Ottawa
+Pho Bo Ga King,"Food Delivery Services, Soup, Asian Fusion",Food Delivery Services,Asian Fusion,2.0,"1234 Merivale Road, Ottawa",45.371022,-75.732435,9,928.42,16132880173,False,$$,Ottawa
+East Side Mario's & Darcy's,"Italian, American, Pizza",Pizza,"Italian, American",2.5,"675 Kirkwood Avenue, Ottawa",45.385058,-75.740424,10,899.4,16137149888,False,$$,Ottawa
+Wedel Touch of Europe,"Bakeries, International Grocery, Delis",Bakeries,NA,4.5,"300 Richmond Rd, Ottawa",45.392478,-75.752542,3,1956.16,16132370151,False,$$,Ottawa
+Supply and Demand,"Live/Raw Food, Seafood, Tapas/Small Plates",Seafood,NA,4.5,"1335 Wellington Street W, Ottawa",45.398693,-75.73737,93,1105.71,16136802949,False,$$$,Ottawa
+Bar Lupulus,"Bars, Mediterranean",Bars,Mediterranean,4.5,"1242 Wellington Street W, Ottawa",45.399449,-75.732257,27,1459.15,16137594677,False,$$$,Ottawa
+The Wellington Gastropub,Gastropubs,Gastropubs,NA,4.0,"1325 Wellington Street W, Ottawa",45.39881,-75.736749,52,1127.08,16137291315,False,$$$,Ottawa
+Chesterfield's Gastro Diner,"Breakfast & Brunch, Diners, Sandwiches",Sandwiches,NA,4.5,"1433 Wellington Street W, Ottawa",45.397852,-75.741162,50,817.09,16136808990,False,$$,Ottawa
+Petit Bill's Bistro,"French, Seafood, Steakhouses","Seafood, Steakhouses",French,4.0,"1293 Wellington Street W, Ottawa",45.39912,-75.73579,46,1231.1,16137292500,False,$$$,Ottawa
+Absinthe Cafe,Canadian (New),Canadian (New),Canadian (New),4.0,"1208 Wellington Street W, Ottawa",45.400122,-75.730541,73,1612.22,16137611138,False,$$$,Ottawa
+Siam Bistro,Thai,Thai,Thai,4.0,"1268 Wellington St W, Ottawa",45.399167,-75.733668,55,1362.65,16137283111,False,$$,Ottawa
+A Thing for Chocolate,"Creperies, Chocolatiers & Shops",Creperies,NA,4.5,"1262 Wellington Street W, Ottawa",45.39919,-75.73329,27,1373.61,16136953533,False,$$,Ottawa
+The Wellington Diner,Diners,Diners,NA,3.5,"1385 Wellington Street, Ottawa",45.39819,-75.739802,72,915.5,16137987800,False,$$,Ottawa
+Stofa Restaurant,Canadian (New),Canadian (New),Canadian (New),4.5,"1356 Wellington Street W, Ottawa",45.397985,-75.739267,12,928.52,16137226555,False,$$$,Ottawa
+Sushi Umi,Sushi Bars,Sushi Bars,NA,4.0,"1311 Wellington Street W, Ottawa",45.399009,-75.735798,34,1195.51,16137242488,False,$$,Ottawa
+Anthony's,"Canadian (New), Pizza",Pizza,Canadian (New),3.5,"1218 Wellington Street W, Ottawa",45.400034,-75.730735,59,1593.79,16136958669,False,$$,Ottawa
+Ottawa Bagelshop & Deli,"Delis, Bagels",Delis,NA,4.0,"1321 Wellington St W, Ottawa",45.39895,-75.7368,41,1146.93,16137228753,False,$,Ottawa
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,3.5,"529 Richmond Rd, Ottawa",45.388254,-75.761983,34,1189.36,16137241242,False,$$$,Ottawa
+Pho Van Van,Vietnamese,Vietnamese,Vietnamese,4.0,"127 Holland Avenue, Ottawa",45.39955,-75.731742,24,1511.48,16137221663,False,$$,Ottawa
+Napoli's Restaurant Pizza & Pasta,"Italian, Pizza",Pizza,Italian,4.5,"81 Richmond Road, Ottawa",45.396996,-75.743318,16,640.47,16137281973,False,$$,Ottawa
+Viet Taste Restaurant,Vietnamese,Vietnamese,Vietnamese,4.5,"1395 Wellington Street W, Ottawa",45.398232,-75.740066,21,901.2,16136959889,False,$$,Ottawa
+Il Negozio Nicastro,"Delis, Sandwiches, Italian",Sandwiches,Italian,4.5,"1355 Wellington Street W, Ottawa",45.39845,-75.73873,8,998.75,16137299100,False,$$,Ottawa
+Fiazza Fresh Fired,Pizza,Pizza,NA,3.0,"205 Richmond Road, Ottawa",45.39486,-75.74862,16,290.53,16137252222,False,$$,Ottawa
+Bridgehead,"Bakeries, Coffee Roasteries, Cafes","Coffee Roasteries, Cafes",NA,4.5,"440 Richmond Road, Ottawa",45.389767,-75.757958,7,836.25,16137292100,False,$,Ottawa
+Brassica,Canadian (New),Canadian (New),Canadian (New),4.5,"309 Richmond Road, Ottawa",45.39301,-75.75268,6,384.22,16136807575,False,$,Ottawa
+Bacon Egg n Cheese by Lexington Smokehouse & Bar,"Breakfast & Brunch, Pop-Up Restaurants",Breakfast & Brunch,NA,4.5,"344 Richmond Road, Ottawa",45.391838,-75.754152,3,496.32,16132188209,False,$,Ottawa
+Westboro Subs,Sandwiches,Sandwiches,NA,4.5,"1262 Wellington St. W, Ottawa",45.399186,-75.73333,7,1373.33,16133663012,False,$,Ottawa
+Drip House,Cafes,Cafes,NA,4.5,"340B Parkdale Avenue, Ottawa",45.402461,-75.730802,16,1752.56,<NA>,False,$,Ottawa
+3 Sisters Bakeshop,"Cafes, Bakeries, Sandwiches","Cafes, Sandwiches",NA,4.5,"2211 Arch Street, Ottawa",45.38948,-75.630515,19,149.26,16136959122,False,$$,Ottawa
+Lebanese Palace,Lebanese,Lebanese,NA,4.0,"919 Industrial Avenue, Ottawa",45.40656,-75.6288,29,1830.06,16137392929,False,$$,Ottawa
+Kara Mia,"Halal, Italian, Desserts",Desserts,Italian,4.5,"1910 St Laurent Boulevard, Ottawa",45.398853,-75.62458,15,1006.57,16132480500,False,$$,Ottawa
+Mermaid's Seafood Restaurant,Seafood,Seafood,NA,5.0,"1725 Walkley Road, Ottawa",45.377859,-75.645966,8,1924.54,16137337070,False,$$,Ottawa
+168 Sushi Asian Buffet,"Japanese, Chinese, Korean",Japanese,"Japanese, Chinese, Korean",2.5,"1760 Saint Laurent Boulevard, Ottawa",45.404594,-75.627051,87,1594.23,16135231680,False,$$,Ottawa
+Roberto's Corner,"Delis, Italian, Sandwiches",Sandwiches,Italian,5.0,"1034 Pleasant Park Rd, Ottawa",45.395398,-75.621557,5,802.73,16137990195,False,$$,Ottawa
+Super Duper Pizza,"Pizza, Salad, Burgers","Pizza, Burgers",NA,4.5,"1018 Pleasant Park Rd, Ottawa",45.39536,-75.622134,9,749.85,16135230000,False,$$,Ottawa
+OpenRice Asian Fusion & Lounge,"Chinese, Asian Fusion",Chinese,"Chinese, Asian Fusion",3.5,"1755 Saint Laurent Boulevard, Ottawa",45.404831,-75.626144,26,1628.17,16137398833,False,$$,Ottawa
+Urban Indian Cafe,Indian,Indian,Indian,4.5,"1910 St Laurent Boulevard, Ottawa",45.400092,-75.6239,9,1045.96,16132471010,False,$$,Ottawa
+Shawarma Rosana,Lebanese,Lebanese,NA,4.5,"2219 Arch Street, Ottawa",45.38977,-75.63028,6,154.57,16135218500,False,$,Ottawa
+Aiyara Thai Cuisine,Thai,Thai,Thai,3.5,"1590 Walkley Rd, Ottawa",45.376887,-75.646897,27,2030.83,16135261703,False,$$,Ottawa
+Rôtisserie St-Hubert,"Chicken Shop, Burgers, Chicken Wings",Burgers,NA,3.0,"1754 Saint Laurent Boulevard, Ottawa",45.405052,-75.627122,26,1644.53,16135261222,False,$$,Ottawa
+Ginkgo Garden,Chinese,Chinese,Chinese,4.0,"2225 St Laurent Boulevard, Ottawa",45.389797,-75.617775,7,898.14,16137373198,False,$$,Ottawa
+Lorenzo's Pizzeria,Pizza,Pizza,NA,2.5,"2201 Arch St, Ottawa",45.38973,-75.630555,12,141.48,16137373737,False,$$,Ottawa
+Milano Pizzeria,Pizza,Pizza,NA,4.5,"2229 St Laurent Blvd, Ottawa",45.38959,-75.617669,5,912.47,16135216661,False,$$,Ottawa
+New Town Chinese Food,"Chinese, Imported Food",Chinese,Chinese,3.5,"1022 Pleasant Park Rd, Ottawa",45.395417,-75.621923,10,759.37,16137317421,False,$$,Ottawa
+Boston Pizza,"Pizza, Burgers, Italian","Pizza, Burgers",Italian,2.0,"2980 Conroy Road, Ottawa",45.38268,-75.630191,13,855.08,16132480802,False,$$,Ottawa
+The Sandwich Stop,Sandwiches,Sandwiches,NA,4.5,"2285B St Laurent Boulevard, Ottawa",45.386171,-75.613558,5,1280.1,16136806844,False,$$,Ottawa
+Safia Restaurant,"Canadian (New), Ethiopian",Canadian (New),"Canadian (New), Ethiopian",5.0,"2335 St Laurent Boulevard, Ottawa",45.383081,-75.620606,3,1030.26,16132413111,False,$$,Ottawa
+Prince Ali Bakery,"Bakeries, Lebanese, Mediterranean",Bakeries,Mediterranean,4.0,"1600 Walkey Road, Ottawa",45.37659,-75.646479,11,2055.04,16135219191,False,$,Ottawa
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,4.5,"1660 Heron Road, Ottawa",45.379952,-75.643983,3,1650.24,16137316644,False,$,Ottawa
+Fried Chicken Club,"Fast Food, Burgers, Chicken Wings","Fast Food, Burgers",NA,4.0,"1910 St. Laurent Boulevard, Ottawa",45.399058,-75.623913,2,1046.13,16132498777,False,$,Ottawa
+Capital Shawarma,Lebanese,Lebanese,NA,3.5,"1910 St. Laurent Boulevard, Ottawa",45.399998,-75.623917,10,1045.96,16135216000,False,$,Ottawa
+Green Bean Cafe,Cafes,Cafes,NA,4.5,"1791 Kilborn Avenue, Ottawa",45.38808,-75.64545,2,1320.53,16134222326,False,$,Ottawa
+Samar Kabab House,"Afghan, Kebab",Afghan,NA,3.5,"1729 Walkley Road, Ottawa",45.37849,-75.64575,6,1881.03,16135237171,False,$,Ottawa
+Gloria's Pizza,Pizza,Pizza,NA,4.0,"1588 Walkley Rd, Ottawa",45.377038,-75.646522,5,2028.8,16135236969,False,$$,Ottawa
+Sub Town,"Lebanese, Desserts",Desserts,NA,4.0,"1600 Walkley Road, Ottawa",45.376908,-75.645931,2,2000.17,16135212122,False,$$,Ottawa
+Shawarma House,Mediterranean,Mediterranean,Mediterranean,3.0,"1739 Walkley Road, Ottawa",45.37838,-75.64475,11,1799.48,16136808300,False,$$,Ottawa
+Fat Albert's & Ralphs Sports Bar,"Salad, Pizza, Sports Bars","Pizza, Sports Bars",NA,2.0,"1990 Russell Road, Ottawa",45.40101,-75.62394,9,1226.28,16137335995,False,$,Ottawa
+O'Brien's Corner Pub,"Pubs, Lebanese",Pubs,NA,4.5,"A-1785 Kilborn Avenue, Ottawa",45.387946,-75.645758,3,1337.6,16137318752,False,$,Ottawa
+Popeye's Chicken,"Chicken Shop, Fast Food, Seafood","Fast Food, Seafood",NA,2.0,"1739 Walkley Road, Ottawa",45.379442,-75.641501,24,1799.48,16134228800,False,$$,Ottawa
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,5.0,"1030 Pleasant Park Road, Ottawa",45.395496,-75.621782,1,798.18,16137331500,False,$$,Ottawa
+Tim Hortons,"Breakfast & Brunch, Coffee & Tea",Coffee & Tea,NA,2.5,"1950 Walkley Rd, Ottawa",45.38273,-75.63152,3,876.67,16137387942,False,$,Ottawa
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"1950 Walkley Road, Ottawa",45.38273,-75.63152,3,876.67,16137390311,False,$,Ottawa
+Burger King,"Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"1804 St Laurent Boulevard, Ottawa",45.40354,-75.62673,5,1472.3,16135237433,False,$,Ottawa
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"1771 Walkley, Ottawa",45.38012,-75.640407,4,1448.72,16137338354,False,$$,Ottawa
+Fat Bastard Burrito,"Tex-Mex, Mexican",Tex-Mex,Mexican,2.5,"1739 Walkley Road, Ottawa",45.37838,-75.64475,7,1799.48,16135624518,False,$$,Ottawa
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"1795 St. Laurent Blvd, Ottawa",45.404348,-75.625277,14,1585.45,16132488900,False,$,Ottawa
+Oh Basil,Thai,Thai,Thai,3.0,"1910 Street Laurent Boulevard, Ottawa",45.399118,-75.623781,12,1056.13,16135213301,False,$,Ottawa
+Sabaya Shack,"African, Halal",African,African,5.0,"2285 St. Laurent Boulevard, Ottawa",45.385501,-75.613894,1,1284.9,16135211988,False,$,Ottawa
+Far Jano Intercontinental Cuisine,"African, Breakfast & Brunch, Canadian (New)",African,"African, Canadian (New)",4.0,"2335 Street Laurent Boulevard, Ottawa",45.383369,-75.620598,2,952.06,16137334444,False,$$,Ottawa
+Pizza Pizza,Pizza,Pizza,NA,2.0,"1910 Saint Laurent Boulevard, Ottawa",45.400092,-75.6239,2,1127.53,16137371111,False,$$,Ottawa
+Alissar Lebanese Cuisine,"Bakeries, Mediterranean, Lebanese",Bakeries,Mediterranean,3.5,"1767 St Laurent Blvd, Ottawa",45.404769,-75.62615,5,1606.19,16132490888,False,$$,Ottawa
+Little Caesars ,Pizza,Pizza,NA,2.5,"1739 Walkley Rd, Ottawa",45.37838,-75.64475,7,1799.48,16132603000,False,$$,Ottawa
+Tim Hortons,"Cafes, Coffee & Tea","Cafes, Coffee & Tea",NA,2.5,"1610 Walkley Rd, Ottawa",45.37733,-75.64514,3,1937.46,16137319236,False,$,Ottawa
+Tim Hortons,Cafes,Cafes,NA,2.5,"1802 St Laurent Blvd, Ottawa",45.40354,-75.62674,4,1494.33,16135233467,False,$,Ottawa
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"Herongate Mall, Ottawa",45.379442,-75.641501,2,1808.67,16137317311,False,$$,Ottawa
+Cafe Orient,Restaurants,Restaurants,NA,4.0,"2335 Street Laurent Boulevard, Ottawa",45.38337,-75.6206,1,952.06,16132478030,False,$$,Ottawa
+Liang's Village,Restaurants,Restaurants,NA,4.0,"1755 St Laurent Blvd, Ottawa",45.40478,-75.62542,1,1642.89,16137332889,False,$$,Ottawa
+Louis Restaurant And Pizza,Pizza,Pizza,NA,4.5,"181 McArthur Avenue, Vanier",45.43144,-75.66235,59,903.26,16137410724,False,$$,Ottawa
+Fraser Cafe,"Canadian (New), Cafes",Cafes,Canadian (New),4.5,"7 Springfield Road, Ottawa",45.440231,-75.676136,90,1241.45,16137491444,False,$$$,Ottawa
+Bobby's Table,American,American,American,4.5,"255 Montreal Road, Ottawa",45.43653,-75.6611,34,336.0,16137409333,False,$,Ottawa
+The Works,Burgers,Burgers,NA,4.0,"363 St Laurent Boulevard, Ottawa",45.448717,-75.650944,43,1272.74,16137480406,False,$$,Ottawa
+Great Canadian Poutinerie,"Fast Food, Poutineries",Fast Food,NA,4.0,"200 Deschamps Avenue, Ottawa",45.436584,-75.664825,24,474.17,16132556745,False,$,Ottawa
+YKO Chicken BBQ,"African, Barbeque",Barbeque,African,4.5,"375 McArthur, Ottawa",45.43232,-75.65069,27,1095.69,16137478947,False,$$,Ottawa
+Red Door Provisions,"Coffee & Tea, Cafes, Breakfast & Brunch","Coffee & Tea, Cafes",NA,4.5,"117 Beechwood Avenue, Ottawa",45.44171,-75.673,39,1025.7,16136956804,False,$$,Ottawa
+Signatures Restaurant,"French, Desserts, Imported Food",Desserts,French,4.5,"453 Laurier Avenue E, Ottawa",45.429097,-75.674698,19,1607.58,16132362499,False,$$$$,Ottawa
+Habesha Restaurant,Ethiopian,Ethiopian,Ethiopian,4.5,"99 Montreal Street, Vanier",45.434158,-75.667022,34,787.02,16137616120,False,$$,Ottawa
+BiBi's  Middle Eastern Kitchen,"Middle Eastern, Acai Bowls, Fast Food",Fast Food,Middle Eastern,4.5,"143 Putman Avenue, Ottawa",45.44233,-75.67167,7,942.65,16134210711,False,$$,Ottawa
+Table 40,"Canadian (New), Venues & Event Spaces",Canadian (New),Canadian (New),4.5,"7 Springfield Road, Ottawa",45.440184,-75.676268,6,1245.25,16137491444,False,$$$,Ottawa
+Aladdin,Pizza,Pizza,NA,4.0,"272 Montréal Road, Vanier",45.436564,-75.659917,6,318.1,16137468888,False,$,Ottawa
+Eastview Pizza,Pizza,Pizza,NA,3.5,"251 Montreal Rd, Vanier",45.43646,-75.66128,7,331.63,16137491555,False,$,Ottawa
+Pizarro's Restaurant,Italian,Italian,Italian,4.5,"366 Marguerite Ave, Vanier",45.43064,-75.66652,8,1091.74,16137477777,False,$$,Ottawa
+Eat at Mia's,Indian,Indian,Indian,4.5,"327 Saint Laurent Boulevard, Ottawa",45.45003,-75.651554,12,1362.15,16136805353,False,$$,Ottawa
+Chilaquiles Mexican Cuisine,Mexican,Mexican,Mexican,4.5,"55 Beechwood Avenue, Ottawa",45.440242,-75.675792,10,1214.74,16136997100,False,$$,Ottawa
+Dhruvees,"Indian, Sri Lankan, Indonesian",Indian,Indian,4.5,"18 Beechwood Avenue, Ottawa",45.43877,-75.67681,3,1293.44,16137447888,False,$$,Ottawa
+The SconeWitch,"Bakeries, Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,3.5,"35 Beechwood Avenue, Ottawa",45.43974,-75.67726,28,1302.15,16137414141,False,$$,Ottawa
+Idriss,Mediterranean,Mediterranean,Mediterranean,5.0,"319 St Laurent Blvd, Ottawa",45.450307,-75.651834,4,1378.31,16134214008,False,$$,Ottawa
+Greek To Go,"Greek, Mediterranean",Greek,"Greek, Mediterranean",3.5,"425 Mcarthur Avenue, Ottawa",45.43252,-75.647,13,1286.0,16137416159,False,$$,Ottawa
+Falafel On Wheels,"Falafel, Food Trucks",Falafel,NA,4.5,"1758 Montreal Road, Ottawa",45.445527,-75.60904,7,4053.92,16134156544,False,$$,Ottawa
+Il Vagabondo,Italian,Italian,Italian,4.5,"186 Barrette Street, Ottawa",45.44174,-75.67124,6,893.58,16137494877,False,$$,Ottawa
+Vanier Pizza & Subs,"Pizza, Sandwiches","Pizza, Sandwiches",NA,2.0,"201 Marier Ave, Vanier",45.4391,-75.66328,9,236.31,16137424411,False,$$,Ottawa
+Creole Sensations,"Haitian, Cajun/Creole",Haitian,NA,4.5,"165 Montreal Road, Ottawa",45.43506,-75.66489,2,607.19,16137458900,False,$$,Ottawa
+Swiss Chalet Rotisserie & Grill,"Comfort Food, American",Comfort Food,American,3.0,"540 Montreal Rd, Ottawa",45.44088,-75.64588,12,1163.0,16137461777,False,$$,Ottawa
+Pho Hoan,"Soup, Vietnamese",Soup,Vietnamese,4.0,"574 Montreal Road, Ottawa",45.441056,-75.644138,10,1271.55,16137481217,False,$,Ottawa
+Fontenelle Restaurant,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),4.0,"55 Montreal Road, Ottawa",45.43378,-75.66817,9,893.03,16137490332,False,$$,Ottawa
+Arturo's Ristorante,"Pizza, Italian",Pizza,Italian,3.0,"94 Beechwood Ave, Ottawa",45.440698,-75.674308,22,1104.75,16133214613,False,$$,Ottawa
+Reginos Pizza,Pizza,Pizza,NA,4.5,"411 McArthur Avenue, Ottawa",45.432259,-75.648642,3,1206.51,16136805999,False,$,Ottawa
+The Soca Kitchen / Plantain Cartel,"Latin American, Spanish",Latin American,Latin American,4.0,"224 Beechwood Avenue, Ottawa",45.443465,-75.670019,4,884.2,16136959190,False,$,Ottawa
+Wing's Chinese Food Take Out,"Chinese, Chicken Wings",Chinese,Chinese,3.5,"315 Montreal Rd, Vanier",45.43766,-75.65805,4,262.26,16137452189,False,$$$,Ottawa
+Reggae Rooster,"Caribbean, Canadian (New)",Caribbean,"Caribbean, Canadian (New)",4.5,"321 Somerset E, Ottawa",45.424629,-75.67431,3,1975.75,16132300465,False,$$$,Ottawa
+Margo,Caribbean,Caribbean,Caribbean,4.0,"606 Rideau Street, Ottawa",45.432922,-75.675075,6,1362.35,16132411400,False,$$,Ottawa
+Royal Prince Cuisine,Caribbean,Caribbean,Caribbean,4.5,"15 Selkirk Street, Ottawa",45.431934,-75.668601,2,1030.02,16136805023,False,$$,Ottawa
+The Bistro,Canadian (New),Canadian (New),Canadian (New),4.0,"200 Coventry Rd, Ottawa",45.421442,-75.65695,10,2015.15,<NA>,False,$$,Ottawa
+The Royal Oak,"Pubs, Fish & Chips, Burgers","Pubs, Burgers",NA,2.5,"1 Beechwood Avenue, Ottawa",45.43886,-75.67806,17,1384.74,16136801130,False,$$,Ottawa
+Wow India,Indian,Indian,Indian,3.0,"159 Montreal Road, Vanier",45.43499,-75.665152,2,622.36,16137400600,False,$$,Ottawa
+Le St Laurent,"Canadian (New), French",Canadian (New),"Canadian (New), French",4.5,"460 St Laurent blvd, Ottawa",45.44537,-75.64977,2,1065.72,16139094003,False,$$,Ottawa
+Little Caesars,"Pizza, Chicken Wings",Pizza,NA,1.0,"355 Montreal Road, Vanier",45.43872,-75.65548,2,409.84,16137410229,False,$$,Ottawa
+Burger King,"Burgers, Fast Food, American","Burgers, Fast Food",American,2.0,"199 Montreal Road, Vanier",45.43542,-75.663694,6,526.35,16137447016,False,$$,Ottawa
+Safi Fine Foods,Comfort Food,Comfort Food,NA,4.5,"296 Somerset Street E, Ottawa",45.42368,-75.67571,4,2124.37,16138041580,False,$$,Ottawa
+The Family Restaurant & Bar,"Breakfast & Brunch, Caribbean, Burgers",Burgers,Caribbean,1.0,"303 Kendall Avenue, Vanier",45.43366,-75.66435,1,718.02,16137464284,False,$$,Ottawa
+Mukut Restaurant Indian Cuisine,Indian,Indian,Indian,3.5,"610 Rideau Street, Ottawa",45.432707,-75.675907,6,1356.65,16137892220,False,$$,Ottawa
+Golden India,"Indian, Buffets",Indian,Indian,3.5,"408 McArthur Avenue, Ottawa",45.431988,-75.648773,8,1235.5,16138429153,False,$$,Ottawa
+Capital Fare Café,"Cafes, Caribbean",Cafes,Caribbean,4.5,"595 Montreal Road, Ottawa",45.44296,-75.64357,3,1361.07,16138596297,False,$$,Ottawa
+The Seoul Station,"Chicken Shop, Korean, Chicken Wings",Chicken Shop,Korean,5.0,"18 Beechwood Avenue, Vanier",45.438959,-75.677092,1,1313.67,16137447888,False,$$,Ottawa
+Mont Liban,Lebanese,Lebanese,NA,2.5,"351 Montreal Rd, Ottawa",45.43824,-75.655998,3,360.67,16132881333,False,$,Ottawa
+Pizza Marya,Pizza,Pizza,NA,2.5,"201 Marier Avenue, Vanier",45.4391,-75.66328,5,236.31,16137419991,False,$,Ottawa
+Working Title Kitchen,"Bakeries, Cafes",Cafes,NA,3.0,"330 Laurier Avenue E, Ottawa",45.427291,-75.677496,15,1903.85,16132303336,False,$,Ottawa
+Maverick's Donuts,"Donuts, Cafes",Cafes,NA,3.5,"1500 Bank Street, Ottawa",45.38117,-75.67012,32,510.2,16136801004,False,$$,Ottawa
+Ten Sushi Buffet,"Sushi Bars, Chinese, Korean",Sushi Bars,"Chinese, Korean",3.0,"1490 Bank Street, Ottawa",45.382792,-75.67118,160,486.96,16138907736,False,$$,Ottawa
+Ocho Rios,Caribbean,Caribbean,Caribbean,4.5,"1800 Bank Street, Ottawa",45.371438,-75.664346,16,1450.7,16137339999,False,$$,Ottawa
+Centrale Bergham - Ottawa,"Halal, Burgers, Sandwiches","Burgers, Sandwiches",NA,4.0,"1611 Bank Street, Ottawa",45.377889,-75.667068,13,742.31,16136958844,False,$$,Ottawa
+Yemen Gate,Middle Eastern,Middle Eastern,Middle Eastern,4.5,"1559 Bank Street, Ottawa",45.379896,-75.667521,2,533.74,16135266000,False,$$,Ottawa
+Colonnade Pizza,"Pizza, Salad, Italian",Pizza,Italian,3.5,"1520 Bank St, Ottawa",45.38113,-75.669351,11,501.9,16137371107,False,$$,Ottawa
+Sala Thai Cuisine,Thai,Thai,Thai,4.0,"2666 Alta Vista Dr, Ottawa",45.373467,-75.663116,27,1238.15,16135211102,False,$$,Ottawa
+Royal Indian Cuisine,Indian,Indian,Indian,5.0,"2675 Alta Vista Drive, Ottawa",45.37271,-75.66258,6,1374.84,16136991825,False,$$,Ottawa
+O'Brien's Eatery & Pub,"Pizza, Pubs","Pizza, Pubs",NA,4.0,"1145 Heron Road, Ottawa",45.378502,-75.67095,15,791.29,16137318752,False,$$,Ottawa
+Beijing Legend Restaurant,Chinese,Chinese,Chinese,2.5,"1800 Bank Street, Ottawa",45.372,-75.664567,34,1387.43,16137375588,False,$$,Ottawa
+Bella Vista Restaurant,"Pizza, Sports Bars, Breakfast & Brunch","Pizza, Sports Bars",NA,3.5,"2645 Alta Vista Drive, Ottawa",45.373294,-75.663116,29,1254.91,16137319841,False,$$,Ottawa
+Swiss Chalet Rotisserie & Grill,"Comfort Food, American",Comfort Food,American,3.0,"1910 Bank St, Ottawa",45.368218,-75.662341,19,1788.3,16137337231,False,$$,Ottawa
+Ariana Kabab House,Afghan,Afghan,NA,3.5,"2677 Alta Vista Drive, Ottawa",45.372811,-75.664209,25,1299.05,16137310666,False,$$,Ottawa
+The Burger's Priest,"Fast Food, Burgers, Hot Dogs","Fast Food, Burgers",NA,4.0,"1677 Bank Street, Ottawa",45.376164,-75.665919,7,922.89,16132607828,False,$$,Ottawa
+Saffron,"Desserts, Salad, Kebab",Desserts,NA,4.5,"1729 Bank Street, Ottawa",45.37421,-75.66451,9,1139.63,16132602229,False,$$,Ottawa
+Mango's Cafe,Cafes,Cafes,NA,4.0,"2682 Alta Vista Drive, Ottawa",45.37343,-75.663174,13,1238.75,16135262526,False,$,Ottawa
+Ruby Inn Ottawa,Chinese,Chinese,Chinese,2.5,"1834 Bank St, Ottawa",45.371029,-75.663774,27,1556.15,16137311873,False,$$,Ottawa
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,3.5,"2269 Riverside Drive, Ottawa",45.387119,-75.676562,9,919.09,16137398021,False,$,Ottawa
+Cafe Bab Lel Hara,"Coffee & Tea, Hookah Bars, Middle Eastern","Coffee & Tea, Hookah Bars",Middle Eastern,3.5,"1818 Bank Street, Ottawa",45.371446,-75.664221,11,1450.45,<NA>,False,$$,Ottawa
+New China Take-Out,"Chinese, Imported Food",Chinese,Chinese,2.5,"2184 Lamira Street, Ottawa",45.384932,-75.671286,4,461.36,16135212222,False,$,Ottawa
+Playback,"Canadian (New), Sports Bars",Sports Bars,Canadian (New),3.5,"3A - 1860 Bank Street, Ottawa",45.36939,-75.663005,6,1724.84,16137333553,False,$,Ottawa
+Thai Express,Thai,Thai,Thai,3.0,"2277 Riverside Drive East, Ottawa",45.385981,-75.676487,9,880.89,16132470583,False,$,Ottawa
+Moul Hanout,Moroccan,Moroccan,NA,5.0,"1581 Bank Street, Ottawa",45.379417,-75.667446,1,583.03,16132601212,False,$,Ottawa
+Cora's,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"2629 Alta Vista Dr, Ottawa",45.37259,-75.66268,25,1253.57,16135232672,False,$$,Ottawa
+M & G's Chip Wagon,Food Stands,Food Stands,NA,3.5,"1089 Bank Street, Ottawa",45.394478,-75.683346,25,1788.93,<NA>,False,$,Ottawa
+Mediterranean Bakery - Pastry & Pizza,"Pizza, Bakeries, Patisserie/Cake Shop",Pizza,NA,4.5,"2698 Alta Vista Drive, Ottawa",45.373462,-75.664111,7,1227.52,16135232999,False,$,Ottawa
+DQ Grill & Chill Restaurant,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,3.5,"1272 Bank St, Ottawa",45.390335,-75.679734,5,1294.78,16137387146,False,$,Ottawa
+Bank Shawarma and Poutine,"Poutineries, Chicken Wings, Lebanese",Poutineries,NA,5.0,"1227 Bank Street, Ottawa",45.39153,-75.680742,1,1431.71,16137336161,False,$,Ottawa
+The Falafel Guys,"Falafel, Syrian",Falafel,NA,5.0,"1000 Exhibition Way, Ottawa",45.400056,-75.682732,1,2198.66,18193294528,False,$,Ottawa
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,5.0,"1227 Bank St, Ottawa",45.391528,-75.680763,1,1429.19,16135261717,False,$,Ottawa
+Hadhramout Restaurant,Arabic,Arabic,NA,5.0,"3 -1930 Bank Street, Ottawa",45.367673,-75.661956,1,1915.42,16132601111,False,$,Ottawa
+Alhalabi Restaurant,"Middle Eastern, Breakfast & Brunch, Sandwiches",Sandwiches,Middle Eastern,4.0,"1638 Bank Street, Ottawa",45.37698,-75.667069,1,842.04,16137317171,False,$,Ottawa
+Moxies,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.5,"1976 Ogilvie Rd, Ottawa",45.434432,-75.610501,42,1030.12,16137455556,False,$$,Ottawa
+Taqueria La Bonita,Mexican,Mexican,Mexican,3.5,"1128 Cadboro Road, Ottawa",45.43094,-75.62126,48,1117.72,16136957373,False,$$,Ottawa
+Schnitzel Works,"Salad, Breakfast & Brunch, Sandwiches",Sandwiches,NA,4.0,"1400 Cyrville Road, Ottawa",45.420976,-75.620932,22,903.5,16136959577,False,$$,Ottawa
+Sushi Kan,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"1910 Innes Road, Ottawa",45.418189,-75.597703,65,1218.15,16137468900,False,$$,Ottawa
+Laziz Broast & Mix Grill,"Burgers, Halal, Mediterranean",Burgers,Mediterranean,4.0,"1900 Innes Road, Ottawa",45.418195,-75.595807,14,1341.73,16137466111,False,$$,Ottawa
+Ten Sushi Buffet,"Sushi Bars, Buffets, Japanese",Sushi Bars,Japanese,3.5,"2300 City Park Drive, Ottawa",45.430895,-75.611929,22,722.52,16137473999,False,$$,Ottawa
+Montana's,"Comfort Food, Steakhouses, Canadian (New)",Steakhouses,Canadian (New),3.5,"1750 Ogilvie Rd, Gloucester",45.432098,-75.615667,21,938.98,16137472744,False,$$,Ottawa
+Firehouse Subs,"Sandwiches, Fast Food, Delis","Sandwiches, Fast Food",NA,4.0,"2014 Ogilvie Rd., Gloucester",45.437052,-75.603856,21,1490.88,16137473473,False,$$,Ottawa
+Made in Chicago Pizza,Pizza,Pizza,NA,4.5,"1481B Innes Road, Ottawa",45.415327,-75.605872,5,896.79,16137466769,False,$$,Ottawa
+Broadway Bar & Grill Innes,"Bars, Breakfast & Brunch",Bars,NA,2.5,"1486 Innes Road, Ottawa",45.414588,-75.605409,21,1168.74,16137459898,False,$$,Ottawa
+Golden Bowl Restaurant,Chinese,Chinese,Chinese,4.0,"1598 Cyrville Road, Gloucester",45.418097,-75.610166,9,713.66,16137442865,False,$$,Ottawa
+State & Main Kitchen & Bar,"Bars, Burgers, American","Bars, Burgers",American,4.0,"1880 Ogilvie Road, Gloucester",45.432644,-75.614657,10,964.72,<NA>,False,$$,Ottawa
+The Bulldog Café,"Food Trucks, Coffee & Tea, Waffles",Coffee & Tea,NA,5.0,"1877 Innes Rd, Ottawa",45.419066,-75.599108,2,1069.5,16133902171,False,$$,Ottawa
+J N Pizza,"Italian, Pizza",Pizza,Italian,4.5,"1663 Cyrville Rd, Ottawa",45.417947,-75.608479,3,749.93,16137453377,False,$$,Ottawa
+Crust & Crate,"Pizza, Gastropubs","Pizza, Gastropubs",NA,3.0,"2018 Ogilvie Road, Ottawa",45.4374,-75.602788,14,1557.46,16136566567,False,$$,Ottawa
+Stan's Diner & Take Out,Diners,Diners,NA,3.5,"1188 Newmarket St, Ottawa",45.410137,-75.621061,11,1795.55,16137462203,False,$,Ottawa
+Royal Oak Pub,"Pubs, Comfort Food, British",Pubs,British,3.0,"2067 Meadowbrook Road, Ottawa",45.427093,-75.600876,4,793.72,16137410072,False,$,Ottawa
+East Side Mario's,"Italian, American, Pizza",Pizza,"Italian, American",2.5,"1820 Ogilvie Rd, Gloucester",45.432273,-75.615073,17,937.87,16137486931,False,$$,Ottawa
+China Thai,"Thai, Chinese",Thai,"Thai, Chinese",4.0,"1980 Ogilvie Road, Ottawa",45.432586,-75.610165,3,902.01,16136958886,False,$,Ottawa
+Swiss Chalet Rotisserie & Grill,"American, Comfort Food",American,American,2.5,"1899 Cyrville Rd, Ottawa",45.415165,-75.601486,3,1183.83,16137466623,False,$$,Ottawa
+Mr Shawarma,Lebanese,Lebanese,NA,3.0,"2018 Ogilvie Rd, Ottawa",45.437233,-75.602474,6,1550.06,16136808666,False,$,Ottawa
+Harvey's & Swiss Chalet Combo,"Burgers, Fast Food, American","Burgers, Fast Food",American,1.0,"1899 Cyrville Rd, Ottawa",45.415165,-75.601486,3,1183.83,16137466623,False,$,Ottawa
+All Seasons Restaurant,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"1460 Cyrville Road, Ottawa",45.41994,-75.61904,2,819.32,16137496687,False,$,Ottawa
+Mr Cheezy Pizza,"Pizza, Salad, Chicken Wings",Pizza,NA,3.5,"1980 Ogilvie Road, Ottawa",45.432111,-75.60951,3,852.26,16137499929,False,$,Ottawa
+Prince Gourmet,Mediterranean,Mediterranean,Mediterranean,2.0,"1750 Innes Road, Ottawa",45.416847,-75.601044,9,1202.01,16133211700,False,$$,Ottawa
+Gabriel Pizza,Pizza,Pizza,NA,3.0,"2016 Ogilvie Rd, Ottawa",45.436976,-75.604263,5,1567.12,16137446800,False,$$,Ottawa
+Bobbie's Pizza & Subs,"Sandwiches, Italian, Pizza","Sandwiches, Pizza",Italian,2.5,"1443 Ogilvie Road, Gloucester",45.431563,-75.618309,16,996.84,16137417000,False,$,Ottawa
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"1511 Innes Rd., Ottawa",45.41603,-75.60377,4,1040.73,16137462424,False,$,Ottawa
+State & Main,"Bars, American",Bars,American,4.0,"2401 City Park Drive, Ottawa",45.43287,-75.613381,1,960.22,<NA>,False,$,Ottawa
+Tim Hortons,Cafes,Cafes,NA,2.5,"1720 Innes Rd, Gloucester",45.416399,-75.601823,5,1123.47,16137418216,False,$,Ottawa
+La Vague Bistro Lounge,"American, Breakfast & Brunch",American,American,4.0,"1170 Old Innes Road, Ottawa",45.409038,-75.619362,1,1796.78,16137426883,False,$,Ottawa
+Edo Japan,Japanese,Japanese,Japanese,5.0,"1980 Ogilvie Rd, Ottawa",45.434477,-75.610437,1,793.75,16137491497,False,$,Ottawa
+BarBurrito,"Mexican, Fast Food, Sandwiches","Fast Food, Sandwiches",Mexican,3.0,"3-2014 Ogilvie Road, Ottawa",45.436964,-75.60377,1,1484.1,16137414152,False,$,Ottawa
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.5,"Innes Road Centre, Gloucester",45.416861,-75.601082,4,1191.26,16137457789,False,$,Ottawa
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"1980 Ogilvie Road, Gloucester",45.433129,-75.612772,3,978.44,16137479920,False,$,Ottawa
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"1890 Innes Road, Gloucester",45.417638,-75.598301,8,1217.59,16137419610,False,$,Ottawa
+Pita Pit,Sandwiches,Sandwiches,NA,3.5,"2016 Ogilvie Road, Gloucester",45.437151,-75.603834,2,1567.12,16137457482,False,$$,Ottawa
+Cozy's Express,"Breakfast & Brunch, Chicken Wings, Sandwiches",Sandwiches,NA,2.5,"1572 Michael Street, Ottawa",45.411181,-75.626341,2,1928.01,16137462930,False,$$,Ottawa
+Fry Thyme,"Poutineries, Sandwiches, Food Stands",Sandwiches,NA,2.5,"2010 Ogilvie Road, Ottawa",45.43556,-75.60656,3,1218.94,16137464211,False,$$,Ottawa
+Kiki Lebanese Fast Food,"Middle Eastern, Fast Food",Fast Food,Middle Eastern,2.5,"2045 Meadowbrook Drive, Ottawa",45.427026,-75.60176,3,768.24,16137469988,False,$$,Ottawa
+Yaseen Halal Pizza & Bakery,Pizza,Pizza,NA,1.0,"1741 Cyrville Road, Ottawa",45.417296,-75.604858,1,911.23,16132164655,False,$$,Ottawa
+Pineview Pizza Italian & Greek,"Italian, Greek",Italian,"Italian, Greek",1.0,"2045 Meadowbrook Road, Gloucester",45.427026,-75.60176,2,768.24,16137417662,False,$,Ottawa
+Thai Express,Thai,Thai,Thai,2.5,"2014 Ogilvie Road, Gloucester",45.436991,-75.60422,2,1481.81,16136805200,False,$,Ottawa
+Lucky King Take Out,Chinese,Chinese,Chinese,3.0,"1134 Cadboro Road, Gloucester",45.431016,-75.621146,4,1110.86,16135649888,False,$,Ottawa
+Liuyishou Hotpot,"Hot Pot, Chinese",Hot Pot,Chinese,5.0,"1568 Merivale Road, Ottawa",45.351874,-75.734358,22,1490.76,16136800188,False,$$$,Ottawa
+Crispy's Resto Grill,"American, Burgers, Chicken Wings",Burgers,American,4.5,"1433 Woodroffe Avenue, Ottawa",45.34196,-75.756,24,894.52,16136957575,False,$,Ottawa
+Chances R Restaurant,American,American,American,4.0,"1365 Woodroffe Avenue, Ottawa",45.349851,-75.76159,63,1566.51,16132256887,False,$$,Ottawa
+Brampton Authentic Indian Food,Indian,Indian,Indian,4.5,"178 Meadowlands Drive W, Ottawa",45.342396,-75.755738,45,882.75,16136959915,False,$,Ottawa
+Sansotei Ramen,Ramen,Ramen,NA,4.0,"1537 Merivale Road, Ottawa",45.355853,-75.736184,32,1859.78,16136951216,False,$$,Ottawa
+Merivale Noodle House,Vietnamese,Vietnamese,Vietnamese,4.0,"1519 Merivale Road, Ottawa",45.357026,-75.736632,31,1970.17,16132268812,False,$$,Ottawa
+Dao Bake & Sip Cafe,"Bakeries, Desserts, Cafes","Desserts, Cafes",NA,4.0,"1558 Merivale Road, Ottawa",45.353016,-75.735253,28,1603.01,<NA>,False,$$,Ottawa
+Ng's Cuisine,Chinese,Chinese,Chinese,3.5,"1499 Merivale Road, Ottawa",45.358658,-75.736412,38,2091.41,16132288818,False,$$,Ottawa
+World Burger,Burgers,Burgers,NA,3.5,"1651 Merivale Road, Ottawa",45.350837,-75.731781,50,1556.45,16136954545,False,$$,Ottawa
+168 Sushi Buffet,"Sushi Bars, Japanese, Korean",Sushi Bars,"Japanese, Korean",3.0,"1651 Merivale Road, Ottawa",45.35101,-75.731585,149,1581.02,16132280168,False,$$,Ottawa
+Kettlemans Bagel,"Sandwiches, Bagels, Salad",Sandwiches,NA,4.0,"1365 Woodroffe Avenue, Nepean",45.350195,-75.759125,29,1568.6,16134226624,False,$,Ottawa
+Summerhays Grill,Canadian (New),Canadian (New),Canadian (New),3.0,"1971 Baseline Road, Ottawa",45.351986,-75.762348,47,1888.0,16132286049,False,$$,Ottawa
+Happy Lamb Hot Pot,"Chinese, Hot Pot, Mongolian",Chinese,Chinese,3.0,"1514 Merivale Rd, Ottawa",45.356609,-75.737579,64,1902.96,16132483388,False,$$,Ottawa
+Red Lobster,"Seafood, American",Seafood,American,3.0,"1595 Merivale Road, Nepean",45.353082,-75.734502,48,1679.43,16137270035,False,$$,Ottawa
+Shawarma Prince,"Lebanese, Mediterranean",Lebanese,Mediterranean,4.0,"1667 Merivale Road, Ottawa",45.348961,-75.73199,27,1393.94,16137622496,False,$$,Ottawa
+Mexicali Rosa’s,Mexican,Mexican,Mexican,4.0,"540 West Hunt Club, Ottawa",45.332631,-75.727763,13,1583.37,16137374444,False,$$,Ottawa
+Mr Mozzarella,"Pizza, Italian, Chicken Wings",Pizza,Italian,4.0,"1433 Woodroffe Avenue, Ottawa",45.34202,-75.75589,9,894.52,16132269000,False,$$,Ottawa
+Pho Thi Noodle Soup Restaurant,Vietnamese,Vietnamese,Vietnamese,3.5,"1691 Merivale Rd, Ottawa",45.346577,-75.730656,15,1318.15,16132247687,False,$$,Ottawa
+Montana's,"Canadian (New), Steakhouses, Bars","Steakhouses, Bars",Canadian (New),3.0,"1711 Merivale Rd, Nepean",45.345805,-75.729974,31,1315.3,16132880517,False,$$,Ottawa
+Restaurant International,Canadian (New),Canadian (New),Canadian (New),4.5,"1385 Woodroffe Avenue, Ottawa",45.347224,-75.759339,4,1260.09,16137277691,False,$$,Ottawa
+Willy's Pizza,Pizza,Pizza,NA,3.5,"1541 Merivale Road, Ottawa",45.35562,-75.7352,20,1852.92,16137231234,False,$$,Ottawa
+H&R pizza & Wings,Pizza,Pizza,NA,3.5,"197 Norice Street, Nepean",45.33972,-75.75407,15,723.49,16132252221,False,$$,Ottawa
+The Barley Mow,Gastropubs,Gastropubs,NA,2.0,"1541 Merivale Road, Ottawa",45.35562,-75.7352,10,1852.92,16136952669,False,$$,Ottawa
+Royal Oak,"Pubs, British, Comfort Food",Pubs,British,2.5,"117 Centrepointe Drive, Ottawa",45.342875,-75.762327,12,1395.92,16136952800,False,$$,Ottawa
+Ammas Biryani,Indian,Indian,Indian,4.5,"1618 Merivale Road, Ottawa",45.347516,-75.732295,3,1269.32,16137122666,False,$$,Ottawa
+Noodle House 79,"Vietnamese, Bubble Tea, Noodles",Vietnamese,Vietnamese,4.0,"1600 Merivale Road, Ottawa",45.34922,-75.73322,3,1376.58,16132286786,False,$$,Ottawa
+Sea King Shark Fin Seafood Restaurant,Dim Sum,Dim Sum,NA,3.5,"1558 Merivale Rd, Ottawa",45.35291,-75.73546,19,1580.35,16132288819,False,$,Ottawa
+Daal Roti,Indian,Indian,Indian,4.0,"1556 Merivale Road, Ottawa",45.35352,-75.735944,6,1628.89,16132257684,False,$,Ottawa
+Royal Paan,Indian,Indian,Indian,4.0,"1943 Baseline Road, Ottawa",45.352735,-75.76077,4,1861.84,16134219010,False,$,Ottawa
+Burrito Gringo,Mexican,Mexican,Mexican,3.0,"1715 Merivale Road, Ottawa",45.344341,-75.729317,16,1304.29,16137239699,False,$$,Ottawa
+Chungchun Rice Dog,Korean,Korean,Korean,4.5,"1379 Woodroffe Avenue, Nepean",45.350481,-75.761655,3,1735.43,13439870607,False,$$,Ottawa
+Meet Fresh,"Desserts, Bubble Tea, Waffles",Desserts,NA,3.5,"1547 Merivale Rd, Ottawa",45.354525,-75.733593,7,1812.27,16134210900,False,$$,Ottawa
+Popeyes Louisiana Kitchen,"Seafood, Chicken Shop, Fast Food","Seafood, Fast Food",NA,2.5,"1365 Woodroffe Avenue, Ottawa",45.35003,-75.759448,22,1573.88,16134227111,False,$$,Ottawa
+Domino's Pizza,Pizza,Pizza,NA,3.5,"1600 Merivale Road, Ottawa",45.348752,-75.73251,7,1376.58,16132256789,False,$$,Ottawa
+Cathay Restaurants,Chinese,Chinese,Chinese,3.5,"1423 Woodroffe Avenue, Nepean",45.343246,-75.756638,7,978.45,16132282228,False,$$,Ottawa
+Karara - The Indian Takeout,Indian,Indian,Indian,3.0,"1600 Merivale Road, Nepean",45.348697,-75.732482,24,1376.58,16132256565,False,$$,Ottawa
+Allo Mon Coco,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"1377 Woodroffe Avenue, Ottawa",45.349837,-75.761176,7,1660.54,16132289393,False,$$,Ottawa
+Centrepointe Cafe & Deli,"Delis, Cafes",Cafes,NA,4.0,"117 Centrepointe Drive, Nepean",45.343001,-75.761847,4,1362.32,16132240010,False,$$,Ottawa
+New Hong Kong,Chinese,Chinese,Chinese,2.5,"1433 Woodroffe Avenue, Nepean",45.34196,-75.756,12,894.59,16137238808,False,$$,Ottawa
+Jerk On Wheels,"Caribbean, Food Trucks",Caribbean,Caribbean,4.5,"1533 Merivale Road, Ottawa",45.356003,-75.735976,2,1881.29,18196395233,False,$$,Ottawa
+Swiss Chalet,"Comfort Food, American",Comfort Food,American,2.5,"1600 Merivale Road, Nepean",45.349616,-75.733416,12,1370.18,16137238017,False,$$,Ottawa
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,4.0,"C4-1377 Woodroffe Avenue, Nepean",45.34983,-75.761152,1,1660.54,16132252658,False,$$,Ottawa
+Dairy Queen Ltd Brazier,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,4.0,"1503 Merivale Road, Nepean",45.357774,-75.736964,6,2040.96,16132245412,False,$,Ottawa
+Pizza Pizza,Pizza,Pizza,NA,2.0,"1642 Merivale Road, Ottawa",45.344682,-75.730997,9,1188.55,16137371111,False,$,Ottawa
+Osmow's,"Mediterranean, Middle Eastern",Mediterranean,"Mediterranean, Middle Eastern",3.0,"1365 Woodroffe Avenue, Nepean",45.349872,-75.761632,12,1566.51,16132282428,False,$,Ottawa
+Thai Express,Thai,Thai,Thai,5.0,"1397 Woodroffe Ave, Ottawa",45.350368,-75.761918,1,1742.95,16133660666,False,$,Ottawa
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"1675 Merivale Road, Nepean",45.34849,-75.73106,12,1377.38,16132249040,False,$$,Ottawa
+Harvey's,"Burgers, Fast Food, American","Burgers, Fast Food",American,3.5,"1650 Merivale Rd, Nepean",45.344289,-75.729856,7,1247.86,16132251516,False,$$,Ottawa
+Tim Hortons,Cafes,Cafes,NA,2.5,"2301 Navaho Dr, Ottawa",45.352879,-75.755235,7,1526.9,16132265342,False,$$,Ottawa
+European Delicatessen,Delis,Delis,NA,4.5,"1568 Merivale Road, Ottawa",45.35186,-75.734352,3,1490.76,16132280394,False,$$,Ottawa
+Tennessy Willems,Pizza,Pizza,NA,4.0,"1082 Wellington Street W, Ottawa",45.40322,-75.72518,81,740.15,16137220000,False,$$,Ottawa
+Carben Food + Drink,"Diners, Canadian (New)",Diners,Canadian (New),4.5,"1100 Wellington Street W, Ottawa",45.402527,-75.725761,43,669.84,16137924000,False,$$$,Ottawa
+Heartbreakers Pizza,Pizza,Pizza,NA,5.0,"465 Parkdale Avenue, Ottawa",45.398817,-75.727753,18,413.37,16137241144,False,$$$,Ottawa
+Art Is In Bakery,"Bakeries, Sandwiches",Sandwiches,NA,4.0,"250 City Centre Avenue, Ottawa",45.409177,-75.71782,344,1601.2,16136951226,False,$$,Ottawa
+The Hintonburg Public House,"Comfort Food, Pubs, Breakfast & Brunch",Pubs,NA,3.5,"1020 Wellington Street W, Ottawa",45.404593,-75.723838,44,912.53,16134215087,False,$$,Ottawa
+Sharpfle Waffle,"Coffee & Tea, Desserts, Waffles","Coffee & Tea, Desserts",NA,5.0,"173 Hinchey Ave, Ottawa",45.407234,-75.726666,13,993.87,16138621130,False,$$,Ottawa
+Paradise Poké,"Poke, Hawaiian",Poke,NA,4.5,"118 Holland Ave, Ottawa",45.400008,-75.732286,3,80.23,16138009015,False,$$,Ottawa
+Stella Luna Gelato Cafe - Hintonburg,"Ice Cream & Frozen Yogurt, Cafes, Desserts","Cafes, Desserts",NA,4.0,"1130 Wellington Street W, Ottawa",45.401767,-75.726717,22,550.81,16136956565,False,$,Ottawa
+Les Moulins La Fayette,"Cafes, Bakeries",Cafes,NA,4.5,"1000 Wellington St W, Ottawa",45.40502,-75.72306,17,1007.82,16136805653,False,$,Ottawa
+Fil's Diner,Diners,Diners,NA,3.5,"1209 Wellington Street  W, Ottawa",45.400544,-75.73061,29,219.43,16137289987,False,$,Ottawa
+Shawarma AL Mouna,"Mediterranean, Donairs, Sandwiches",Sandwiches,Mediterranean,4.5,"1266 Wellington Street W, Ottawa",45.399226,-75.733468,2,47.56,16137253030,False,$,Ottawa
+Meltwich,"Burgers, Fast Food, Poutineries","Burgers, Fast Food",NA,4.0,"1264 Wellington Street W, Ottawa",45.399269,-75.73342,2,41.72,<NA>,False,$,Ottawa
+Yuzumi,"Asian Fusion, Sushi Bars",Sushi Bars,Asian Fusion,5.0,"83 Holland Avenue, Ottawa",45.40094,-75.73228,4,168.52,16134228301,False,$,Ottawa
+Parma Ravioli,Italian,Italian,Italian,4.5,"1314 Wellington Street W, Ottawa",45.39856,-75.736816,7,317.12,16137226003,False,$$,Ottawa
+Won Ton House Restaurant,Chinese,Chinese,Chinese,3.5,"1300 Wellington St W, Ottawa",45.398723,-75.735822,17,237.85,16137288885,False,$$,Ottawa
+Joe's Italian Kitchen,"Italian, Pizza, Wine Bars","Pizza, Wine Bars",Italian,4.5,"1323 Wellington Street W, Ottawa",45.39892,-75.73696,4,312.08,16137981111,False,$$,Ottawa
+Loaded Pierogi,"Polish, Canadian (New), Fast Food",Fast Food,Canadian (New),4.0,"1202 Wellington Street W, Ottawa",45.4001,-75.7302,5,224.6,16134213331,False,$$,Ottawa
+The Momo Spot,"Himalayan/Nepalese, Dumplings",Himalayan/Nepalese,NA,4.0,"79 Holland Avenue, Ottawa",45.401032,-75.73248,6,178.14,16137287777,False,$$,Ottawa
+Little Jo Berry's,"Coffee & Tea, Bakeries, Burgers","Coffee & Tea, Burgers",NA,4.0,"1305 Wellington Street, Ottawa",45.399015,-75.73578,18,230.45,16132950324,False,$,Ottawa
+The Royal Oak,"Pubs, Comfort Food, British",Pubs,British,2.5,"1217 Wellington Street, Ottawa",45.400125,-75.731269,15,151.35,16137286661,False,$$,Ottawa
+Elmdale Oyster House & Tavern,"Music Venues, Bars, Seafood","Bars, Seafood",NA,3.5,"1084 Wellington Street W, Ottawa",45.40301,-75.72515,29,726.86,16137282848,False,$$$,Ottawa
+Caffe Mio,Italian,Italian,Italian,3.5,"1379 Wellington St W, Ottawa",45.398316,-75.739238,9,518.79,16137615510,False,$$,Ottawa
+No.1 Chinese Food,"Chinese, Asian Fusion",Chinese,"Chinese, Asian Fusion",3.5,"988 Wellington Street, Ottawa",45.405609,-75.722698,25,1053.05,16137225995,False,$$,Ottawa
+Sushi-Ro,"Sushi Bars, Ramen",Sushi Bars,NA,4.0,"1123 Wellington Street W, Ottawa",45.402298,-75.726501,6,594.88,16137246088,False,$$,Ottawa
+BanhMiYes,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,4.5,"1129 Wellington Street W, Ottawa",45.402209,-75.726576,3,584.64,16137287688,False,$$,Ottawa
+Pubblico Eatery,"Sports Bars, Burgers, Pizza","Sports Bars, Burgers, Pizza",NA,3.0,"1331 Wellington Street W, Ottawa",45.39885,-75.7373,5,336.56,16137928282,False,$$,Ottawa
+Pho Phu Chau,Vietnamese,Vietnamese,Vietnamese,4.0,"947 Somerset Street W, Ottawa",45.407974,-75.715529,6,1657.66,16132168726,False,$$,Ottawa
+Thi Fusion Lounge And Bar Restaurant,"Lounges, Asian Fusion, Wine Bars",Wine Bars,Asian Fusion,3.5,"500 W Hunt Club Road, Ottawa",45.33426,-75.724301,43,1216.0,16137237687,False,$$,Ottawa
+Hard Stones Grill,"Canadian (New), Breakfast & Brunch, Steakhouses",Steakhouses,Canadian (New),3.5,"1 Roydon Place, Nepean",45.33888,-75.725101,34,1166.06,16135187440,False,$$,Ottawa
+Crispy Chips,"Food Stands, Fast Food",Fast Food,NA,4.5,"1820 Merivale Road, Ottawa",45.336605,-75.726443,11,1026.84,16136144537,False,$,Ottawa
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,4.0,"1830 Merivale Road, Ottawa",45.335711,-75.725179,10,1127.36,16132289714,False,$$,Ottawa
+Shanghai One,Chinese,Chinese,Chinese,2.5,"1872 Merivale Road, Ottawa",45.33353,-75.72482,23,1216.72,16136861380,False,$$,Ottawa
+East Side Mario's,"Italian, Pizza, American",Pizza,"Italian, American",2.0,"526 West Hunt Club Road, Nepean",45.333579,-75.725716,35,1125.8,16132742746,False,$$,Ottawa
+Skela Foods,"Mediterranean, Delicatessen, Bakeries",Mediterranean,Mediterranean,4.0,"1884 Merivale Road, Ottawa",45.331601,-75.723923,1,1331.94,16137261011,False,$$,Ottawa
+Burger King,Burgers,Burgers,NA,3.0,"527 W Hunt Club Road, Ottawa",45.334287,-75.726159,6,1073.07,16137275840,False,$$,Ottawa
+Merivale Station Restaurant,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"1884 Merivale Road, Ottawa",45.331727,-75.723422,1,1362.69,16132253555,False,$$,Ottawa
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"1595 Merivale Road, Ottawa",45.351546,-75.733128,11,1764.61,16137237738,False,$,Ottawa
+The Observatory,"Venues & Event Spaces, Canadian (New)",Venues & Event Spaces,Canadian (New),3.5,"1385 Woodroffe Ave, Ottawa",45.34893,-75.76066,4,2079.46,16137274723,False,$,Ottawa
+Milano Pizzeria,Pizza,Pizza,NA,4.0,"2 Woodfield Drive, Ottawa",45.33755,-75.72647,4,1035.78,16137270900,False,$,Ottawa
+Steele's Restaurant,"Sandwiches, Breakfast & Brunch, Burgers","Sandwiches, Burgers",NA,4.0,"1900 Merivale Rd, Ottawa",45.33031,-75.72215,5,1504.44,16137237771,False,$$,Ottawa
+Boston Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,2.0,"521 W Hunt Club Road, Nepean",45.33465,-75.72508,8,1134.67,16132263374,False,$$,Ottawa
+Fat Bastard Burrito,"Tex-Mex, Mexican",Tex-Mex,Mexican,2.5,"1642 Merivale Road, Ottawa",45.345923,-75.730827,4,1185.15,16134221122,False,$$,Ottawa
+Nicastro Fine Foods,"Delis, Cheese Shops, International Grocery",Delis,NA,3.5,"1558 Merivale Road, Nepean",45.35291,-75.73546,10,1864.72,16132253470,False,$$,Ottawa
+Merivale Pizza & Wings,"Chicken Wings, Pizza",Pizza,NA,3.5,"1610 Merivale Road, Ottawa",45.34825,-75.73291,11,1460.62,16132253297,False,$$,Ottawa
+Pizza Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,3.0,"2301 Navaho Drive, Ottawa",45.352928,-75.755713,1,2234.73,16137371111,False,$$,Ottawa
+Tazij House,"Cafes, Specialty Food, Middle Eastern",Cafes,Middle Eastern,4.0,"1620 Merivale Rd, Ottawa",45.347534,-75.732285,1,1369.19,<NA>,False,$$,Ottawa
+Shawarma Andalos,"Lebanese, Fast Food",Fast Food,NA,1.0,"527 West Hunt Club Road, Ottawa",45.334128,-75.726059,1,1068.15,16132269596,False,$$,Ottawa
+Little India Cafe,Indian,Indian,Indian,4.0,"66 Wylie Avenue, Ottawa",45.355179,-75.806858,59,409.52,16138282696,False,$$,Ottawa
+Mezbaan Restaurant,Afghan,Afghan,NA,4.5,"3098 Carling Avenue, Nepean",45.354112,-75.806083,13,333.81,16138543500,False,$$,Ottawa
+Mary Brown's,"Chicken Shop, Fast Food",Fast Food,NA,4.0,"3098 Carling Avenue, Ottawa",45.354046,-75.805999,13,332.02,16138280808,False,$$,Ottawa
+Taj Indian Cuisine,"Indian, Gluten-Free, Halal",Indian,Indian,4.0,"3009 Carling Avenue, Ottawa",45.355284,-75.805055,36,473.92,16137266955,False,$$$,Ottawa
+Salang Kabob House,"Afghan, Indian",Afghan,Indian,4.0,"2934 Carling Ave, Ottawa",45.35614,-75.80192,47,727.74,16138200007,False,$$,Ottawa
+Shawarma Palace,"Fast Food, Lebanese",Fast Food,NA,4.0,"2949 Carling Avenue, Ottawa",45.356291,-75.803215,91,663.11,16137269533,False,$$,Ottawa
+Lorenzo's Carling,Pizza,Pizza,NA,4.0,"3007 Carling Avenue, Ottawa",45.35532,-75.80523,12,483.92,16135962222,False,$$,Ottawa
+Chili Craft Pizza,"Indian, Pizza, Sandwiches","Pizza, Sandwiches",Indian,5.0,"68 Wylie Avenue, Nepean",45.354696,-75.806925,5,357.63,16138281111,False,$$,Ottawa
+Do Good Food,Caribbean,Caribbean,Caribbean,4.5,"80 Burland Street, Ottawa",45.3554,-75.804749,7,510.88,<NA>,False,$$,Ottawa
+Jambo Restaurant,African,African,African,4.5,"69 Kempster Avenue, Ottawa",45.35541,-75.80553,3,470.84,16137269393,False,$$,Ottawa
+OB&O Afro-Caribbean Restaurant,"Caribbean, African",Caribbean,"Caribbean, African",4.5,"3059 Carling Avenue, Ottawa",45.354654,-75.807409,4,340.57,13439845332,False,$$,Ottawa
+Al Noor Bakery Halal,"Afghan, Arabic",Afghan,NA,4.5,"70 Wylie Avenue, Ottawa",45.35479,-75.806862,12,360.0,16138292253,False,$,Ottawa
+Cultures,"Salad, Juice Bars & Smoothies, Sandwiches","Juice Bars & Smoothies, Sandwiches",NA,3.5,"Bayshore Shopping Centre, Ottawa",45.34871,-75.805869,6,400.07,<NA>,False,$,Ottawa
+Bombay Chaat & Paan,Indian,Indian,Indian,4.5,"2946 Baseline Road, Ottawa",45.334935,-75.799368,7,2003.2,16132962946,False,$,Ottawa
+Mont Tacos,"Fast Food, Mexican, Ice Cream & Frozen Yogurt",Fast Food,Mexican,4.0,"3059 Carling Avenue, Ottawa",45.354342,-75.807264,1,311.23,13439843927,False,$,Ottawa
+Jimmy The Greek,Greek,Greek,Greek,4.0,"Bayshore Shopping Center, Ottawa",45.348984,-75.804985,3,518.98,16137210770,False,$,Ottawa
+Baja Burger Shack,Burgers,Burgers,NA,3.5,"100 Greenview Avenue, Ottawa",45.363999,-75.801472,29,1476.36,16136142233,False,$,Ottawa
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch, Sandwiches","Coffee & Tea, Sandwiches",NA,4.0,"100 Bayshore Dr, Nepean",45.348985,-75.804982,2,518.98,16138289000,False,$$,Ottawa
+Mama Mai Banh Mi,"Vietnamese, Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",Vietnamese,4.0,"100 Bayshore Drive, Ottawa",45.347249,-75.806832,1,517.7,<NA>,False,$$,Ottawa
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,5.0,"100 Bayshore Drive, Ottawa",45.347354,-75.806842,1,506.27,16138288191,False,$$,Ottawa
+Domino's Pizza,"Chicken Wings, Pizza, Sandwiches","Pizza, Sandwiches",NA,3.0,"3059 Carling Avenue, Ottawa",45.35468,-75.80724,5,340.56,16135963000,False,$$,Ottawa
+Mac's Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"100 Bayshore Drive, Ottawa",45.348985,-75.804982,1,518.98,18777362871,False,$$,Ottawa
+NYF,Fast Food,Fast Food,NA,3.5,"100 Bayshore Drive, Nepean",45.347094,-75.807089,3,529.23,16138293843,False,$,Ottawa
+Taco Bell,"Mexican, Fast Food",Fast Food,Mexican,3.5,"1074 Bayshore Dr, Nepean",45.34918,-75.8051,4,181.11,16137217674,False,$,Ottawa
+Cuisine Pam Caribbean Food,Caribbean,Caribbean,Caribbean,4.0,"2924 Carling Avenue, Ottawa",45.356425,-75.801238,1,786.79,16473459387,False,$,Ottawa
+CAW Crepes and Waffles,"Waffles, Creperies, Bagels",Waffles,NA,5.0,"100 Bayshore Drive, Ottawa",45.347249,-75.806832,1,517.67,16138299676,False,$,Ottawa
+Thai Express,"Thai, Desserts, Asian Fusion",Desserts,"Thai, Asian Fusion",2.0,"100 Bayshore Drive, Nepean",45.349014,-75.804932,4,419.41,16135054643,False,$,Ottawa
+BarBurrito - Bayshore,"Mexican, Fast Food",Fast Food,Mexican,2.0,"100 Bayshore Dr, Nepean",45.347063,-75.806808,9,538.1,16138288868,False,$,Ottawa
+Shanghai 360,"Asian Fusion, Chinese",Asian Fusion,"Asian Fusion, Chinese",2.5,"13 Woodridge Crescent, Ottawa",45.34843,-75.805124,6,459.05,<NA>,False,$,Ottawa
+Milano,Pizza,Pizza,NA,1.0,"68 Wylie Avenue, Ottawa",45.354576,-75.806804,1,357.92,16138281111,False,$,Ottawa
+Teriyaki Experience,"Japanese, Fast Food",Fast Food,Japanese,2.0,"100 Bayshore Road, Nepean",45.348985,-75.804982,8,518.98,16138290092,False,$$,Ottawa
+Manchu Wok,Chinese,Chinese,Chinese,1.0,"100 Bayshore Drive, Nepean",45.348985,-75.804982,4,518.98,16138287404,False,$,Ottawa
+Osmow's,Mediterranean,Mediterranean,Mediterranean,1.5,"100 Bayshore Drive, Nepean",45.347237,-75.806832,3,518.98,16137210010,False,$,Ottawa
+Grillades Torino,Mediterranean,Mediterranean,Mediterranean,3.0,"100 Bayshore Drive, Nepean",45.347024,-75.806807,1,542.32,16136808852,False,$,Ottawa
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.5,"100 Bayshore Drive, Ottawa",45.34737,-75.807032,4,500.54,16138294528,False,$,Ottawa
+Mom's JH Chicken,Fast Food,Fast Food,NA,2.0,"3059 Carling Avenue, Ottawa",45.35468,-75.80724,1,340.56,<NA>,False,$,Ottawa
+South St. Burger,"Burgers, Fast Food","Burgers, Fast Food",NA,2.0,"FC02-100 Bayshore Drive, Nepean",45.349082,-75.805106,4,475.49,16136951005,False,$,Ottawa
+Grab n' Eat by H&B,"Pizza, Burgers, Italian","Pizza, Burgers",Italian,3.0,"2916 Carling Avenue, Ottawa",45.356581,-75.8009,1,812.63,16134218880,False,$,Ottawa
+KFC,"Fast Food, Chicken Wings, Chicken Shop",Fast Food,NA,3.0,"100 Bayshore Drive, Nepean",45.346956,-75.806549,1,555.29,16137217664,False,$,Ottawa
+Yaseen Halal Pizza,Pizza,Pizza,NA,3.0,"2916 Carling Avenue, Ottawa",45.356656,-75.801033,2,811.54,16136951818,False,$,Ottawa
+Tai Ping Restaurant,Chinese,Chinese,Chinese,1.5,"3045 Carling Avenue, Ottawa",45.354734,-75.80631,3,394.89,16138291748,False,$,Ottawa
+Popeyes Louisiana Kitchen,"Fast Food, Chicken Wings",Fast Food,NA,3.0,"1475 Richmond Road, Ottawa",45.36298,-75.79099,3,1866.9,16134221214,False,$,Ottawa
+Whatta Sandwich,"Delis, Korean, Burgers",Burgers,Korean,4.0,"2932 Baseline Road, Ottawa",45.336542,-75.798109,1,1878.85,16135964337,False,$,Ottawa
+Fat Albert's,"Pizza, Sandwiches","Pizza, Sandwiches",NA,3.5,"2946 Baseline Road, Nepean",45.33484,-75.79939,2,2002.73,16138209805,False,$,Ottawa
+The Whalesbone Oyster House,Seafood,Seafood,NA,4.5,"430 Bank Street, Ottawa",45.41217,-75.69399,109,99.99,16132318569,False,$$$,Ottawa
+Town,Italian,Italian,Italian,4.5,"296 Elgin Street, Ottawa",45.416688,-75.689697,162,512.79,16136958696,False,$$$,Ottawa
+Union Local 613,"Southern, Bars, Breakfast & Brunch",Bars,NA,4.0,"315 Somerset Street W, Ottawa",45.41621,-75.695,143,342.49,16132311010,False,$$$,Ottawa
+Prohibition Public House,Gastropubs,Gastropubs,NA,4.0,"337 Somerset Street W, Ottawa",45.41599,-75.69552,68,336.91,16135652704,False,$$$,Ottawa
+Fauna Food + Bar,"Bars, Canadian (New)",Bars,Canadian (New),4.0,"425 Bank Street, Ottawa",45.41251,-75.693581,87,70.26,16135632862,False,$$$,Ottawa
+El Camino,Mexican,Mexican,Mexican,4.0,"380 Elgin Street, Ottawa",45.414794,-75.687933,334,501.22,16134222800,False,$$,Ottawa
+The Manx,"Pubs, American",Pubs,American,4.0,"370 Elgin Street, Ottawa",45.415139,-75.687944,126,515.7,16132312070,False,$$,Ottawa
+The Whalesbone,"Seafood, Seafood Markets","Seafood, Seafood Markets",NA,4.0,"231 Elgin Street, Ottawa",45.418888,-75.691076,94,675.33,16135054300,False,$$$,Ottawa
+North & Navy,"Italian, Wine Bars, Seafood","Wine Bars, Seafood",Italian,4.5,"226 Nepean Street, Ottawa",45.41664,-75.69903,86,565.35,16132326289,False,$$$,Ottawa
+Island Grill,Caribbean,Caribbean,Caribbean,4.5,"324 Bank Street, Ottawa",45.414345,-75.695673,39,191.14,16135653030,False,$$,Ottawa
+Sansotei Ramen,Ramen,Ramen,NA,4.5,"153 Bank Street, Ottawa",45.41898,-75.69908,363,766.48,16136951718,False,$$,Ottawa
+The Brig Pub,"Pubs, American, Canadian (New)",Pubs,"American, Canadian (New)",4.5,"23 York Street, Ottawa",45.427836,-75.694201,113,1633.12,16135626666,False,$$,Ottawa
+Aroma Meze,Tapas Bars,Tapas Bars,NA,4.5,"239 Nepean Street, Ottawa",45.41689,-75.69968,66,609.93,16134210504,False,$$$,Ottawa
+Oh Canada Eh!? Dinner Musical,"Canadian (New), Music Venues, Dinner Theater",Canadian (New),Canadian (New),4.5,"330 Kent Street, Ottawa",45.413828,-75.698326,32,352.67,16137932019,False,$$$,Ottawa
+Pirho Grill,"Mediterranean, Greek",Mediterranean,"Mediterranean, Greek",5.0,"346 Elgin Street, Ottawa",45.415663,-75.688676,21,493.0,16135657171,False,$$,Ottawa
+Colonnade Pizza,Pizza,Pizza,NA,4.0,"280 Metcalfe Street, Ottawa",45.41567,-75.69191,66,341.9,16132373179,False,$$,Ottawa
+Burgers n' Fries Forever,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"329 Bank St, Ottawa",45.414362,-75.695279,135,171.85,16132303456,False,$$,Ottawa
+Subito Sandwich,Sandwiches,Sandwiches,NA,4.5,"389 Gladstone Avenue, Ottawa",45.41209,-75.6944,15,124.4,16136995008,False,$$,Ottawa
+Datsun,Asian Fusion,Asian Fusion,Asian Fusion,4.0,"380 Elgin Street, Ottawa",45.414672,-75.687877,89,500.54,16134217411,False,$$$,Ottawa
+Wolf Down,"Salad, German, Sandwiches",Sandwiches,German,4.5,"380 Bank Street, Ottawa",45.413731,-75.69502,22,107.89,16134214054,False,$$$,Ottawa
+Riviera,Canadian (New),Canadian (New),Canadian (New),4.5,"62 Sparks Street, Ottawa",45.42274,-75.69598,126,1116.89,16132336262,False,$$$,Ottawa
+JOEY Rideau,"Canadian (New), Lounges, Steakhouses",Steakhouses,Canadian (New),4.0,"50 Rideau Street, OTTAWA",45.426396,-75.690581,115,1495.61,16136805639,False,$$$,Ottawa
+Mamma Teresa Ristorante,Italian,Italian,Italian,4.0,"300 Somerset St W, Ottawa",45.41609,-75.69396,56,327.18,16132363023,False,$$$,Ottawa
+Johnny Farina Restaurant,"Italian, Pizza, Delis",Pizza,Italian,4.0,"216 Elgin Street, Ottawa",45.41886,-75.69158,164,662.24,16135655155,False,$$,Ottawa
+Mazarine,"Breakfast & Brunch, Mediterranean, Canadian (New)",Breakfast & Brunch,"Mediterranean, Canadian (New)",4.5,"282 Kent Street, Ottawa",45.41496,-75.6992,24,461.5,16135140153,False,$$,Ottawa
+Yunshang Rice Noodle House,Chinese,Chinese,Chinese,4.5,"275 Bank Street, Ottawa",45.415714,-75.69629,17,340.82,16136806366,False,$$,Ottawa
+The Great Canadian Poutinerie,"Poutineries, Fast Food",Fast Food,NA,4.5,"311 Bank Street, Ottawa",45.415318,-75.696295,19,304.44,<NA>,False,$$,Ottawa
+J:Unique Kitchen,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"381 Cooper Street, Ottawa",45.416498,-75.69638,46,420.5,16132348877,False,$$,Ottawa
+Social Thai,"Thai, Salad, Soup",Thai,Thai,4.0,"399 Bank Street, Ottawa",45.41333,-75.69428,13,37.94,16132300084,False,$$,Ottawa
+Shawarma's King,"Middle Eastern, Sandwiches",Sandwiches,Middle Eastern,3.5,"395 Bank Street, Ottawa",45.413401,-75.694475,52,51.99,16132332226,False,$$,Ottawa
+Good Eats,"Sandwiches, Breakfast & Brunch, American",Sandwiches,American,4.5,"207 Bell Street N, Ottawa",45.40607,-75.705357,66,1190.8,16132313287,False,$,Ottawa
+Afghani Kabob Express,Afghan,Afghan,NA,4.5,"249 Bank Street, Ottawa",45.416345,-75.697075,26,432.51,16135938880,False,$$,Ottawa
+Play Food And Wine,"Wine Bars, Canadian (New), Tapas/Small Plates",Wine Bars,Canadian (New),4.0,"1 York Street, Ottawa",45.42763,-75.694812,240,1611.62,16136679207,False,$$$,Ottawa
+The Red Apron,"Bakeries, Cafes, Breakfast & Brunch",Cafes,NA,4.5,"410 Gladstone Avenue, Ottawa",45.411513,-75.694566,12,189.13,16136950417,False,$$,Ottawa
+The Lieutenant's Pump,"Pubs, British",Pubs,British,3.5,"361 Elgin Street, Ottawa",45.415469,-75.688069,75,523.91,16132382949,False,$$,Ottawa
+Wilf & Ada's,"Diners, Breakfast & Brunch",Diners,NA,4.5,"510 Bank Street, Ottawa",45.41021,-75.69287,382,338.74,16132317959,False,$$,Ottawa
+Sir John A,"Pubs, Canadian (New)",Pubs,Canadian (New),3.5,"284 Elgin St, Ottawa",45.416939,-75.689764,54,531.88,16135672746,False,$$,Ottawa
+Bite Burger House,Burgers,Burgers,NA,4.5,"108 Murray Street, Ottawa",45.429981,-75.692551,106,1851.03,16135622483,False,$$,Ottawa
+Roast 'n' Curries,Indian,Indian,Indian,4.5,"197 Bank Street, Ottawa",45.417748,-75.698248,57,613.09,16135630111,False,$$,Ottawa
+Gongfu Bao,"Chinese, Taiwanese",Chinese,Chinese,4.0,"365 Bank St, Ottawa",45.41404,-75.69487,24,134.32,16134545963,False,$$,Ottawa
+Atomic Rooster,"Beer Bar, Canadian (New)",Beer Bar,Canadian (New),3.5,"303 Bank Street, Ottawa",45.415,-75.695872,30,256.29,16135691000,False,$$,Ottawa
+Pure Kitchen Elgin,"Vegetarian, Juice Bars & Smoothies",Juice Bars & Smoothies,NA,4.0,"340 Elgin Street, Ottawa",45.41584,-75.68896,112,488.85,16132337873,False,$$,Ottawa
+Citizen,"Tapas/Small Plates, Cocktail Bars",Cocktail Bars,NA,4.5,"207 Gilmour Street, Ottawa",45.41624,-75.690028,18,458.25,16134226505,False,$$,Ottawa
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,4.0,"75 York Street, Ottawa",45.428902,-75.692021,90,1756.86,16132418514,False,$$$,Ottawa
+Hanabi Japanese Cuisine,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"434 Bank Street, Ottawa",45.41217,-75.69399,20,106.23,16136958880,False,$$$,Ottawa
+Shawarma Palace,Middle Eastern,Middle Eastern,Middle Eastern,4.0,"464 Bank Street, Ottawa",45.41123,-75.69338,17,229.36,16135639533,False,$$$,Ottawa
+Ceylonta Restaurant,"Indian, Sri Lankan",Indian,Indian,3.5,"403 Somerset Street West, Ottawa",45.415037,-75.697741,45,365.11,16132377812,False,$$,Ottawa
+Di Rienzo's,"Sandwiches, Grocery, Delis",Sandwiches,NA,4.5,"111 Beech Street, Ottawa",45.399993,-75.712245,88,1663.62,16137294037,False,$,Ottawa
+La Dolce Vita,"Italian, Pizza, Gluten-Free",Pizza,Italian,4.0,"180 Preston Street, Ottawa",45.40613,-75.71315,47,1293.38,16132336239,False,$$,Ottawa
+Koichi Ramen,"Ramen, Noodles",Ramen,NA,4.0,"832 Somerset Street W, Ottawa",45.40899,-75.71163,39,1356.93,16136808822,False,$$,Ottawa
+Kochu,"Sushi Bars, Korean",Sushi Bars,Korean,4.0,"266 Preston Street, Ottawa",45.40424,-75.712044,26,1436.27,16132360000,False,$$,Ottawa
+La Cazza,Pizza,Pizza,NA,4.5,"39 Rue Laval, Gatineau",45.426807,-75.716525,10,2210.5,18197706677,False,$$,Ottawa
+Dreamland Cafe,"Cafes, Italian",Cafes,Italian,4.5,"262 Preston Street, Ottawa",45.404382,-75.711948,17,1434.13,16134224200,False,$$,Ottawa
+Vietnam Palace,Vietnamese,Vietnamese,Vietnamese,4.0,"819 Somerset Street West, Ottawa",45.409661,-75.711253,23,1395.42,16132386758,False,$$,Ottawa
+Pasticceria Gelateria Italiana,"Bakeries, Breakfast & Brunch",Bakeries,NA,4.0,"200 Preston St, Ottawa",45.40572,-75.71277,31,1320.73,16132332104,False,$$,Ottawa
+Trattoria Caffe Italia,"Italian, Wine Bars",Wine Bars,Italian,3.5,"254 Preston St, Ottawa",45.40467,-75.7123,37,1402.08,16132361081,False,$$$,Ottawa
+Holly's Hot Chicken,Chicken Shop,Chicken Shop,NA,5.0,"45 Armstrong Street, Ottawa",45.406123,-75.72373,4,527.21,16136957737,False,$$$,Ottawa
+Chez Fatima,Moroccan,Moroccan,NA,4.5,"125 Promenade du Portage, Gatineau",45.42568,-75.71708,34,2079.29,18197717568,False,$$,Ottawa
+Clandestin,Brasseries,Brasseries,NA,5.0,"45 Rue Laval, Gatineau",45.426841,-75.716462,14,2216.07,18199219727,False,$$,Ottawa
+Taqueria La Bonita,Mexican,Mexican,Mexican,3.5,"1079 Wellington Street W, Ottawa",45.40342,-75.725187,10,691.19,16137989292,False,$$,Ottawa
+La Troca de Si Senor,"Mexican, Food Trucks",Mexican,Mexican,4.0,"1426 Scott Street, Ottawa",45.406219,-75.727816,1,324.63,16134217490,False,$$,Ottawa
+Karuna Cafe,"Sri Lankan, Indian",Sri Lankan,Indian,4.5,"820 Somerset Street W, Ottawa",45.409151,-75.711224,8,1395.79,16132301830,False,$$,Ottawa
+Sanguiccio,"Sandwiches, Imported Food",Sandwiches,NA,4.5,"183 Preston Street, Ottawa",45.406502,-75.712738,10,1297.57,16135690456,False,$$,Ottawa
+10Fourteen,"Tapas Bars, Cocktail Bars, Dive Bars","Tapas Bars, Cocktail Bars, Dive Bars",NA,3.5,"1014 Wellington Street W, Ottawa",45.404838,-75.723438,8,639.72,16134228610,False,$$,Ottawa
+Charlies Groceteria,"Grocery, Delis",Grocery,NA,5.0,"220 Carruthers Avenue, Ottawa",45.40423,-75.72823,4,527.1,16137223535,False,$,Ottawa
+Piz'za-za,"Italian, Pizza",Pizza,Italian,3.5,"36 Rue Laval, Gatineau",45.426706,-75.716203,24,2211.82,18197710565,False,$$,Ottawa
+Coconut Lagoon,Indian,Indian,Indian,4.0,"853 St. Laurent Boulevard, Ottawa",45.4333,-75.64207,124,1390.7,16137424444,False,$$,Ottawa
+Chickpeas,"Vegan, Fast Food",Fast Food,NA,4.5,"500 Terminal Avenue, Ottawa",45.414502,-75.648399,43,997.78,16137898998,False,$$,Ottawa
+John Juan,"Mexican, Salad",Mexican,Mexican,4.5,"1091 Saint Laurent Boulevard, Ottawa",45.426574,-75.638017,41,1187.46,16137459696,False,$,Ottawa
+Tangerine Pizza,"Pizza, Italian",Pizza,Italian,4.5,"969 Cummings Avenue, Ottawa",45.431994,-75.634606,17,1707.38,16137452525,False,$$,Ottawa
+Stuffed Burgers & Pizza,"Burgers, Pizza","Burgers, Pizza",NA,4.0,"912 St Laurent Boulevard, Ottawa",45.431313,-75.641594,24,1247.09,16137491010,False,$$,Ottawa
+Perkins Restaurant & Bakery,"Cafes, American",Cafes,American,3.0,"1130 St Laurent Blvd., Ottawa",45.424562,-75.638326,50,1109.19,16137479190,False,$$,Ottawa
+Figaro Coffee House,Cafes,Cafes,NA,4.0,"650 Industrial Avenue, Ottawa",45.410396,-75.640313,20,1690.99,16132480707,False,$$,Ottawa
+Bigg's Deli & Bar,"Delis, Sandwiches",Sandwiches,NA,3.5,"1099 St Laurent Boulevard, Ottawa",45.426078,-75.63769,32,1194.71,16137465040,False,$$,Ottawa
+Silk Road Kabob House,"Persian/Iranian, Afghan",Persian/Iranian,Persian/Iranian,4.0,"1021 Cyrville Road, Ottawa",45.425606,-75.635936,14,1314.12,16137417888,False,$$,Ottawa
+Aahar The Taste of India,Indian,Indian,Indian,4.0,"1573 Alta Vista Drive, Ottawa",45.40844,-75.657513,14,1671.35,16134226644,False,$$,Ottawa
+Jimmy the Greek,"Greek, Mediterranean",Greek,"Greek, Mediterranean",4.5,"1200 Saint Laurent Boulevard, Ottawa",45.423754,-75.637356,6,1073.26,16138420897,False,$$,Ottawa
+Rôtisserie Scores,Chicken Shop,Chicken Shop,NA,3.0,"150 Trainyards Drive, Ottawa",45.41329,-75.6454,27,1218.31,16135621619,False,$$,Ottawa
+Five Guys,"Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"525 Industrial Blvd., Ottawa",45.411981,-75.645954,39,1326.86,16135628119,False,$$,Ottawa
+Chuck's Deli & Convenience,"Convenience Stores, Delis",Convenience Stores,NA,4.5,"100 Trainyards Drive, Ottawa",45.412745,-75.646199,5,1241.07,16138601000,False,$$,Ottawa
+Roger's Italian - Bistro,Italian,Italian,Italian,4.0,"500 Terminal Avenue, Ottawa",45.414651,-75.648271,6,985.28,16137312485,False,$$,Ottawa
+Lorenzos's Restaurant Pizzeria,"Pizza, Italian, Canadian (New)",Pizza,"Italian, Canadian (New)",3.5,"295 Queen Mary Street, Ottawa",45.425193,-75.652107,5,241.28,16137413638,False,$$,Ottawa
+Spice Kitchen,"Desserts, Salad, Mediterranean",Desserts,Mediterranean,5.0,"1155 Lola Street, Ottawa",45.42286,-75.65025,1,171.75,16132954151,False,$$,Ottawa
+Pho Vietnam,Vietnamese,Vietnamese,Vietnamese,2.5,"1187 Saint Laurent Boulevard, Ottawa",45.422983,-75.63601,12,1276.86,16137445618,False,$$,Ottawa
+Boston Pizza,"Pizza, Desserts, Salad","Pizza, Desserts",NA,2.5,"1055 St Laurent Boulevard, Ottawa",45.427147,-75.638446,15,1179.13,16137461039,False,$$,Ottawa
+Wild Wing,"Chicken Wings, Burgers",Burgers,NA,3.5,"1265 Donald Stret, Gloucester",45.429463,-75.638128,13,1321.68,16137499464,False,$$,Ottawa
+Jajy Chicken Grill,"Fast Food, Chicken Shop",Fast Food,NA,5.0,"1091 St. Laurent Boulevard, Ottawa",45.426359,-75.638047,2,1177.5,16136637251,False,$$,Ottawa
+O'Brien's Roadhouse,American,American,American,3.5,"730 Industrial Avenue, Ottawa",45.409072,-75.636232,8,1999.01,16137366647,False,$$,Ottawa
+Pho May,Vietnamese,Vietnamese,Vietnamese,4.0,"1245 Donald Street, Gloucester",45.429021,-75.636654,10,1351.25,16137483075,False,$$,Ottawa
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,4.5,"1567 Alta Vista Drive, Ottawa",45.409058,-75.657694,4,1639.8,16137335795,False,$$,Ottawa
+Fuwa Fuwa,Pancakes,Pancakes,NA,4.5,"1200 St. Laurent Blvd, Ottawa",45.422037,-75.639112,2,1073.26,<NA>,False,$$,Ottawa
+Mango's,Middle Eastern,Middle Eastern,Middle Eastern,3.0,"1020 St Laurent Blvd, Ottawa",45.42769,-75.63977,12,1106.44,16137496900,False,$$,Ottawa
+Poulet Rouge St-Laurent Centre,"Salad, Chicken Shop, Fast Food",Fast Food,NA,4.5,"1200 St Laurent Blvd,, Ottawa",45.421936,-75.637852,2,1139.61,16137416131,False,$$,Ottawa
+Dumouchel Meat & Deli,"Butcher, Meat Shops, Delis",Butcher,NA,3.5,"351 Donald Street, Ottawa",45.428179,-75.65303,3,574.75,16137446683,False,$$,Ottawa
+Pizza Pizza,Pizza,Pizza,NA,3.0,"1191 St Laurent Boulevard, Ottawa",45.422732,-75.636337,16,1251.75,16137371111,False,$$,Ottawa
+The Chopped Leaf,"Salad, Soup",Salad,NA,3.5,"140 Trainyards Dr, Ottawa",45.413009,-75.645341,11,1242.14,<NA>,False,$$,Ottawa
+Lai Lai Chinese Food,Chinese,Chinese,Chinese,2.5,"449 McArthur Ave, Ottawa",45.432574,-75.644425,10,1229.01,16137414011,False,$$,Ottawa
+Arz Lebanese Cuisine,"Lebanese, Kebab, Falafel",Lebanese,NA,4.0,"1200 St Laurent Blvd, Ottawa",45.423754,-75.637356,5,1073.26,16137461015,False,$$,Ottawa
+Pirho Grill,"Greek, Mediterranean",Greek,"Greek, Mediterranean",5.0,"1200 St Laurent Boulevard, Ottawa",45.421947,-75.638706,1,1073.27,16138424777,False,$$,Ottawa
+Chahaya Malaysia,"Malaysian, Indonesian",Malaysian,Malaysian,4.5,"1690 Montreal Road, Gloucester",45.446056,-75.612513,72,1174.46,16137420242,False,$$,Ottawa
+Host India,Indian,Indian,Indian,4.0,"622 Montreal Road, Ottawa",45.44263,-75.642048,64,1168.03,16137464678,False,$$,Ottawa
+Banc Sushi,Sushi Bars,Sushi Bars,NA,3.0,"919 Montreal Rd, Ottawa",45.44709,-75.62919,45,243.58,16137490943,False,$$,Ottawa
+Ogilvie Pizza,Pizza,Pizza,NA,4.5,"631 Montreal Road, Ottawa",45.44305,-75.64198,16,1156.34,16137472444,False,$$,Ottawa
+Laheeb,"Barbeque, Fast Food, Sandwiches","Barbeque, Fast Food, Sandwiches",NA,4.5,"973 Montréal Road, Ottawa",45.44756,-75.62663,4,270.11,16137490707,False,$$,Ottawa
+Harvey's,"Burgers, Fast Food, American","Burgers, Fast Food",American,4.5,"660 Montreal Road, Ottawa",45.44302,-75.63975,6,980.05,16137495638,False,$$,Ottawa
+Golden Crust Pizzeria,Pizza,Pizza,NA,4.0,"1730 MONTREAL ROAD, Ottawa",45.44557,-75.60948,11,1354.67,16136959955,False,$$,Ottawa
+Pilos Restaurant,"Greek, Mediterranean",Greek,"Greek, Mediterranean",3.0,"876 Montreal Road, Ottawa",45.44588,-75.6303,16,218.65,16137414657,False,$$,Ottawa
+Lazare's BBQ House,"Seafood, Barbeque, African","Seafood, Barbeque",African,4.0,"928 Montreal Road, Ottawa",45.44645,-75.62859,1,159.43,16137443117,False,$$,Ottawa
+New Dragon Restaurant,Chinese,Chinese,Chinese,2.5,"971 Montreal Road, Ottawa",45.44752,-75.6272,8,261.33,16137467777,False,$$,Ottawa
+Lunergans Pub & Eatery,"Pubs, Fish & Chips, Chicken Wings",Pubs,NA,4.5,"1661 Montréal Rd, Ottawa",45.446794,-75.613143,3,1135.78,16137451414,False,$$,Ottawa
+Shawarma Plus,Lebanese,Lebanese,NA,5.0,"928 Montreal Rd, Ottawa",45.44645,-75.62859,1,159.43,<NA>,False,$$,Ottawa
+Bbq Golden Grill,"Barbeque, Seafood","Barbeque, Seafood",NA,5.0,"928 Montreal Road, Ottawa",45.44645,-75.62859,1,159.43,16138420303,False,$$,Ottawa
+Ay Dios Mio Tacos,"Food Trucks, Mexican",Food Trucks,Mexican,4.0,"1687 Montreal Rd, Ottawa",45.44675,-75.61273,5,1159.29,16132998226,False,$$,Ottawa
+Milano Pizzeria,Pizza,Pizza,NA,2.0,"876 Montreal Rd, Ottawa",45.44588,-75.6303,3,218.65,<NA>,False,$$,Ottawa
+Baccanalle,Caribbean,Caribbean,Caribbean,5.0,"595 Montreal Road, Ottawa",45.44296,-75.64357,1,1274.24,16138596297,False,$$,Ottawa
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"594 Montreal Rd., Ottawa",45.441865,-75.643484,17,1298.42,16137410093,False,$$,Ottawa
+Tim Horton,"Coffee & Tea, Breakfast & Brunch, Sandwiches","Coffee & Tea, Sandwiches",NA,5.0,"585 Montreal Road, Ottawa",45.442175,-75.644651,1,1377.34,16137413085,False,$$,Ottawa
+Fryz Guyz,Food Stands,Food Stands,NA,4.5,"1696 Montreal Rd, Ottawa",45.4459,-75.61225,3,1188.45,<NA>,False,$$,Ottawa
+Greek On Wheels,"Mediterranean, Greek",Mediterranean,"Mediterranean, Greek",1.5,"585 Montreal Road, Ottawa",45.442326,-75.643262,3,1268.12,16137491100,False,$$,Ottawa
+Centre Pizza,Pizza,Pizza,NA,4.0,"623 Center Street, Ottawa",45.441563,-75.642782,3,1248.63,16137443300,False,$,Ottawa
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,1.5,"932 St Laurent Boulevard, Ottawa",45.43094,-75.64151,11,1922.44,16137454466,False,$,Ottawa
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,3.0,"572 Montreal Road, Ottawa",45.441633,-75.645106,2,1427.16,16137477878,False,$,Ottawa
+1 For 1 Pizza,Pizza,Pizza,NA,3.0,"1020 Saint Laurent Boulevard, Ottawa",45.427598,-75.63949,1,2161.11,16132340234,False,$,Ottawa
+Fishy's Tropical Grill,Caribbean,Caribbean,Caribbean,3.0,"556-A Montreal Road, Ottawa",45.441039,-75.644735,3,1419.16,16137465600,False,$$,Ottawa
+All Out Burger,"Hot Dogs, Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"585 Montréal Road, Ottawa",45.44224,-75.644722,2,1380.99,16137455555,False,$$,Ottawa
+McDonald's,"Burgers, Fast Food","Burgers, Fast Food",NA,1.0,"1007 St Laurent Boulevard, Ottawa",45.42834,-75.63905,2,2057.1,16137445884,False,$$,Ottawa
+Sa'hara,African,African,African,3.5,"1716 Montréal Road, Gloucester",45.44581,-75.61113,2,1279.85,16138429111,False,$$,Ottawa
+Dynasty Cafe & Bar,Cafes,Cafes,NA,1.5,"545 Montreal Road, Ottawa",45.44122,-75.644921,3,1426.63,16137446934,False,$$,Ottawa
+Ottawa Delivery Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"2430 Bank Street, Ottawa",45.353676,-75.648331,35,1928.74,16132601992,False,$$,Ottawa
+The WORKS Gourmet Burger Bistro,Burgers,Burgers,NA,4.0,"2525 Bank Street, Ottawa",45.354252,-75.644499,35,1632.66,16132470406,False,$$,Ottawa
+Moe's BBQ,"Barbeque, Southern, Halal",Barbeque,NA,4.0,"2446 Bank Street, Ottawa",45.35295,-75.6468,42,1840.19,16136951786,False,$$,Ottawa
+Semsem,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,5.0,"2430 Bank Street, Ottawa",45.353676,-75.648278,16,1928.74,16137335736,False,$$,Ottawa
+Shawarma Palace,"Lebanese, Mediterranean",Lebanese,Mediterranean,3.5,"2440 Bank Street, Ottawa",45.353482,-75.64812,88,1866.22,16137399533,False,$$,Ottawa
+Thai Lanna Cuisine,Thai,Thai,Thai,4.0,"2401 Bank Street, Ottawa",45.354447,-75.648964,23,1808.39,16132499524,False,$$,Ottawa
+Chips and Dairy Fast Food,"Noodles, Soup, Poutineries",Noodles,NA,4.0,"2920 Bank St, Gloucester",45.348767,-75.625763,45,2076.23,16137399889,False,$$,Ottawa
+Shawarma Station,"Fast Food, Lebanese",Fast Food,NA,3.5,"2446 Bank Street, Ottawa",45.352388,-75.646076,48,1873.72,16137372121,False,$$,Ottawa
+La Bocca Juice,"Lebanese, Juice Bars & Smoothies, Ice Cream & Frozen Yogurt",Juice Bars & Smoothies,NA,4.0,"2446 Bank Street, Ottawa",45.352856,-75.645565,19,1808.41,16135231500,False,$$,Ottawa
+House Of Mandi,"Arabic, Halal",Arabic,NA,5.0,"1183 Hunt Club Road, Ottawa",45.352141,-75.650531,6,2030.47,16137373200,False,$$,Ottawa
+Al-Oumara Meat Shop & Grill,"Meat Shops, Lebanese",Meat Shops,NA,5.0,"25 Tapiola Crescent, Ottawa",45.363727,-75.647101,5,1123.75,16135231800,False,$$,Ottawa
+O'Grady's Outpost,"Pubs, Canadian (New)",Pubs,Canadian (New),3.5,"25 Tapiola Crescent, Ottawa",45.36401,-75.646627,9,1079.39,16138001033,False,$$,Ottawa
+Sona The Indian Kitchen,Indian,Indian,Indian,5.0,"1183 Hunt Club Road, Ottawa",45.352965,-75.650549,4,2030.48,16137334678,False,$$,Ottawa
+Gabriel Pizza,"Pizza, Italian",Pizza,Italian,3.5,"2466 Bank Street, Ottawa",45.353527,-75.645521,23,1736.08,16135269775,False,$$,Ottawa
+Libnan Bakery,"Middle Eastern, Sandwiches",Sandwiches,Middle Eastern,4.5,"Conroy Mall, Ottawa",45.369861,-75.620812,14,1007.83,16132498910,False,$,Ottawa
+Stacked Smoked Meat,"Delis, Diners, Sandwiches",Sandwiches,NA,3.0,"2679 Bank Street, Ottawa",45.352886,-75.634939,29,1537.19,16132477771,False,$$,Ottawa
+Burrito gringo - Hunt Club,Mexican,Mexican,Mexican,4.0,"2430 Bank Street, Ottawa",45.35346,-75.64887,8,1928.74,16132477777,False,$,Ottawa
+Harvey's,"Burgers, Fast Food, American","Burgers, Fast Food",American,4.5,"2430 Bank St, Ottawa",45.353853,-75.64897,4,1876.52,16137373182,False,$,Ottawa
+Mr.B's,Italian,Italian,Italian,4.5,"2446 Bank Street, Ottawa",45.352521,-75.646605,4,1883.57,16137316800,False,$,Ottawa
+Milano Pizzeria,Pizza,Pizza,NA,3.5,"2430 Bank Street, Ottawa",45.353697,-75.64827,9,1928.74,16137381555,False,$$,Ottawa
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,4.5,"2456 Bank Street, Ottawa",45.35317,-75.64664,4,1824.93,16137387980,False,$,Ottawa
+Palermo's Pizza,"Pizza, Burgers, Chicken Wings","Pizza, Burgers",NA,3.0,"25 Tapiola Crescent, Ottawa",45.363378,-75.646776,5,1080.03,16132777774,False,$,Ottawa
+Di Noodle,"Vietnamese, Noodles, Bubble Tea",Vietnamese,Vietnamese,3.5,"2430 Bank Street, Ottawa",45.353341,-75.648943,5,1918.7,16132499963,False,$,Ottawa
+Bombay Garden Indian Cuisine,"Indian, Pakistani",Indian,Indian,3.5,"2401 Bank Street, Ottawa",45.354824,-75.649204,12,1808.39,16137313003,False,$$,Ottawa
+All Out Burgers,"Burgers, Food Trucks",Burgers,NA,3.0,"2560 Bank Street, Ottawa",45.353583,-75.641123,8,1576.7,16137334444,False,$$,Ottawa
+Full Start,Chinese,Chinese,Chinese,3.0,"2515 Bank Street, Ottawa",45.354045,-75.64374,10,1555.36,16135233247,False,$$,Ottawa
+Beneci Pizzeria,Pizza,Pizza,NA,3.5,"4 Lorry Greenberg Drive, Ottawa",45.369827,-75.621096,4,1018.88,16137397777,False,$,Ottawa
+House of Pizza,Pizza,Pizza,NA,3.0,"1574 Walkley Rd, Ottawa",45.3766,-75.64701,10,1531.32,16135236666,False,$,Ottawa
+Detola's Kitchen,"African, Caterers",African,African,5.0,"2544 Bank Street, Ottawa",45.353597,-75.641345,1,1582.08,16137005481,False,$,Ottawa
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"1661 Hunt Club Road, Ottawa",45.360611,-75.631468,3,688.81,16132499028,False,$,Ottawa
+Talluza Deserts,"Desserts, Waffles, Ice Cream & Frozen Yogurt",Desserts,NA,4.0,"104-1183 Hunt Club Rd, Ottawa",45.35283,-75.65103,1,2057.08,16136955892,False,$,Ottawa
+Tim Horton’s,"Coffee & Tea, Donuts, Sandwiches","Coffee & Tea, Sandwiches",NA,1.0,"1665 Hunt Club Road, Ottawa",45.360751,-75.630628,1,690.76,16132489459,False,$,Ottawa
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"2380 Bank St, Ottawa",45.354676,-75.650733,3,1903.76,16135261258,False,$,Ottawa
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,4.5,"376 Hunt Club Road, Ottawa",45.3385,-75.68214,68,981.07,16132480509,False,$$$,Ottawa
+Lone Star Texas Grill,"Tex-Mex, Burgers, Steakhouses","Burgers, Steakhouses",NA,3.5,"2880 Gibford Drive, Ottawa",45.34333,-75.669991,48,783.1,16137024681,False,$$,Ottawa
+Montana's BBQ & Bar,"Canadian (New), Comfort Food, Steakhouses",Steakhouses,Canadian (New),3.5,"2216 Bank St, Ottawa",45.353493,-75.65289,34,2334.03,16137313058,False,$$,Ottawa
+Greek On Wheels,"Mediterranean, Sandwiches, Greek",Sandwiches,"Mediterranean, Greek",4.0,"800 Hunt Club Road, Ottawa",45.344732,-75.666404,10,980.12,16137371177,False,$$,Ottawa
+KS on the Keys,"Canadian (New), Pizza",Pizza,Canadian (New),3.0,"1029 Daze Street, Ottawa",45.353405,-75.652268,68,2352.97,16135210498,False,$$,Ottawa
+The Royal Oak,"British, Pubs, Comfort Food",Pubs,British,2.5,"800 Hunt Club Road, Ottawa",45.34441,-75.66617,17,944.83,16132481901,False,$$,Ottawa
+A&W,Burgers,Burgers,NA,4.5,"700 Hunt Club Road, Ottawa",45.34294,-75.6699,6,736.56,<NA>,False,$,Ottawa
+Moose McGuire's,"Burgers, Chicken Wings, Sandwiches","Burgers, Sandwiches",NA,3.0,"3320 McCarthy Road, Ottawa",45.351271,-75.67058,18,1666.73,16136804411,False,$$,Ottawa
+American Grille,Canadian (New),Canadian (New),Canadian (New),4.0,"2400 Alert Road, Ottawa",45.327988,-75.652336,5,1660.62,16132889001,False,$,Ottawa
+Wok Hey Chinese Food,Chinese,Chinese,Chinese,4.5,"3320 McCarthy Rd, Ottawa",45.350513,-75.671073,3,1584.08,16137312828,False,$,Ottawa
+CheloChi Grill,Persian/Iranian,Persian/Iranian,Persian/Iranian,5.0,"2900 Gibford Drive, Ottawa",45.34281,-75.66838,1,735.96,16137361141,False,$,Ottawa
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,4.0,"2870 Gibford Drive, Ottawa",45.343419,-75.66914,1,795.86,16137383153,False,$,Ottawa
+Asian Palace Ottawa,"Seafood, Thai",Seafood,Thai,3.5,"3320 McCarthy Road, Ottawa",45.351282,-75.670616,7,1612.57,16137312828,False,$$,Ottawa
+Vino Volo,"Beer, Wine & Spirits, Sandwiches, Tapas/Small Plates","Beer, Wine & Spirits, Sandwiches",NA,4.0,"1000 Airport Parkway Private, Ottawa",45.322217,-75.667787,1,1573.98,16136804200,False,$$,Ottawa
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch, Sandwiches","Coffee & Tea, Sandwiches",NA,2.5,"1000 Airport Parkway Private, Ottawa",45.322472,-75.667258,16,1550.98,16133553928,False,$,Ottawa
+Hong Kong Chinese Food Takeout,"Chinese, Imported Food",Chinese,Chinese,2.5,"800 Hunt Club Road, Ottawa",45.34441,-75.66617,10,944.83,16135211230,False,$$,Ottawa
+David's Pizza,Pizza,Pizza,NA,3.0,"3310 McCarthy Rd, Ottawa",45.35089,-75.67187,7,1586.92,16135217000,False,$$,Ottawa
+Pizza Union,"Pizza, Burgers, Poutineries","Pizza, Burgers",NA,1.5,"1000 Airport Parkway Private, Ottawa",45.323101,-75.667742,3,1504.04,16132482000,False,$$,Ottawa
+Byward Taps,American,American,American,2.5,"Ottawa International Airport, Ottawa",45.376862,-75.683769,17,1899.78,16132482000,False,$$,Ottawa
+Lone Star Texas Grill,Steakhouses,Steakhouses,NA,2.0,"2880 Gibford Drive, Ottawa",45.34348,-75.66853,1,797.41,<NA>,False,$$,Ottawa
+Cork and Well,"Salad, Mexican, Sandwiches",Sandwiches,Mexican,2.0,"1000 Airport Parkway Private, Ottawa",45.32287,-75.66756,1,1504.05,16132482000,False,$$,Ottawa
+K S Restaurant,Pizza,Pizza,NA,3.5,"2525 Bank Street, Ottawa",45.353293,-75.652241,4,2345.56,16135210498,False,$$$,Ottawa
+Rideau Bar And Grill,American,American,American,2.0,"1000 Airport Parkway Private, Ottawa",45.323101,-75.667742,4,1504.04,16132482000,False,$$$,Ottawa
+Pza,Pizza,Pizza,NA,2.0,"Airport Parkway Private, Ottawa",45.323139,-75.667458,11,1512.74,<NA>,False,$$$,Ottawa
+Smokey's Fries,Fast Food,Fast Food,NA,1.0,"3700 Downpatrick Road, Ottawa",45.342164,-75.664121,1,798.75,16137998831,False,$,Ottawa
+The Green Garden Cafe,Cafes,Cafes,NA,5.0,"1145 Hunt Club Rd, Ottawa",45.351885,-75.652252,1,2220.78,16137312233,False,$,Ottawa
+Swiss Chalet/Harvey's,Burgers,Burgers,NA,2.5,"Airport 2 Ave, Ottawa",45.361088,-75.663963,3,1586.31,<NA>,False,$,Ottawa
+Lucky Chow,Chinese,Chinese,Chinese,2.0,"3320 McCarthy Rd, Ottawa",45.351282,-75.670616,3,1612.57,16137312828,False,$,Ottawa
+Jack Astor's,Canadian (New),Canadian (New),Canadian (New),3.5,"310 West Hunt Club Road, Ottawa",45.339064,-75.712904,35,1143.37,16132254686,False,$$,Ottawa
+Moxies,"Steakhouses, Lounges",Steakhouses,NA,4.0,"250 W Hunt Club Rd, Ottawa",45.33893,-75.709708,21,1392.95,16132167265,False,$$,Ottawa
+Mandarin Restaurant,"Buffets, Chinese",Buffets,Chinese,4.0,"290 W Hunt Club Road, Nepean",45.338772,-75.710763,94,1313.68,16132282200,False,$$,Ottawa
+Panera Bread,"Salad, Soup, Sandwiches",Sandwiches,NA,3.5,"320 West Hunt Club Road, Ottawa",45.338917,-75.713619,47,1090.62,16132740888,False,$$,Ottawa
+The Captain's Boil,"Cajun/Creole, Seafood, Asian Fusion",Seafood,Asian Fusion,3.5,"290 West Hunt Club Road, Ottawa",45.339835,-75.710466,34,1238.86,16136808998,False,$$,Ottawa
+Grill Master Restaurant & Catering,"Barbeque, Breakfast & Brunch",Barbeque,NA,5.0,"30 Colonnade Road North, Nepean",45.342717,-75.719489,5,663.96,16137237769,False,$$,Ottawa
+BarBurrito - Hunt Club,"Fast Food, Mexican",Fast Food,Mexican,4.0,"280 W Hunt Club Rd, Ottawa",45.33897,-75.71062,12,1214.09,16132258777,False,$$,Ottawa
+Five Guys,"Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"324 W Hunt Club Road, Ottawa",45.338541,-75.714469,20,1026.06,16137305555,False,$$,Ottawa
+Frankie's Deli,"Delis, Italian",Delis,Italian,5.0,"58 Antares Drive, Ottawa",45.330399,-75.709618,6,1778.39,16137237201,False,$,Ottawa
+Casa Dei Panini,"Sandwiches, Italian, Breakfast & Brunch",Sandwiches,Italian,4.5,"52 Antares Drive, Ottawa",45.33097,-75.71028,6,1697.46,16137232272,False,$,Ottawa
+Bâton Rouge Steakhouse & Bar,"Steakhouses, Cocktail Bars, Seafood","Steakhouses, Cocktail Bars, Seafood",NA,2.5,"270 West Hunt Club Road, Ottawa",45.339579,-75.711016,29,1283.72,16132242570,False,$$$,Ottawa
+50 Two Breakfast & Lunch,"Breakfast & Brunch, Sandwiches",Sandwiches,NA,4.5,"52 Antares Drive, Nepean",45.331038,-75.710362,8,1697.56,16137232272,False,$$$,Ottawa
+Wing Hing Chinese Food,"Chinese, Imported Food",Chinese,Chinese,2.0,"2 Woodfield Drive, Nepean",45.33755,-75.72647,4,345.63,16137235511,False,$$,Ottawa
+Thai Express,Thai,Thai,Thai,3.5,"330 West Hunt Club Road, Ottawa",45.338467,-75.71492,6,964.59,16132248228,False,$$,Ottawa

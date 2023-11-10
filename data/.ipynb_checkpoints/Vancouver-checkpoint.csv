@@ -1,0 +1,760 @@
+Name,Categories,Cuisine Types,Nationalities,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price
+Saku,Japanese,,Japanese,4.5,"548 W Broadway, Vancouver",49.2631006,-123.11667523250104,233,38.09212796609981,+16044234600,False,$$
+Blue Water Cafe,Seafood,Seafood,,4.5,"1095 Hamilton St, Vancouver",49.2761945,-123.1209935,1079,1482.328162797273,+16046888078,False,$$$$
+OEB Breakfast Co. Yaletown,Breakfast & Brunch,,,4.5,"1137 Marinaside Crescent, Vancouver",49.2734341,-123.1192724,783,1153.068003234908,+16044233447,False,$$
+Jam Cafe on Beatty,Breakfast & Brunch,,,4.5,"556 Beatty Street, Vancouver",49.2802586,-123.1096376,1395,1946.7376761407324,+17783791992,False,$$
+The Flying Pig,"Canadian (New), Seafood",Seafood,Canadian (New),4.0,"1168 Hamilton Street, Vancouver",49.27501,-123.122,1307,1374.0667516424435,+16045681344,False,$$
+Chambar,Belgian,,,4.0,"568 Beatty Street, Vancouver",49.2801460007961,-123.109925328073,1546,1930.5337011764295,+16048797119,False,$$$
+Rodney's Oyster House,Seafood,Seafood,,4.0,"1228 Hamilton Street, Vancouver",49.274326,-123.123131,832,1328.8795233222147,+16046090080,False,$$
+Minami,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1118 Mainland Street, Vancouver",49.2752733,-123.1207029,765,1373.6689932219708,+16046858080,False,$$$
+Fanny Bay Oyster Bar & Shellfish Market,"Seafood, Seafood Markets","Seafood, Seafood Markets",,4.5,"762 Cambie St, Vancouver",49.2787525,-123.1138689,790,1711.527841072457,+17783799510,False,$$
+Anh and Chi,"Vietnamese, Cocktail Bars",Cocktail Bars,Vietnamese,4.0,"3388 Main Street, Vancouver",49.2550314422938,-123.100882202153,644,1442.4854753127547,+16048788883,False,$$
+La Taqueria Pinche Taco Shop,Mexican,,Mexican,4.0,"2450 Yukon Street, Vancouver",49.263559,-123.112736,685,255.18136290582157,+16045582549,False,$$
+Peaceful Restaurant,"Chinese, Noodles",,Chinese,3.5,"110-532 W Broadway, Vancouver",49.263147,-123.116143,621,15.772340755351154,+16048799878,False,$$
+Robba da Matti,"Italian, Tapas Bars",Tapas Bars,Italian,4.0,"1127 Mainland Street, Vancouver",49.2753397,-123.1208967,498,1383.341070598963,+16045581174,False,$$$
+Hokkaido Ramen Santouka,"Noodles, Ramen, Soup",,,4.0,"558 W Broadway, Vancouver",49.263127,-123.1168917,226,50.822267069302015,+16045651770,False,$$
+Dynasty Seafood Restaurant,"Dim Sum, Seafood, Cantonese",Seafood,,3.5,"777 W Broadway, Vancouver",49.2635999,-123.12138,306,373.45202244322445,+16048768388,False,$$
+Uma Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"450 W 8th Avenue, Vancouver",49.2638048,-123.1137294,116,187.8228525869498,+16044288588,False,$$$
+Lupo,Italian,,Italian,4.5,"869 Hamilton Street, Vancouver",49.27823,-123.1174,445,1660.4638556190805,+16045692535,False,$$$
+Marulilu Cafe,Cafes,Cafes,,4.0,"451 W Broadway, Vancouver",49.26338,-123.11415,288,153.7894447561674,+16045684211,False,$$
+Vij's Restaurant,Indian,,Indian,4.0,"3106 Cambie Street, Vancouver",49.25754,-123.11479,402,642.7967137644082,+16047366664,False,$$$
+Published On Main,"Tapas/Small Plates, Wine Bars, Cocktail Bars","Wine Bars, Cocktail Bars",,4.5,"3593 Main Street, Vancouver",49.25283186017385,-123.10116032897228,116,1595.1956392439774,+16044234840,False,N/A
+Rogue Kitchen & Wetbar,"American, Gastropubs",Gastropubs,American,3.5,"602 West Broadway Avenue, Vancouver",49.263047,-123.117827,146,118.96796594191565,+16045689400,False,$$
+iDen & Quan Ju De Beijing Duck House,Chinese,,Chinese,3.5,"2808 Cambie Street, Vancouver",49.26021,-123.1148451,108,367.2982242522704,+12364777777,False,N/A
+Jinya Ramen Bar - Vancouver,Ramen,,,4.0,"541 Robson Street, Vancouver",49.2803264,-123.11793569570304,441,1899.7417056810655,+16046999377,False,$$
+Sushi Jin,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"750 Nelson Street, Vancouver",49.2795794102629,-123.123817518353,138,1894.455246616795,+16045598834,False,$$$
+Medina Cafe,"Breakfast & Brunch, Middle Eastern, Wine Bars",Wine Bars,Middle Eastern,4.0,"780 Richards Street, Vancouver",49.2804429972571,-123.117036269849,2606,1909.5584355163853,+16048793114,False,$$
+Manoush'eh,"Lebanese, Mediterranean",,Mediterranean,5.0,"620 Davie Street, Vancouver",49.27667072314417,-123.12570086148996,238,1640.2014347505005,+16044404402,False,$
+The Mexican Antojitos Y Cantina,Mexican,,Mexican,4.5,"1049 Granville Street, Vancouver",49.2787726,-123.1240268,406,1814.96587683788,+16045690955,False,$$
+Cactus Club Cafe,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"575 Broadway W, Vancouver",49.2633734327403,-123.117130327243,146,66.45916169079696,+16047146000,False,$$
+Bodega On Main,"Spanish, Tapas/Small Plates, Tapas Bars",Tapas Bars,,4.0,"1014 Main Street, Vancouver",49.2752787,-123.0997112,214,1820.3748251445754,+16045658815,False,$$
+Yu Shang Hot Pot,Hot Pot,,,4.5,"202-950 W Broadway, Vancouver",49.263149,-123.125629,80,682.4565068718532,+16045646686,False,N/A
+Seaport City Seafood Restaurant,"Dim Sum, Seafood, Cantonese",Seafood,,4.5,"2425 Cambie Street, Vancouver",49.263921119674905,-123.115152,32,105.77823013638869,+16042227288,False,N/A
+Fable Diner,"Diners, American",,American,4.0,"151 E Broadway, Vancouver",49.2630749,-123.1019822,332,1067.7327683073204,+16045633463,False,$$
+Salmon n' Bannock,Canadian (New),,Canadian (New),4.5,"1128 W Broadway, Vancouver",49.2631378,-123.1296705,207,980.9789241621553,+16045688971,False,$$
+Banana Leaf,"Malaysian, Singaporean",,Malaysian,4.0,"820 W Broadway, Vancouver",49.26302,-123.1225,301,454.4598656765367,+16047316333,False,$$
+MeeT on Main,"Comfort Food, Burgers",Burgers,,4.0,"4288 Main Street, Vancouver",49.2467145032391,-123.100830778711,477,2154.2052891107187,+16046961010,False,$$
+Lotus Seed Vegan,Vegan,,,4.0,"736 W Broadway, Vancouver",49.2631751,-123.1204905,129,341.7748059640772,+16045633368,False,$$
+Black Rice Izakaya,"Japanese, Sushi Bars, Tapas Bars","Sushi Bars, Tapas Bars",Japanese,4.0,"782 Cambie Street, Vancouver",49.278444,-123.114329,300,1691.9839282658347,+17783790416,False,$$
+Tasty Indian Bistro,Indian,,Indian,4.0,"1261 Hamilton Street, Vancouver",49.2744011,-123.1236818,217,1349.9260113837895,+16044233300,False,$$
+Westcoast Poke,"Hawaiian, Poke",,,4.0,"463 W 8th Avenue, Vancouver",49.26409,-123.1140415,172,194.29137169362502,+17783795344,False,$$
+Indian Roti Kitchen,Indian,,Indian,4.5,"2961 Cambie Street, Vancouver",49.25901,-123.11538,160,477.22141198121557,+16048763767,False,$$
+Shizen Ya,"Japanese, Sushi Bars, Bars","Sushi Bars, Bars",Japanese,4.0,"965 Hornby Street, Vancouver",49.2808844,-123.1246278,589,2050.432447968474,+16045680013,False,$$
+Zakkushi Dining On Main,"Japanese, Tapas/Small Plates",,Japanese,4.0,"4075 Main Street, Vancouver",49.24910063019759,-123.1015460312003,220,1902.7072120270416,+16048749455,False,$$
+Burgoo Bistros,"Comfort Food, Bistros",,,4.0,"3096 Main Street, Vancouver",49.25763,-123.10084,502,1282.3758134423867,+16048731441,False,$$
+Elisa,Steakhouses,Steakhouses,,4.0,"1109 Hamilton Street, Vancouver",49.2759562,-123.1213608,204,1459.2510052864207,+16043625443,False,$$$$
+AJ's Brooklyn Pizza Joint,Pizza,Pizza,,4.5,"325 East Broadway, Vancouver",49.2629437687572,-123.098307028413,140,1300.8214845058683,+16044285805,False,$$
+Zarak By Afghan Kitchen,"Afghan, Cocktail Bars, Breakfast & Brunch",Cocktail Bars,,4.5,"2102 Main Street, Vancouver",49.266224,-123.1006089,79,1182.553907153083,+16043183456,False,N/A
+Yolks,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,,3.5,"546 W Broadway, Vancouver",49.2631139,-123.1163529,353,29.354770444070702,+16045599655,False,$$
+Burgoo Bistro,"Comfort Food, Bistros",,,4.0,"1100 Burrard Street, Vancouver",49.27968,-123.12763,174,2020.1426239672612,+16044161444,False,$$
+The Fish Counter,"Fish & Chips, Seafood",Seafood,,4.5,"3825 Main Street, Vancouver",49.25076,-123.10136,357,1762.6308028134094,+16048763474,False,$$
+Menya Raizo,Ramen,,,4.0,"401 W Broadway, Vancouver",49.26336,-123.11314,78,226.906974274452,+16048290697,False,$$
+Cactus Club Cafe,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),4.0,"1085 Canada Place, Vancouver",49.2895176422553,-123.1181077748714,853,1403.4400564826149,+16046207410,False,$$
+Cardero's Restaurant & Marine Pub,"Seafood, Cajun/Creole, Canadian (New)",Seafood,Canadian (New),4.0,"1583 Coal Harbour Quay, Vancouver",49.2914561357511,-123.127575841549,659,938.9005052142435,+16046697666,False,$$$
+Nightingale,"Live/Raw Food, Canadian (New), Pizza",Pizza,Canadian (New),4.0,"1017 West Hastings Street, Vancouver",49.2874110331456,-123.117770967577,491,1612.9922780601612,+16046959500,False,$$$
+Guu with Garlic,"Japanese, Tapas/Small Plates",,Japanese,4.5,"1698 Robson Street, Vancouver",49.290249,-123.1338142,1058,1126.738717750486,+16046858678,False,$$
+Kingyo,"Japanese, Tapas/Small Plates",,Japanese,4.5,"871 Denman Street, Vancouver",49.29061,-123.13714,1100,1171.1780234165442,+16046081677,False,$$
+Tap & Barrel - Convention Centre,Comfort Food,,,4.0,"1055 Canada Place, Vancouver",49.289845529586,-123.116857235515,337,1429.1422077369073,+16042359827,False,$$
+Botanist,"Canadian (New), Diners, Breakfast & Brunch",,Canadian (New),4.5,"1038 Canada Place, Vancouver",49.2883099,-123.1167271,384,1608.1285058627218,+16046955500,False,$$$
+Miku,"Japanese, Sushi Bars, Vegetarian",Sushi Bars,Japanese,4.5,"200 Granville Street, Vancouver",49.28691753455261,-123.11276314110472,2251,1869.2227980210773,+16045683900,False,$$$
+Stanley's Bar & Grill,"Bars, American",Bars,American,3.5,"610 Pipeline Road, Vancouver",49.2997083,-123.1339011,107,335.88372865211016,+16046023088,False,$$
+Maruhachi Ra-men,Ramen,,,4.5,"780 Bidwell Street, Vancouver",49.2905691,-123.1333951,762,1071.9707230212734,N/A,False,$$
+Five Sails Restaurant,French,,French,4.5,"401-999 Canada Place, Vancouver",49.2880313351364,-123.113292160758,184,1750.2419689478763,+16048442855,False,$$$$
+Showcase Restaurant & Bar,"Seafood, Bars","Seafood, Bars",,4.0,"1122 West Hastings Street, Vancouver",49.2879858,-123.1204414,130,1474.5890797408863,+16046394040,False,$$
+Joe Fortes Seafood & Chop House,"Seafood, Steakhouses","Seafood, Steakhouses",,4.0,"777 Thurlow Street, Vancouver",49.28493,-123.12473,1257,1687.2942417620857,+16046691940,False,$$$
+Forage,"Canadian (New), Breakfast & Brunch",,Canadian (New),4.0,"1300 Robson Street, Vancouver",49.28707,-123.12925,709,1422.7454419192586,+16046611400,False,$$
+Zakkushi on Denman,"Japanese, Tapas/Small Plates, Barbeque",Barbeque,Japanese,4.0,"823 Denman Street, Vancouver",49.29108,-123.13643,257,1083.9827297833601,+16046851136,False,$$$
+Guu Original Thurlow,"Japanese, Tapas Bars",Tapas Bars,Japanese,4.0,"838 Thurlow Street, Vancouver",49.2839786648396,-123.125567978574,796,1782.621095220601,+16046858817,False,$$
+Zefferelli's,"Italian, Bars",Bars,Italian,4.0,"1136 Robson Street, Vancouver",49.28504,-123.1261,494,1662.1486603387882,+16046870655,False,$$
+Sura Korean Cuisine,Korean,,Korean,4.0,"1518 Robson Street, Vancouver",49.2888601838143,-123.131742169312,434,1232.5426504217533,+16046877872,False,$$
+Saku,Japanese,,Japanese,4.5,"1588 Robson Street, Vancouver",49.289223,-123.132266,370,1197.1713736075922,+17783795872,False,$$
+Tavola,Italian,,Italian,4.5,"1829 Robson Street, Vancouver",49.2918164,-123.1357186,369,994.0125566242328,+16046064680,False,$$$
+LIFT Bar Grill View,"Seafood, Bars","Seafood, Bars",,3.5,"333 Menchions Mews, Vancouver",49.2937850399962,-123.12978089218,305,672.8533680021089,+16046895438,False,$$$
+Ramen Danbo,"Ramen, Noodles",,,4.5,"1333 Robson Street, Vancouver",49.2874959131639,-123.128934167326,597,1371.380179977526,N/A,False,$$
+Hokkaido Ramen Santouka,"Ramen, Noodles",,,4.0,"1690 Robson Street, Vancouver",49.290236,-123.133811,991,1116.1072656570525,+16046818121,False,$$
+Le Crocodile Restaurant,French,,French,4.5,"909 Burrard Street, Vancouver",49.2822815356982,-123.124911131657,444,1976.4456038828905,+16046694298,False,$$$$
+Nook,"Italian, Pizza",Pizza,Italian,4.5,"781 Denman Street, Vancouver",49.2917554,-123.1352974,308,999.3693119200069,+16045684554,False,$$
+Hawksworth Restaurant,Canadian (New),,Canadian (New),4.0,"801 W Georgia Street, Vancouver",49.2833971,-123.1191704,655,1968.350260603589,+16046737000,False,$$$
+Gotham Steakhouse & Bar,"Steakhouses, Cocktail Bars, Seafood","Steakhouses, Cocktail Bars, Seafood",,4.0,"615 Seymour Street, Vancouver",49.2829254,-123.115793,423,2116.949351218712,+16046058282,False,$$$$
+Score on Davie,"Sports Bars, Breakfast & Brunch, American",Sports Bars,American,4.5,"1262 Davie Street, Vancouver",49.2823221457395,-123.134614739512,350,1984.6416786642942,+16046321646,False,$$
+Yasma,"Syrian, Lebanese",,,4.5,"550 Denman Street, Vancouver",49.293372954206546,-123.1321844713631,25,748.0858362042288,+16045660493,False,N/A
+Hy's Steakhouse & Cocktail Bar,"Steakhouses, Cocktail Bars, Seafood","Steakhouses, Cocktail Bars, Seafood",,4.0,"637 Hornby Street, Vancouver",49.28468,-123.11927,347,1833.74647719206,+16046837671,False,$$$$
+The Red Accordion,"Cocktail Bars, Tapas/Small Plates",Cocktail Bars,,4.5,"1616 Alberni Street, Vancouver",49.29025,-123.131768,79,1080.1878807476828,+16044286464,False,$$
+Kosoo,"Korean, Barbeque, Soul Food",Barbeque,Korean,4.5,"1128 Robson Street, Vancouver",49.28494,-123.12592,105,1661.7507962252841,+16044288414,False,$$
+Cactus Club Cafe,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),4.0,"588 Burrard Street, Vancouver",49.28554081466174,-123.11881637137162,483,1760.2580110195086,+16046820933,False,$$
+Dinesty Dumpling House,"Chinese, Bubble Tea, Dumplings",,Chinese,4.0,"1719 Robson Street, Vancouver",49.2908176,-123.1343912,951,1068.364000252058,+16046697769,False,$$
+Jingle Bao,"Asian Fusion, Noodles, Dim Sum",,Asian Fusion,4.0,"774 Denman Street, Vancouver",49.291609,-123.134917,165,1001.2924088848293,+16044287722,False,$$
+Bacchus Restaurant & Lounge,"Lounges, Venues & Event Spaces, Breakfast & Brunch",,,4.0,"845 Hornby Street, Vancouver",49.28232,-123.12281,190,1997.6935842439343,+16046085319,False,$$$
+Hello Nori,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"1165 Robson Street, Vancouver",49.2857029,-123.1262438,206,1598.4268033142748,+16045649595,False,$$
+España Restaurant,Spanish,,,4.0,"1118 Denman Street, Vancouver",49.2880552,-123.1404114,251,1538.154310047908,+16045584040,False,$$
+Nero Waffles,"Desserts, Breakfast & Brunch, Waffles",Desserts,,4.5,"1703 Robson Street, Vancouver",49.2907208,-123.1339952,660,1072.442335745183,+16048391239,False,$$
+JOEY Burrard,"Canadian (New), Lounges, Steakhouses",Steakhouses,Canadian (New),4.0,"820 Burrard St, Vancouver",49.2827851242953,-123.12316775322,577,1946.0071704222075,+16046835639,False,$$
+ARC Restaurant,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),4.0,"900 Canada Place Way, Vancouver",49.2872868,-123.1137298,173,1792.9984422176046,+16046911818,False,$$$
+Horin Tonkotsu Ramen ,Ramen,,,4.0,"1226 Robson Street, Vancouver",49.28617,-123.12749,159,1523.220317278671,+16046206111,False,$$
+Kokoro Tokyo Mazesoba,Japanese,,Japanese,4.0,"551 Seymour Street, Vancouver",49.2833927,-123.115078,457,2095.6603719359355,+16045598872,False,$$
+Tableau Bar Bistro,"Bars, Bistros",Bars,,4.0,"1181 Melville Street, Vancouver",49.287494,-123.1235689,279,1432.391402120017,+16046398692,False,$$
+Peaked Pies,"Australian, Bakeries, Fast Food",Fast Food,,4.5,"975 Denman Street, Vancouver",49.2896489,-123.1384797,200,1307.334376630989,+17783795612,False,$$
+JOS,"Pizza, Italian",Pizza,Italian,4.0,"1190 W Cordova St, Vancouver",49.2890737079158,-123.122008477632,47,1306.6097151370718,+16048911555,False,$$
+Mahony's Tavern,"Irish, Pubs",Pubs,Irish,3.0,"1055 Canada Place, Vancouver",49.28971,-123.11607,219,1584.616272569802,+16046477513,False,$$
+Ukrainian Village,Ukrainian,,,4.0,"815 Denman Street, Vancouver",49.2914123,-123.1358196,170,1049.8609796981546,+16046877440,False,$$
+Mott 32,Chinese,,Chinese,4.0,"1161 West Georgia Street, Vancouver",49.2868703881444,-123.124537612795,190,1481.0689070661344,+16049798886,False,$$$$
+CinCin Ristorante + Bar,"Italian, Bars",Bars,Italian,4.0,"1154 Robson Street, Vancouver",49.28516,-123.1263,416,1625.9079716438566,+16046887338,False,$$$
+Seasons In the Park,Seafood,Seafood,,4.0,"Queen Elizabeth Park, Vancouver",49.2416705486198,-123.112535476685,528,727.0838014444133,+16048748008,False,$$$
+Grub,"Italian, Canadian (New)",,"Italian, Canadian (New)",4.0,"4328 Main Street, Vancouver",49.2463988,-123.1010281,182,265.31095062799744,+16048768671,False,$$
+Rocky Mountain Flatbread,"Gluten-Free, Breakfast & Brunch, Pizza",Pizza,,4.0,"4186 Main Street, Vancouver",49.2478,-123.10074,239,390.7246628580948,+16045669779,False,$$
+Yugo Restaurant,Japanese,,Japanese,4.0,"4265 Main Street, Vancouver",49.24753,-123.10152,122,337.7166868638533,+16046207878,False,$$$
+East is East,"Middle Eastern, Indian",,"Middle Eastern, Indian",4.0,"4433 Main Street, Vancouver",49.2452136,-123.1014916,497,177.04200253571747,+16045654401,False,$$$
+The Locus,"Lounges, Canadian (New)",,Canadian (New),4.0,"4121 Main Street, Vancouver",49.2485,-123.10147,266,434.58247725017907,+16047084121,False,$$
+Trafiq Cafe & Bakery,"Cafes, Bakeries, Coffee & Tea","Cafes, Coffee & Tea",,4.5,"4216 Main Street, Vancouver",49.2474862,-123.1011218,316,345.6843768320598,+16046482244,False,$$
+Autostrada,"Italian, Wine Bars",Wine Bars,Italian,4.0,"4811 Main Street, Vancouver",49.24172,-123.10185,100,392.13511930574384,+16044286820,False,$$$
+Sawasdee Thai Restaurant,Thai,,Thai,4.0,"4250 Main Street, Vancouver",49.24703,-123.1008,338,321.9030550519778,+16048764030,False,$$
+Chaise Lounge Restaurant,"Lounges, American",,American,3.5,"4444 Main St, Vancouver",49.2450701,-123.1010896,149,209.47545198494728,+16048747114,False,$$
+The Acorn,"Vegan, Vegetarian, Cocktail Bars",Cocktail Bars,,4.0,"3995 Main Street, Vancouver",49.24958,-123.10143,462,547.6455353536045,+16045669001,False,$$
+Chickpea,"Vegan, Mediterranean",,Mediterranean,3.5,"4298 Main Street, Vancouver",49.2466008452725,-123.100948166987,249,280.6260287584537,+16046200602,False,$$
+Sun Sui Wah Seafood Restaurant,"Seafood, Dim Sum, Cantonese",Seafood,,3.5,"3888 Main Street, Vancouver",49.25053,-123.1006,559,646.0306485891374,+16048728822,False,$$
+BBQ Chicken,"Korean, Chicken Wings, Pubs",Pubs,Korean,4.5,"4470 Main Street, Vancouver",49.2448724,-123.1011006,15,201.75299562787606,+12365218256,False,N/A
+Breka Bakery & Café,"Bakeries, Patisserie/Cake Shop, Cafes",Cafes,,4.0,"4554 Main St, Vancouver",49.24383730986246,-123.10114614665508,42,232.78433407247778,+16045590900,False,$$
+Sula,"Indian, Seafood",Seafood,Indian,4.5,"4172 Main Street, Vancouver",49.2479405,-123.1007241,107,403.3137432740333,+16048745375,False,$$
+Pizza Carano,"Pizza, Italian",Pizza,Italian,4.5,"4241 Fraser Street, Vancouver",49.2472163,-123.090345,151,1013.4739460555039,+16048771270,False,$$
+Sushi Hub,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"4855 Main Street, Vancouver",49.24116,-123.10187,124,447.9906851027791,+16043364855,False,$$
+Boiling Point,"Taiwanese, Hot Pot, Comfort Food",,,3.5,"4148 Main St, Vancouver",49.2482041,-123.1009003,91,426.9988212112175,+16046202198,False,$$
+Ogenki Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"4342 Main Street, Vancouver",49.2462985,-123.1010301,111,257.0436773814977,+16048759975,False,$
+Hawkers Delight Deli,"Delis, Malaysian, Singaporean",,Malaysian,4.0,"4127 Main Street, Vancouver",49.248375,-123.101287,354,424.81378219656614,+16047098188,False,$
+District Eleven,Vietnamese,,Vietnamese,4.0,"4063 Main Street, Vancouver",49.2489934,-123.1012049,31,511.39381152432827,N/A,False,N/A
+Osteria Savio Volpe,Italian,,Italian,4.0,"615 Kingsway, Vancouver",49.2574913,-123.0909344,432,1681.393533995177,+16044280072,False,$$$
+Toshi Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"181 East 16th Avenue, Vancouver",49.256699,-123.101936,448,1314.3964692062157,+16048745173,False,$$
+Tonton Sushi,Japanese,,Japanese,4.0,"4018 Cambie Street, Vancouver",49.2497178,-123.115173,75,976.0336519039545,+16044282742,False,$$
+Nammos Estiatorio,"Tapas/Small Plates, Greek, Breakfast & Brunch",,Greek,4.0,"3980 Fraser Street, Vancouver",49.24949186070796,-123.0898917758554,132,1133.3759617457347,+16044286850,False,$$
+The Arbor,"Vegetarian, Vegan",,,4.0,"3941 Main Street, Vancouver",49.2499965,-123.1012256,145,584.7993566223602,+16046203256,False,$$
+Pizzeria Grano,Pizza,Pizza,,4.5,"3240 Main Street, Vancouver",49.2561903,-123.1010467,26,1282.985633970861,+16048765408,False,N/A
+Batard Boulangerie & Cafe Moderne,"Coffee & Tea, Bakeries, French",Coffee & Tea,French,4.5,"3958 Fraser Street, Vancouver",49.2495337429805,-123.089919893626,134,1133.637372136671,+16045063958,False,$$
+Le Marché St. George,"Cafes, Grocery",Cafes,,4.0,"4393 Saint George Street, Vancouver",49.2456344,-123.0941734,178,707.7867849715494,+16045655107,False,$$
+Long's Noodle House,"Chinese, Noodles, Dumplings",,Chinese,3.5,"4853 Main Street, Vancouver",49.2412221,-123.1016806,294,439.56835666877834,+16048797879,False,$$
+Fassil Ethiopian Restaurant,Ethiopian,,Ethiopian,4.5,"736 Broadway E, Vancouver",49.262316686122,-123.08833077466,149,2236.588500013066,+16048792001,False,$$
+The Main,"Mediterranean, Pizza, Pubs","Pizza, Pubs",Mediterranean,3.0,"4210 Main Street, Vancouver",49.2474248,-123.1010251,119,350.41717071592007,+16047098555,False,$$
+Les Faux Bourgeois,"French, Cafes",Cafes,French,4.0,"663 E 15th Avenue, Vancouver",49.2572813531481,-123.089767330802,455,1711.3434959064762,+16048739733,False,$$
+Bonjour Vietnam Bistro,Vietnamese,,Vietnamese,4.0,"3944 Fraser Street, Vancouver",49.249668,-123.0899331,77,1139.5815006596642,+16048793633,False,N/A
+Sushi Mania,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"3851 Main Street, Vancouver",49.2505379542326,-123.101179728836,166,651.6967182809649,+16045683363,False,$$
+Sushi Hil,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"3330 Main Street, Vancouver",49.2554661,-123.1011451,24,1174.382345695371,+12364829060,False,N/A
+Matchstick Coffee,"Bakeries, Coffee Roasteries, Breakfast & Brunch",Coffee Roasteries,,3.5,"4807 Main Street, Vancouver",49.2421612,-123.1015749,61,381.50556838217074,+16045694807,False,$$
+The French Table Bistro,French,,French,3.5,"3916 Main Street, Vancouver",49.2500105,-123.1008117,116,607.3066894719768,+16046893237,False,$$$
+Bob Likes Thai Food,Thai,,Thai,3.5,"3755 Main St, Vancouver",49.25134,-123.10133,193,737.6115216905353,+16045688538,False,$$
+Egg & Co,Breakfast & Brunch,,,4.0,"4245 Fraser Street, Vancouver",49.2470515,-123.0903867,66,1003.7494612502893,+16043369301,False,$$
+Maizal RMF,Mexican,,Mexican,4.5,"2815 Main Street, Vancouver",49.2600097,-123.1012988,146,1682.2786636109956,+16047090813,False,$$
+East West Market,"Grocery, Vegan, Delis",,,4.5,"4169 Main Street, Vancouver",49.24823,-123.10147,34,406.98945186000833,+16045646888,False,$
+Kishimoto Japanese Kitchen,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"2054 Commercial Drive, Vancouver",49.2665099,-123.06935,518,455.7531158446811,+16042555550,False,$$$
+B House,"Asian Fusion, Breakfast & Brunch",,Asian Fusion,4.5,"2270 Commercial Drive, Vancouver",49.264473795087,-123.069533295929,25,205.39056094926806,+16045642468,False,N/A
+The Burrow,"Mexican, Vegetarian, Breakfast & Brunch",,Mexican,4.0,"2781 Commercial Drive, Vancouver",49.2597591,-123.0700099,506,324.82040237329204,+16045688224,False,$$
+Sopra Sotto,"Pizza, Italian",Pizza,Italian,4.0,"1510 Commercial Drive, Vancouver",49.2711051,-123.0694651,141,950.7067762534934,+16042517586,False,$$
+Jamjar - Folk Lebanese Food,"Lebanese, Vegan",,,4.0,"2280 Commercial Drive, Vancouver",49.264412,-123.0695951,260,193.2267776914765,+16042523957,False,$$
+Pink Peppercorn Seafood House,Seafood,Seafood,,4.5,"1485 Kingsway, Vancouver",49.2493583,-123.0739159,145,1508.2024794183628,+16045693626,False,$$$
+Lunch Lady,Vietnamese,,Vietnamese,4.0,"1046 Commercial Drive, Vancouver",49.27497,-123.06915,213,1371.399723678642,+16045595938,False,$$
+Absinthe Bistro,"French, Bistros, Desserts",Desserts,French,4.5,"952 Commercial Drive, Vancouver",49.27607,-123.0692457,140,1493.325983879775,+16045669053,False,$$$
+La Mezcaleria,Mexican,,Mexican,4.0,"1622 Commercial Drive, Vancouver",49.2702237,-123.0694136,296,829.255636348404,+16045598226,False,$$
+Harbour Oyster + Bar,"Cocktail Bars, Seafood, Fish & Chips","Cocktail Bars, Seafood",,4.0,"1408 Commercial Drive, Vancouver",49.2718946138822,-123.069181591272,76,1029.0396932979136,+16042516900,False,$$
+Via Tevere Pizzeria,"Italian, Pizza, Desserts","Pizza, Desserts",Italian,4.0,"1190 Victoria Drive, Vancouver",49.27387530438791,-123.06553445802784,335,1277.1421614193832,+16043361803,False,$$
+Harambe Restaurant,"Ethiopian, African",,"Ethiopian, African",4.0,"2149 Commercial Drive, Vancouver",49.265519,-123.069867,136,323.8411307695319,+16042161060,False,$$
+Gojo Café,"Ethiopian, African",,"Ethiopian, African",4.0,"2838 Commercial Drive, Vancouver",49.2589549,-123.069605,61,389.31581495920875,+16047085394,False,$$
+Sula Indian Restaurant,Indian,,Indian,4.0,"1128 Commercial Drive, Vancouver",49.2745279,-123.0693263,265,1311.3949027005174,+16042151130,False,$$
+Do Chay,"Vietnamese, Vegan, Vegetarian",,Vietnamese,4.5,"1392 Kingsway, Vancouver",49.25006,-123.0765,164,1496.5696420702182,+16042258349,False,$$
+Elephant Garden Creamery,"Food Stands, Ice Cream & Frozen Yogurt, Desserts",Desserts,,4.5,"2080 Commercial Dr, Vancouver",49.2661487,-123.0694056,138,390.43441837694473,+16042516832,False,$
+Chongqing Restaurant,Chinese,,Chinese,3.5,"2808 Commercial Dr, Vancouver",49.25932,-123.06945,147,371.9030167829994,+16042547434,False,$$
+Mui Ngo Gai,"Vietnamese, Noodles",,Vietnamese,4.0,"2052 Kingsway, Vancouver",49.2445748,-123.0642461,225,2036.6105052533442,+16048768885,False,$
+Yook Korean Grilled BBQ & Bistro,"Korean, Barbeque",Barbeque,Korean,4.0,"2408 Nanaimo Street, Vancouver",49.2629225,-123.0564851,94,930.3642199066735,+16044289292,False,$$
+Daddy's Kitchen,"Poke, Sushi Bars, Vegetarian",Sushi Bars,,4.0,"2586 Commercial Drive, Vancouver",49.261521127712,-123.069602362812,67,127.96894515877771,+16046207686,False,$$
+Loku Japanese Cuisine,Japanese,,Japanese,3.5,"2280 Commercial Drive, Vancouver",49.264412,-123.0695951,27,193.2243636981393,+16042984403,False,N/A
+Po Kong Vegetarian Restaurant,"Dim Sum, Vegetarian, Vegan",,,4.0,"1334 Kingsway Avenue, Vancouver",49.25047,-123.07746,149,1469.160929286402,+16048763088,False,$$
+Pepino's,"Italian, Salad, Pizza",Pizza,Italian,4.0,"631 Commercial Drive, Vancouver",49.2787695,-123.0705849,150,1807.8277571325018,+16042545633,False,$$$
+Uncle Fatih's Pizza,Pizza,Pizza,,3.5,"1685 Broadway E, Vancouver",49.2624549,-123.0700874,172,70.39930515138526,+16047070744,False,$
+Sun Bo Kong Vegetarian Restaurant,"Vegetarian, Dim Sum, Cantonese",,,4.0,"1363 Kingsway, Vancouver",49.25076313662938,-123.0768886901428,96,1433.9674657351247,+16042558927,False,$$
+Ashiana Tandoori Restaurant,Indian,,Indian,4.5,"1440 Kingsway Street, Vancouver",49.2494722,-123.0749207,83,1547.3444695348853,+16048745060,False,$$
+Broadway Station Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.0,"1638 E Broadway, Vancouver",49.2621642815068,-123.07085772678,92,132.01988506755578,+16046764300,False,$$
+Kin Kao Thai Kitchen,Thai,,Thai,4.0,"903 Commercial Drive, Vancouver",49.276516,-123.0696335,165,1528.9060472708818,+16045581125,False,$$
+Golden Seafood Restaurant,"Seafood, Dim Sum",Seafood,,4.0,"2425 Nanaimo Street, Vancouver",49.2626788329608,-123.056971619184,37,886.7067466565908,+16045688268,False,N/A
+Tangent Cafe,"Breakfast & Brunch, Cafes, Cocktail Bars","Cafes, Cocktail Bars",,3.0,"2095 Commercial Drive, Vancouver",49.266099101603416,-123.06985951164322,140,387.65582738784803,+16045584641,False,$$
+Dolce Amore,"Ice Cream & Frozen Yogurt, Desserts, Italian",Desserts,Italian,4.5,"1588 Commercial Drive, Vancouver",49.27069306211316,-123.06932196564716,150,895.4835935909842,+16042580006,False,$
+Havana,"Latin American, Caribbean",,"Latin American, Caribbean",3.5,"1212 Commercial Drive, Vancouver",49.273708,-123.069271,381,1230.6922763445918,+16042539119,False,$$
+House of Dosas,Indian,,Indian,4.0,"1391 Kingsway, Vancouver",49.2503625,-123.0762445,458,1449.3444502018053,+16048751283,False,$$
+Naruto Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"2763 Commercial Drive, Vancouver",49.2598295,-123.0700138,113,305.0576299246108,+16045583858,False,$
+Caffe La Tana,Cafes,Cafes,,4.5,"635 Commercial Drive, Vancouver",49.2788597356837,-123.070581380828,38,1806.3438470562724,+16044285462,False,N/A
+Knight Street Cafe,Cafes,Cafes,,4.5,"3911 Knight Street, Vancouver",49.2497276,-123.0762149,85,1530.8156546480495,+16045632877,False,$$
+Green Lemongrass,Vietnamese,,Vietnamese,4.0,"1086 Kingsway, Vancouver",49.2529916,-123.0822186,124,1442.735972353299,+16048756638,False,$
+Downlow Chicken Shack,Chicken Shop,,,4.0,"905 Commercial Drive, Vancouver",49.2765067,-123.0696349,274,1522.4039135951027,+16042831385,False,$$
+Shiok Singapore Cuisine,Singaporean,,,4.0,"1716 Kingsway, Vancouver",49.2469321,-123.0693059,103,1736.7935765442965,+16044233838,False,$$
+Takenaka,Japanese,,Japanese,4.0,"1370 East Georgia Street, Vancouver",49.2783093,-123.0755801,67,1802.9301364862524,+16048029982,False,N/A
+La Grotta Del Formaggio,"Delis, Sandwiches, Italian",Sandwiches,Italian,4.5,"1791 Commercial Drive, Vancouver",49.2688848,-123.0697849,189,692.763985178723,+16042553911,False,$
+The Cannibal Cafe,"Diners, Burgers, Cafes","Burgers, Cafes",,3.5,"1818 Commercial Drive, Vancouver",49.2683744,-123.0696119,255,638.3410661336653,+16045584199,False,$$
+Green Lettuce Indian Style Chinese Restaurant,Hakka,,,4.0,"1949 Kingsway, Vancouver",49.2457425,-123.0660343,172,1887.9572065939144,+16048769883,False,$$
+Juno Provisions,Sushi Bars,Sushi Bars,,4.0,"2247 Commercial Dr, Vancouver",49.26440881423837,-123.07001609355213,14,205.56984866718372,+16042516025,False,N/A
+A&W,"Fast Food, Burgers","Fast Food, Burgers",,2.5,"1715 E Broadway, Vancouver",49.2627265,-123.0694771,30,22.871311283068614,+16048721532,False,$
+Kulinarya,Filipino,,Filipino,4.0,"1134 Commercial Drive, Vancouver",49.2744901,-123.0693269,68,1306.1607091601616,+16042554155,False,$$
+Sushi Ville,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.0,"2068 Commercial Drive, Vancouver",49.2662408,-123.0696654,152,401.84202608723194,+16045594611,False,$$
+Marcello,"Pizza, Italian",Pizza,Italian,3.0,"1404 Commercial Drive, Vancouver",49.27204590144254,-123.06943334795372,338,1046.009697518631,+16042157760,False,$$
+Eternal Abundance,"Vegan, Juice Bars & Smoothies, Health Markets",Juice Bars & Smoothies,,4.0,"1025 Commercial Drive, Vancouver",49.2755401,-123.0696449,119,1423.088488278437,+16047070088,False,$$
+Viet Family- The Vegan House,"Vietnamese, Vegan",,Vietnamese,5.0,"1431 Commercial Drive, Vancouver",49.27182591723078,-123.06974969875908,19,1022.2049559307875,+12364292613,False,N/A
+Fable Kitchen,Canadian (New),,Canadian (New),4.5,"1944 W 4th Avenue, Vancouver",49.2679331,-123.149019,773,1428.8254541790668,+16047321322,False,$$
+Number E Food,"Sandwiches, Coffee & Tea","Sandwiches, Coffee & Tea",,5.0,"1308 Burrard Street, Vancouver",49.277569151917,-123.131018212403,145,262.7718294938649,+16045596863,False,$$
+Tom Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"1175 Davie St, Vancouver",49.2815608,-123.1327476,221,603.1763728439149,+16043360855,False,$$
+Linh Cafe,"Vietnamese, French",,"Vietnamese, French",4.0,"1428 Granville Street, Vancouver",49.2746716,-123.12989802,309,368.32526750128585,+16045649668,False,$$
+Maxine's Cafe & Bar,"Bars, Breakfast & Brunch, Cafes","Bars, Cafes",,4.5,"1325 Burrard Street, Vancouver",49.27807,-123.13131,82,268.3810051516336,+16047077224,False,$$
+Ancora Waterfront Dining and Patio,"Seafood, Japanese, Peruvian",Seafood,"Japanese, Peruvian",4.0,"1600 Howe Street, Vancouver",49.273853456158875,-123.13257765112428,222,293.5912864211964,+16046811164,False,$$$$
+Suika,"Japanese, Tapas/Small Plates, Sushi Bars",Sushi Bars,Japanese,4.0,"1626 W Broadway, Vancouver",49.26333,-123.1417,528,1536.5016125313377,+16047301678,False,$$
+AnnaLena,"Canadian (New), Diners, Bars",Bars,Canadian (New),4.5,"1809 W 1st Avenue, Vancouver",49.2708261,-123.1467714,349,1104.1361804870746,+17783794052,False,$$$$
+Beach Ave Bar And Grill,"Seafood, Burgers, Cocktail Bars","Seafood, Burgers, Cocktail Bars",,4.5,"1 -1012 Beach Avenue, Vancouver",49.27553568577844,-123.13565084059196,29,142.57646513958395,+16046762337,False,$$
+Giardino,Italian,,Italian,4.0,"1328 Hornby Street, Vancouver",49.276991,-123.1301021,126,298.4030887026532,+16046692422,False,$$$
+Boulevard,"Seafood, Lounges",Seafood,,4.0,"845 Burrard Street, Vancouver",49.2827182,-123.123884,293,1027.326070466782,+16046422900,False,$$$
+Tap & Barrel - Bridges,"Breakfast & Brunch, Salad, Burgers",Burgers,,4.0,"1696 Duranleau St, Vancouver",49.2727468,-123.1359964,61,423.89137868913303,+16046874400,False,$$
+La Belle Patate,"Fast Food, Poutineries",Fast Food,,4.0,"1215 Davie Street, Vancouver",49.2820547306569,-123.133442922354,547,640.9610212802351,+16045691215,False,$$
+Gyu-Kaku Japanese BBQ,"Japanese, Barbeque, Asian Fusion",Barbeque,"Japanese, Asian Fusion",4.0,"G3-888 Nelson Street, Vancouver",49.28031,-123.12467,399,765.715554944357,+16045583885,False,$$
+Chi Vegan,Vietnamese,,Vietnamese,4.0,"1935 W 4th Avenue, Vancouver",49.2681947,-123.1487738,207,1394.6652539599993,+16043363010,False,$$
+Phnom Penh,"Cambodian, Vietnamese",,Vietnamese,4.0,"244 E Georgia Street, Vancouver",49.278431,-123.098205,1634,1832.1501423556617,+16046825777,False,$$
+St Lawrence Restaurant,French,,French,4.5,"269 Powell Street, Vancouver",49.2832584031253,-123.097993419888,147,2261.405082781139,+16046203800,False,$$$
+Nuba in Gastown,"Mediterranean, Lebanese",,Mediterranean,4.0,"207 W Hastings Street, Vancouver",49.2827625062516,-123.109646101134,753,1863.690862897509,+16046881655,False,$$$
+Pourhouse Restaurant,"Cocktail Bars, Comfort Food, Burgers","Cocktail Bars, Burgers",,4.0,"162 Water Street, Vancouver",49.2841134475502,-123.10842879595,559,2030.813213657258,+16045687022,False,$$
+L'Abattoir,"French, Canadian (New), Breakfast & Brunch",,"French, Canadian (New)",4.0,"217 Carrall Street, Vancouver",49.2831869855333,-123.104450140894,582,2027.6179570074178,+16045681701,False,$$$
+Alibi Room,"Pubs, Canadian (New), Gastropubs","Pubs, Gastropubs",Canadian (New),4.5,"157 Alexander Street, Vancouver",49.284201944511,-123.1001915385,572,2266.405948178275,+16046233383,False,$$
+Nero Waffles,"Waffles, Coffee & Tea",Coffee & Tea,,4.5,"1002 Seymour Street, Vancouver",49.27834403099929,-123.122044653573,513,1404.3506385425521,+16044289177,False,$$
+Cioppino's Mediterranean Grill,"Mediterranean, Italian",,"Mediterranean, Italian",4.5,"1133 Hamilton Street, Vancouver",49.275522,-123.121794,199,1106.2317458899236,+16046887466,False,$$$$
+Twisted Fork,"French, Breakfast & Brunch",,French,4.0,"213 Carral Street, Vancouver",49.283194,-123.104445,1107,2028.481863186004,+16045680749,False,$$
+Pizzeria Ludica,"Pizza, Italian, Tabletop Games",Pizza,Italian,4.0,"189 Keefer Place, Vancouver",49.2800427277576,-123.108486811639,186,97.7101282885954,+16046695552,False,$$
+Caveman Cafe,"Organic Stores, Salad, Cafes",Cafes,,4.5,"88 W Pender Street, Vancouver",49.280802324947445,-123.10703500282293,273,231.18870729258504,+16043310668,False,$$
+Bao Bei Chinese Brasserie,Chinese,,Chinese,4.0,"163 Keefer Street, Vancouver",49.2796095312486,-123.100574596039,424,662.207042575391,+16046880876,False,$$$
+PiDGiN,"Japanese, Korean, French",,"Japanese, Korean, French",4.0,"350 Carrall Street, Vancouver",49.2819071402452,-123.104188653967,324,471.3359407805258,+16046209400,False,$$$
+Di Beppe,Italian,,Italian,4.0,"8 W Cordova Street, Vancouver",49.28237705581659,-123.10450043738042,140,483.0717042767256,+16045591122,False,$$
+MeeT in Gastown,"Comfort Food, Burgers, Breakfast & Brunch",Burgers,,4.0,"12 Water Street, Vancouver",49.28343624826065,-123.1048494822089,503,547.5315458550494,+16046961111,False,$$
+Six Acres,"Pubs, Canadian (New)",Pubs,Canadian (New),4.0,"203 Carrall Street, Vancouver",49.2833119,-123.1044042,289,558.999813454974,+16044880110,False,$$
+Calabash Bistro,Caribbean,,Caribbean,4.0,"428 Carrall Street, Vancouver",49.281004479966,-123.104228199529,285,424.1486000745041,+16045685882,False,$$
+La Taqueria Pinche Taco Shop,"Mexican, Cocktail Bars",Cocktail Bars,Mexican,4.5,"322 W Hastings Street, Vancouver",49.282912,-123.110593,524,366.76625454856855,+16045684406,False,$$
+Chinatown BBQ,"Barbeque, Cantonese",Barbeque,,4.5,"130 E Pender Street, Vancouver",49.280294,-123.1015,280,599.1407001591265,+16044282626,False,$$
+Devil's Elbow Ale & Smoke House,"Gastropubs, Barbeque, Smokehouse","Gastropubs, Barbeque",,3.5,"562 Beatty Street, Vancouver",49.2801437,-123.1098099,197,59.68301695203788,+16045590611,False,$$
+Nemesis Coffee,Cafes,Cafes,,4.5,"302 W Hastings Street, Vancouver",49.28281595985871,-123.11027107703038,228,352.77578079174765,N/A,False,$$
+Raisu,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"2340 W 4th Avenue, Vancouver",49.2679990419609,-123.158381134272,453,796.7069973001088,+16046201564,False,$$
+Unchai Thai Restaurant,Thai,,Thai,4.5,"2351 Burrard Street, Vancouver",49.265112,-123.145913,85,302.34452422810534,+16045596484,False,N/A
+Au Comptoir,French,,French,4.0,"2278 W 4th Avenue, Vancouver",49.268034328356,-123.15672487756,212,706.0495944091723,+16045692278,False,$$$
+Novo Italian,"Wine Bars, Pizza, Italian","Wine Bars, Pizza",Italian,4.0,"2118 Burrard Street, Vancouver",49.2666178,-123.1454221,157,435.5798644204443,+16047362220,False,$$
+Delhi 6 Indian Bistro,Indian,,Indian,4.5,"1766 W 7th Avenue, Vancouver",49.2653386,-123.1449329,136,369.3294052607491,+16047423311,False,$$
+Maenam,Thai,,Thai,4.0,"1938 W 4th Avenue, Vancouver",49.26787,-123.1488979,384,459.24400561700753,+16047305579,False,$$
+Ramen Danbo,"Ramen, Noodles",,,4.0,"1833 W 4th Avenue, Vancouver",49.26828,-123.146431,427,549.1537469459576,N/A,False,$$
+Temaki Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"2156 W Broadway, Vancouver",49.263919,-123.154395,163,353.5680115037704,+16047384321,False,$$
+Gyo Para Gyoza & Ramen Bar,"Ramen, Noodles",,,4.0,"2120 W Broadway, Vancouver",49.2637073656912,-123.153455257416,99,284.9993912665528,+16042882941,False,$$
+Jam Cafe,Breakfast & Brunch,,,4.5,"2153 W 4th Avenue, Vancouver",49.2682705,-123.1539827,233,606.1449603236955,+16044233350,False,$$
+Maple Grill Restaurant & Catering,Kosher,,,4.5,"1967 W Broadway, Vancouver",49.2639098,-123.149756,23,23.575337777295825,+16045684885,False,$$
+Le Coq Frit,Chicken Shop,,,4.5,"1888 W Broadway, Vancouver",49.2636151,-123.1479001,36,127.2490546114333,+16045688776,False,N/A
+Their There,"Breakfast & Brunch, Cafes",Cafes,,4.0,"2042 West 4th Avenue, Vancouver",49.2679649501648,-123.151158941154,115,482.2530388504929,+16047368828,False,$$
+Osaka Teppanyaki Steak & Seafood House,"Japanese, Seafood, Steakhouses","Seafood, Steakhouses",Japanese,4.0,"1788 W Broadway, Vancouver",49.263417,-123.1453266,97,307.2874531190334,+16047338258,False,$$$
+Casereccio Foods,Italian,,Italian,4.5,"2480 Vine Street, Vancouver",49.2642,-123.15742,42,579.7446718653168,+16047344440,False,N/A
+La Cigale French Bistro,French,,French,4.0,"1961 W 4th Avenue, Vancouver",49.2683296,-123.1494293,150,501.7347367368231,+16047320004,False,$$
+Afghan Horsemen Restaurant,"Middle Eastern, Afghan, Kebab",,Middle Eastern,4.0,"1833 Anderson Street, Vancouver",49.2694847203493,-123.138735294342,250,1009.1866494135008,+16048735923,False,$$
+Dark Table,Canadian (New),,Canadian (New),4.0,"2611 W 4th Avenue, Vancouver",49.2685699,-123.16481,520,1225.2204157218284,+16047393275,False,$$$
+Gurkha Himalayan Kitchen,"Himalayan/Nepalese, Noodles, Cocktail Bars",Cocktail Bars,,4.0,"1141 Davie Street, Vancouver",49.2811737,-123.1321411,195,2305.4812422422033,+16045657965,False,$$
+Romer's Burger Bar,"Burgers, Beer Bar, Salad","Burgers, Beer Bar",,3.5,"1873 West 4th Avenue, Vancouver",49.26817555404283,-123.14727918399592,348,517.3536022824333,+16047329545,False,$$
+The Sandbar Seafood Restaurant,"Seafood, Sushi Bars, Music Venues","Seafood, Sushi Bars",,3.5,"1535 Johnston Street, Vancouver",49.271502,-123.134151,726,1410.7285230295317,+16046699030,False,$$$
+RedBeef Noodle Kitchen,"Taiwanese, Noodles",,,4.0,"1947 W 4th Avenue, Vancouver",49.2681986,-123.1490359,110,511.4812849089474,+16045581237,False,$$
+Breakfast Table,Breakfast & Brunch,,,4.5,"3014 Granville Street, Vancouver",49.25855,-123.13856,256,985.827570708977,+16048051900,False,$$
+Akbar's Own Dining Lounge,Indian,,Indian,3.5,"1905 W Broadway, Vancouver",49.2638957,-123.1483493,103,85.27915041719675,+16047368180,False,$$
+Octopus Garden,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1995 Cornwall Avenue, Vancouver",49.2726349,-123.149816,153,988.2490391396121,+16047348971,False,$$$
+The Stable House Bistro,"French, Wine Bars, Modern European",Wine Bars,"French, Modern European",4.0,"1520 W 13th Avenue, Vancouver",49.2597322720703,-123.140207185371,102,811.2715070610183,+16047361520,False,$$
+The Vancouver Fish Company,"Seafood, Bars","Seafood, Bars",,3.5,"1517 Anderson St, Vancouver",49.270699041024656,-123.13661460671716,264,1213.774671527634,+16045593474,False,$$$
+Mazahr Lebanese Kitchen,Lebanese,,,5.0,"1488 West 11th Avenue, Vancouver",49.2615511,-123.1383052,52,864.0512003297117,+16047332211,False,N/A
+NUTTEA,"Vegan, Bubble Tea",,,5.0,"1958 W4th Ave, Vancouver",49.2679328,-123.14931,29,459.358944457981,N/A,False,N/A
+Carlos O'Bryans Neighbourhood Pub,"Irish, Pubs",Pubs,Irish,3.5,"1774 W 7th Avenue, Vancouver",49.2653146001681,-123.14536537975,64,348.0219165724661,+16047320010,False,$$
+The Hoke Poke,"Seafood, Hawaiian, Poke",Seafood,,4.5,"1834 W 4th Avenue, Vancouver",49.2678847,-123.1464462,58,508.12852289905385,+16045648885,False,$$
+Las Margaritas Restaurant,Mexican,,Mexican,3.0,"1999 4th Avenue W, Vancouver",49.2683195,-123.15007987746176,405,508.51714663442607,+16047347117,False,$$
+Patisserie Lebeau,"Bakeries, Waffles, Patisserie/Cake Shop",,,4.5,"1728 W 2nd Avenue, Vancouver",49.2696509840324,-123.144082948565,125,764.9451836873124,+16047313528,False,$$
+Heirloom Vegetarian,"Breakfast & Brunch, Vegetarian, Juice Bars & Smoothies",Juice Bars & Smoothies,,3.5,"1509 W 12th Avenue, Vancouver",49.2608947,-123.1391588,550,817.1727134066869,+16047332231,False,$$
+Coquette,"French, Wine Bars, Cocktail Bars","Wine Bars, Cocktail Bars",French,4.0,"2685 Arbutus Street, Vancouver",49.26212,-123.15324,13,320.548255096864,+16042591248,False,N/A
+Bin 4 Burger Lounge,"Burgers, Salad, Cocktail Bars","Burgers, Cocktail Bars",,3.5,"2996 Granville Street, Vancouver",49.25902,-123.13833,112,956.7771540741631,+16044287649,False,$$
+Delara,Persian/Iranian,,Persian/Iranian,4.0,"2272 W 4th Avenue, Vancouver",49.2680486,-123.1569183,41,704.3079490531268,+16047304325,False,N/A
+The Ellis,"Cocktail Bars, American, Gastropubs","Cocktail Bars, Gastropubs",American,4.0,"2204 York Avenue, Vancouver",49.2715661205375,-123.155288726822,82,963.3349708192818,+16044282456,False,$$
+Plaisir Sucre,"Bakeries, Desserts, French",Desserts,French,4.0,"2668 Arbutus Street, Vancouver",49.2621953142164,-123.152817707417,77,295.39214643006056,+16047360515,False,$
+Paul's Omelettery Restaurant,"Breakfast & Brunch, Diners, Burgers",Burgers,,4.0,"2211 Granville Street, Vancouver",49.26597,-123.1389,299,820.3180232983935,+16047372857,False,$$
+Nook,Italian,,Italian,4.0,"1525 Yew Street, Vancouver",49.2722128608937,-123.155147313374,165,1024.4743872129607,+16047340099,False,$$
+Cactus Club Cafe,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"1530 West Broadway, Vancouver",49.26362182019387,-123.13951231535243,159,726.9717593895681,+16047330434,False,$$
+The Parlour,"Pizza, Lounges, Tapas/Small Plates",Pizza,,4.0,"1011 Hamilton Street, Vancouver",49.276835,-123.120221,466,280.0973113487926,+16045683322,False,$$
+Zab Zaab Thai Cuisine,"Thai, Cideries, Cocktail Bars",Cocktail Bars,Thai,4.5,"1211 Hamilton Street, Vancouver",49.27493,-123.12321,26,108.52851343636071,+16044136999,False,N/A
+Brix & Mortar,"Wine Bars, Canadian (New), Venues & Event Spaces",Wine Bars,Canadian (New),4.0,"1137 Hamilton Street, Vancouver",49.27561628359493,-123.1219105,320,123.41165715997995,+16049159463,False,$$$
+MeeT in Yaletown,"Comfort Food, Gluten-Free, Vegetarian",,,4.0,"1165 Mainland Street, Vancouver",49.2748495736666,-123.121902530398,167,39.66798410608155,+16046961165,False,$$
+The Greek By Anatoli,Greek,,Greek,4.0,"1043 Mainland Street, Vancouver",49.276285,-123.1197178,258,231.14637159206958,+16049790700,False,$$
+Kaide Sushi,Sushi Bars,Sushi Bars,,4.5,"1375 Richards Street, Vancouver",49.2742161,-123.1270679,240,387.0924757057953,+16046815886,False,$$
+Cactus Club Cafe,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"357 Davie Street, Vancouver",49.27522297469047,-123.12280441720084,215,111.44985182436197,+16046858070,False,$$$
+New Mandarin Seafood Restaurant,"Dim Sum, Seafood",Seafood,,4.0,"4650 Gladstone St, Vancouver",49.2430789410403,-123.062085096174,204,1161.4971083474627,+16043369388,False,$$
+Kwan Luck Restaurant,"Chinese, Seafood, Hot Pot",Seafood,Chinese,4.5,"2516 Kingsway, Vancouver",49.2397118,-123.0541382,31,744.9916101663734,+16044313890,False,$$
+Dumpling House,"Chinese, Dumplings",,Chinese,4.5,"3141 Kingsway, Vancouver",49.23555594699692,-123.0386874279929,99,1110.9820646226556,+17785881227,False,$$
+Wang's Shanghai Cuisine,"Noodles, Dim Sum",,,4.5,"3328 Kingsway, Vancouver",49.232843,-123.034814,181,1514.8950792505686,+16044286818,False,$$
+Joojak Restaurant,Chinese,,Chinese,4.5,"3337 Kingsway, Vancouver",49.2334900680365,-123.034767160936,143,1457.0322645237834,+16045638816,False,$$
+Basil Garden,Vietnamese,,Vietnamese,4.0,"2889 E Broadway, Vancouver",49.2622628991938,-123.044808884517,124,2003.8066589814064,+16048719998,False,$$
+Sushi Taku,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"4902 Joyce Street, Vancouver",49.2397816,-123.0301601,83,1281.564037883814,+16044541023,False,$$
+Obanhmi,"Sandwiches, Vietnamese, Fast Food","Sandwiches, Fast Food",Vietnamese,4.5,"2250 Kingsway, Vancouver",49.2425998,-123.0600395,84,1014.3859000265878,+16044515812,False,$
+Chili Pepper House,Hakka,,,4.0,"3003 Kingsway, Vancouver",49.2362803933814,-123.04171188163,163,945.4259277136277,+16044318633,False,$$
+Veggiebowl,Vietnamese,,Vietnamese,4.5,"2222 Kingsway, Vancouver",49.2427418932655,-123.060425280851,91,1047.281640592902,+16046207672,False,$
+Chefhyve,"Fish & Chips, Salad, Desserts",Desserts,,4.5,"2525 Kingsway, Vancouver",49.240044,-123.0537825,19,717.0969524087643,+16044345934,False,N/A
+Dami Sushi & Korean Restaurant,"Sushi Bars, Korean",Sushi Bars,Korean,4.5,"3280 E 22nd Ave, Vancouver",49.25044966777288,-123.0343332759246,24,1101.5843990825567,+16044318887,False,N/A
+Sushi By Yuji,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"2252 Kingsway, Vancouver",49.2425768,-123.0599895,135,1018.0698067884274,+16044340003,False,$$
+Cafe Xu Hue,"Vietnamese, Noodles",,Vietnamese,4.0,"2226 Kingsway, Vancouver",49.2426651824149,-123.060414791107,99,1047.9449273410353,+16044549940,False,$
+Sushi Aji,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"3339 Kingsway, Vancouver",49.2335611,-123.0344296,84,1454.1908619512058,+16044346319,False,$$
+Congee Noodle King,"Chinese, Noodles",,Chinese,3.0,"3313 Kingsway, Vancouver",49.23411,-123.03516,155,1389.1631668258804,+16044356670,False,$$
+ZamZam,Middle Eastern,,Middle Eastern,4.5,"2128 Kingsway, Vancouver",49.2440371,-123.0631221,38,1247.736143707633,+17784520241,False,N/A
+Japanese Bistro Kamome,"Japanese, Cafes, Seafood","Cafes, Seafood",Japanese,4.0,"5228 Joyce Street, Vancouver",49.2371553,-123.0327306,45,1255.0595961142662,+16044285228,False,$$
+Come Along Seafood Restaurant,"Dim Sum, Seafood",Seafood,,3.5,"2550 Kingsway, Vancouver",49.23927,-123.05321,63,743.4409086643703,+16044391318,False,$$
+Ragazzi Pizza,"Pizza, Salad, Italian",Pizza,Italian,4.0,"2996 22nd Avenue E, Vancouver",49.2504112,-123.04175850957792,111,755.3196553703151,+16044332235,False,$$
+Kung Fu Noodle,"Chinese, Noodles",,Chinese,4.0,"5615 Harold Street, Vancouver",49.2334900862235,-123.035229152837,34,1438.207587045672,+16045598868,False,N/A
+Jambo Grill,"African, Indian, Halal",,"African, Indian",3.5,"3219 Kingsway, Vancouver",49.2350107,-123.03734,178,1231.5604366669568,+16044335060,False,$$
+350F Chicken,"Korean, Burgers, Chicken Shop",Burgers,Korean,4.5,"3307 E Broadway, Vancouver",49.262091,-123.033357,18,2191.436601405235,+16042553335,False,N/A
+Todak Todak,Korean,,Korean,4.0,"3510 Kingsway, Vancouver",49.2317509136587,-123.028748296201,39,1881.3215245382487,+16043369866,False,N/A
+Ngon,"Vietnamese, Sandwiches, Bubble Tea",Sandwiches,Vietnamese,4.0,"2228 Kingsway, Vancouver",49.2428876,-123.0606702,40,1044.5306202676954,+16044286220,False,N/A
+Crab Hot Lau,"Hot Pot, Vietnamese, Breakfast & Brunch",,Vietnamese,4.0,"2141 Kingsway, Vancouver",49.24431,-123.0627,27,1204.9699386416273,+16044233633,False,$$
+Dumpling King,"Chinese, Dumplings",,Chinese,4.5,"7 - 3490 Kingsway, Vancouver",49.23125,-123.02943,13,1848.5081513108512,+16044288638,False,N/A
+McKim Wonton Mein Saga,"Chinese, Noodles",,Chinese,3.5,"2780 Kingsway, Vancouver",49.23706,-123.04833,70,805.223144540104,+16044346655,False,$$
+Pampanga’s Cuisine,"Filipino, Fast Food",Fast Food,Filipino,4.0,"5179 Joyce Street, Vancouver",49.237734,-123.0325852,21,1216.64590624036,+17783797003,False,N/A
+Prince Seafood Restaurant,"Dim Sum, Seafood",Seafood,,3.0,"2881 Grandview Highway, Vancouver",49.25845,-123.04496,126,1572.2179020418664,+16044306808,False,$$
+Happy Day Cafe,"Hong Kong Style Cafe, Breakfast & Brunch, Cantonese",Hong Kong Style Cafe,,3.0,"3312 Kingsway, Vancouver",49.2343463246624,-123.035213590815,123,1360.5721863450567,+16043076868,False,$$
+Cho Sun BBQ Korean Restaurant,Korean,,Korean,3.0,"3486 Kingsway, Vancouver",49.23171,-123.03016,178,1803.6722947513804,+16044341222,False,$$
+Sushi High,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.5,"3311 E Broadway, Vancouver",49.2620355324915,-123.03320646286,223,2189.1605031036484,+16048794881,False,$$
+Vegan Pizza House,"Vegan, Pizza, Italian",Pizza,Italian,4.0,"2119 Kingsway, Vancouver",49.2443973,-123.0632025,118,1235.1758753417707,+16042485336,False,$$
+Kuanzhai Road Restaurant,"Seafood, Chinese, Hot Pot",Seafood,Chinese,4.0,"3488 Kingsway, Vancouver",49.2318155226196,-123.029955718589,19,1818.0007014685814,+16044303488,False,N/A
+Got Pho,Vietnamese,,Vietnamese,4.0,"2523 Nanaimo Street, Vancouver",49.2617607,-123.0571289,52,2097.969807962017,+16042538239,False,$
+La Piazza Dario Ristorante Italiano,Italian,,Italian,3.5,"3075 Slocan Street, Vancouver",49.256488,-123.0495414,79,1380.7825792758174,+16044302195,False,$$$
+Truong Thanh Vietnamese Restaurant,Vietnamese,,Vietnamese,3.5,"2096 Kingsway, Vancouver",49.2444479,-123.0639859,84,1303.0990070511277,+16048769288,False,$
+Dharma Garden Veggie Deli,"Vegetarian, Vietnamese",,Vietnamese,4.5,"3195 Kingsway, Vancouver",49.2352617153651,-123.037931126471,40,1166.8468952350381,+17788009714,False,$
+Boteco Brasil,Brazilian,,,3.0,"2545 Nanaimo Street, Vancouver",49.2617624,-123.0567297,73,2090.6712866383195,+17783797995,False,$$
+Beijiang Restaurant,"Chinese, Halal",,Chinese,4.0,"3281 Kingsway, Vancouver",49.2344772006393,-123.036112163111,34,1311.3233288710685,+16044285885,False,$$
+The Sea House Fish and Chips,"Seafood, Fish & Chips",Seafood,,4.0,"3003 Kingsway, Vancouver",49.23614,-123.04142,42,968.1575387117457,+16044337807,False,$
+Fighter Chicken,"Burgers, Fast Food, Chicken Wings","Burgers, Fast Food",,4.0,"2887 E Broadway, Vancouver",49.26230397295334,-123.0447820127263,19,2008.4663247371334,+16045649599,False,N/A
+Panaderia Latina Bakery,"Bakeries, Latin American",,Latin American,4.0,"4906 Joyce Street, Vancouver",49.2397551,-123.0301858,42,1273.6824449871867,+16044391414,False,$
+Plato Filipino,Filipino,,Filipino,3.5,"5175 Joyce Street, Vancouver",49.237734,-123.0325852,25,1216.7641609359039,+16042658861,False,$
+The Captain's Boil,"Cajun/Creole, Seafood, Asian Fusion",Seafood,Asian Fusion,2.5,"3309 Kingsway, Vancouver",49.23415651293356,-123.03529833260356,120,1374.1882929845976,+16045653999,False,$$
+Pho Hoa and Jazen Tea,Vietnamese,,Vietnamese,3.0,"2257 Kingsway, Vancouver",49.24272,-123.05926,61,960.5732947662543,+16044326022,False,$$
+Gram Cafe & Pancakes,"Cafes, Pancakes",Cafes,,3.5,"2218 Kingsway, Vancouver",49.242919528773655,-123.06098878383636,25,1084.7684307959637,+16045649157,False,N/A
+K & H Chinese Restaurant,"Chinese, Seafood",Seafood,Chinese,3.5,"3415  Kingsway, Vancouver",49.2324494,-123.0319236,37,1669.7582628420666,+16044518738,False,$$
+Oiso Kimchi Cafe,"Korean, Cafes",Cafes,Korean,4.0,"2675 Kingsway, Vancouver",49.23867,-123.05047,12,699.3243818385599,+16044233773,False,N/A
+Sushi Mura,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.0,"6485 Oak Street, Vancouver",49.2268731354658,-123.128771820581,213,433.1545576543338,+16044281145,False,$$
+Sushi Bar Shu,Sushi Bars,Sushi Bars,,4.5,"8099 Granville Street, Vancouver",49.2124168,-123.1405762,66,1996.7894901729017,+16044281868,False,$$$$
+Sushi Wow,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"8273 Granville Street, Vancouver",49.2111876,-123.1406197,104,2064.1475310296214,+16042618112,False,$$
+Cafe FortyOne,"Mediterranean, Coffee & Tea, Pizza","Coffee & Tea, Pizza",Mediterranean,4.5,"5750 Oak Street, Vancouver",49.23376128781043,-123.12774714293884,21,919.5994136441387,+16045634141,False,$$
+Mirchi Restaurant,Indian,,Indian,4.5,"7964 Granville Street, Vancouver",49.21353,-123.13995,109,1876.4467499182304,+16042667000,False,$$
+Talay Thai Restaurant,Thai,,Thai,4.0,"8369 Granville St, Vancouver",49.210809,-123.140764,99,2139.19127348419,+16045682012,False,$$
+Gigi Blin,"Cafes, Coffee & Tea, Bakeries","Cafes, Coffee & Tea",,4.5,"1400 W 70th Avenue, Vancouver",49.20844,-123.13811,82,2248.5756451989528,+16042258447,False,$
+Bonjour Banh Mi,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,4.5,"5556 Cambie Street, Vancouver",49.2348674,-123.1158155,29,1100.3335540017256,+17788955556,False,N/A
+Samurai Sushi House,Sushi Bars,Sushi Bars,,3.0,"5888 Cambie Street, Vancouver",49.2317543,-123.1159442,186,817.6230952429262,+16043258597,False,$
+Ash Street Bistro,Bistros,,,4.5,"Legacy Senior Living, Vancouver",49.2337381,-123.1182868,11,913.970266006455,+16042408550,False,$$
+Pho Hoa Noodle Soup,Vietnamese,,Vietnamese,2.5,"1011 W 49th Avenue, Vancouver",49.2266948,-123.1286969,64,433.4920870119837,+16042633555,False,$
+Red Star Seafood Restaurant,"Seafood, Dim Sum, Cantonese",Seafood,,3.5,"8298 Granville Street, Vancouver",49.2110420843541,-123.140179206938,145,2092.916536161167,+16042618389,False,$$$
+Solo Pasta,Italian,,Italian,4.5,"8620 Granville Street, Vancouver",49.20876545380502,-123.1401974711609,26,2301.3835034678254,+16042690023,False,N/A
+Omnitsky Kosher,"Delis, Kosher, Sandwiches",Sandwiches,,3.5,"5775 Oak Street, Vancouver",49.233302,-123.128579,42,898.5634748791776,+16043211818,False,$$
+A&W,"Fast Food, Burgers","Fast Food, Burgers",,3.5,"6491 Oak Street, Vancouver",49.2267627,-123.12886587,16,437.66920947916486,+16042660502,False,$
+Neptune Palace Seafood Restaurant,"Seafood, Dim Sum, Cantonese",Seafood,,3.5,"470 SW Marine Drive, Vancouver",49.21005148954842,-123.11660319900334,64,1844.1962633143862,+16044233386,False,$$$
+Jasmine Flower Shanghai,Chinese,,Chinese,4.0,"8532 Granville Street, Vancouver",49.2093701,-123.1402747,40,2258.0339436100044,+16042647663,False,$$
+Japadog,"Food Stands, Hot Dogs",,,4.0,"8130 Ontario Street, Vancouver",49.21147,-123.10617,77,2035.9335108174253,N/A,False,$
+Applause Japanese Restaurant,"Japanese, Sushi Bars, Noodles",Sushi Bars,Japanese,3.5,"8269 Oak Street, Vancouver",49.2111027,-123.1303891,122,1776.1111754570084,+16042638968,False,$$
+Dylan's,"Breakfast & Brunch, American",,American,4.0,"561 57th Avenue W, Vancouver",49.2194255,-123.11802325172174,31,824.5236279707298,+16043238064,False,$$
+Pho Ever Restaurant,"Vietnamese, Bubble Tea, Sandwiches",Sandwiches,Vietnamese,4.0,"8178 Granville Street, Vancouver",49.2117181823531,-123.139978162944,33,2024.236214155452,+17783798387,False,$
+Chuan Yue,"Chinese, Seafood, Noodles",Seafood,Chinese,4.0,"8329 Oak Street, Vancouver",49.2104020427121,-123.130526862766,22,1832.4670583251884,+16043366238,False,N/A
+Shaughnessy Restaurant,Canadian (New),,Canadian (New),2.5,"5251 Oak Street, Vancouver",49.2386894943567,-123.129515433868,107,1477.9133326308945,+16042610011,False,$$
+Pink Elephant Thai,Thai,,Thai,2.5,"434 SW Marine Drive, Vancouver",49.210456,-123.116187,99,1808.6050081191752,+16044288800,False,$$
+Sushi King House,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.0,"8176 Granville St, Vancouver",49.2118663,-123.1401825,101,2038.4686078302116,+16042693555,False,$
+Wang's Taiwan Beef Noodle House,"Taiwanese, Noodles",,,3.0,"8390 Granville Street, Vancouver",49.2100493,-123.1403151,148,2163.055635241565,+16042667966,False,$$
+Rib & Chicken,"Korean, Chicken Shop",,Korean,4.0,"8167 Granville Street, Vancouver",49.211983,-123.14083751978978,16,2040.2573778542956,+16045592737,False,N/A
+Feast & Fallow,"Cafes, Coffee & Tea, Vegan","Cafes, Coffee & Tea",,5.0,"305 W 41st Avenue, Vancouver",49.233715,-123.112521,7,1129.245075817468,+16047233433,False,N/A
+Sugar Catering,"Diners, Caterers",,,4.0,"8260 Manitoba Street, Vancouver",49.20993,-123.10956,23,2028.1422175803561,+16043259411,False,$
+Bing and Noodles World,"Chinese, Noodles",,Chinese,4.0,"8185 Granville St, Vancouver",49.2117614,-123.1405989,24,2034.6687016660762,+16042647873,False,N/A
+Nava Creative Kosher Cuisine,"Kosher, Vegetarian, Caterers",,,4.5,"950 41st Avenue W, Vancouver",49.233506,-123.125965,5,851.027105411864,+16046767632,False,$
+Domino's Pizza,Pizza,Pizza,,2.5,"6469 Oak Street, Vancouver",49.226951,-123.128784,23,435.78587538464376,+16042640300,False,$
+The Meat Up,"Chinese, Barbeque",Barbeque,Chinese,3.5,"7994 Granville St, Vancouver",49.213345,-123.1401331,59,1883.9646190249314,+16044289656,False,$$
+Kyuzo Japanese Restaurant,Japanese,,Japanese,3.0,"5701 Granville Street, Vancouver",49.2340910613824,-123.140119984746,25,1531.7369024819063,+16046209979,False,$$
+Ming Tak Hong Kong Style Restaurant,"Chinese, Hong Kong Style Cafe, Noodles",Hong Kong Style Cafe,Chinese,3.0,"8363 Granville St, Vancouver",49.21073,-123.14084,22,2135.1758268208564,+16042631388,False,$$
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",,2.5,"6471 Oak Street, Vancouver",49.2268178,-123.1285302,6,444.3060931514838,+16042661998,False,N/A
+Garden Cafe at VanDusen Garden,Cafes,Cafes,,3.0,"5151 Oak Street, Vancouver",49.2383826,-123.1281484,47,1511.2582125546,+16042674966,False,$$
+Tai Tung Chinese Seafood Restaurant,"Seafood, Dim Sum",Seafood,,2.5,"8012 Granville Street, Vancouver",49.21286,-123.13998,32,1927.6510151606822,+16042616328,False,$$
+Lucky Fortune Seafood Restaurant,"Dim Sum, Seafood, Hot Pot",Seafood,,4.0,"8012 Granville Street, Vancouver",49.2129008,-123.14019081475,2,1931.9060616803774,+16042616328,False,N/A
+The Yard Cafe,"Pubs, Sandwiches","Pubs, Sandwiches",,3.5,"8482 Granville Street, Vancouver",49.2094397,-123.1402684,30,2221.9097725186593,+16045691353,False,$$
+Mountaintop Beef House,"Chinese, Hot Pot",,Chinese,4.5,"8542 Granville street, Vancouver",49.2089831,-123.1402972,3,2270.1225530924003,+16045665805,False,N/A
+Tim Hortons,"Coffee & Tea, Fast Food, Bakeries","Coffee & Tea, Fast Food",,2.0,"6525 Oak St, Vancouver",49.2262993,-123.1287918,5,419.4241540307635,+16042611062,False,$
+JOY Cafe,Cafes,Cafes,,3.0,"525 SW Marine Dr, Vancouver",49.2098293,-123.1182943,32,1830.5798016119074,N/A,False,$$
+Grand Honour Restaurant,Chinese,,Chinese,2.5,"5701 Granville Street, Vancouver",49.23395,-123.14014,43,1531.7145431662238,+16042633983,False,$$
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",,2.0,"160 S.W. Marine Dr., Vancouver",49.2118,-123.10944,30,1869.7995247517779,+16047181043,False,$
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",,2.5,"10 S E Marine Dr, Vancouver",49.21189,-123.10616,34,1995.430501936793,+16043272912,False,$
+Chicko Chicken,"Fast Food, Korean, Chicken Shop",Fast Food,Korean,5.0,"8550 Granville Street, Vancouver",49.2089587,-123.1402994,7,2277.7555572088736,+16045662100,False,N/A
+Pearl House Restaurant,Taiwanese,,,4.0,"7994 Granville Street, Vancouver",49.21332820462317,-123.13993860036136,2,1883.9390693861312,+16046206699,False,N/A
+Tae’s Korean Cuisine,Korean,,Korean,4.5,"8636 Granville Street, Vancouver",49.20808947167019,-123.1400808,6,2360.267262764843,+16042630207,False,N/A
+Torafuku,"Asian Fusion, Japanese, Vietnamese",,"Asian Fusion, Japanese, Vietnamese",4.0,"958 Main Street, Vancouver",49.27589499983855,-123.09961118220762,216,267.64163507419863,+17789032006,False,$$
+Fat Mao,"Asian Fusion, Noodles, Thai",,"Asian Fusion, Thai",4.0,"217 E Georgia Street, Vancouver",49.27881,-123.09893,232,553.7855440844257,+16045698192,False,$$
+The Mackenzie Room,Canadian (New),,Canadian (New),4.5,"415 Powell Street, Vancouver",49.2832349,-123.0948578,188,1070.7579333204512,+16042530705,False,$$$$
+Oyster Express,"Seafood, Bars, Soul Food","Seafood, Bars",,4.5,"296 Keefer Street, Vancouver",49.2792784082144,-123.097397130932,166,604.9264672063586,+16046843300,False,$$
+Kissa Tanto,"Japanese, Italian",,"Japanese, Italian",4.0,"263 E Pender Street, Vancouver",49.2806,-123.09812,281,754.6537233615178,+17783798078,False,$$$$
+Cuchillo,"Latin American, Bars",Bars,Latin American,4.0,"261 Powell Street, Vancouver",49.283262611469,-123.098110155039,290,1048.034275875867,+16045597585,False,$$
+The Irish Heather Shebeen,"Irish, Gastropubs",Gastropubs,Irish,4.0,"248 E Georgia Street, Vancouver",49.27845932651142,-123.09813082383894,246,514.4933246354238,+16046889779,False,$$
+Ask For Luigi,Italian,,Italian,4.0,"305 Alexander Street, Vancouver",49.2844485,-123.0976786,500,1179.4489377469256,+16044282544,False,$$
+The Belgard Kitchen,"Tapas/Small Plates, Canadian (New)",,Canadian (New),4.0,"55 Dunlevy Avenue, Vancouver",49.2843189,-123.0953933,213,1176.8569668393534,+16046991989,False,$$
+Johnnie Fox's Irish Pub,"Irish, Pubs",Pubs,Irish,4.0,"1601 Main Street, Vancouver",49.27142,-123.10129,119,355.57170109899727,+12365200933,False,$$
+Gringo,"Mexican, Bars, Tex-Mex",Bars,Mexican,4.5,"27 Blood Alley Square, Vancouver",49.2831553214634,-123.105335897068,285,1174.934510631985,+16046730513,False,$
+Local Public Eatery,Gastropubs,Gastropubs,,4.0,"3 Alexander Street, Vancouver",49.2835742,-123.1039517,143,1181.1339807958384,+17787374277,False,$$
+Pizzeria Farina,"Pizza, Bars","Pizza, Bars",,4.0,"915 Main Street, Vancouver",49.27662275332361,-123.10011416319465,229,355.8883318829623,+16046819334,False,$$
+MILA Plant-Based,Vegan,,,4.5,"185 Keefer Street, Vancouver",49.27963,-123.10017,95,672.0270111161144,N/A,False,$$$
+Jules French Bistro,French,,French,4.0,"216 Abbott Street, Vancouver",49.28361,-123.10638,228,1241.2072466715993,+16046690033,False,$$
+Virtuous Pie,"Pizza, Vegan, Ice Cream & Frozen Yogurt",Pizza,,4.5,"583 Main Street, Vancouver",49.279716,-123.0999343,288,675.8768321555851,+16046200060,False,$$
+Meat & Bread,"Sandwiches, Soup, Salad",Sandwiches,,4.0,"370 Cambie Street, Vancouver",49.2826255017147,-123.109336831057,788,1291.6068052484263,N/A,False,$$
+Rodney's Oyster House,"Seafood, Cajun/Creole",Seafood,,4.0,"52 Powell Street, Vancouver",49.2831349,-123.1030172,256,1103.3589540773935,+16046852005,False,$$
+Rogue Kitchen & Wetbar,"American, Gastropubs",Gastropubs,American,3.5,"601 W Cordova Street, Vancouver",49.28534134027417,-123.11143693120827,397,16.35827255100355,+16046788000,False,$$
+Browns Crafthouse Seymour,"Beer Bar, Canadian (New)",Beer Bar,Canadian (New),4.0,"580 West Pender, Downtown Vancouver",49.2841724124811,-123.113347974687,47,202.3915786846977,+16042624020,False,$$
+Moose's Down Under,"Pubs, Australian, Comfort Food",Pubs,,4.0,"830 Pender Street W, Vancouver",49.285638,-123.11634,147,357.2662777415518,+16046833300,False,$$
+Black Frog Eatery,"Pubs, American",Pubs,American,4.0,"108 Cambie Street, Vancouver",49.284598,-123.108687,214,221.54018762966533,+16046020527,False,$$
+Water Street Cafe,"Italian, Seafood, Cocktail Bars","Seafood, Cocktail Bars",Italian,3.5,"300 Water Street, Vancouver",49.2842264,-123.1090181,317,226.5716311817658,+16046892832,False,$$
+Riley's Fish & Steak,"Seafood, Diners, Steakhouses","Seafood, Steakhouses",,4.0,"200 Burrard Street, Vancouver",49.287641996861865,-123.1151089,57,359.1148950219985,+16046298800,False,N/A
+Zaatar W Zeit,Lebanese,,,4.0,"531 Granville Street, Vancouver",49.2844377,-123.1154382,68,331.05178921785637,+16043369348,False,$$
+Kimu Japanese Cuisine,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"4441 Boundary Road, Vancouver",49.2452249,-123.0239939,146,1051.5437225911958,+16045630722,False,$$
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",,2.0,"5218 Joyce Street, Vancouver",49.2371631,-123.0327201,14,6.770444537852195,+16044357827,False,$
+Takara Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"3726 Canada Way, Burnaby",49.2545851,-123.0220016,88,2056.739366792845,+16044390026,False,$$
+Canffle,Waffles,,,4.0,"3581 Kingsway, Vancouver",49.2322894,-123.0268249,51,688.9518042568367,+16042258508,False,N/A
+Liberte Cafe and Restaurant,"Cafes, Waffles, Burgers","Cafes, Burgers",,3.5,"3670 Vanness Avenue, Vancouver",49.2347316,-123.0246198,60,658.8121866845224,+16045649126,False,$$
+Argo Greek Cuisine Pizza Pasta,"Pizza, Greek",Pizza,Greek,4.0,"3790 Canada Way, Burnaby",49.2544359,-123.0207087,94,2098.173644554714,+16044289090,False,$$
+Max's Restaurant,Filipino,,Filipino,2.5,"3546 Kingsway, Vancouver",49.232045,-123.027391,213,697.8276411657422,+16043300151,False,$$
+Agra Tandoori Restaurant,Indian,,Indian,4.0,"3790 Canada Way, Burnaby",49.25443,-123.02066,178,2118.4684935238774,+16044301600,False,$$
+Cantonese BBQ Seafood Restaurant,"Seafood, Cantonese, Barbeque","Seafood, Barbeque",,3.5,"3320 Kingsway, Vancouver",49.23335880288535,-123.03483197731552,16,461.39938210735494,+17787371700,False,N/A
+Super Great Pizza,Pizza,Pizza,,4.0,"3388 Vanness Avenue, Vancouver",49.2382781,-123.0323167,63,116.16719284278842,+16044330222,False,$
+Fortune Lamb Dining,Chinese,,Chinese,3.5,"3-3377 Kingsway, Vancouver",49.23304,-123.03294,18,469.5824488094499,+16044308818,False,N/A
+Sunflower Bubble Tea,"Taiwanese, Bubble Tea",,,3.0,"5125 Joyce Street, Vancouver",49.2380606,-123.0322633,59,94.51317481197573,+16049090669,False,$
+Trees Organic Coffee,"Cafes, Desserts, Coffee & Tea","Cafes, Desserts, Coffee & Tea",,3.5,"5078 Joyce Street, Vancouver",49.2385014,-123.031401,13,178.19681858494087,+16048954211,False,N/A
+Meet Fan,Asian Fusion,,Asian Fusion,4.5,"3608 Kingsway, Vancouver",49.232015,-123.0262567,11,749.186526453601,+16044331923,False,N/A
+Kumare Express,Filipino,,Filipino,3.5,"5183 Joyce St, Vancouver",49.2376696,-123.0326475,6,53.065819145981074,+16045646338,False,N/A
+Papa Johns Pizza,Pizza,Pizza,,4.0,"3320 Kingsway, Vancouver",49.23293,-123.03495,19,511.1668528120872,+16044371717,False,$$
+Blackball Taiwanese Dessert,Taiwanese,,,4.0,"3377 Kingsway, Vancouver",49.23304,-123.03294,25,469.5824488094499,+16046205550,False,N/A
+Bubble World,"Bubble Tea, Taiwanese, Chinese",,Chinese,3.5,"3377 Kingsway, Vancouver",49.2330548743708,-123.032893891828,37,468.97199004680783,+16044517658,False,$
+Yo-Bones BBQ Catering,"Barbeque, Food Trucks, Caterers",Barbeque,,4.0,"3475 Kingsway, Vancouver",49.2321347,-123.030001,19,585.9184367771995,+17788822376,False,N/A
+Gold Train Express,"Vietnamese, Asian Fusion",,"Vietnamese, Asian Fusion",2.5,"3320 Kingsway, Vancouver",49.23293,-123.03495,114,467.61918997035895,+16044337577,False,$
+852 Kitchen,"Food Delivery Services, Dim Sum, Cantonese",,,4.5,"4963 Joyce Street, Vancouver",49.2396,-123.03102,3,288.62398883386646,+16049991199,False,N/A
+Freshslice Pizza,Pizza,Pizza,,2.5,"5128 Joyce St, Vancouver",49.2378238,-123.0320466,14,87.02792962955681,+16045684003,False,$
+Happy Tree House BBQ,"Barbeque, Chinese",Barbeque,Chinese,3.0,"3542 Kingsway, Vancouver",49.2318847088217,-123.028958193697,94,658.0323524822404,+17783839575,False,$$
+Milk & Sugar BBQ Bar,Cafes,Cafes,,3.5,"5103 Joyce Street, Vancouver",49.2382463072985,-123.032146990299,28,115.99370101073129,+16044318544,False,N/A
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",,3.0,"5522 Joyce Street, Vancouver",49.2335325,-123.0363477,27,486.5124705390411,+16044363030,False,N/A
+Sal y Limón,Mexican,,Mexican,4.0,"701 Kingsway Street, Vancouver",49.2569043786921,-123.08924632997,652,557.4399719393778,+16046774247,False,$$
+Pizzeria Barbarella,"Pizza, Italian",Pizza,Italian,4.0,"654 E Broadway, Vancouver",49.262323801504,-123.08982824163,202,1161.407327661431,+16042106111,False,$$
+Good Sushi,Japanese,,Japanese,3.5,"3916 Fraser Street, Vancouver",49.24991,-123.0899063,58,231.75872871850322,+16048733638,False,$$
+Penang Bistro,Malaysian,,Malaysian,3.0,"3932 Fraser Street, Vancouver",49.2497658,-123.0900825,77,251.09145326888202,+16045598983,False,$$
+Bells and Whistles,"Burgers, Breweries",Burgers,,3.0,"3296 Fraser Street, Vancouver",49.2556805042778,-123.089684071771,124,424.4089339815102,+16046207990,False,$$
+49th Parallel Coffee,"Cafes, Coffee & Tea, Donuts","Cafes, Coffee & Tea",,4.0,"2902 Main Street, Vancouver",49.2591330651218,-123.10088478104,503,1183.301339206423,+16048724901,False,$
+The Cascade Room,"Pubs, Canadian (New), Cocktail Bars","Pubs, Cocktail Bars",Canadian (New),4.0,"2616 Main Street, Vancouver",49.2617,-123.10062,232,1390.557839091931,+16047098650,False,$$
+Los Cuervos Taqueria Y Cantina,"Mexican, Latin American",,"Mexican, Latin American",4.0,"603 Kingsway, Vancouver",49.2574755005862,-123.091043941677,184,639.1300304330276,+16045581518,False,$$
+BAMBU,"Juice Bars & Smoothies, Bubble Tea, Vietnamese",Juice Bars & Smoothies,Vietnamese,4.0,"1090 Kingsway, Vancouver",49.2529616,-123.0821567,62,500.74837411747495,+16043369009,False,$$
+Sprezzatura,"Pizza, Italian, Salad",Pizza,Italian,4.0,"265 Kingsway, Vancouver",49.2613547,-123.0978287,57,1216.995713899154,+16048766333,False,N/A
+Matchstick Coffee,Cafes,Cafes,,4.0,"639 E 15th Avenue, Vancouver",49.257302653286,-123.090361582581,210,610.1450429254974,+16045580639,False,$
+Van 168 Coffee,Vietnamese,,Vietnamese,4.0,"888 Kingsway, Vancouver",49.25471,-123.08628,15,381.2942848850133,+16044286968,False,N/A
+Rice Burger,"Burgers, Japanese, Asian Fusion",Burgers,"Japanese, Asian Fusion",4.5,"2630 Sasamat Street, Vancouver",49.2635568,-123.2089751,84,654.4622000434489,+16047169686,False,$$
+Burgoo Bistro,"Comfort Food, Bistros",,,4.0,"4434 10th Avenue W, Vancouver",49.2635099,-123.20713,133,580.8819097830645,+16042217839,False,$$
+Rajio Japanese Public House,"Japanese, Tapas/Small Plates",,Japanese,4.0,"3763 W 10th Avenue, Vancouver",49.2636549,-123.1870301,129,1356.3023502244362,+16045581679,False,$$
+Bombay Masala Indian Restaurant,Indian,,Indian,4.5,"4473 West 10th Avenue, Vancouver",49.26407,-123.20835,21,576.9029971559036,+16042241111,False,N/A
+The PokéMan,"Poke, Japanese",,Japanese,4.5,"3742 10th Avenue W, Vancouver",49.263233674428754,-123.18671230226757,85,1402.131933231276,+16044287653,False,$$
+DICED Discovery Cafe,"Breakfast & Brunch, Diners, Burgers",Burgers,,4.0,"1515 Discovery Street, Vancouver",49.272993,-123.203265,19,504.0380088107221,+17788966727,False,$
+Ginger & Chili Restaurant,Chinese,,Chinese,3.0,"4409 10th Avenue W, Vancouver",49.2639293,-123.2064836,46,523.7394728958495,+16042222223,False,$
+Mix the Bakery,"Bakeries, Sandwiches",Sandwiches,,3.5,"4430 10th Avenue W, Vancouver",49.263668,-123.2069343,48,567.0522768584917,+16042214145,False,$$
+Four Olives,Mediterranean,,Mediterranean,4.0,"4510 West 10th Avenue, Vancouver",49.2637239358184,-123.209597314524,26,653.7080028921845,+16042217777,False,N/A
+Takumi Japanese Restaurant,Japanese,,Japanese,3.5,"4422 W 10th Avenue, Vancouver",49.2637932,-123.2067658,31,550.6216278141633,+16047300330,False,$$
+Sun Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"4512 W 10th Ave, Vancouver",49.2637184,-123.2095553,80,662.0222092836165,+16042228868,False,$
+The Kitchen,Korean,,Korean,3.5,"2620 Sasamat Street, Vancouver",49.26351040917396,-123.2089765,37,648.3080552366337,+16042615353,False,$$
+The Galley Patio & Grill,American,,American,3.5,"1300 Discovery Street, Vancouver",49.2756627698945,-123.201565758073,43,823.4252406526175,+16042221331,False,$$
+Bella Roma Pizzeria & Ristorante,"Italian, Pizza",Pizza,Italian,3.5,"4460 West 10th Avenue, Vancouver",49.2636894,-123.208103,55,606.5685088594505,+16042228080,False,$$
+Koi Sushi,Sushi Bars,Sushi Bars,,4.0,"4532 W 10th Avenue, Vancouver",49.263724,-123.2100351,22,685.846779604413,+16046201031,False,N/A
+Milano Casa Ristorante,Italian,,Italian,3.0,"4397 West 10th Avenue, Vancouver",49.26392,-123.20583,8,522.1330245043594,+16046201177,False,N/A
+Gold Train Express,Vietnamese,,Vietnamese,3.5,"4530 10th Ave W, Vancouver",49.26355,-123.21015,42,684.6463324181427,+16046776981,False,$
+Everyday Sushi,Sushi Bars,Sushi Bars,,3.0,"4572W 10 Avenue W, Vancouver",49.2637446,-123.2111529,29,679.1044747666484,+16042289266,False,$
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",,3.5,"4367 W 10th Avenue, Vancouver",49.2639046,-123.204938,3,510.5060268711936,+16042223528,False,N/A
+Kuroishi Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"4532 W 10th Avenue, Vancouver",49.263724,-123.2099608,5,685.846779604413,+16046201031,False,N/A
+Danoo Cafe,"Breakfast & Brunch, Cafes",Cafes,,3.5,"4462 10th Avenue W, Vancouver",49.2636908,-123.2081455,8,606.9355406587073,+16043366399,False,N/A
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",,5.0,"4426 10th Avenue W, Vancouver",49.2636651,-123.2068209,1,575.0304115601089,+16047332118,False,N/A
+Little Umbrella,Cafes,Cafes,,5.0,"4372 W 10th Avenue, Vancouver",49.263556,-123.205023,1,538.6825193547218,+17784525831,False,N/A
+Hime Sushi,"Sushi Bars, Japanese, Asian Fusion",Sushi Bars,"Japanese, Asian Fusion",3.5,"4490 10th Avenue W, Vancouver",49.263686113396965,-123.208734,2,622.4613062540086,+16042242121,False,N/A
+Sushi Inn,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"3772 West 10th Avenue, Vancouver",49.26343,-123.18728,19,1363.837496980179,+16047393818,False,$$
+A&W,Fast Food,Fast Food,,3.5,"200-2083 Alma Street, Vancouver",49.2681954015437,-123.186364065082,11,1300.901868675241,+16045642083,False,$
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",,2.0,"4540 West 10th Avenue, Vancouver",49.2637357,-123.2105711,10,696.9972020648063,+16042214267,False,N/A
+Sasamat Seafood Market,"Seafood Markets, Japanese",Seafood Markets,Japanese,3.0,"4513 10th Ave W, Vancouver",49.2639884,-123.209566,5,619.2503747070629,+16042244640,False,$
+Maeda Kanazawa Sashimi Bowl,Japanese,,Japanese,4.0,"3763 W 10th Avenue, Vancouver",49.2636549,-123.1870301,2,1356.3023502244362,+16045581679,False,N/A
+Karaage Chicken Tokyo,"Japanese, Burgers",Burgers,Japanese,3.5,"3763 W 10th Avenue, Vancouver",49.2636549,-123.1870301,3,1356.3023502244362,+16045581679,False,N/A
+Pink Elephant Cafe,"Coffee & Tea, Thai, Noodles",Coffee & Tea,Thai,4.5,"5601 Dunbar Street, Vancouver",49.2355585,-123.1854849,5,297.545250930425,+16045663533,False,N/A
+Urban Thai Bistro,"Thai, Wine Bars",Wine Bars,Thai,3.5,"5607 Dunbar Street, Vancouver",49.2355556,-123.1854849,12,294.43208923195914,+16045663903,False,N/A
+Red Tuna,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"3592 W 41st Avenue, Vancouver",49.2346344,-123.1844711,27,428.13840642277114,+16042667355,False,$$
+Crepe & Cafe,"French, Creperies",,French,3.5,"3500 W 41st Avenue, Vancouver",49.2345954626451,-123.182240724564,40,564.4947229106967,+16045669787,False,$$
+9 Private Dining,"Personal Chefs, Cooking Classes, Pop-Up Restaurants",,,5.0,"3539 West 37th Avenue, Vancouver",49.23884,-123.18339,2,452.9867358301364,+16043395812,False,N/A
+Moon Sushi Japanese Restaurant,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"4385 Dunbar Street, Vancouver",49.24730270406716,-123.18560861296878,11,1161.934228488876,+16042217874,False,$$
+Bells and Whistles,"Burgers, Brewpubs","Burgers, Brewpubs",,3.0,"4497 Dunbar St, Vancouver",49.24616929633417,-123.1856117550114,9,1039.0767198111569,+16045584770,False,N/A
+Cosy Inn Cafe,Breakfast & Brunch,,,3.0,"4455 Dunbar St, Vancouver",49.24644,-123.18568,12,1086.300301173651,+16042243133,False,$$
+Wild Sushi,Sushi Bars,Sushi Bars,,3.5,"4288 Dunbar St, Vancouver",49.24824,-123.18486,23,1280.9606169623999,+16045689668,False,$$
+Domino's Pizza,Pizza,Pizza,,2.0,"4298 Dunbar Street, Vancouver",49.2482003,-123.1850851,14,1268.332030279281,+16047330188,False,$$
+Cheaty Food Bar,"Bubble Tea, Soup, Sandwiches",Sandwiches,,4.0,"4495 Dunbar Street, Vancouver",49.24636597383935,-123.1855645,3,1061.1368260778552,+16044234495,False,N/A
+Sushi Bar Ajisai,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"2081 West 42nd Avenue, Vancouver",49.2338978,-123.1540943,413,1174.321376770355,+16042661428,False,$$
+Okini Restaurant & Bar,"Japanese, Wine Bars, Cocktail Bars","Wine Bars, Cocktail Bars",Japanese,4.5,"1864 W 57th Avenue, Vancouver",49.21921,-123.1494,63,882.1748032471553,+16042630155,False,$$$
+Nana's Green Tea,"Desserts, Japanese, Cafes","Desserts, Cafes",Japanese,4.0,"2135 W 41st Avenue, Vancouver",49.23485,-123.15657,177,1233.0514026395579,+16042635054,False,$$
+41 Noodle & Rice Pot House,"Chinese, Noodles",,Chinese,4.0,"2279 West 41st Avenue, Vancouver",49.2348,-123.15925,47,1216.2190530587704,+17783712376,False,$$
+ZUBU,Ramen,,,4.0,"2129 West 41st Avenue, Vancouver",49.234701,-123.156413,51,1221.1559928555566,+17783798889,False,N/A
+Southern Delicacy,"Chinese, Seafood, Noodles",Seafood,Chinese,4.0,"6055 West Blvd, Vancouver",49.2313500408588,-123.155936636031,18,864.2896141911126,+16045593939,False,N/A
+Bufala,"Pizza, Italian",Pizza,Italian,3.5,"5395 West Blvd, Vancouver",49.2374125128053,-123.155639817237,150,1527.788986613449,+16042677499,False,$$
+Honolulu Coffee,"Cafes, Bakeries",Cafes,,4.0,"2098 W 41 Avenue, Vancouver",49.2344086532541,-123.154816643939,72,1213.799167668586,+16046202168,False,$$
+Jess' Restaurant,"Asian Fusion, French",,"Asian Fusion, French",4.0,"2179 W 41st Ave, Vancouver",49.23469310222751,-123.15724723041058,35,1211.9289252470644,+16042690103,False,$$$
+Faubourg,"Bakeries, Patisserie/Cake Shop, Cafes",Cafes,,3.5,"2156 W 41st Avenue, Vancouver",49.2344771,-123.1574179,186,1186.6979600621012,+16042662156,False,$$
+Sip Bowl La Mian,"Chinese, Noodles",,Chinese,3.5,"2255 W 41 Ave, Vancouver",49.2347871,-123.1588421,91,1216.8639616061957,+17787373999,False,$$
+Secret Garden Tea,"Tea Rooms, Breakfast & Brunch",,,3.5,"2138 W 40th Avenue, Vancouver",49.2354074,-123.1565064,110,1306.748799964291,+16042613070,False,$$
+Minerva Restaurant,"Pizza, Barbeque","Pizza, Barbeque",,3.5,"2411 W 41st Avenue, Vancouver",49.2346862,-123.1615423,109,1215.8920975882204,+16042631774,False,$$
+Golden Ocean Seafood Restaurant,"Seafood, Dim Sum",Seafood,,3.5,"2046 W 41st Avenue, Vancouver",49.2343601354469,-123.153391312863,100,1239.5187046616004,+16042638886,False,$$
+China Lan Lanzhou Beef Noodle,"Noodles, Ramen",,,4.0,"5555 W Boulevard, Vancouver",49.2359557748092,-123.15564021118,45,1368.3273211633243,+16045599488,False,$$
+Baan Wasana Thai Restaurant,Thai,,Thai,3.5,"2143 41st Avenue, Vancouver",49.23485,-123.15675,70,1220.203686616822,+17783718971,False,$$
+Me + Crepe,"Chinese, Creperies",,Chinese,4.0,"5971 West Boulevard, Vancouver",49.2321356,-123.1558793,16,950.3769997496594,+16042639596,False,N/A
+Fish Café,"Seafood, Fish & Chips, Canadian (New)",Seafood,Canadian (New),3.5,"2053 41st Avenue W, Vancouver",49.23481,-123.15367,61,1272.5005115214772,+16042673474,False,$$
+Barra 41,"Mediterranean, Cocktail Bars, Salad",Cocktail Bars,Mediterranean,4.0,"2407 West 41st Avenue, Vancouver",49.23482,-123.16161,23,1224.1765866588644,+16042631774,False,$$
+Jiu Jiang Japanese Restaurant,"Japanese, Salad, Hot Pot",,Japanese,3.5,"5707 Balsam Street, Vancouver",49.2344941011745,-123.161394931376,26,1193.2419233258377,+17783798858,False,$$
+BBT Cafe,Taiwanese,,,3.0,"5979 W Boulevard, Vancouver",49.2310505335525,-123.155708312988,60,837.052288586325,+16042662195,False,$$
+Kokoro Tokyo Mazesoba,Japanese,,Japanese,4.0,"2285 W 41st Avenue, Vancouver",49.2347918,-123.1593201,25,1216.064738459539,+16045598872,False,N/A
+Moore's Bakery & Delicatessen,"Bakeries, Delis",,,4.0,"2128 41st Avenue W, Vancouver",49.2344793,-123.1567192,23,1194.4453192355816,+16042612922,False,$
+La Cuisson Cafe,"Cafes, Coffee Roasteries, Soup","Cafes, Coffee Roasteries",,3.5,"2050 W 41st Avenue, Vancouver",49.2344325,-123.1535583,46,1224.375516010995,+16045582589,False,$$
+Asa Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.0,"2178 W 41st Avenue, Vancouver",49.2345051,-123.1579902,125,1181.2394416334776,+16042670077,False,$$
+Chef Hung Taiwanese Beef Noodle,"Chinese, Noodles, Taiwanese",,Chinese,3.0,"2028 W 41st Avenue, Vancouver",49.2342299,-123.15298,48,1255.8997893181188,+17783798865,False,$$
+Khao Thai By Legato,Thai,,Thai,4.0,"2248 W 41st Avenue, Vancouver",49.23452,-123.1591192,25,1181.533193928353,+16042641666,False,N/A
+Irashai Sushi,Japanese,,Japanese,3.0,"2260 41st Avenue W, Vancouver",49.2345214,-123.1592684,49,1181.1690714330855,+16042669332,False,$$
+Sushi time,Japanese,,Japanese,4.0,"5351 West Blvd, Vancouver",49.2375898,-123.1556953,11,1569.933941835883,+16042647555,False,N/A
+Nando's Peri-Peri,"Barbeque, Portuguese, African",Barbeque,African,3.0,"2064 W 41st Ave, Vancouver",49.23424,-123.15406,61,1211.6671488333511,+16042664485,False,$$
+Baoguette Vietnamese Bistro,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,3.0,"2114 West 41st Avenue, Vancouver",49.2344772440628,-123.156188763678,73,1199.4155752873062,+17783791494,False,$$
+Chi Noodle Bar,"Noodles, Chinese",,Chinese,3.5,"6019 West Boulevard, Vancouver",49.2316639455395,-123.155790996545,31,900.7528594917471,+16044288631,False,N/A
+Burrata Pizzeria,Pizza,Pizza,,4.0,"2104 W 41st Avenue, Vancouver",49.2344751,-123.1558066,21,1197.4536284187582,+16049018888,False,N/A
+Vegan Shoku Japanese Restaurant,"Japanese, Vegan, Sushi Bars",Sushi Bars,Japanese,4.5,"2260 W 41st Avenue, Vancouver",49.23453,-123.15929,8,1181.451696782309,+16045666556,False,N/A
+Orange Corner,"Creperies, Taiwanese",,,2.5,"2257 41st Avenue W, Vancouver",49.2347874,-123.158874,60,1214.119382129234,+16042667388,False,$
+Legato Tea and Coffee,Cafes,Cafes,,4.5,"2299 W 41st Avenue, Vancouver",49.234794,-123.1595431,15,1213.1350478024542,N/A,False,$$
+Lok's Chinese Restaurant,Chinese,,Chinese,3.0,"2436 W 41St Ave, Vancouver",49.2345523,-123.1618103,37,1196.473482589689,+16042660788,False,$$
+Kerrisdale Nakamura,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"2055 W 41st Avenue, Vancouver",49.2347012,-123.1535214,37,1271.7477042344663,+16042664200,False,$$
+White Spot Kerrisdale,American,,American,2.5,"5367 West Boulevard, Vancouver",49.2376472,-123.155693,52,1555.971887326618,+16042661288,False,$$
+Shota Sushi and Grill,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"5688 Yew St, Vancouver",49.2348614,-123.1574698,6,1231.2723631945887,+16042638068,False,N/A
+Gram Cafe & Pancakes,"Cafes, Pancakes, Desserts","Cafes, Desserts",,4.0,"2145 West 41st Avenue, Vancouver",49.234727,-123.156726,8,1220.5359188854839,N/A,False,N/A
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",,1.5,"2095 West 41st Ave, Vancouver",49.2347541453583,-123.154747584601,52,1252.2155086363277,+16047181055,False,$
+Donair Dude,"Mediterranean, Donairs, Middle Eastern",,"Mediterranean, Middle Eastern",4.5,"2175 West 41St Avenue, Vancouver",49.23471849724369,-123.15718855708838,3,1215.2243307019855,+16042630356,False,N/A
+Sandeul,Korean,,Korean,3.5,"6019 West Blvd, Vancouver",49.23163646203047,-123.1558566,3,896.5315626468638,+16044283388,False,N/A
+DQ. OrangeJulius,"Ice Cream & Frozen Yogurt, Fast Food, Burgers","Fast Food, Burgers",,3.0,"2293 41st Avenue W, Vancouver",49.23488,-123.15945,10,1221.0382310371178,+16045688095,False,$$
+Tim Hortons,"Coffee & Tea, Fast Food","Coffee & Tea, Fast Food",,2.5,"2225 W 41st Avenue, Vancouver",49.234806,-123.158249,22,1212.808912269906,+16042648333,False,$
+Neptune Eats,"Dim Sum, Noodles, Breakfast & Brunch",,,2.5,"2106 W 41st Avenue, Vancouver",49.2344108,-123.1561078,6,1193.2185104580035,+16045591108,False,N/A
+New Chongqing Restaurant,Chinese,,Chinese,3.0,"2044 W 41st Ave, Vancouver",49.2344278,-123.1534321,17,1245.3150590855132,+16042669988,False,$$
+Choices Markets,"Grocery, Bakeries, Delis",,,3.0,"1888 W 57th Avenue, Vancouver",49.219271,-123.1497151,13,854.137123089714,+16042634600,False,$$$
+Grandmama's Cafe,"Cafes, Waffles",Cafes,,3.5,"5687 Balsam Street, Vancouver",49.23504,-123.16162,8,1255.5265028742488,+16042611800,False,N/A
+La Buca Restaurant,Italian,,Italian,4.0,"4025 MacDonald Street, Vancouver",49.250648,-123.168016,62,529.6630599251283,+16047306988,False,$$$
+The Patty Shop,Caribbean,,Caribbean,4.5,"4019 MacDonald Street, Vancouver",49.250721434013,-123.167994263811,106,536.796632421634,+16047382144,False,$
+Butter Baked Goods & Cafe,"Cafes, Coffee & Tea, Bakeries","Cafes, Coffee & Tea",,3.5,"4907 Mackenzie Street, Vancouver",49.24215,-123.17036,97,571.2279597978052,+16042214333,False,$$
+Neverland Tea Salon,"Coffee & Tea, Tea Rooms, Breakfast & Brunch",Coffee & Tea,,4.0,"3066 W Broadway, Vancouver",49.2640001,-123.1733634,244,2062.359769432083,+16044283066,False,$$$
+Mr. Red Cafe,Vietnamese,,Vietnamese,4.0,"2680 W Broadway, Vancouver",49.2640755304294,-123.165913715756,118,1990.3019844759285,+16045596878,False,$$
+Yuwa Japanese Cuisine,Japanese,,Japanese,4.0,"2775 W 16th Ave, Vancouver",49.2578849,-123.168008,42,1324.180707251142,+16047319378,False,$$$
+Moki's Pizza,Pizza,Pizza,,4.0,"4027 Macdonald Street, Vancouver",49.2506548,-123.1679549,30,524.7288797114313,+16042634440,False,$$
+Haidilao - Vancouver,"Hot Pot, Chinese",,Chinese,4.0,"3204 W Broadway, Vancouver",49.26395,-123.17622,49,2129.219570097839,+16043362588,False,N/A
+Ridge Garden Restaurant,Chinese,,Chinese,3.5,"4009 Macdonald Street, Vancouver",49.2509887,-123.1678406,18,561.3674249560964,+16047365231,False,N/A
+Nostos Taverna,"Greek, Wine Bars",Wine Bars,Greek,4.5,"3162 W Broadway, Vancouver",49.2640613,-123.1751526,15,2107.9603086012316,+16047309303,False,N/A
+Fiore Famiglia,Italian,,Italian,3.5,"2603 - 16th Avenue W, Vancouver",49.2578174,-123.1650765,49,1295.740277912105,+16045582603,False,N/A
+Tandoori Fusion,Indian,,Indian,4.0,"2872 W Broadway, Vancouver",49.2639679,-123.1695571,125,1999.9694032853376,+16047382824,False,$$
+Nuba in Kitsilano,"Mediterranean, Lebanese",,Mediterranean,3.5,"3116 West Broadway, Vancouver",49.2642141,-123.1742235,164,2103.190806139418,+16043361797,False,$$
+Yagoto Sushi Dining,"Sushi Bars, Japanese, Seafood","Sushi Bars, Seafood",Japanese,4.5,"2180 W Broadway, Vancouver",49.263793589572,-123.154220015935,78,2122.721015219682,+16045590022,False,$$
+Folke Restaurant,"Vegan, Wine Bars, Cocktail Bars","Wine Bars, Cocktail Bars",,4.5,"2585 W Broadway, Vancouver",49.2641529,-123.1643358,12,2004.2339281026696,+18773521835,False,N/A
+Bigsby the Bakehouse,"Comfort Food, Bakeries",,,4.0,"4894 Mackenzie Street, Vancouver",49.2425994873047,-123.170082092285,29,518.984247043696,+16042672253,False,$$
+Edible Flours,"Bakeries, Vegan",,,4.0,"2280 W Broadway, Vancouver",49.2637482974399,-123.156828558096,83,2052.389113974373,+16047348351,False,$
+Petite Bao,"Burgers, Sandwiches","Burgers, Sandwiches",,5.0,"2825 West Broadway, Vancouver",49.264246943743714,-123.1690986,12,2026.097516990695,+16048000080,False,N/A
+Pete's Meat Butcher Shop & Deli,"Butcher, Delis, Grocery",,,4.0,"2817 Arbutus Street, Vancouver",49.260860269876,-123.153275036231,40,1857.8360504044638,+16047301661,False,$$
+Mamalee Malaysian Delight,"Singaporean, Malaysian",,Malaysian,3.5,"3144 W Broadway, Vancouver",49.2640629,-123.1753687,172,2097.518871252486,+16047338882,False,$$
+White Spot,"Breakfast & Brunch, Burgers, Canadian (New)",Burgers,Canadian (New),3.5,"2518 Broadway W, Vancouver",49.2638179420072,-123.163287331925,70,1967.946803971887,+16047312434,False,$$
+La Casita,Mexican,,Mexican,3.0,"101 W Cordova Street, Vancouver",49.2830484880298,-123.1069048188,283,52.847636404437985,+16046462444,False,$$
+Thierry,"Patisserie/Cake Shop, Cafes, Chocolatiers & Shops",Cafes,,4.0,"1059 Alberni Street, Vancouver",49.2848818,-123.1228949,954,1165.9275021453252,+16046086870,False,$$
+Kozak Ukraïnian Restaurant,Ukrainian,,,4.5,"1 West Cordova Street, Vancouver",49.28270380943574,-123.1046559827506,41,175.9624957842271,+17789559135,False,$$
+Sai Woo,Asian Fusion,,Asian Fusion,3.5,"158 East Pender Street, Vancouver",49.28015,-123.10099,170,63.82260235334947,+16045681117,False,$$
+New Town Bakery & Restaurant,"Bakeries, Dim Sum",,,3.5,"148 Pender Street E, Vancouver",49.280153,-123.101201,395,57.45207572489049,+16046811828,False,$
+Dalina,"Grocery, Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",,4.5,"687 Main Street, Vancouver",49.27871720471554,-123.1000357527092,81,177.47370177946325,+16044284364,False,$$
+Finch's Tea & Coffee House,"Coffee & Tea, Sandwiches, Breakfast & Brunch","Coffee & Tea, Sandwiches",,4.5,"353 W Pender Street, Vancouver",49.2825732,-123.1113434,416,792.9557698815195,+16048994040,False,$$
+"Juke Fried Chicken, Ribs and Cocktail Bar","American, Cocktail Bars",Cocktail Bars,American,3.0,"182 Keefer Street, Vancouver",49.2793701,-123.1008339,321,118.58210025806348,+16043365853,False,$$
+Western Lake Chinese Seafood Restaurant,"Dim Sum, Seafood, Cantonese",Seafood,,4.0,"4989 Victoria Drive, Vancouver",49.23937,-123.06577,457,995.7787227230614,+16043216862,False,$$
+The Tipper Restaurant,"Burgers, Canadian (New), Breakfast & Brunch",Burgers,Canadian (New),4.0,"2066 Kingsway, Vancouver",49.244523,-123.0641399,123,582.4068067666146,+16048731010,False,$$
+Bun Cha Ca Hoang Yen,"Vietnamese, Noodles",,Vietnamese,4.0,"5155 Victoria Drive, Vancouver",49.23787,-123.0658,272,1141.4021976134916,+16043212711,False,$$
+White Spot Kingsway,American,,American,3.5,"1476 Kingsway, Vancouver",49.249119,-123.0739349,73,277.67881486019223,+16048742825,False,$$
+My Chau Restaurant,Vietnamese,,Vietnamese,4.0,"1715 Kingsway, Vancouver",49.2473338,-123.0694909,84,121.35475362577074,+16048746880,False,$
+Kozak Ukrainian Eatery,"Ukrainian, Bakeries",,,4.0,"5077 Victoria Drive, Vancouver",49.2386766763128,-123.065662197769,56,1061.9816827352354,+16044284421,False,N/A
+Viet Mama Cafe,"Vietnamese, Noodles",,Vietnamese,4.0,"5118 Victoria Drive, Vancouver",49.2379348,-123.0652077,64,1147.9689979230702,+17789889257,False,N/A
+Hai Phong Vietnamese Restaurant,"Vietnamese, Noodles",,Vietnamese,3.5,"1242 Kingsway, Vancouver",49.2515024,-123.0790014,158,708.9095617979631,+16048723828,False,$
+Roots Café,"Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",,4.0,"6502 Main Street, Vancouver",49.2255192,-123.1015051,102,26.341598392470587,+16045688303,False,$$
+Yu Xiang Yuan,Chinese,,Chinese,4.0,"6591 Fraser Street, Vancouver",49.2246171,-123.0907992,94,797.32075905342,+16046201856,False,$$
+All India Sweets & Restaurant,Indian,,Indian,3.0,"6560 Main Street, Vancouver",49.225127,-123.101472,140,63.3205137122722,+16043270891,False,$$
+Broyé Cafe & Bakery,"Bakeries, Themed Cafes, Vietnamese",Themed Cafes,Vietnamese,4.0,"6414 Fraser Street, Vancouver",49.22632,-123.09036,25,819.8066036826242,+16045583233,False,N/A
+Pho Hong On Fraser,"Vietnamese, Wine Bars, Beer Bar","Wine Bars, Beer Bar",Vietnamese,4.0,"6348 Fraser Street, Vancouver",49.22686,-123.09031,83,820.1195941921588,+16043276348,False,$
+Van Tea Cafe,"Cafes, Seafood, Noodles","Cafes, Seafood",,3.5,"5688 Main Street, Vancouver",49.233265,-123.1013951,55,847.1244629365675,+16045659983,False,$$
+Pinpin Restaurant,"Filipino, Chinese, Soup",,"Filipino, Chinese",3.5,"6113 Fraser Street, Vancouver",49.22895,-123.09107,126,859.9412605548805,+16043223086,False,$$
+So Hyang Korean Cuisine,Korean,,Korean,4.0,"6345 Fraser Street, Vancouver",49.2271233,-123.0909348,322,792.9868169782875,+16047290702,False,$$
+Tandoori Oven,"Indian, Halal, Pakistani",,Indian,4.0,"6452 Main Street, Vancouver",49.2261202,-123.1013999,65,57.24213280632284,+16045653355,False,$
+Deer Garden Signatures,"Chinese, Soup",,Chinese,3.5,"6270 Fraser Street, Vancouver",49.2276101985357,-123.090539379109,162,835.238035581221,+16043226116,False,$
+The Story Cafe,"Bars, Pizza, Italian","Bars, Pizza",Italian,4.0,"2800 Sexsmith Road, Richmond",49.193649,-123.1279051,167,4047.6004013555726,+16046978679,False,$$
+The Northern Cafe and Grill,"Cafes, Asian Fusion, Sandwiches","Cafes, Sandwiches",Asian Fusion,4.5,"1640 East Kent Avenue, Vancouver",49.208549754278906,-123.0724741261907,243,2849.9662368506843,+16043138118,False,$$
+Hai Chi Em Modern Vietnamese Restaurant ,Vietnamese,,Vietnamese,4.0,"6181 Fraser Street, Vancouver",49.2285,-123.0909,23,844.1889330834276,+16043010281,False,$$
+Cafe de l'Orangerie,"Japanese, Desserts",Desserts,Japanese,4.0,"1320 W 73rd Avenue, Vancouver",49.2042129,-123.135365,293,3419.7334710441255,+16042660066,False,$$
+Ho Yuen Kee,"Chinese, Seafood",Seafood,Chinese,3.5,"6236 Fraser Street, Vancouver",49.2279399,-123.09029,212,856.6354364617725,+16043248855,False,$$
+Shoom Restaurant,Chinese,,Chinese,3.0,"6555 Fraser Street, Vancouver",49.2248306,-123.0911713,109,770.7094409734956,+16045687797,False,$$
+Duffin's Donuts,"Donuts, Burgers, Sandwiches","Burgers, Sandwiches",,4.0,"1391 41st Avenue E, Vancouver",49.2328686,-123.0775745,295,1922.5503872471693,+16043255544,False,$
+Dewan-E-Khass,"Indian, Halal, Pakistani",,Indian,4.0,"5750 Fraser Street, Vancouver",49.232344,-123.0904793,83,1098.7373195397954,+16043274800,False,$$
+Chewie's Chicken & Biscuits,"Sandwiches, Chicken Shop, Breakfast & Brunch",Sandwiches,,4.5,"2822 West 4th Avenue, Vancouver",49.26809,-123.1688,147,2349.9267036352844,+16043369996,False,$$
+La Quercia,"Italian, Wine Bars",Wine Bars,Italian,4.0,"3689 W 4th Avenue, Vancouver",49.2687649,-123.1853601,202,2090.6943827747527,+16046761007,False,$$$
+East Is East,"Middle Eastern, Indian, Afghan",,"Middle Eastern, Indian",4.0,"3035 west Broadway, Vancouver",49.26430118353472,-123.1726934,299,1835.6023178246173,+16047345881,False,$$
+La Notte Restaurant,Italian,,Italian,4.0,"3307 Dunbar St, Vancouver",49.2571826,-123.1852849,56,809.079978338856,+16042224033,False,$$
+Café Portrait,"Cafes, Breakfast & Brunch, Coffee Roasteries","Cafes, Coffee Roasteries",,4.5,"1120 Denman Street, Vancouver",49.2881056129168,-123.140413686633,51,5343.81361000626,+16049156993,False,N/A
+Arike Restaurant,"African, Cocktail Bars, Canadian (New)",Cocktail Bars,"African, Canadian (New)",5.0,"1725 Davie St, Vancouver",49.2868046,-123.1408561,25,5211.11050017297,+16043369774,False,N/A
+Sahel Market & Restaurant,"Persian/Iranian, Greek",,"Persian/Iranian, Greek",4.5,"3207 West  Broadway, Vancouver",49.2643454,-123.176155,48,1726.3037345822413,+16044234117,False,$
+The Kitchen Dada,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"2535 Alma Street, Vancouver",49.264037087133,-123.186078295112,41,1567.822058943486,+17787241133,False,N/A
+Taste of Thai,Thai,,Thai,4.0,"3629 W Broadway, Vancouver",49.2644912,-123.1845067,82,1629.4905504412102,+16045688668,False,$$
+Healthy Noodle House,"Chinese, Noodles, Dumplings",,Chinese,4.5,"2716 W 4th Avenue, Vancouver",49.2682083,-123.1667851,75,2427.925306564633,+17783718371,False,$
+Hitoe Sushi Japanese Restaurant,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"3347 W 4th Avenue, Vancouver",49.268648,-123.1789136,177,2132.1461527158526,+17783714619,False,$$
+Little Bird Dim Sum,"Dim Sum, Beer Bar, Tapas/Small Plates",Beer Bar,,4.0,"2958 W 4th Avenue, Vancouver",49.26814,-123.17168,80,2267.473592377281,+16043258132,False,$$
+The Eatery,"Japanese, Sushi Bars, Asian Fusion",Sushi Bars,"Japanese, Asian Fusion",3.5,"3431 W Broadway, Vancouver",49.2644193,-123.1803953,521,1654.251831957963,+16047385298,False,$$
+The Only Cafe,Cafes,Cafes,,4.5,"2678 W 4th Avenue, Vancouver",49.2682143637918,-123.165559578504,73,2480.846269054534,+17783793299,False,$$
+Cafe Lokal,"Desserts, Sandwiches, Cafes","Desserts, Sandwiches, Cafes",,4.5,"2610 W 4 Avenue, Vancouver",49.2683300473659,-123.16486839205,54,2520.4060339252155,+16047390098,False,$$
+Green Leaf Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"3416 W Broadway, Vancouver",49.2642679,-123.1801,396,1634.4737652131325,+16045689406,False,$$
+Pure Delight Café,Vietnamese,,Vietnamese,3.5,"3236 W Broadway, Vancouver",49.2640833,-123.1767334,36,27.678959342738796,+16045688812,False,$$
+Midam Cafe,"Korean, Desserts",Desserts,Korean,4.5,"3211 W Broadway, Vancouver",49.2644249,-123.17645,43,26.915005999111134,+16047140233,False,N/A
+Banana Leaf,"Malaysian, Singaporean",,Malaysian,3.5,"3005 W Broadway, Vancouver",49.26439,-123.1723,173,324.8834827914905,+16047343005,False,$$
+Donair Dude - Kitsilano,"Donairs, Mediterranean, Turkish",,Mediterranean,4.0,"3209 W Broadway, Vancouver",49.26447,-123.17646,21,27.089572162782275,+16045641294,False,$
+Teahouse in Stanley Park,Seafood,Seafood,,4.0,"7501 Stanley Park Drive, Vancouver",49.3012529987012,-123.157079257071,439,4349.452708939083,+16046693281,False,$$$
+LanZhou Beef Noodle,"Noodles, Chinese",,Chinese,4.5,"3217 W Broadway, Vancouver",49.264434,-123.176648,3,15.741350286814539,+16045583217,False,N/A
+Davie Dosa Company,Indian,,Indian,4.0,"1235 Davie St, Vancouver",49.28227,-123.13382,209,3700.2475088562574,+16046695899,False,$$
+Kinemi's Kitchen,"Pizza, Italian",Pizza,Italian,4.0,"7751 Champlain Crescent, Vancouver",49.2142196,-123.0301573,81,537.3153791154215,+16044342868,False,$$
+Milk & Honey Café,"Coffee & Tea, Waffles",Coffee & Tea,,4.5,"7743 Champlain Crescent, Vancouver",49.2150453,-123.030029,18,557.6248923036951,+17788192195,False,N/A
+Shoestring Cafe,"French, Seafood, Steakhouses","Seafood, Steakhouses",French,4.5,"4611 No 6 Road, Richmond",49.18,-123.06973,100,4777.759766701285,+16042320900,False,$$
+Romer's,"Burgers, Salad, Seafood","Burgers, Seafood",,3.0,"8683 Kerr Street, Vancouver",49.2059813,-123.0424806,273,1325.4551469079047,+16045669545,False,$$
+A&W,"Fast Food, Burgers","Fast Food, Burgers",,3.5,"7092 Kerr Street, Vancouver",49.2192645822091,-123.0408866,29,364.4799121554378,+16044354311,False,$
+The Dolar Shop - Station Square,"Hot Pot, Chinese, Asian Fusion",,"Chinese, Asian Fusion",4.5,"6078 Silver Dr, Burnaby",49.2277884925998,-123.00316795158996,107,2716.4402878657093,+16045581606,False,$$$
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",,4.0,"4510 Still Creek Ave, Burnaby",49.2596278,-123.0019108,228,5353.145482647204,+16042944626,False,$$$
+Atlas Steak + Fish,"Steakhouses, Seafood, Bars","Steakhouses, Seafood, Bars",,4.0,"4331 Dominion Street, Burnaby",49.25665299879593,-123.00698434210425,156,4890.02643660715,+16044530776,False,$$$
+Sushi Mura,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"3545 East Sawmill Crescent, Vancouver",49.205931242684144,-123.02987153806374,70,1359.5164269065617,+16046207894,False,$$
+CHOCHO Hot Pot Premium All You Can Eat,"Hot Pot, Chinese",,Chinese,4.5,"4361 Kingsway, Burnaby",49.231288,-123.00709,49,2663.693711680898,+16044165086,False,$$$
+Cactus Club Cafe,"Cocktail Bars, Canadian (New)",Cocktail Bars,Canadian (New),4.0,"6090 Silver Drive, Burnaby",49.22775581945971,-123.00329214418927,119,2706.736641004931,+16042919339,False,$$
+Fraser Park Restaurant,"Breakfast & Brunch, German, International",,German,4.0,"4663 Byrne Road, Burnaby",49.193718,-122.9971481,154,3855.839225757561,+16044337605,False,$$
+Dang Anh Cafe,Vietnamese,,Vietnamese,4.5,"5186 Victoria Drive, Vancouver",49.2376581,-123.0652216,87,3053.281643292236,+17783797977,False,$$
+Hoi An Cafe,Vietnamese,,Vietnamese,4.0,"5002 Victoria Drive, Vancouver",49.2388188,-123.0652551,144,3152.136412713089,+16045669283,False,$$
+Celeshmet Restaurant,Persian/Iranian,,Persian/Iranian,4.5,"6956 Victoria Drive, Vancouver",49.22072,-123.06546,22,2114.6247124224706,+16042881684,False,N/A
+Trattoria,Italian,,Italian,3.0,"4501 Kingsway, Burnaby",49.230274,-123.0046027,332,2795.6838567722725,+16044248779,False,$$
+CHAU Veggie Express,"Vegan, Vietnamese",,Vietnamese,4.5,"5052 Victoria Drive, Vancouver",49.2385534,-123.0652551,390,3134.2623956283232,+16045689508,False,$$
+Gokudo Shabu Shabu-Burnaby,Hot Pot,,,4.5,"4501 Kingsway, Burnaby",49.230168460812294,-123.0038528105504,110,2797.7165360459244,+16044385598,False,$$$
+Yolks,Breakfast & Brunch,,,4.0,"1598 E Hastings Street, Vancouver",49.281081,-123.072931,440,619.5232030201917,+16044289655,False,$$
+Dundas Eat + Drink,"Vietnamese, Asian Fusion, Beer Bar",Beer Bar,"Vietnamese, Asian Fusion",4.5,"2077 Dundas Street, Vancouver",49.285084,-123.062273,74,953.1720496303182,+16044201200,False,$$
+The Red Wagon,"Diners, Breakfast & Brunch",,,4.0,"2128 East Hastings Street, Vancouver",49.2810251,-123.0612674,622,606.352860046398,+16045684565,False,$$
+Tacofino Commissary,Mexican,,Mexican,4.0,"2327 E Hastings St, Vancouver",49.281311298366035,-123.0574981,312,830.9889462381196,+16042538226,False,$$
+Yama Cafe,"Cafes, Japanese, Breakfast & Brunch",Cafes,Japanese,4.5,"2007 East Hastings Street, Vancouver",49.2813049,-123.0632877,93,546.8136282469231,+16044286276,False,$$
+Straight and Marrow,Gastropubs,Gastropubs,,4.5,"1869 Powell Street, Vancouver",49.2848302,-123.0661495,31,856.1652481953845,+16042514813,False,N/A
+Bai Bua Thai Cuisine,Thai,,Thai,4.0,"2443 E Hastings Street, Vancouver",49.28142,-123.05564,139,949.9565909842854,+17783799699,False,$$
+Mr Red Cafe,Vietnamese,,Vietnamese,4.0,"2131 E Hastings Street, Vancouver",49.281317,-123.060882,208,643.7759718432713,+16047109515,False,$$
+Aleph Eatery,"Middle Eastern, Salad, Tapas/Small Plates",,Middle Eastern,4.5,"1889 Powell Street, Vancouver",49.2849288,-123.065795,69,867.6956385334512,+16044287975,False,$$
+Mogu Fried Chicken,"Japanese, Chicken Shop, Food Trucks",,Japanese,4.5,"1012 Commercial Drive, Vancouver",49.2756074483614,-123.069326430559,27,238.6498076697545,+16042151778,False,N/A
+Tamam: Fine Palestinian Cuisine,Middle Eastern,,Middle Eastern,4.0,"2616 E Hastings Street, Vancouver",49.281027,-123.051462,164,1206.1026516118663,+16046207078,False,$$
+Jackalope's Neighbourhood Dive,"Dive Bars, Breakfast & Brunch, Soul Food",Dive Bars,,4.5,"2257 E Hastings Street, Vancouver",49.2812849,-123.0586541,121,742.7138708644497,+16045686674,False,$$
+Axum Restaurant,Ethiopian,,Ethiopian,4.5,"1279 E Hastings Street, Vancouver",49.2814936637038,-123.07779582314,70,925.6523733881186,+16042532986,False,$$
+Memphis Blues,"Barbeque, Whiskey Bars","Barbeque, Whiskey Bars",,3.5,"1342 Commercial Drive, Vancouver",49.2723737,-123.0693711,127,538.238527205546,+16042152599,False,$$
+Laksa King,"Burmese, Malaysian, Thai",,"Malaysian, Thai",4.0,"2546 E Hastings Street, Vancouver",49.2810051,-123.0534797,209,1080.2960002036145,+16044280155,False,$$
+Pink Pearl Chinese Restaurant,"Seafood, Dim Sum, Cantonese",Seafood,,3.0,"1132 E Hastings Street, Vancouver",49.2806799,-123.08023,150,1047.387442291407,+16042534316,False,$$
+Bombay Kitchen and Bar,Indian,,Indian,4.0,"1018 Commercial Drive, Vancouver",49.2754809,-123.0693751,52,251.75848990949333,+16043361111,False,N/A
+Innocent Ice Cream,"Ice Cream & Frozen Yogurt, Gluten-Free",,,4.0,"2103 East Hastings Street, Vancouver",49.28135725832989,-123.0615231,94,616.3000188594933,+16048798584,False,$$
+Nemesis Coffee,"Coffee & Tea, Breakfast & Brunch, Desserts","Coffee & Tea, Desserts",,4.0,"555 Great Northern Way, Vancouver",49.26704079691957,-123.09260254912492,75,377.2003962867913,+16047733823,False,$$
+Kin Kao Song,"Thai, Wine Bars, Cocktail Bars","Wine Bars, Cocktail Bars",Thai,4.0,"317 E Broadway, Vancouver",49.2629749,-123.0986667,27,243.0014146120157,+16045680400,False,N/A
+CRAFT Beer Market,"Beer Bar, Burgers, Canadian (New)","Beer Bar, Burgers",Canadian (New),3.5,"85 W 1st Avenue, Vancouver",49.2702147,-123.1060713,520,939.1767577014269,+16047092337,False,$$
+Como Taperia,"Tapas Bars, Spanish",Tapas Bars,,3.5,"201 E 7th Avenue, Vancouver",49.2647449,-123.1006898,79,312.87506995725636,+16048793100,False,N/A
+Congee Noodle House,"Chinese, Noodles",,Chinese,3.5,"141 E Broadway, Vancouver",49.26316,-123.10213,351,454.53812659708433,+16048798221,False,$$
+Gusto A Taste of Italy,"Desserts, Italian, Coffee & Tea","Desserts, Coffee & Tea",Italian,4.5,"1610 Salt St, Vancouver",49.2714006565536,-123.10593623668,87,1023.9142720430673,+16048748786,False,$$
+Thai Son Restaurant,"Vietnamese, Noodles",,Vietnamese,3.5,"373 E Broadway, Vancouver",49.2628812,-123.0967428,103,190.45984627584437,+16048756436,False,$
+Yaletown Brewing Company,"American, Brewpubs",Brewpubs,American,3.5,"1111 Mainland Street, Vancouver",49.2755483,-123.120817,471,105.88945542213537,+16046812739,False,$$
+Tutto,"Italian, Bars",Bars,Italian,4.5,"901 Homer St, Vancouver",49.2784091,-123.1187139,55,438.50869982344017,+16046338868,False,$$$
+Provence Marinaside,"Seafood, French, Breakfast & Brunch",Seafood,French,3.5,"1177 Marinaside Crescent, Vancouver",49.2733385,-123.1194637,361,172.0684267465905,+16046814144,False,$$$
+Small Victory Bakery,"Coffee & Tea, Bakeries, Cafes","Coffee & Tea, Cafes",,4.0,"1088 Homer Street, Vancouver",49.27647939123528,-123.121204593404,308,202.21411642544442,+16048998892,False,$$
+Incognito Coffee,"Coffee & Tea, Sandwiches, Breakfast & Brunch","Coffee & Tea, Sandwiches",,4.5,"843 Seymour Street, Vancouver",49.28037,-123.11969,185,633.2898365437736,+16044283888,False,$$
+Milltown Bar & Grill,"Canadian (New), Pubs, Breakfast & Brunch",Pubs,Canadian (New),4.0,"9191 Bentley Street, Richmond",49.2023852177772,-123.1443903029878,279,1440.5807025668478,+16042692348,False,$$
+Maruhachi Ra-men,Ramen,,,4.5,"2780 No 3 Road, Richmond",49.19312,-123.12917,46,1847.618000373593,N/A,False,$$
+G-men Ramen,"Ramen, Noodles",,,4.0,"8391 Alexandra Road, Richmond",49.1784915815574,-123.129821190468,334,3477.5132250560346,+16042768391,False,$$
+Wick's Café,Cafes,Cafes,,4.0,"1300 W 73rd Avenue, Vancouver",49.20407,-123.13521,74,803.7944270169118,+16046776396,False,$
+The Fish Man,"Seafood, Chinese, Barbeque","Seafood, Barbeque",Chinese,4.0,"1170-8391 Alexandra Road, Richmond",49.1784663,-123.1302516,113,3482.548910367182,+16042845393,False,$$$
+Richmond Night Market,"Chinese, Food Stands",,Chinese,3.5,"8351 River Road, Richmond",49.1926543312146,-123.133720156289,697,1944.1832016652036,+16042448448,False,$$
+Pho 37,Vietnamese,,Vietnamese,4.0,"1008-8300 Capstan Way, Richmond",49.18860894499827,-123.13006844807926,109,2354.6658091506433,+16044475158,False,$$
+Kirin Seafood Restaurant,"Seafood, Dim Sum, Cantonese",Seafood,,4.0,"7900 Westminster Hwy, Richmond",49.16991,-123.13753,600,4500.895577475401,+16043038833,False,$$
+Ipoh Malay Cuisine,Malaysian,,Malaysian,3.5,"1316 W 73rd Avenue, Vancouver",49.2042381,-123.1351332,131,798.8420562362728,+16045599898,False,$$
+Bruno,"Seafood, Canadian (New), Cocktail Bars","Seafood, Cocktail Bars",Canadian (New),4.0,"8499 Bridgeport Road, Richmond",49.19222284717219,-123.13187616293204,68,1967.8600388782845,+16042422750,False,N/A
+Smokehouse Sandwich,"Sandwiches, Smokehouse",Sandwiches,,4.5,"5188 Westminster Highway, Richmond",49.16984,-123.16749,172,5293.4416636065,+16043704177,False,$$
+The Dolar Shop - Richmond,"Hot Pot, Chinese, Asian Fusion",,"Chinese, Asian Fusion",4.0,"720-5300 No. 3 Rd, Richmond",49.1752620984987,-123.134143498425,206,3859.598581373926,+16043707077,False,$$$$
+Dosa Corner,Indian,,Indian,4.5,"8248 Fraser Street, Vancouver",49.2096291,-123.0908784,125,2705.367313269564,+16043243672,False,$$
+Haidilao - Richmond,"Chinese, Hot Pot",,Chinese,4.5,"5890 No. 3 Road, Richmond",49.17043,-123.13633,190,4365.257055350463,+16043706665,False,N/A
+Sea Harbour Seafood Restaurant,"Dim Sum, Seafood",Seafood,,3.0,"150-8888 River Road, Richmond",49.196435,-123.126171,138,1486.3940663552946,+16042320816,False,$$
+HK B.B.Q. Master,"Barbeque, Cantonese",Barbeque,,4.0,"4651 No 3 Road, Richmond",49.17959228769049,-123.13782401377117,588,3426.878949035893,+16042726568,False,$$
+Excellent Tofu & Snacks,"Desserts, Chinese",Desserts,Chinese,4.0,"4231 Hazelbridge Way, Richmond",49.1826466,-123.1336595,189,3055.85220346933,+16042320268,False,$
+Jade Seafood Restaurant,"Seafood, Dim Sum",Seafood,,3.5,"2811 No 3 Road, Richmond",49.19318963820905,-123.12975828220316,182,1844.9170709910834,+16042490082,False,$$
+Shanghai River,"Chinese, Noodles, Dumplings",,Chinese,4.0,"7831 Westminster Highway, Richmond",49.17074,-123.13848,797,4423.9924115923795,+16042338885,False,$$$
+Thai Son Restaurant,"Vietnamese, Noodles",,Vietnamese,3.5,"1440 SW Marine Drive, Vancouver",49.20440762725758,-123.1394898485679,48,1019.9747147132447,+16045596436,False,$
+Daddy's Grill,"Halal, Persian/Iranian, Donairs",,Persian/Iranian,4.5,"4020 No 5 Road, Richmond",49.1842679432228,-123.091404421526,155,3888.877392657006,+16042079091,False,$$
+Fisherman's Terrace Seafood Restaurant,"Seafood, Dim Sum, Cantonese",Seafood,,3.5,"4151 Hazelbridge Way, Richmond",49.18408,-123.13404,540,2877.8578715908284,+16043039739,False,$$
+Dosanko,"Japanese, Sandwiches",Sandwiches,Japanese,4.0,"566 Powell Street, Vancouver",49.28278,-123.09194,103,146.4864943309144,+16042512020,False,$$
+Barbara,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),4.5,"305 East Pender Street, Vancouver",49.2804544,-123.0970391,22,472.7028638756217,N/A,False,N/A
+Crackle Creme,"Desserts, Coffee & Tea, Cafes","Desserts, Coffee & Tea, Cafes",,4.5,"245 Union Street, Vancouver",49.27776,-123.0981399,273,778.9420372454015,+17788478533,False,$
+Salt Tasting Room,"Wine Bars, Tapas/Small Plates",Wine Bars,,4.0,"227 E Pender St, Vancouver",49.28049,-123.09912,505,910.4860438084829,+16046331912,False,$$
+Birds & the Beets,Breakfast & Brunch,,,4.0,"55 Powell Street, Vancouver",49.28343,-123.10282,155,712.9251006647115,+16048937832,False,$$
+Kook Korean BBQ,"Korean, Barbeque",Barbeque,Korean,4.0,"2800 1st Avenue E, Vancouver",49.26894,-123.04565,161,2149.9581116748245,+16045665665,False,$$$
+OEB Breakfast Co,Breakfast & Brunch,,,4.0,"4525 Lougheed Highway, Burnaby",49.266664680813335,-123.00075947231228,249,2936.545674994648,+16045663447,False,$$
+The Viet Noodle Guy,Vietnamese,,Vietnamese,4.0,"1902 Rosser Avenue, Burnaby",49.26721987665755,-123.00572763320037,184,2689.7641887489267,+16043364888,False,$$
+Just Waffles,"Breakfast & Brunch, Waffles",,,4.5,"3531 E Hastings, Vancouver",49.28128196346295,-123.02744138985872,138,3348.9475066964715,+16045189041,False,$$
+Burnaby Palace Restaurant,Chinese,,Chinese,3.5,"3110 Boundary Road, Burnaby",49.25629080307701,-123.0231239309792,124,945.5067228324637,+16044371818,False,$$
+New Novelty Restaurant & Sweets,"Indian, Buffets",,Indian,4.0,"6669 Fraser St, Vancouver",49.2238493,-123.0909349,70,568.3148300562457,+16043261111,False,$
+Kalai's Dosa Hut,Indian,,Indian,3.5,"7233 Fraser Street, Vancouver",49.2189937,-123.0911392,48,54.84741469991818,+16045663111,False,$
+Shawarma cafe,"Mediterranean, Turkish, Sandwiches",Sandwiches,Mediterranean,4.5,"1412 E 49th Avenue, Vancouver",49.2251878,-123.0768843,18,1291.4722547862305,+16043230007,False,N/A
+Madras Spice,Indian,,Indian,4.0,"6260 Fraser Street, Vancouver",49.2278432,-123.0904916,61,1002.6393847576851,+16043256555,False,$$
+Gia Minh,"Vietnamese, Noodles",,Vietnamese,4.0,"6181 Fraser Street, Vancouver",49.2285481904184,-123.090905108517,52,1083.0534390595703,+16043010281,False,$
+Hachibei Japanese Restaurant,Japanese,,Japanese,4.0,"778 16th Avenue W, Vancouver",49.256899,-123.1215336,74,1932.954325965278,+16048793357,False,$$
+Joon's Kitchen,"Korean, Japanese",,"Korean, Japanese",4.0,"3093 Oak Street, Vancouver",49.2580379,-123.1270746,58,1798.671709043865,+16044280846,False,N/A
+City 1 Cafe,"Malaysian, Singaporean",,Malaysian,3.5,"954 W King Edward Avenue, Vancouver",49.248391,-123.125497,97,1116.7457267114944,+16045691199,False,$$
+Caffe Barney,"Bars, Breakfast & Brunch",Bars,,3.5,"2975 Granville St, Vancouver",49.25918,-123.13915,147,1692.323682363048,+16047316446,False,$$
+Zaccary's Pizza,Pizza,Pizza,,4.0,"3150 Oak Street, Vancouver",49.2572655,-123.1271051,60,1747.6968642643299,+16047371933,False,$$
+Mandarin Hong Kong Cafe,"Asian Fusion, Cantonese, Hong Kong Style Cafe",Hong Kong Style Cafe,Asian Fusion,3.5,"904 W King Edward Avenue, Vancouver",49.24863584054912,-123.12525091003072,49,1144.9037969263586,+16046200518,False,$$
+De Dutch,"Breakfast & Brunch, Gluten-Free, Canadian (New)",,Canadian (New),3.5,"3192 Oak Street, Vancouver",49.2572523,-123.1271051,46,1728.5109746248647,+16047321915,False,$$
+Osaka Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"960 W King Edward Avenue, Vancouver",49.248529409778,-123.125809548424,55,1103.4291875264125,+16045580828,False,$$
+Johnny’s On Oak,"Italian, Greek, Pizza",Pizza,"Italian, Greek",4.5,"3838 Oak Street, Vancouver",49.25143,-123.12723,9,1208.2760717497706,+16047323777,False,N/A
+Rayhan,Mediterranean,,Mediterranean,4.0,"3170 Oak Street, Vancouver",49.2572592,-123.1271051,22,1745.7223626705338,+16047313553,False,N/A
+Impostori Trattoria + Negroni Bar,"Italian, Wine Bars",Wine Bars,Italian,4.5,"3121 Granville Street, Vancouver",49.25771,-123.13921,6,1528.8966082016186,+16046020241,False,N/A
+Finest At Sea Seafood Boutique,"Seafood Markets, Seafood, Food Trucks","Seafood Markets, Seafood",,3.0,"4675 Arbutus Street, Vancouver",49.2444796206499,-123.153893832788,38,1060.6796290174807,+16042661904,False,$$
+Kim Express,Vietnamese,,Vietnamese,3.5,"952 King Edward Avenue, Vancouver",49.2489891,-123.1261215,29,1104.0366969361953,+16047330911,False,$$
+Cafe Ami,Cafes,Cafes,,4.0,"899 W 12th Avenue, Vancouver",49.260803,-123.123994,9,2177.5977141931903,+16048755340,False,$
+The Cliff House,Canadian (New),,Canadian (New),4.0,"3735 Capilano Road, North Vancouver",49.3431216979992,-123.113923292065,41,161.97849068274328,+16049857474,False,$$
+The Bridge House Cafe,"Sandwiches, Cafes","Sandwiches, Cafes",,4.5,"3650 Capilano Road, North Vancouver",49.3427831727771,-123.114331220163,15,129.5181041539422,+16049857474,False,$$
+BjornBar Bakery,"Cafes, Bakeries",Cafes,,4.5,"3053 Edgemont Boulevard, North Vancouver",49.3367329007718,-123.100999539816,92,1078.9549115186035,+16049866886,False,$
+One More Szechuan Chinese Cuisine,"Chinese, Noodles, Asian Fusion",,"Chinese, Asian Fusion",4.5,"1262 Marine Drive, North Vancouver",49.324876,-123.109655,70,1891.281026405219,+16049293000,False,$$
+Loggers Grill,"Burgers, Poutineries, Hot Dogs",Burgers,,4.5,"3735 Capilano Road, North Vancouver",49.34311287440524,-123.11381925459628,11,160.83432250362247,+16049857474,False,N/A
+Cantina Norte,Mexican,,Mexican,4.0,"3246 Connaught Crescent, North Vancouver",49.3388201282967,-123.10217644307914,14,901.2011871714992,+16046708226,False,N/A
+Kypriaki Mediterranean Grill,"Mediterranean, Greek, Wine Bars",Wine Bars,"Mediterranean, Greek",4.0,"1346 Marine Drive, North Vancouver",49.32427333932316,-123.11193574416453,55,1938.8528015425,+16049857955,False,$$
+C-Lovers Fish & Chips,"Seafood, Fish & Chips",Seafood,,4.0,"1660 Pemberton Ave, North Vancouver",49.3245325372457,-123.107577995149,72,1958.205500550623,+16049809993,False,$$
+Bufala Edgemont Village,"Cocktail Bars, Italian",Cocktail Bars,Italian,4.0,"3280 Edgemont Blvd, North Vancouver",49.3391409155693,-123.103837992032,22,776.0102274293207,+16047702822,False,N/A
+Nicli Antica Pizzeria,"Pizza, Italian",Pizza,Italian,3.5,"3142 Highland Boulevard, North Vancouver",49.337742,-123.1012252,55,1015.8084549795955,+16047701240,False,N/A
+La Galleria Fine Foods,"Delis, Sandwiches",Sandwiches,,4.0,"3055 Highland Boulevard, North Vancouver",49.3372262,-123.1026182,36,949.6071895230526,+16049909162,False,$$
+Sushi Town,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"1227 Marine Drive, North Vancouver",49.3237147185321,-123.108235434423,236,2036.7875215838915,+16049846155,False,$$
+Chelo,"Middle Eastern, Mediterranean, Persian/Iranian",,"Middle Eastern, Mediterranean, Persian/Iranian",4.5,"1078 Marine Drive, North Vancouver",49.324271,-123.104027,16,2054.2891627854633,+16049715414,False,N/A
+Lion Hot Pot,"Hot Pot, Chinese",,Chinese,4.0,"1356 Marine Drive, North Vancouver",49.323925874193,-123.112365406665,27,1975.4858762923543,+16047700977,False,$$
+De Dutch,"Breakfast & Brunch, Gluten-Free, Canadian (New)",,Canadian (New),3.5,"1634 Capilano Road, North Vancouver",49.324652,-123.121904,32,1948.3690635476655,+16049850328,False,$$
+Pho Japolo,"Vietnamese, Noodles",,Vietnamese,3.5,"2070 Marine Drive, North Vancouver",49.3251599,-123.12424,77,1986.3461022838903,+16049853993,False,$
+Jade Garden Kitchen,Chinese,,Chinese,3.5,"1195 Marine Drive, North Vancouver",49.32363,-123.10742,70,2051.5382636298204,+16049809139,False,$$
+Capilano Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.5,"1240 Marine Drive, North Vancouver",49.32443,-123.108171,43,1959.872742890681,+16049297366,False,$$
+Capilano Market,"Coffee & Tea, Sandwiches, Juice Bars & Smoothies","Coffee & Tea, Sandwiches, Juice Bars & Smoothies",,4.5,"1847 Capilano Road, North Vancouver",49.3267,-123.12024,12,1732.7586537519544,+16049715999,False,N/A
+Denny's,"Diners, Breakfast & Brunch, American",,American,2.5,"2050 Marine Dr, North Vancouver",49.325186,-123.123645,50,1965.8952588354534,+16049808210,False,$$
+White Spot,"Burgers, Tapas/Small Plates, Sandwiches","Burgers, Sandwiches",,2.5,"107-1226 Marine Drive, North Vancouver",49.3240529719829,-123.108411245048,24,1997.3997010215407,+16049900440,False,$$
+Corner Stone,"Pubs, Cafes","Pubs, Cafes",,4.0,"1096 22nd Street W, North Vancouver",49.33011,-123.10455,17,1446.551094995397,+16049903602,False,N/A
+CC's Chinese Restaurant,"Cantonese, Taiwanese",,,2.5,"5020 Capilano Road, North Vancouver",49.35826,-123.10642,7,1921.2107571731035,+16049879511,False,N/A
+Barrio Coffee,Cafes,Cafes,,5.0,"4840 Capilano Road, North Vancouver",49.35665,-123.10591,4,1767.7813251640664,+16049732141,False,N/A
+Red Tori,"Korean, Ramen",,Korean,3.0,"3135 Edgemont Boulevard, North Vancouver",49.337840487814,-123.102587163448,14,918.5113511472772,+16049878805,False,N/A
+Sushi-Man,Sushi Bars,Sushi Bars,,3.0,"1307 Marine Dr, North Vancouver",49.3237651,-123.1109213,55,2007.14583553841,+16049908821,False,$
+Caffe Artigiano,Cafes,Cafes,,3.0,"3154 Highland Blvd, North Vancouver",49.3378171251335,-123.101077848915,17,1017.7789916986186,+16047704772,False,$$
+Saffari Meals & Breakfast,"Pizza, Desserts, Salad","Pizza, Desserts",,5.0,"1093 Marine Drive, North Vancouver",49.3237151,-123.1046124,1,2105.8312964283273,+17783409036,False,N/A
+Nobu Japanese Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"3197 Edgemont Boulevard, North Vancouver",49.33825,-123.10336,17,847.9652778642348,+16049884553,False,$$
+Freshslice Pizza,Pizza,Pizza,,3.5," 3111 Edgemont Boulevard, North Vancouver",49.33761572159589,-123.10235137802636,5,945.3363330932684,+16047703475,False,$
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",,2.0,"1219 Marine Drive, North Vancouver",49.3236203557312,-123.108035129474,19,2049.992042689628,+16049044390,False,$
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",,5.0,"1182 Marine Dr, North Vancouver",49.324310814509296,-123.10655208716832,1,2000.4815010191378,+16047703300,False,N/A
+Casa Corsi,Italian,,Italian,3.5,"1509 Marine Drive, North Vancouver",49.32368,-123.11501,5,1995.3646004935358,+16049244444,False,N/A
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",,3.5,"3026 Edgemont Boulevard, North Vancouver",49.33697,-123.10069,3,1079.573917280858,+16049045338,False,$
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",,4.0,"1034 Marine Dr, North Vancouver",49.3239749,-123.1026359,2,2122.7685639363144,+16049847821,False,$$
+Sushi Mori,Sushi Bars,Sushi Bars,,3.0,"4740 Capilano Road, North Vancouver",49.3555599,-123.10592,30,1656.4142405303494,+16049293444,False,$$$
+AliBaba Capilano Cafe,Persian/Iranian,,Persian/Iranian,3.0,"1825 Capilano Road, North Vancouver",49.3264828,-123.1202819,10,1730.3808865300284,+16049879000,False,$$
+Panago Pizza,"Pizza, Chicken Wings, Food Delivery Services",Pizza,,2.0,"1821 Capilano Road, North Vancouver",49.3264599,-123.1203077,8,1764.9101672375175,+18663100001,False,N/A
+Quiznos,Sandwiches,Sandwiches,,4.0,"1303 Marine Dr, Northvancouver",49.3237651,-123.1108138,4,2008.5250962845587,+16049878208,False,N/A
+2S Green Asian Cuisine,Asian Fusion,,Asian Fusion,5.0,"1195 Marine Dr, North Vancouver",49.3236313,-123.1074219,1,2033.7206325050713,+16049809138,False,N/A
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",,4.0,"1121 Alberni Street, Vancouver",49.28602851408301,-123.12446573128037,186,1676.1988124157413,+16046854388,False,$$$
+Noah's Cafe,"Japanese, Tapas Bars, Cocktail Bars","Tapas Bars, Cocktail Bars",Japanese,4.5,"1096 Denman Street, Vancouver",49.28827635407216,-123.1400279,36,1508.015715581442,+16043366571,False,N/A
+Sushi Bar Maumi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1668 Robson Street , Vancouver",49.28996033056277,-123.1336141,172,1186.2322245576336,+16046092286,False,$$$$
+Alouette Bistro,"French, Seafood, Cocktail Bars","Seafood, Cocktail Bars",French,4.0,"567 Hornby Street, Vancouver",49.2853,-123.11829,51,1924.1567876734714,+16046898862,False,N/A
+Tetsu Sushi Bar,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"775 Denman Street, Vancouver",49.2917758,-123.1352662,102,1007.89093109512,+16044285775,False,$$$$
+PappaRoti,"Coffee & Tea, Juice Bars & Smoothies, Sandwiches","Coffee & Tea, Juice Bars & Smoothies, Sandwiches",,4.0,"1505 Robson Street, Vancouver",49.2889087,-123.1312063,255,1285.1528055963097,+16043362867,False,$
+Mount Everest Kitchen & Grill,"Indian, Himalayan/Nepalese, Noodles",,Indian,4.5,"538 Seymour Street, Vancouver",49.28343057225757,-123.1142148824853,50,2253.489958173116,+16046221136,False,N/A
+Indian Delicacy,Indian,,Indian,4.5,"1130 West pender st, Vancouver",49.28749,-123.12141,108,1598.3046526412356,+16045692122,False,$$
+Maruhachi Ra-Men,Ramen,,,4.0,"270 Robson Street, Vancouver",49.27854065320407,-123.1157914,263,170.95319726245398,N/A,False,$$
+Honey Salt,"Canadian (New), Breakfast & Brunch, Lounges",,Canadian (New),3.5,"39 Smithe Street, Vancouver",49.2753742,-123.1128477,273,255.41082802332798,+17783708200,False,$$
+The Victor,"Steakhouses, Seafood","Steakhouses, Seafood",,3.5,"39 Smithe Street, Vancouver",49.27540569887477,-123.1121986054184,241,271.30849438247367,+17783708600,False,$$$$
+Frankie's Italian Kitchen,"Italian, Wine Bars, Breakfast & Brunch",Wine Bars,Italian,3.5,"765 Beatty Street, Vancouver",49.2779493,-123.1137363,157,79.33457306326706,+16046886368,False,$$

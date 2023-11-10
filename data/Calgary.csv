@@ -1,0 +1,539 @@
+Name,Categories,Cuisine Types,Nationalities,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price,City
+Blackfoot Truckstop Diner,"Diners, Breakfast & Brunch",Diners,NA,3.5,"1840 9 Avenue SE, Calgary",51.036434,-114.020316,84,183.17,14032655964,False,$$,Calgary
+The Blues Can,"Jazz & Blues, Bars, Cajun/Creole",Bars,NA,4.0,"1429 9 Avenue SE, Calgary",51.03925,-114.02999,42,654.23,14032622666,False,$$,Calgary
+The Nash,"Bars, Canadian (New)",Bars,Canadian (New),4.0,"925 11th Street SE, Calgary",51.041415,-114.037001,145,1190.29,14039843365,False,$$$,Calgary
+The Eden,"French, Bistros",French,French,5.0,"1219 9 Avenue SE, Calgary",51.041501,-114.035308,26,1119.75,14032661005,False,$$,Calgary
+Madison's 12|12,American,American,American,3.5,"1212 9 Avenue SE, Calgary",51.04213,-114.03589,58,1175.38,14034524970,False,$$,Calgary
+Rouge,French,French,French,4.0,"1240 8 Avenue SE, Calgary",51.042292,-114.033648,70,1065.37,14035312767,False,$$$$,Calgary
+Sushi Bar Zipang,Sushi Bars,Sushi Bars,NA,4.0,"1010 1 Avenue NE, Calgary",51.053351,-114.039866,91,2305.64,14032621888,False,$$,Calgary
+Monki Breakfast Club & Bistro - Inglewood,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"4-1420 9 Avenue SE, Calgary",51.03987,-114.03009,24,716.4,14034537131,False,$$,Calgary
+Rocky's Burger Bus,Burgers,Burgers,NA,4.5,"1235 26 Avenue SE, Calgary",51.030301,-114.034764,15,1037.12,14032430405,False,$,Calgary
+Inglewood Drive In,"Fast Food, Hot Dogs, Burgers","Fast Food, Burgers",NA,4.0,"802 12 Street SE, Calgary",51.04169,-114.03358,43,1025.47,14032655198,False,$,Calgary
+Ari Sushi,Sushi Bars,Sushi Bars,NA,5.0,"1201 9 Avenue SE, Calgary",51.04194,-114.03646,13,1181.52,14032622220,False,$,Calgary
+Anatolia,Turkish,Turkish,NA,4.5,"1235 26 Avenue SE, Calgary",51.030088,-114.035436,11,1089.21,14036162238,False,$,Calgary
+Vegan Street Inglewood,"Vegan, Mexican, Cocktail Bars",Cocktail Bars,Mexican,5.0,"1413 9 Avenue SE, Calgary",51.039644,-114.030974,7,731.48,14034533282,False,$,Calgary
+Spolumbo's Fine Foods,"Delis, Sandwiches, Gluten-Free",Sandwiches,NA,3.5,"1308 9 Avenue SE, Calgary",51.04125,-114.03368,65,1014.94,14032646452,False,$$,Calgary
+Inglewood Pizza,Pizza,Pizza,NA,4.0,"1225A 9 Avenue SE, Calgary",51.041391,-114.035008,40,1073.75,14032378220,False,$,Calgary
+Mug Shotz Sports Bar & Grill,"Sports Bars, Chicken Wings, Venues & Event Spaces",Sports Bars,NA,4.0,"2808 Ogden Rd SE, Calgary",51.02979,-114.03017,53,806.11,14032644441,False,$$,Calgary
+Hose & Hound Neighborhood Pub,"Pubs, Canadian (New)",Pubs,Canadian (New),3.5,"1030 9th Avenue SE, Calgary",51.042621,-114.037189,71,1277.71,14032340508,False,$$,Calgary
+Minh Chau Vietnamese Restaurant,Vietnamese,Vietnamese,Vietnamese,3.5,"1318 9 Avenue SE, Calgary",51.04091,-114.03281,35,930.6,14032652073,False,$$,Calgary
+Dragon Pearl Restaurant,Chinese,Chinese,Chinese,3.5,"1223A 9 Avenue SE, Calgary",51.041471,-114.03534,34,1097.69,14032338810,False,$$,Calgary
+Canela Vegan Bakery & Cafe,"Bakeries, Coffee & Tea, Vegan",Coffee & Tea,NA,4.5,"1319 9 Avenue SE, Calgary",51.040687,-114.033227,6,927.13,14032264199,False,$$,Calgary
+The Attic Bar & Stage,"Pizza, Music Venues, Cocktail Bars","Pizza, Cocktail Bars",NA,4.5,"1413 9 Avenue SE, Calgary",51.039657,-114.030974,3,732.33,14034754741,False,$$,Calgary
+Kane's Harley Diner,Diners,Diners,NA,3.0,"1209 9 Avenue SE, Calgary",51.04169,-114.03629,37,1172.95,14032697311,False,$$,Calgary
+Molcajete,Mexican,Mexican,Mexican,5.0,"1235 26 Avenue SE, Calgary",51.03019,-114.034439,7,1038.73,14036060644,False,$$,Calgary
+Lil’ Empire,Burgers,Burgers,NA,4.0,"1105 1 Avenue NE, Calgary",51.053085,-114.037233,12,2192.35,14034554007,False,$$,Calgary
+Well Juicery,"Live/Raw Food, Juice Bars & Smoothies",Juice Bars & Smoothies,NA,4.5,"1327A 9th ave SE, Calgary",51.04035,-114.03286,2,879.58,14035199576,False,$,Calgary
+Jam’s Diner,"Diners, Cocktail Bars, Music Venues",Cocktail Bars,NA,4.5,"1209 9 Avenue SE, Calgary",51.041765,-114.036299,4,1172.95,14034525174,False,$,Calgary
+Joodam,"Korean, Beer, Wine & Spirits, Cocktail Bars","Beer, Wine & Spirits, Cocktail Bars",Korean,5.0,"1003 9 Avenue SE, Calgary",51.042708,-114.039349,1,1404.43,14034520920,False,$,Calgary
+Spolumbo's,Delis,Delis,NA,4.0,"315 19 St SE, Calgary",51.05022,-114.00859,6,1885.88,15873535330,False,$,Calgary
+Ukrainian Fine Food,Ukrainian,Ukrainian,NA,4.0,"Crossroads Market, Calgary",51.03019,-114.03444,2,1057.24,<NA>,False,$,Calgary
+Friendz Dine,"Halal, Breakfast & Brunch",Halal,NA,1.0,"2808 Ogden Road SE, Calgary",51.02979,-114.03017,1,806.11,15877199229,False,$,Calgary
+Kitamba Cafe,Cafes,Cafes,NA,2.5,"Calgary Zoo, Calgary",51.043842,-114.031548,2,1072.65,14032329300,False,$,Calgary
+Nila’s Taste of Indonesia,Indonesian,Indonesian,NA,5.0,"1235 26 Avenue SE, Calgary",51.03046,-114.03445,2,1057.24,14036811223,False,$,Calgary
+The Potion Room,"Chicken Wings, Mexican, Cocktail Bars",Cocktail Bars,Mexican,2.5,"1211 9 Avenue SE, Calgary",51.04177,-114.03604,17,1155.37,14039998386,False,$,Calgary
+Bea's Eatery,Cafes,Cafes,NA,3.5,"1023 9 Avenue SE, Calgary",51.042449,-114.038333,2,1331.44,14032633966,False,$,Calgary
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,3.0,"1220 9 Avenue SE, Calgary",51.04185,-114.035501,5,1131.96,14032440008,False,$,Calgary
+Grazers,Restaurants,Restaurants,NA,3.5,"1300 Zoo Road NE, Calgary",51.04409,-114.031311,2,1072.65,14032329300,False,$,Calgary
+The Jamaican Jerk,"Food Trucks, Caribbean",Food Trucks,Caribbean,5.0,", Calgary",51.047604,-114.035995,2,1189.71,15872165646,False,$,Calgary
+Tuk Tuk Thai,Thai,Thai,Thai,1.0,"108 - 1020 9th Ave SE, Calgary",51.042658,-114.03805,1,1328.57,14032610680,False,$,Calgary
+Jimstar Bar and Grill,"Bars, Canadian (New)",Bars,Canadian (New),4.0,"4068 Ogden Road SE, Calgary",51.018829,-114.023247,1,1872.71,14032645738,False,$,Calgary
+Sally's Cafe,Restaurants,Restaurants,NA,4.0,"4099 Ogden Rd SE, Calgary",51.018402,-114.01936,2,1941.53,14032330588,False,$,Calgary
+Roxy's Burger Bar,"Fast Food, Breakfast & Brunch, Burgers","Fast Food, Burgers",NA,3.5,"1235 26th Avenue SE, Calgary",51.03019,-114.03444,7,1057.24,14032915208,False,$,Calgary
+Sunny's Cafe,Cafes,Cafes,NA,4.0,"4035 14 Street SE, Calgary",51.01886,-114.02845,1,1908.24,14032330804,False,$,Calgary
+Frameco Custom Picture Framing,Home Decor,Home Decor,NA,1.0,"1006 9 Ave SE, Calgary",51.04297,-114.03892,1,1391.32,14032337490,False,$,Calgary
+Ten Foot Henry,Canadian (New),Canadian (New),Canadian (New),4.5,"1209 1st Street SW, Calgary",51.04109,-114.06597,553,1144.32,14034755537,False,$$$,Calgary
+Native Tongues Taqueria,"Mexican, Cocktail Bars",Cocktail Bars,Mexican,4.0,"235 12 Avenue SW, Calgary",51.041401,-114.067559,458,1245.38,14032639444,False,$$,Calgary
+Charcut Roast House,Steakhouses,Steakhouses,NA,4.0,"101-899 Centre Street S, Calgary",51.044727,-114.06337,364,1267.33,14039842180,False,$$$,Calgary
+OEB Breakfast,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"825 1 Avenue NE, Calgary",51.053085,-114.043995,617,2014.26,14032783447,False,$$,Calgary
+OEB Breakfast,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"222 5 Avenue SW, Calgary",51.04859,-114.06682,349,1729.2,15873523447,False,$$,Calgary
+Model Milk,Canadian (New),Canadian (New),Canadian (New),4.0,"308 17th Avenue, Calgary",51.037994,-114.069077,262,1208.3,14032657343,False,$$$,Calgary
+ZCREW Cafe,Cafes,Cafes,NA,4.5,"401 11 Avenue  SE, Calgary",51.041992,-114.055583,83,738.85,14034606668,False,$$$,Calgary
+One18 Empire,"Cocktail Bars, Canadian (New), Whiskey Bars","Cocktail Bars, Whiskey Bars",Canadian (New),4.5,"820 Centre Street S, Calgary",51.044979,-114.062876,95,1268.71,14032690299,False,$$,Calgary
+Blue Star Diner,"Diners, Breakfast & Brunch",Diners,NA,4.5,"809 1st Avenue NE, Calgary",51.053181,-114.044872,251,2002.03,14032619998,False,$$,Calgary
+N9NA,"Canadian (New), Burgers",Burgers,Canadian (New),4.0,"121 17th Avenue SE, Calgary",51.03771,-114.06224,139,736.65,14032636355,False,$$,Calgary
+Vintage Chophouse and Tavern,"Steakhouses, Wine Bars, Seafood","Steakhouses, Wine Bars, Seafood",NA,4.0,"320 11 Avenue SW, Calgary",51.042678,-114.068379,166,1369.56,14032627262,False,$$$,Calgary
+Red's Diner Ramsay,"Diners, Comfort Food, Breakfast & Brunch",Diners,NA,4.0,"1101- 8th Street SE, Calgary",51.03996,-114.0419,109,846.6,15873531188,False,$$,Calgary
+Klein Harris,"Desserts, Canadian (New), Cocktail Bars","Desserts, Cocktail Bars",Canadian (New),4.5,"110 8 Avenue SW, Calgary",51.045664,-114.063681,70,1363.49,14032628100,False,$$,Calgary
+Embarcadero Wine & Oyster Bar,"Seafood, Wine Bars","Seafood, Wine Bars",NA,4.0,"208-17 Avenue South East, Calgary",51.038166,-114.060599,39,647.28,14032630848,False,$$$,Calgary
+Pigeonhole,"Cocktail Bars, Wine Bars, Canadian (New)","Cocktail Bars, Wine Bars",Canadian (New),4.0,"306 17th Avenue SW, Calgary",51.037979,-114.068904,107,1196.11,14034524694,False,$$,Calgary
+JOEY Eau Claire,"Canadian (New), Lounges, Steakhouses",Steakhouses,Canadian (New),4.0,"208 Barclay Parade SW, Calgary",51.052127,-114.069349,144,2179.9,14032636336,False,$$,Calgary
+LOCAL Public Eatery,"Canadian (New), Pubs, American",Pubs,"Canadian (New), American",4.0,"310 8th Avenue SW, Calgary",51.045686,-114.068615,128,1593.39,14032647808,False,$$,Calgary
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,4.0,"320 4th Ave Sw, Calgary",51.04998,-114.069502,96,1991.54,14036999843,False,$$$,Calgary
+Calgary Court Restaurant,Chinese,Chinese,Chinese,4.0,"119 2 Ave SE, Calgary",51.05088,-114.06153,82,1812.65,14032647890,False,$$,Calgary
+Shiki Menya,Ramen,Ramen,NA,4.0,"824 1 Avenue NE, Calgary",51.05342,-114.04388,127,2044.77,14034542722,False,$$,Calgary
+The Beltliner,"Breakfast & Brunch, Diners, Coffee & Tea",Coffee & Tea,NA,3.5,"243 12th Avenue SW, Calgary",51.041456,-114.067903,186,1269.33,15879551555,False,$$,Calgary
+Deane House,"Canadian (New), Bars",Bars,Canadian (New),4.0,"806 9th Avenue SE, Calgary",51.043595,-114.041884,51,1138.8,14032640595,False,$$,Calgary
+Yellow Door Bistro,"Canadian (New), Bistros, Breakfast & Brunch",Canadian (New),Canadian (New),3.5,"119 12 Avenue SW, Calgary",51.041355,-114.064491,111,1062.46,14032069585,False,$$$,Calgary
+Teatro,"Italian, Mediterranean",Italian,"Italian, Mediterranean",3.5,"200 8th Avenue SE, Calgary",51.045712,-114.060287,107,1242.93,14032901012,False,$$$,Calgary
+Cardinale,Italian,Italian,Italian,4.0,"401 12 Avenue SE, Calgary",51.041031,-114.055577,26,641.55,14032646046,False,$$$,Calgary
+Great Taste Chinese Restaurant,Chinese,Chinese,Chinese,4.0,"123 2 Avenue SE, Calgary",51.051027,-114.061279,92,1812.34,14032659880,False,$$,Calgary
+Minas Brazilian Steakhouse,"Steakhouses, Brazilian",Steakhouses,NA,4.0,"136 2 Street SW, Calgary",51.052746,-114.067278,122,2163.29,14034542550,False,$$$,Calgary
+Murrieta's West Coast Bar & Grill,"Wine Bars, Seafood, Steakhouses","Wine Bars, Seafood, Steakhouses",NA,4.0,"808 1st Street SW, Calgary",51.045402,-114.065279,116,1399.17,14032697707,False,$$$,Calgary
+La Brezza Restaurant & Cafe,Italian,Italian,Italian,4.0,"990 1 Avenue NE, Calgary",51.053378,-114.040613,50,2117.92,14032626230,False,$$$,Calgary
+LDV Pizza Bar,Pizza,Pizza,NA,4.0,"916 1 Avenue NE, Calgary",51.053359,-114.042235,42,2075.27,14032635999,False,$$,Calgary
+Bottlescrew Bill's Pub / Buzzards Restaurant & Bar,"Steakhouses, American, Pubs","Steakhouses, Pubs",American,3.5,"140 10 Avenue SW, Calgary",51.043575,-114.065422,66,1269.93,14032637900,False,$$,Calgary
+Pho Hoai Vietnamese Noodle House,Vietnamese,Vietnamese,Vietnamese,4.0,"132 3 Ave SE, Calgary",51.05046,-114.06087,59,1744.62,14032648174,False,$$,Calgary
+Saltlik Calgary,"Steakhouses, Cocktail Bars, Venues & Event Spaces","Steakhouses, Cocktail Bars",NA,3.5,"101 8 Avenue SW, Calgary",51.045289,-114.063295,187,1316.49,14035371160,False,$$$,Calgary
+Thi Thi Vietnamese Subs,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,4.5,"209 1 St SE, Calgary",51.050758,-114.060345,148,1757.0,14032655452,False,$,Calgary
+Paper Lantern,"Asian Fusion, Vietnamese, Cocktail Bars",Cocktail Bars,"Asian Fusion, Vietnamese",4.5,"115-2 Avenue SE, Calgary",51.050928,-114.061726,13,1813.32,14034577765,False,$,Calgary
+Kam Han Szechuan House North,Chinese,Chinese,Chinese,3.5,"2318 Spiller Road SE, Calgary",51.031867,-114.046573,27,584.05,14032646030,False,$$,Calgary
+Major Tom,"Bars, Seafood, Tapas/Small Plates","Bars, Seafood",NA,4.0,"700 2 Street SW, Calgary",51.046327,-114.067394,44,1585.03,14039903954,False,$$,Calgary
+Paddy's Barbecue & Brewery,"Breweries, Barbeque",Barbeque,NA,4.5,"3610 Burnsland Road SE, Calgary",51.02283,-114.0577,23,1487.25,14036517150,False,$$,Calgary
+Soleil Bistro & Bar,"Waffles, Bistros, Cocktail Bars",Cocktail Bars,NA,5.0,"612 5 Street SE, Calgary",51.046836,-114.050457,12,1236.33,14037645227,False,$$,Calgary
+Thai Bistro,Thai,Thai,Thai,4.0,"233 Centre Street SW, Calgary",51.05061,-114.06296,81,1816.97,14033139922,False,$$,Calgary
+Charbar,"Argentine, Seafood, Canadian (New)",Seafood,Canadian (New),3.5,"618 Confluence Way SE, Calgary",51.047905,-114.04977,186,1359.71,14034523115,False,$$,Calgary
+Milestones,"Canadian (New), Bars, Steakhouses","Bars, Steakhouses",Canadian (New),3.5,"107 8th Avenue SE, Calgary",51.045362,-114.062624,108,1288.86,14034109521,False,$$,Calgary
+Silver Dragon Restaurant,"Chinese, Seafood, Noodles",Seafood,Chinese,3.5,"106 3 Avenue SE, Calgary",51.050601,-114.062249,135,1788.72,14032645326,False,$$,Calgary
+Sukiyaki House,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"130-207 9 Avenue SW, Calgary",51.044529,-114.066626,53,1404.03,14032633003,False,$$$,Calgary
+The Palomino,"Barbeque, Music Venues, Bars","Barbeque, Bars",NA,3.5,"109 7 Ave SW, Calgary",51.046328,-114.063579,140,1419.65,14035321911,False,$$,Calgary
+El Furniture Warehouse,"Bars, Comfort Food, American",Bars,American,4.0,"107 Stephen Ave SW, Calgary",51.045388,-114.063599,54,1329.56,14037645858,False,$,Calgary
+Jerusalem Shawarma,Middle Eastern,Middle Eastern,Middle Eastern,5.0,"111-722 85 Street SW, Calgary",51.06609,-114.21067,13,1800.58,14034748994,False,$,Calgary
+Thai Manna,"Thai, Farmers Market, Comfort Food",Thai,Thai,5.0,"25 Greenbriar Drive NW, Calgary",51.08861,-114.22293,7,876.64,14039987049,False,$$$,Calgary
+Bona Roma Pizza,"Pizza, Italian",Pizza,Italian,3.5,"89 Bowridge Drive NW, Calgary",51.084632,-114.207131,20,601.73,14032473327,False,$$,Calgary
+Denny's,"Diners, Breakfast & Brunch, American",Diners,American,2.5,"117 Bowridge Drive NW, Calgary",51.084965,-114.208594,20,546.08,14032472218,False,$$,Calgary
+Angel's Drive In,"Fast Food, Diners",Fast Food,NA,3.5,"8603 47 Avenue NW, Calgary",51.094675,-114.21124,67,1395.54,14032881009,False,$,Calgary
+Masa,Sushi Bars,Sushi Bars,NA,4.0,"301-722 85th Street SW, Calgary",51.066717,-114.209913,17,1780.88,15873526928,False,$$,Calgary
+UNA Pizza + Wine,"Pizza, Wine Bars","Pizza, Wine Bars",NA,4.0,"8529 Broadcast Avenue SW, Calgary",51.0646,-114.21028,14,2010.44,14034531183,False,$$,Calgary
+722 World Bier Haus,"Canadian (New), Bars, Pizza","Bars, Pizza",Canadian (New),2.5,"722 85 Street SW, Calgary",51.066249,-114.209672,54,1835.31,14034559950,False,$$,Calgary
+Avenue 16 Kitchen & Bar,"Italian, Steakhouses, Bars","Steakhouses, Bars",Italian,3.0,"8220 Bowridge Crescent, Calgary",51.083472,-114.206761,4,604.63,14032024408,False,$$,Calgary
+Andaro's Pizza,Pizza,Pizza,NA,4.0,"677 Cougar Ridge Drive SW, Calgary",51.068053,-114.216235,13,1594.55,14036990009,False,$$,Calgary
+Morning Brunch Co.,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"315 - 722 85th Street SW, Calgary",51.066714,-114.20949,4,1787.63,14039842910,False,$$,Calgary
+Analog Coffee Greenwich,Cafes,Cafes,NA,5.0,"130 - 55 Greenbriar Drive NW, Calgary",51.088313,-114.221559,2,793.82,14037185085,False,$$,Calgary
+Deep & Square Pizza,Pizza,Pizza,NA,4.5,"50-7930 Bowness Road NW, Calgary",51.090042,-114.200215,8,1351.81,14032474181,False,$$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"8235 Bowridge Cres N.W., Calgary",51.083955,-114.20753,10,566.37,14032883203,False,$,Calgary
+Molson Canadian Hockey House,"Sports Bars, Canadian (New)",Sports Bars,Canadian (New),5.0,"151 Canada Olympic Road SW, Calgary",51.084671,-114.221519,1,507.24,14032475420,False,$,Calgary
+Seasons of Bowness Park,"Bistros, Coffee & Tea",Coffee & Tea,NA,2.0,"8906 48 Avenue NW, Calgary",51.096921,-114.216847,37,1620.86,14032025065,False,$,Calgary
+Dell Cafe,"Sandwiches, Coffee & Tea, Burgers","Sandwiches, Coffee & Tea, Burgers",NA,3.5,"7930 Bowness Road NW, Calgary",51.089591,-114.200424,19,1309.22,14032883606,False,$,Calgary
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,5.0,"85 Bowridge Dr NW, Calgary",51.084589,-114.207049,1,600.82,14032888577,False,$,Calgary
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"8435 Bowfort Road N.W., Calgary",51.084456,-114.209958,8,435.29,14032866660,False,$,Calgary
+Bar One,"Sports Bars, American, Canadian (New)",Sports Bars,"American, Canadian (New)",3.0,"125 Bowridge Drive NW, Calgary",51.085083,-114.208383,5,565.55,14032886033,False,$,Calgary
+OPA! of Greece Canada Olympic Park,"Greek, Fast Food",Fast Food,Greek,2.5,"200 - 8435 Bowfort Rd NW, Calgary",51.084533,-114.209352,4,475.96,14032646622,False,$,Calgary
+Bangkok Street Food,Thai,Thai,Thai,3.5,"25 Greenbriar Drive NW, Calgary",51.08861,-114.22293,3,876.64,15879973344,False,$,Calgary
+Kin's Chinese Food,Chinese,Chinese,Chinese,2.5,"7930 Bowness Road NW, Calgary",51.090382,-114.199902,7,1392.74,14032884451,False,$,Calgary
+Chopped Leaf,"Salad, Fast Food, Sandwiches","Fast Food, Sandwiches",NA,3.0,"305-722 85 Street SW, Calgary",51.066694,-114.209825,6,1784.64,14037642467,False,$$,Calgary
+Blanco Cantina,"Bars, Tex-Mex",Bars,NA,3.5,"8545 Broadcast Avenue SW, Calgary",51.064535,-114.210451,4,2012.23,14034553796,False,$$,Calgary
+The Bowness Pub,Gastropubs,Gastropubs,NA,3.0,"7930 Bowness Road NW, Calgary",51.08949,-114.20141,7,1358.06,14032888207,False,$$,Calgary
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,2.5,"116-89th Street SW, Calgary",51.06649,-114.21654,3,1753.86,14032639304,False,$$,Calgary
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,3.0,"115 722 85 Street Sw, Calgary",51.06654,-114.210557,4,1791.41,14037271436,False,$$,Calgary
+Papa John's Pizza,Pizza,Pizza,NA,1.0,"722 85 Street SW, Calgary",51.066713,-114.209743,1,1783.87,14034546262,False,$$,Calgary
+Selkirk Grille,"Seafood, Steakhouses, Canadian (New)","Seafood, Steakhouses",Canadian (New),4.0,"1900 Heritage Drive SW, Calgary",50.98278,-114.101595,25,62.7,14032688607,False,$$,Calgary
+Empire Provisions,"Meat Shops, Breakfast & Brunch, Sandwiches",Sandwiches,NA,5.0,"8409 Elbow Drive SW, Calgary",50.975449,-114.08447,20,1256.52,14032440570,False,$$,Calgary
+1600 World Bier Haus,"Burgers, Pizza, Beer Bar","Burgers, Pizza, Beer Bar",NA,3.0,"1600 90th Avenue SW, Calgary",50.973891,-114.099153,66,955.59,14034574287,False,$$,Calgary
+John Wong's Chinese Restaurant,Chinese,Chinese,Chinese,3.5,"8413 Elbow Drive SW, Calgary",50.978895,-114.083871,18,1255.59,14032593853,False,$,Calgary
+Bella Roma Restaurant,"Pizza, Italian",Pizza,Italian,3.5,"6449 Crowchild Trail SW, Calgary",50.996919,-114.118843,26,2043.6,14032420441,False,$$,Calgary
+Freshii,"Salad, Vegetarian, Fast Food",Fast Food,NA,4.0,"1600 90 Ave SW, Calgary",50.973243,-114.097368,9,1049.44,14039101342,False,$$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"1600 90 Avenue SW, Calgary",50.973628,-114.099239,19,983.86,14032583311,False,$,Calgary
+Pizza Bank,Pizza,Pizza,NA,3.5,"1600 90 AVE SW E185, Calgary",50.973476,-114.099249,16,1000.65,14032525508,False,$$,Calgary
+August Moon,Chinese,Chinese,Chinese,2.5,"9630 Elbow Dr SW, Calgary",50.96888,-114.08455,23,1891.66,14032557793,False,$$,Calgary
+Canada Safeway,"Delis, Florists, Bakeries",Delis,NA,2.0,"1600 90 Ave SW, Calgary",50.97266,-114.09792,3,990.69,14032552755,False,$$,Calgary
+Good Heart Cafe,"Cafes, Breakfast & Brunch",Cafes,NA,4.0,"1011 Glenmore Trail SW, Calgary",50.993716,-114.085486,1,1657.07,14032520656,False,$$,Calgary
+Western Pizza Express,Pizza,Pizza,NA,3.0,"8407 Elbow Drive SW, Calgary",50.979107,-114.083485,13,1274.29,14032551000,False,$$,Calgary
+Club Cafe,Cafes,Cafes,NA,3.0,"1900 Heritage Dr SW, Calgary",50.985515,-114.108827,2,652.55,14032688500,False,$$,Calgary
+Sierra Cafe,Cafes,Cafes,NA,3.5,"39-6439 Crowchild Trail SW, Calgary",50.996853,-114.118211,3,2010.9,14032423884,False,$$,Calgary
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,2.0,"8423 Elbow Dr Sw, Calgary",50.978359,-114.084022,6,1265.56,14032520077,False,$,Calgary
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.5,"Haysboro Shopping Centre, Calgary",50.979445,-114.083675,3,1232.03,14032557769,False,$,Calgary
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"1600 90 Ave SW, Calgary",50.974081,-114.098803,1,938.24,14037193594,False,$,Calgary
+Safeway Food & Drug,"Delis, Sandwiches",Sandwiches,NA,4.0,"1600 90 Ave SW, Calgary",50.97266,-114.09792,1,990.69,14032553114,False,$,Calgary
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,2.5,"9704 Elbow Drive, Calgary",50.9685,-114.08443,2,1920.16,14037190030,False,$,Calgary
+Pizza 73,Pizza,Pizza,NA,1.0,"9620 Elbow Drive SW, Calgary",50.9691,-114.08443,4,1906.22,14032737373,False,$$,Calgary
+Garden of Italy,"Italian, Pizza",Pizza,Italian,4.5,"101-2763 Sunridge Way NE, Calgary",51.071988,-113.999736,65,612.68,14034545643,False,$$,Calgary
+Cactus Club Cafe,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),4.5,"2612 39 Avenue NE, Calgary",51.089627,-114.000743,235,1818.78,14032501120,False,$$$,Calgary
+Pio Peruvian Rotisserie Chicken,Peruvian,Peruvian,Peruvian,4.5,"2929 Sunridge Way NE, Calgary",51.069252,-113.996574,74,648.15,14036817378,False,$$,Calgary
+Quynh Vietnamese Cuisine,"Vietnamese, Asian Fusion",Vietnamese,"Vietnamese, Asian Fusion",4.0,"335-2555 32 St NE, Calgary",51.073625,-113.991102,57,82.2,14032912099,False,$$,Calgary
+Hot Million Indian Cuisine,Indian,Indian,Indian,4.5,"2125 36 Street NE, Calgary",51.072049,-113.982085,48,668.51,14037986619,False,$$,Calgary
+The CattleBaron Steakhouse & Bar,Steakhouses,Steakhouses,NA,4.0,"3340 26 Street NE, Calgary",51.0827,-113.99804,116,1049.11,14032502595,False,$$$,Calgary
+Blaze Pizza,"Pizza, Salad, Fast Food","Pizza, Fast Food",NA,4.0,"2618 32nd St. Ne, Calgary",51.076888,-113.98638,69,475.68,14038793952,False,$$,Calgary
+Pathway Burgers & MoMos,"Burgers, Himalayan/Nepalese, Fast Food","Burgers, Fast Food",NA,5.0,"2816 21st Street NE, Calgary",51.077237,-114.008378,16,1209.14,14032502238,False,$$,Calgary
+JOEY Barlow,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.5,"3026 23rd Street NE Barlow Trail, Calgary",51.081296,-114.004017,87,1162.02,14032198465,False,$$,Calgary
+Ramen Ichinen,Ramen,Ramen,NA,4.5,"349-3132 26 Street NE, Calgary",51.08002,-113.99746,65,709.15,14034542646,False,$$,Calgary
+Smashburger,Burgers,Burgers,NA,4.0,"2770 32 Avenue NE, Calgary",51.082299,-113.996042,114,945.67,14032503156,False,$$,Calgary
+Cuty Restaurant,"Vietnamese, Korean, Thai",Vietnamese,"Vietnamese, Korean, Thai",4.5,"3168 Sunridge Blvd NE, Calgary",51.075853,-113.987627,13,250.83,14037699401,False,$$,Calgary
+Clay Oven Restaurant,Indian,Indian,Indian,4.0,"3131 27 Street NE, Calgary",51.079738,-113.995154,53,655.58,14032502161,False,$$,Calgary
+Kor,Korean,Korean,Korean,4.5,"2805 32 Avenue NE, Calgary",51.080985,-113.994145,18,767.8,14037171228,False,$$,Calgary
+OPA! of Greece Sunridge Mall,"Greek, Fast Food",Fast Food,Greek,3.0,"2525 36th St NE, Calgary",51.074167,-113.99148,5,20.08,14032930402,False,$,Calgary
+Banana Leaf Tropical Cuisine,"Taiwanese, Malaysian",Taiwanese,Malaysian,4.0,"3330 32 Street NE, Calgary",51.082337,-113.987481,59,947.4,14034503880,False,$$,Calgary
+Samurai Ramen and Sushi,Sushi Bars,Sushi Bars,NA,4.5,"920 36 Street NE, Calgary",51.061935,-113.981001,40,1561.13,15874700808,False,$$,Calgary
+Earls Kitchen + Bar,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"23 Street NE, Calgary",51.081119,-114.002933,57,1093.4,14032916700,False,$$,Calgary
+Forbidden City Dim Sum & Seafood Restaurant,"Dim Sum, Seafood",Seafood,NA,3.5,"999 36 Street NE, Calgary",51.06138,-113.98224,70,1504.35,14032501848,False,$$,Calgary
+Basil Ultimate,Vietnamese,Vietnamese,Vietnamese,4.0,"10 - 2770 32 Avenue NE, Calgary",51.082016,-113.996068,103,915.25,14034570808,False,$$,Calgary
+Nando's Peri-Peri,"Chicken Shop, Fast Food",Fast Food,NA,3.5,"3333 32 Avenue Northeast, Calgary",51.081171,-113.987319,76,829.4,14037690610,False,$$,Calgary
+Babylon Qithara,"Middle Eastern, Halal, Kebab",Middle Eastern,Middle Eastern,3.5,"311 2555 32 Street NE, Calgary",51.075445,-113.991273,24,137.04,14032192121,False,$$,Calgary
+Waves Coffee House,Cafes,Cafes,NA,4.5,"2685 36 St NE, Calgary",51.077308,-113.983287,14,681.42,15873508838,False,$,Calgary
+Pita Basket - Sunridge,"Mediterranean, Halal, Lebanese",Mediterranean,Mediterranean,3.5,"3221 Sunridge Way NE, Calgary",51.068744,-113.992569,34,614.71,14032192747,False,$$,Calgary
+East Side Mario's,"Italian, American, Pizza",Pizza,"Italian, American",2.0,"2555 32 Street NE, Calgary",51.074526,-113.989361,45,168.89,14037170488,False,$$,Calgary
+Pho Uncle Ten,Vietnamese,Vietnamese,Vietnamese,4.0,"999 36 Street NE, Calgary",51.06138,-113.98224,25,1504.35,14032079896,False,$,Calgary
+Ric's Lounge & Grill,"Seafood, Comfort Food, Pizza","Seafood, Pizza",NA,3.0,"2875 Sunridge Way NE, Calgary",51.071132,-113.999127,33,621.74,14036483170,False,$$,Calgary
+Moxies,"Canadian (New), American, Steakhouses",Steakhouses,"Canadian (New), American",3.0,"2493 27 Avenue NE, Calgary",51.07621,-114.00256,21,782.04,14032524641,False,$$,Calgary
+Thai Boat,Thai,Thai,Thai,3.0,"2323 32 Avenue NE, Calgary",51.080983,-114.005667,53,1227.98,14032919887,False,$$,Calgary
+Five Guys,"Burgers, Fast Food","Burgers, Fast Food",NA,4.0,"2618 32nd Street NE, Calgary",51.076875,-113.98647,9,469.84,14032915697,False,$,Calgary
+Fat Kee Noodle House,"Chinese, Noodles",Chinese,Chinese,3.5,"3132 26 Street NE, Calgary",51.079815,-113.996947,30,718.18,14032508436,False,$,Calgary
+Noodle King Vietnamese Restaurant,Vietnamese,Vietnamese,Vietnamese,3.5,"2323 32nd Avenue NE, Calgary",51.079995,-114.005605,25,1160.57,14032509808,False,$$,Calgary
+Carver's Steakhouse,Steakhouses,Steakhouses,NA,4.0,"2620 32 Avenue NE, Calgary",51.08187,-113.99991,18,1052.44,14032506327,False,$$$,Calgary
+Henry's Pub,"American, Pubs",Pubs,American,4.5,"2620 32 Avenue NE, Calgary",51.082089,-114.000217,8,1054.16,14032506325,False,$$$,Calgary
+Fatburger,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"3545 32 Avenue NE, Calgary",51.08112,-113.984961,23,898.95,14034531372,False,$$,Calgary
+Amihan Grill + Bakeshop,"Filipino, Barbeque, Bakeries",Barbeque,Filipino,4.5,"3132 26 Street NE, Calgary",51.080069,-113.996814,4,738.08,14034556050,False,$$,Calgary
+Cora,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"Sunridge Mall, Calgary",51.074719,-113.984544,33,505.31,14034572672,False,$$,Calgary
+Flames Pizza & Wings,"Chicken Wings, Pizza",Pizza,NA,4.5,"97 3131-27 Street NE, Calgary",51.08006,-113.99498,7,752.2,14032305554,False,$$,Calgary
+Tasse Bakery,"Mediterranean, Bakeries, Desserts",Desserts,Mediterranean,5.0,"14-3220 5 Avenue NE, Calgary",51.0572,-113.98695,6,1903.67,14034525035,False,$$,Calgary
+Xin Chao Coffee,"Cafes, Ice Cream & Frozen Yogurt, Creperies",Cafes,NA,5.0,"2255 32 Street NE, Calgary",51.072246,-113.989126,2,287.77,14035909999,False,$$,Calgary
+La Cay Subs,"Sandwiches, Vietnamese",Sandwiches,Vietnamese,4.5,"119-920 36 Street NE, Calgary",51.060698,-113.980945,18,1684.81,14032353233,False,$,Calgary
+Max's Restaurant - Calgary,Filipino,Filipino,Filipino,3.0,"3581 20 Avenue NE, Calgary",51.0711,-113.982754,16,718.63,14034532111,False,$$,Calgary
+Pho Xuan Restaurant,Vietnamese,Vietnamese,Vietnamese,3.5,"920 36 St NE, Calgary",51.061414,-113.980825,22,1617.94,14032041299,False,$,Calgary
+Jerusalem Shawarma,"Donairs, Lebanese",Donairs,NA,4.0,"3545 32 Avenue NE, Calgary",51.081095,-113.985078,8,892.34,14034573331,False,$,Calgary
+Insadong Korean BBQ Restaurant,"Korean, Barbeque, Imported Food",Barbeque,Korean,3.0,"132 920 36th Street NE, Calgary",51.061637,-113.981058,59,1588.4,15873533273,False,$$,Calgary
+Chuck E. Cheese,"Pizza, Arcades, Kids Activities",Pizza,NA,3.0,"2612 32 Street Northeast, Calgary",51.076009,-113.987319,16,365.61,14032940112,False,$$,Calgary
+barBURRITO,Mexican,Mexican,Mexican,4.5,"3561 20 Avenue NE, Calgary",51.070682,-113.984722,5,630.41,15874725424,False,$$,Calgary
+Yum Yum BBQ,Korean,Korean,Korean,4.0,"999 36 Street NE, Calgary",51.060937,-113.984642,18,1560.88,15873509133,False,$$,Calgary
+Ricky's All Day Grill,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),3.5,"3321 20th Avenue NE, Calgary",51.07021,-113.98809,11,527.55,14035713220,False,$$,Calgary
+Christy's Rotisserie Chicken,"Chicken Wings, Canadian (New), Chicken Shop",Chicken Wings,Canadian (New),3.5,"2775 32nd Avenue NE, Calgary",51.081295,-113.996357,12,801.7,14032502828,False,$,Calgary
+Queens Breakfast Cocktails,"Cocktail Bars, Breakfast & Brunch, Tapas/Small Plates",Cocktail Bars,NA,4.5,"3927 Edmonton Trail NE, Calgary",51.088031,-114.052333,157,1884.01,14037640878,False,$$,Calgary
+China Palace Restaurant,Chinese,Chinese,Chinese,4.0,"6219 Centre Street NW, Calgary",51.107719,-114.062843,32,451.2,14032752386,False,$$,Calgary
+Rea's Italian Cucina,"Italian, Pizza",Pizza,Italian,4.0,"431 41 Avenue NE, Calgary",51.089301,-114.052846,66,1739.79,14032307754,False,$$,Calgary
+Franca's Italian Specialties,"Italian, Venues & Event Spaces",Italian,Italian,5.0,"100-3811 Edmonton Trail NE, Calgary",51.08651,-114.05205,22,2055.03,14032770766,False,$$,Calgary
+Denny's,"Diners, Breakfast & Brunch, American",Diners,American,4.5,"5015 4th St NE, Calgary",51.096872,-114.054536,19,942.64,14032952504,False,$$,Calgary
+The Submarine,"Vietnamese, Sandwiches, Soup",Sandwiches,Vietnamese,4.5,"4817 Centre Street N, Calgary",51.095495,-114.062833,39,916.56,15873516828,False,$,Calgary
+Pho Mai Thy,Vietnamese,Vietnamese,Vietnamese,3.5,"6219 Centre Street NW, Calgary",51.107567,-114.063869,22,437.31,14034548919,False,$$,Calgary
+The Cherry Inn,Chinese,Chinese,Chinese,4.0,"6722 - 4 Street NE, Calgary",51.112801,-114.056259,31,1044.33,14032742282,False,$$,Calgary
+Spice Hut,"Indian, Pakistani",Indian,Indian,4.0,"6554 4 Street NE, Calgary",51.11169,-114.056571,47,990.28,14032747687,False,$$,Calgary
+Hearts Choices Cafe Market,"Thai, Cafes, Burgers","Cafes, Burgers",Thai,4.5,"4127 6 Street NE, Calgary",51.089206,-114.048889,18,1873.05,14032762163,False,$$,Calgary
+Pho Thanh Vietnamese Noodle House,"Vietnamese, Noodles",Vietnamese,Vietnamese,3.5,"6630 4 Street NE, Calgary",51.111562,-114.055127,64,981.92,14032950563,False,$,Calgary
+Bow Tie Pizza,"Pizza, Salad, Italian",Pizza,Italian,4.0,"4817 Centre Street NW, Calgary",51.095384,-114.062687,29,918.9,14032990000,False,$$,Calgary
+Sushi Kimu,Japanese,Japanese,Japanese,4.0,"6522 4 Street NE, Calgary",51.111652,-114.056097,51,986.16,15872939380,False,$$,Calgary
+Caltons Chinese Restaurant,Chinese,Chinese,Chinese,3.5,"5010 4 Street NE, Calgary",51.09691,-114.0535,26,1038.39,14032758181,False,$$,Calgary
+Great Taste Chinese Cuisine 鄭家莊海鲜酒家,Chinese,Chinese,Chinese,4.5,"594 64 Ave NE, Calgary",51.11111,-114.0538,11,1024.36,14032756577,False,$$,Calgary
+Carmine's Pizzeria,"Pizza, Italian, Comfort Food",Pizza,Italian,4.5,"4 - 390 Northmount Drive NW, Calgary",51.093402,-114.079383,12,1648.11,14034578885,False,$$,Calgary
+Golden Sands Chinese Restaurant,Chinese,Chinese,Chinese,4.0,"5010 Centre Street N, Calgary",51.096719,-114.061993,8,780.8,14034552777,False,$$,Calgary
+Peking House 98,"Chinese, Noodles, Soup",Chinese,Chinese,4.0,"4125 4 Street NW, Calgary",51.087777,-114.072027,16,1896.03,14032100229,False,$$,Calgary
+Gallaghers Pub & Eatery,"American, Pubs",Pubs,American,3.5,"5010 4th Street NE, Calgary",51.096611,-114.052992,23,1031.86,14035161650,False,$$,Calgary
+6A Snack Bar,"Hong Kong Style Cafe, Asian Fusion, Bubble Tea",Hong Kong Style Cafe,Asian Fusion,3.5,"6219 Centre Street  NW, Calgary",51.107847,-114.063244,12,460.56,15873510822,False,$,Calgary
+Flavours Cuisine,African,African,African,4.5,"4129 4 Street NW, Calgary",51.088564,-114.072087,9,1815.87,14037192770,False,$$,Calgary
+Fusion Sushi,Sushi Bars,Sushi Bars,NA,2.5,"511 McKnight Boulevard NE, Calgary",51.095731,-114.0528,84,1116.76,15873541757,False,$$,Calgary
+Mikey’s Taco Shop,Mexican,Mexican,Mexican,4.0,"4121 4th Street NW, Calgary",51.08829,-114.071815,12,1837.46,14034757467,False,$$,Calgary
+Aleppo,"Donairs, Mediterranean, Steakhouses",Steakhouses,Mediterranean,5.0,"1324 B Centre Street NE, Calgary",51.06422,-114.06233,5,1426.0,14032502255,False,$$,Calgary
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,4.0,"6732 4 St Ne, Calgary",51.112339,-114.056367,8,1047.1,14032755728,False,$,Calgary
+Doughlicious,"Bakeries, Mediterranean, Desserts",Desserts,Mediterranean,4.5,"4140 6 St NE, Calgary",51.089416,-114.04787,8,1890.26,14032305160,False,$,Calgary
+Captains,"Sports Bars, American",Sports Bars,American,3.5,"6535 4th Street NE, Calgary",51.111775,-114.056238,13,994.07,14034571603,False,$$,Calgary
+Urban St. Donair,"Donairs, Poutineries",Donairs,NA,4.5,"4 4105 4 ST NW, Calgary",51.087902,-114.07236,16,1891.32,14034528540,False,$$,Calgary
+Kiwa Korean Restaurant,Korean,Korean,Korean,3.5,"6626 4th Street NE, Calgary",51.111482,-114.055134,6,1001.91,15878804489,False,$,Calgary
+Pho 501,Vietnamese,Vietnamese,Vietnamese,3.5,"501 McKnight Boulevard NE, Calgary",51.095855,-114.053123,15,1105.28,14032305886,False,$$,Calgary
+Villages Pizza,Pizza,Pizza,NA,4.0,"4117 4 Street NW, Calgary",51.087961,-114.071893,9,1841.75,14032000404,False,$$,Calgary
+Vietwest Restaurant,Vietnamese,Vietnamese,Vietnamese,4.0,"5616 4 Street NW, Calgary",51.101854,-114.070708,10,612.6,14032752280,False,$$,Calgary
+Uncle Moe's Donairs & Falafels,"Middle Eastern, Falafel",Middle Eastern,Middle Eastern,3.5,"4524 Edmonton Trl NE, Calgary",51.09335,-114.05293,14,1308.43,14032305526,False,$,Calgary
+Sal's Pizza,Pizza,Pizza,NA,4.5,"5006 Centre Street N, Calgary",51.09654,-114.06217,3,804.85,15872963838,False,$,Calgary
+Tops Pizza & Sports Bar,"Pizza, Sports Bars, Chicken Wings","Pizza, Sports Bars",NA,2.5,"5602 4 Street NW, Calgary",51.101397,-114.070708,14,631.73,14032752722,False,$$,Calgary
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"532 64th Avenue NE, Calgary",51.11105,-114.0558,3,937.06,14032873021,False,$,Calgary
+iBaoza,"Chinese, Dumplings",Chinese,Chinese,5.0,"4119 - 4 Street NW, Calgary",51.087986,-114.071893,2,1840.68,15873158558,False,$,Calgary
+Tom's House of Pizza,Pizza,Pizza,NA,2.5,"4812 Centre Street NE, Calgary",51.095333,-114.062014,8,934.7,14032302122,False,$,Calgary
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"422 McKnight Boulevard NE, Calgary",51.096214,-114.055035,2,984.0,14032741992,False,$,Calgary
+Golden Princess Restaurant,Chinese,Chinese,Chinese,5.0,"6219 Centre St NW, Calgary",51.10772,-114.06284,1,471.01,14032752386,False,$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.5,"6820 4th St N.W., Calgary",51.11365,-114.07092,13,1246.79,14032951004,False,$,Calgary
+Raja's Grill,"Pakistani, Barbeque",Barbeque,NA,2.5,"4524 Edmonton Trail NE, Calgary",51.093537,-114.05275,3,1321.28,14032771838,False,$,Calgary
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,2.5,"6544 4 St NE, Calgary",51.111584,-114.056575,5,994.73,14032753030,False,$,Calgary
+Pizza 73,Pizza,Pizza,NA,2.5,"503 McKnight Boulevard NE, Calgary",51.095856,-114.053099,4,1110.39,14032737373,False,$,Calgary
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,2.0,"6620 4th Street NE, Calgary",51.112346,-114.056491,5,995.09,14032758788,False,$,Calgary
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,1.0,"5010 4th Street NE, Calgary",51.096865,-114.053109,4,1004.94,14038000690,False,$,Calgary
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"5606 B 4 St NW, Calgary",51.10159,-114.07066,1,620.1,14032951559,False,$,Calgary
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,2.0,"560 64th Ave NE, Calgary",51.11123,-114.05463,1,996.29,14032953399,False,$,Calgary
+KFC,"Chicken Shop, Fast Food, Chicken Wings",Fast Food,NA,1.0,"6620 4 Street NE, Calgary",51.111917,-114.056558,1,995.24,18665324968,False,$,Calgary
+Take It And Go,"Food Trucks, Indian, African",Food Trucks,"Indian, African",3.0,"224 41st Avenue NE, Calgary",51.090261,-114.058534,5,1523.11,14037002897,False,$,Calgary
+Brouhaha,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"609 14 Street NW, Calgary",51.057024,-114.095035,13,83.99,14034530577,False,$$,Calgary
+Hayden Block Smoke & Whiskey,"Barbeque, Whiskey Bars, Sandwiches","Barbeque, Whiskey Bars, Sandwiches",NA,4.5,"1136 Kensington Road NW, Calgary",51.052655,-114.088296,228,686.37,14032833021,False,$$,Calgary
+Globefish Kensington,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"332 14 St NW, Calgary",51.054283,-114.094503,64,369.88,14035210222,False,$$,Calgary
+Vero Bistro Moderne,"Italian, French",Italian,"Italian, French",4.0,"209 10 Street NW, Calgary",51.053072,-114.0861,117,757.04,14032838988,False,$$$,Calgary
+Bridgette Bar,"Bars, Canadian (New)",Bars,Canadian (New),4.5,"739 10 Avenue SW, Calgary",51.04365,-114.07869,113,1903.74,<NA>,False,$$$,Calgary
+Dairy Lane Café,"Breakfast & Brunch, Burgers, Wine Bars","Burgers, Wine Bars",NA,4.0,"319 19th Street NW, Calgary",51.05506,-114.105782,245,855.27,14032832497,False,$$,Calgary
+Muku Japanese Noodle House,Ramen,Ramen,NA,3.5,"326 14 Street NW, Calgary",51.054043,-114.094396,92,393.3,14032836555,False,$$,Calgary
+Niko's Bistro,Italian,Italian,Italian,4.0,"1241 Kensington Rd NW, Calgary",51.05243,-114.09134,57,609.77,14032700082,False,$$,Calgary
+Vendome,"Breakfast & Brunch, Mediterranean, Cafes",Cafes,Mediterranean,4.0,"940 2nd Avenue NW, Calgary",51.055179,-114.083253,196,811.55,14034531140,False,$$,Calgary
+Jimmy's A & A Deli,"Mediterranean, Donairs",Mediterranean,Mediterranean,4.5,"1401 20th Aveune NW, Calgary",51.07029,-114.09249,193,1423.85,14032891400,False,$$,Calgary
+Peppino,"Italian, Sandwiches, Gluten-Free",Sandwiches,Italian,4.5,"101-1240 Kensington Road NW, Calgary",51.052645,-114.090963,36,593.89,14032835350,False,$,Calgary
+Sidewalk Citizen Bakery,"Bakeries, Sandwiches",Sandwiches,NA,4.0,"338 10 Street NW, Calgary",51.0554,-114.08555,50,659.23,14034609065,False,$,Calgary
+Posto Pizzeria and Bar,"Pizza, Italian",Pizza,Italian,4.5,"1014 8 St SW, Calgary",51.043532,-114.081247,88,1806.04,14032634876,False,$$,Calgary
+Galaxie Diner,"Diners, Breakfast & Brunch, Burgers",Burgers,NA,4.5,"1413 11 Street SW, Calgary",51.039758,-114.089288,137,2011.26,14032280001,False,$$,Calgary
+Winebar Kensington,"Tapas Bars, Wine Bars","Tapas Bars, Wine Bars",NA,4.5,"1131 Kensington Road NW, Calgary",51.05233,-114.087791,44,736.51,14034571144,False,$$,Calgary
+Gaga Pizzeria,Pizza,Pizza,NA,4.5,"1236 12 Avenue SW, Calgary",51.04234,-114.090671,70,1712.5,14032642421,False,$$,Calgary
+Namsan Korean Cuisine,Korean,Korean,Korean,5.0,"507 10 Street SW, Calgary",51.04874,-114.08615,24,1129.52,14034601083,False,$$,Calgary
+Modern Ocean,"Seafood, Steakhouses, Cocktail Bars","Seafood, Steakhouses, Cocktail Bars",NA,4.0,"107 10A Street NW, Calgary",51.052297,-114.087438,106,754.71,14036706873,False,$$$,Calgary
+The Holy Grill,"Burgers, Sandwiches, Breakfast & Brunch","Burgers, Sandwiches",NA,4.5,"827 10th Avenue SW, Calgary",51.043716,-114.080784,201,1805.0,14032619759,False,$$,Calgary
+Shijo Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"1240 Kensington Road NW, Calgary",51.052627,-114.091244,30,588.54,14032834100,False,$$,Calgary
+The Hexagon Board Game Cafe,Themed Cafes,Themed Cafes,NA,4.5,"200-1140 Kensington Road NW, Calgary",51.05267,-114.088585,32,673.0,14032092881,False,$,Calgary
+Sultan's Tent,Moroccan,Moroccan,NA,4.0,"4 14 Street NW, Calgary",51.05148,-114.094345,43,678.11,14032442333,False,$$$,Calgary
+Red's Diner Kensington,"Breakfast & Brunch, Burgers, Canadian (New)",Burgers,Canadian (New),4.0,"286 10 Street NW, Calgary",51.053861,-114.085683,94,725.82,15873561808,False,$$,Calgary
+Alforno Bakery & Cafe,"Bakeries, Cafes",Cafes,NA,4.0,"222 7th Street SW, Calgary",51.051465,-114.078154,191,1312.61,14034540308,False,$$,Calgary
+Menyatai Japanese Noodles,"Japanese, Noodles",Japanese,Japanese,4.0,"24 12th Street NW, Calgary",51.052191,-114.091584,103,625.82,14032633666,False,$$,Calgary
+Tibet Kitchen,"Himalayan/Nepalese, Asian Fusion",Himalayan/Nepalese,Asian Fusion,4.5,"318 10 Street NW, Calgary",51.05472,-114.08571,14,680.86,14032708828,False,$$,Calgary
+Tamarind Vietnamese Grill & Noodle House,"Vietnamese, Vegan, Vegetarian",Vietnamese,Vietnamese,4.5,"908 12 Ave SW, Calgary",51.042103,-114.082193,94,1915.13,14032626644,False,$$,Calgary
+La Bodega,Mexican,Mexican,Mexican,4.5,"318A 10th Street NW, Calgary",51.054805,-114.085699,62,670.6,14035219777,False,$$,Calgary
+Regal Cat Cafe,"Coffee & Tea, Pet Adoption, Themed Cafes","Coffee & Tea, Themed Cafes",NA,4.0,"303 10 Street Northwest, Calgary",51.054173,-114.086201,35,676.38,14034552287,False,$$,Calgary
+Side Street Pub & Grill,"American, Pubs",Pubs,American,4.0,"1167 Kensington Crescent NW, Calgary",51.05191,-114.089439,33,715.76,14032703880,False,$$,Calgary
+Juree's Thai Place,"Thai, Buffets, Noodles",Thai,Thai,4.0,"2055 16th Avenue NW, Calgary",51.066768,-114.107617,147,1397.7,14032646477,False,$$,Calgary
+Flipp'n Burgers,Burgers,Burgers,NA,3.5,"330 10 Street NW, Calgary",51.055176,-114.085751,104,649.34,14034749365,False,$$,Calgary
+Kim's Katsu,Japanese,Japanese,Japanese,4.0,"314 10 Street NW, Calgary",51.054513,-114.085491,24,698.77,14034537461,False,$$,Calgary
+La Casa Latina Mexican & Latin Grill,"Latin American, Mexican",Latin American,"Latin American, Mexican",4.5,"101-1324 11 Ave SW, Calgary",51.043508,-114.092695,36,1568.17,14034754620,False,$$,Calgary
+Ikemen Ramen Bar,"Sushi Bars, Ramen, Cocktail Bars","Sushi Bars, Cocktail Bars",NA,3.5,"217 10 Street NW, Calgary",51.053269,-114.08611,101,742.21,14034522148,False,$$,Calgary
+Bonterra Trattoria,Italian,Italian,Italian,4.0,"1016 8 Street SW, Calgary",51.043481,-114.08122,99,1811.91,14032628480,False,$$$,Calgary
+Sucre Patisserie & Cafe,"Cafes, Bakeries, Patisserie/Cake Shop",Cafes,NA,4.5,"1007  8 Street SW, Calgary",51.04368,-114.081669,46,1777.08,15873525505,False,$$,Calgary
+Abyssinia Restaurant,"Ethiopian, African",Ethiopian,"Ethiopian, African",4.5,"910 12 Avenue SW, Calgary",51.0421,-114.08235,26,1910.65,14034523498,False,$$,Calgary
+Color Cafe,"Art Galleries, Themed Cafes, Paint-Your-Own Pottery",Themed Cafes,NA,3.5,"334 14 Street NW, Calgary",51.05432,-114.09438,10,353.13,14032494386,False,$$$,Calgary
+Ristorante Pulcinella,"Italian, Pizza",Pizza,Italian,3.5,"1147 Kensington Crescent NW, Calgary",51.05221,-114.08872,144,717.77,14032831166,False,$$,Calgary
+Monki Breakfastclub & Bistro,"Breakfast & Brunch, Diners",Breakfast & Brunch,NA,3.5,"1301 10 Ave SW, Calgary",51.043861,-114.091474,204,1537.34,15873527131,False,$$,Calgary
+Wow Chicken,"Chicken Wings, Korean, Fast Food",Fast Food,Korean,3.5,"324 10 Street NW, Calgary",51.054897,-114.085773,57,661.31,14034607557,False,$$,Calgary
+South Silk Road Chinese Restaurant,Chinese,Chinese,Chinese,4.0,"1130 10 Ave SW, Calgary",51.044238,-114.087851,39,1548.68,14032700707,False,$$,Calgary
+Buchanan's Chop House Whisky Bar,"Seafood, Steakhouses, Whiskey Bars","Seafood, Steakhouses, Whiskey Bars",NA,4.0,"738 - 3 Avenue SW, Calgary",51.05091,-114.078222,35,1341.63,14032614646,False,$$$,Calgary
+Original Joe's Restaurant & Bar,"Bars, American",Bars,American,3.5,"1220 Kensington Road NW, Calgary",51.052714,-114.08984,40,621.53,14036705637,False,$$,Calgary
+Cinnamon Indian Cuisine & Bar,"Indian, Bars",Bars,Indian,4.5,"1207 11th Avenue SW, Calgary",51.043,-114.08932,19,1671.68,14032901777,False,$$,Calgary
+Moxies,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.5,"888 7 Ave SW, Calgary",51.04721,-114.08071,62,1525.34,14032347507,False,$$,Calgary
+Edelweiss Village,"Delis, Sandwiches",Sandwiches,NA,4.0,"1921 20 Avenue NW, Calgary",51.07024,-114.10566,70,1617.07,14032826600,False,$$,Calgary
+saVeg Cafe,"Vegan, Korean, Vegetarian",Vegan,Korean,4.5,"637 11 Ave SW, Calgary",51.04241,-114.07629,19,2102.51,14032633126,False,$$,Calgary
+Donna Mac,Canadian (New),Canadian (New),Canadian (New),4.0,"1002 9th Street SW, Calgary",51.043745,-114.083635,45,1706.88,14037193622,False,$$,Calgary
+San Dong Banjeom,Korean,Korean,Korean,4.5,"3803 26 Avenue SW, Calgary",51.029911,-114.14185,22,985.78,14032178855,False,$$,Calgary
+Sauce Italian  Market,"Italian, Cafes",Cafes,Italian,3.5,"3326 17th Avenue SW, Calgary",51.037974,-114.135099,51,1961.07,14037277627,False,$$,Calgary
+Pho Huong Viet Noodle House,Vietnamese,Vietnamese,Vietnamese,4.0,"3855 17th Avenue SW, Calgary",51.03733,-114.14278,96,1610.45,14036863799,False,$,Calgary
+Masala Bhavan,"Indian, Sri Lankan",Indian,Indian,4.0,"4604 37th Street SW, Calgary",51.013012,-114.140126,30,1524.97,14034604535,False,$$,Calgary
+Hanni's Restaurant,Pizza,Pizza,NA,4.5,"4655 37th St Sw, Calgary",51.01274,-114.14157,22,1497.39,14032464555,False,$$,Calgary
+Little Lebanon,Lebanese,Lebanese,NA,4.5,"3515 17 Aveune SW, Calgary",51.0376,-114.13791,81,1794.9,14032170500,False,$,Calgary
+Bow Bulgogi House,"Korean, Barbeque",Barbeque,Korean,4.0,"3515A 17 Avenue SW, Calgary",51.0376,-114.13791,74,1798.89,14036866826,False,$$,Calgary
+LeVilla Restaurant,"Steakhouses, Seafood","Steakhouses, Seafood",NA,3.5,"404 - 1851 Sirocco Drive SW, Calgary",51.037142,-114.167386,35,1766.6,14032179699,False,$$$,Calgary
+Earls Kitchen + Bar,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.5,"140 Stewart Green SW, Calgary",51.016681,-114.167293,38,1323.86,14032467171,False,$$,Calgary
+Waterloo Kitchen  and Bar,"Sports Bars, American",Sports Bars,American,5.0,"3975 17 Ave SW, Calgary",51.03736,-114.14453,11,1568.97,14034555850,False,$$,Calgary
+Momo-Yama Sushi Japanese Cuisine,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"3919 Richmond Road SW, Calgary",51.020879,-114.143514,29,740.84,14032330995,False,$$,Calgary
+Spiros Pizza & Greek Taverna,"Greek, Pizza",Pizza,Greek,3.5,"1902 33 Street SW, Calgary",51.03758,-114.13531,62,1931.42,14036854444,False,$$$,Calgary
+Richmond's Pub & Eatery,"Sports Bars, Canadian (New)",Sports Bars,Canadian (New),3.5,"3919 Richmond Road SW, Calgary",51.021544,-114.142866,38,747.89,14032177744,False,$$,Calgary
+Shimizu Kitchen,Ramen,Ramen,NA,4.5,"1918 37 Street SW, Calgary",51.036998,-114.141065,15,1653.94,14034553380,False,$$,Calgary
+Sophies Pizza,Pizza,Pizza,NA,3.5,"4808 Richmond Road SW, Calgary",51.019094,-114.155542,29,605.25,14032421141,False,$$,Calgary
+Soul Kitchen BBQ,"Barbeque, Food Trucks, Caterers",Barbeque,NA,4.5,"3975 17th Avenue SW, Calgary",51.037456,-114.144532,15,1577.11,14036145952,False,$,Calgary
+Montana's BBQ & Bar,"Comfort Food, Steakhouses, Canadian (New)",Steakhouses,Canadian (New),2.5,"5622 Signal Hill Ctr Sw, Calgary",51.019582,-114.167957,50,1187.54,14032171100,False,$$,Calgary
+Chili Club Thai House,Thai,Thai,Thai,3.5,"1904 36th Street SW, Calgary",51.03766,-114.13928,43,1762.1,14032178862,False,$$$$,Calgary
+Dragon's Lair Burger,Burgers,Burgers,NA,4.0,"1200 - 37th Street SW, Calgary",51.041589,-114.14009,31,2121.35,15873494376,False,$,Calgary
+Famoso Neapolitan Pizzeria,"Pizza, Italian",Pizza,Italian,3.5,"125 Stewart Green SW, Calgary",51.016869,-114.168888,33,1398.76,14032422222,False,$$,Calgary
+Howie's Pizza,Pizza,Pizza,NA,4.0,"4704 26 Avenue SW, Calgary",51.030645,-114.153212,12,735.98,14032403228,False,$$,Calgary
+Caffe Francesco,"Italian, Delis, Coffee & Tea",Coffee & Tea,Italian,4.0,"3413 26 Avenue SW, Calgary",51.02967,-114.13618,19,1302.03,14032491151,False,$$,Calgary
+Lemongrass West Vietnamese Cuisine,Vietnamese,Vietnamese,Vietnamese,3.0,"3715 51 Street SW, Calgary",51.021227,-114.162612,35,771.34,14032422633,False,$$,Calgary
+Greco's Pizza & George's Lounge,Pizza,Pizza,NA,3.5,"3511 17 Ave SW, Calgary",51.037675,-114.137706,27,1826.73,14032424597,False,$$,Calgary
+Little Chief,Canadian (New),Canadian (New),Canadian (New),4.5,"3777 Grey Eagle Drive, Calgary",51.007066,-114.148294,8,1932.81,15873901400,False,$$,Calgary
+Murdoch's Bar & Grill,"Bars, British, American",Bars,"British, American",3.5,"1935 37th Street SW, Calgary",51.036772,-114.141727,16,1590.93,14032427474,False,$$,Calgary
+Savino Pizzeria,"Pizza, Italian",Pizza,Italian,5.0,"3132 43 Street SW, Calgary",51.02585,-114.14946,1,293.91,14035401761,False,$$,Calgary
+Golden Bell,Vietnamese,Vietnamese,Vietnamese,3.0,"5255 Richmond Road SW, Calgary",51.016615,-114.160951,17,1025.83,14032404048,False,$$,Calgary
+Hot Wok Cafe,Chinese,Chinese,Chinese,4.0,"4700 26 Avenue SW, Calgary",51.030769,-114.153022,5,727.68,14032468300,False,$$,Calgary
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"5621 Signal Hill Centre Southwest, Calgary",51.018795,-114.168526,13,1262.95,14032174104,False,$,Calgary
+Signature Palace Restaurant,Chinese,Chinese,Chinese,3.5,"1919 Sirocco Drive SW, Calgary",51.0364,-114.166795,16,1675.53,14032468883,False,$$,Calgary
+Pho Pham,Vietnamese,Vietnamese,Vietnamese,4.5,"5683 Signal Hill Center SW, Calgary",51.018013,-114.170571,5,1430.18,14037644588,False,$$,Calgary
+Kinjo,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"120 Stewart Green SW, Calgary",51.017079,-114.167256,16,1293.41,15878648523,False,$$,Calgary
+Papa Johns Pizza,Pizza,Pizza,NA,4.5,"4001 Richmond Rd Sw, Calgary",51.02117,-114.14404,2,692.13,14032177373,False,$$,Calgary
+OPA! of Greece Westhills,"Fast Food, Greek",Fast Food,Greek,4.0,"141A Stewart Green SW, Calgary",51.0171,-114.16898,7,1394.78,14032175006,False,$,Calgary
+Heritage Bakery & Deli,"Delis, Bakeries",Delis,NA,3.5,"1912 37 Street SW, Calgary",51.037337,-114.140965,14,1671.69,14036866835,False,$$,Calgary
+Jerusalem Shawarma,"Middle Eastern, Mediterranean, Donairs",Middle Eastern,"Middle Eastern, Mediterranean",3.5,"480-5255 Richmond Road SW, Calgary",51.016628,-114.160779,12,1017.83,14032497693,False,$$,Calgary
+Busan Korean Cuisine,Korean,Korean,Korean,4.5,"33B-4604 37 Street SW, Calgary",51.013031,-114.140255,5,1518.02,15873532443,False,$$,Calgary
+Touch of India,Indian,Indian,Indian,4.5,"2835 37 Street SW, Calgary",51.029487,-114.142251,3,934.26,14032937635,False,$$,Calgary
+Pho Express,"Vietnamese, Noodles, Soup",Vietnamese,Vietnamese,3.0,"4604 37 Street SW, Calgary",51.014076,-114.140582,15,1410.45,14034522626,False,$$,Calgary
+Primal Grounds Cafe,"Sandwiches, Cafes, Soup","Sandwiches, Cafes",NA,3.0,"5255 Richmond Road SW, Calgary",51.017056,-114.160688,8,975.02,14034545282,False,$$,Calgary
+Sushi & Kitchen,"Sushi Bars, Japanese",Sushi Bars,Japanese,2.5,"5620 Signal Hill Centre SW, Calgary",51.019022,-114.168987,16,1260.26,15877779999,False,$$,Calgary
+Humpty's Family Restaurant,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),3.0,"530-5255 Richmond Road SW, Calgary",51.016594,-114.160258,6,1001.14,14032426336,False,$$,Calgary
+Swiss Chalet Rotisserie & Grill,"Comfort Food, American, Chicken Shop",Comfort Food,American,1.5,"5658 Signal Hill Centre SW, Calgary",51.01912,-114.16989,20,1331.86,15878647210,False,$$,Calgary
+New Camp,"American, Wine Bars, Cocktail Bars","Wine Bars, Cocktail Bars",American,4.0,"1851 Sirocco Drive SW, Calgary",51.03738,-114.167665,1,1799.49,14038798198,False,$$,Calgary
+Blaze Bar & Grill,"Bars, Noodles, Fish & Chips",Bars,NA,4.5,"3777 Grey Eagle Drive, Calgary",51.007413,-114.145913,2,1928.65,14033853777,False,$$,Calgary
+Jolly Good Chinese & Thai Food,"Chinese, Thai",Chinese,"Chinese, Thai",3.0,"3315 26 Avenue SW, Calgary",51.02982,-114.13514,12,1387.18,14032424400,False,$$$,Calgary
+Mucho Burrito Fresh Mexican Grill,Mexican,Mexican,Mexican,2.5,"160 Stewart Green Sw, Calgary",51.01631,-114.167412,18,1355.9,14037276477,False,$$,Calgary
+Jordan Valley Shawarma,"Middle Eastern, Mediterranean, Halal",Middle Eastern,"Middle Eastern, Mediterranean",5.0,"428-1919 Sirocco Drive SW, Calgary",51.03573,-114.166295,1,1594.85,14032567879,False,$$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.0,"100 Stewart Green SW, Calgary",51.01757,-114.1672,19,1256.11,14032461577,False,$$,Calgary
+Shawarma Palace,"Middle Eastern, Mediterranean, Donairs",Middle Eastern,"Middle Eastern, Mediterranean",4.0,"3820 17 Avenue SE, Calgary",51.038094,-113.979165,39,1709.0,14032735555,False,$,Calgary
+Supreme Dosa,Indian,Indian,Indian,5.0,"1919 31 St SE, Calgary",51.036543,-113.990078,17,1589.19,14034755672,False,$,Calgary
+Begim Uzbek Cuisine,Afghan,Afghan,NA,4.0,"4413 - 17 Avenue SE, Calgary",51.03742,-113.97052,29,1843.74,15873534413,False,$$,Calgary
+Adobo Experience,Filipino,Filipino,Filipino,4.0,"4303 17th Avenue SE, Calgary",51.03763,-113.97231,19,1794.05,14034759188,False,$$,Calgary
+Pho Binh Minh,Vietnamese,Vietnamese,Vietnamese,4.0,"4710 17 Avenure SE, Calgary",51.038949,-113.966265,22,2137.11,14032352521,False,$$,Calgary
+Banh Mi Nhu Y,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,5.0,"3229 17 Avenue SE, Calgary",51.03704,-113.988516,11,1613.03,15873523330,False,$$,Calgary
+Sammy's Chophouse,"Bars, Steakhouses, Pizza","Bars, Steakhouses, Pizza",NA,4.0,"3151 34 Avenue SE, Calgary",51.022389,-113.990046,10,485.78,14032733343,False,$,Calgary
+Rise N' Shine Breakfast Place,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"2014 36 Street SE, Calgary",51.03577,-113.98142,7,1434.63,14032715170,False,$,Calgary
+Hdmona Restaurant,Ethiopian,Ethiopian,Ethiopian,4.5,"2881 17 Avenue SE, Calgary",51.037392,-113.992095,11,1725.3,14036999690,False,$$,Calgary
+Big Al's Bar & Grill,"Pizza, Cocktail Bars, Steakhouses","Pizza, Cocktail Bars, Steakhouses",NA,3.5,"1915 - 31 Street SE, Calgary",51.03646,-113.98979,14,1585.23,14032723477,False,$,Calgary
+Phil's Restaurants,"Coffee & Tea, Breakfast & Brunch, Diners",Coffee & Tea,NA,4.0,"3210 17 Avenue SE, Calgary",51.038175,-113.989236,7,1747.58,14032721007,False,$$,Calgary
+80 Ate Indo Chinese Fusion House,"Indian, Hakka, Seafood",Seafood,Indian,4.5,"4408 17th Avenue SE, Calgary",51.038172,-113.97105,9,1894.35,14032728701,False,$$,Calgary
+Tim's Cafe,Cafes,Cafes,NA,4.5,"4210 17 Avenue SE, Calgary",51.038076,-113.973676,5,1809.8,14032733464,False,$$,Calgary
+Eggsmart,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"2515 Barlow Trail Southeast, Calgary",51.008308,-114.00034,11,2022.15,14035239200,False,$,Calgary
+Bonasera Pizza & Sports Bar,"Pizza, Sports Bars","Pizza, Sports Bars",NA,3.0,"3525 26 Ave SE, Calgary",51.0299,-113.982511,23,776.23,14032733151,False,$$,Calgary
+Mekong Restaurant,Vietnamese,Vietnamese,Vietnamese,4.0,"2885 17 Avenue SE, Calgary",51.037635,-113.992092,14,1722.07,14032481488,False,$,Calgary
+Pho 26,Vietnamese,Vietnamese,Vietnamese,3.5,"4019A 17 Avenue SE, Calgary",51.037503,-113.976403,16,1687.71,14034572636,False,$,Calgary
+Popeyes Louisiana Kitchen,"Fast Food, Chicken Wings, Chicken Shop",Fast Food,NA,3.5,"3909 17 Avenue SE, Calgary",51.037581,-113.978374,36,1662.95,15873561821,False,$,Calgary
+Jakova Grill,"Mediterranean, Burgers, Hot Dogs",Burgers,Mediterranean,5.0,"1919F 31 Street SE, Calgary",51.036456,-113.99047,2,1588.57,14032486373,False,$,Calgary
+Luigi's 2 For 1 Pizza,Pizza,Pizza,NA,4.0,"4016 17 Ave SE, Calgary",51.037975,-113.976195,9,1748.81,14032481650,False,$,Calgary
+Denny's,"Diners, Breakfast & Brunch, American",Diners,American,3.0,"4515 25th St SE, Calgary",51.014318,-114.000105,13,1526.16,14032480700,False,$$,Calgary
+The Desert Pita & Grill,Lebanese,Lebanese,NA,4.0,"3912 17 Avernue SE, Calgary",51.038152,-113.977488,7,1738.24,14032486688,False,$$,Calgary
+Eat-A-Pita,"Mediterranean, Middle Eastern",Mediterranean,"Mediterranean, Middle Eastern",4.0,"4602 17th Avenue SE, Calgary",51.037975,-113.968316,7,1990.96,14032733113,False,$,Calgary
+Yegna Ethiopian Cuisine,Ethiopian,Ethiopian,Ethiopian,4.5,"100-3515 17 Avenue SE, Calgary",51.037471,-113.983577,3,1617.12,14034836995,False,$,Calgary
+Pita Corner,"Donairs, Falafel",Donairs,NA,4.5,"4012 26 Street SE, Calgary",51.018532,-113.998626,2,1187.62,14032652605,False,$$,Calgary
+Dragon Gate Restaurant,Chinese,Chinese,Chinese,3.5,"4408 17 Avenue SE, Calgary",51.037975,-113.971086,9,1888.38,14032728701,False,$$$,Calgary
+Banh Mi Soc Trang Subs,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,4.0,"4710 17 Avenue SE, Calgary",51.038833,-113.967287,6,2087.57,14032350142,False,$$$,Calgary
+Tong Ky B-B-Q House,Barbeque,Barbeque,NA,4.5,"4301 17 Ave SE, Calgary",51.03761,-113.97258,4,1789.39,14032483122,False,$$,Calgary
+Border Crossing,"Steakhouses, Pubs","Steakhouses, Pubs",NA,3.0,"1814 36 Street SE, Calgary",51.03722,-113.98118,7,1587.69,14032728333,False,$$,Calgary
+Pho 88 Noodle House,Vietnamese,Vietnamese,Vietnamese,3.5,"3713 17 Avenue SE, Calgary",51.037477,-113.98076,5,1626.09,14032739430,False,$$,Calgary
+Manilla's Finest Grill and Pub,Filipino,Filipino,Filipino,4.0,"3460 17th Avenue SE, Calgary",51.03803,-113.98493,4,1683.54,14032355533,False,$$,Calgary
+Hungarian Deli,Delis,Delis,NA,4.0,"4008 26th Street SE, Calgary",51.018117,-113.999021,2,1232.16,14032078505,False,$$,Calgary
+Far East Foods,"Cantonese, Seafood, Chicken Shop",Seafood,NA,2.5,"2830 17 Avenue SE, Calgary",51.038076,-113.993516,12,1833.51,14032728100,False,$,Calgary
+Tandoori Kabab Hut,"Indian, Kebab",Indian,Indian,4.5,"4805A 17 Avenue  SE, Calgary",51.03762,-113.96538,2,2030.59,14034609757,False,$,Calgary
+Mr Sub,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,4.0,"3330 - 17th Avenue SE, Calgary",51.038681,-113.987457,4,1776.99,14032070021,False,$,Calgary
+Pacific Hut Restaurant,Filipino,Filipino,Filipino,2.0,"3223 17 Avenue SE, Calgary",51.036931,-113.988452,27,1600.22,14032482466,False,$$,Calgary
+Fritou Chicken and Pizza Forest Lawn,"Chicken Shop, Pizza, Halal",Pizza,NA,2.0,"3719 17 Avenue SE, Calgary",51.037602,-113.980421,6,1642.56,15873560700,False,$,Calgary
+Gaya Sushi & Ramen Restaurant,Japanese,Japanese,Japanese,5.0,"9-3525 26 Avenue SE, Calgary",51.02998,-113.983152,1,783.79,<NA>,False,$,Calgary
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,2.5,"4710 17 Avenue SE, Calgary",51.038167,-113.96612,17,2071.04,14032995519,False,$$,Calgary
+Mama Julie's Pizza and Grill,"Pizza, Filipino, Barbeque","Pizza, Barbeque",Filipino,5.0,"4604 17 Avenue SE, Calgary",51.038182,-113.968206,1,1992.2,14032487008,False,$$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"4615 17th Ave SE, Calgary",51.037496,-113.967579,7,1951.75,14032727477,False,$$,Calgary
+Osmow's,"Mediterranean, Middle Eastern",Mediterranean,"Mediterranean, Middle Eastern",3.0,"4501 17 Avenue SE, Calgary",51.037561,-113.969507,4,1804.42,14032071410,False,$$,Calgary
+Asia Submarine & Fast Foods Deli,Vietnamese,Vietnamese,Vietnamese,4.5,"2857- 17 Avenue SE, Calgary",51.03737,-113.992554,2,1734.92,14035698875,False,$$,Calgary
+Chicken on the Way,"Fast Food, Chicken Shop",Fast Food,NA,2.5,"3235 17 Avenue SE, Calgary",51.037441,-113.98836,7,1654.04,14032651350,False,$,Calgary
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"3120 17th Avenue SE, Calgary",51.038124,-113.990118,4,1758.17,14032731373,False,$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"4545 25th Street SE, Calgary",51.014133,-114.000413,6,1553.8,14032725553,False,$,Calgary
+Yummi Yogis,"Food Trucks, Vegetarian",Food Trucks,NA,3.5,", Calgary",51.035599,-113.990875,5,1477.61,14034725655,False,$,Calgary
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"4605 25th Street S.E., Calgary",51.01294,-113.99951,3,1618.74,14032727333,False,$,Calgary
+Hong Chou Inn,Chinese,Chinese,Chinese,1.5,"4721A 17 Avenue SE, Calgary",51.037715,-113.966916,7,1991.72,14032728433,False,$$$,Calgary
+OPA! of Greece Peigan & Barlow,"Greek, Fast Food",Fast Food,Greek,3.5,"4575 25 St SE, Calgary",51.013564,-113.999813,4,1562.92,14032040546,False,$,Calgary
+Around the Bend,Sandwiches,Sandwiches,NA,4.5,"116-8400 Blackfoot Trail SE, Calgary",50.977907,-114.047337,30,625.31,14035230989,False,$$,Calgary
+Noodlebox,"Asian Fusion, Noodles",Asian Fusion,Asian Fusion,4.0,"9 Heritage Gate SE, Calgary",50.987995,-114.045771,50,1751.2,14032552586,False,$$,Calgary
+Beirut Street Food,"Donairs, Lebanese, Falafel",Donairs,NA,4.5,"7220 Fairmount Drive SE, Calgary",50.988526,-114.063305,38,2060.09,14035127772,False,$$,Calgary
+Pacini,Italian,Italian,Italian,4.0,"8360 Blackfoot Trail SE, Calgary",50.979208,-114.046827,10,774.07,14034758565,False,$$,Calgary
+Cravings Market Restaurant,"Delis, Mediterranean",Delis,Mediterranean,3.5,"7207 Fairmount Drive SE, Calgary",50.989083,-114.064344,59,2150.0,14032522083,False,$$,Calgary
+Via Cibo,"Italian, Salad, Pizza",Pizza,Italian,3.5,"7929 11th Street SE, Calgary",50.98359,-114.043115,74,1327.24,14032539273,False,$$,Calgary
+Subs 'n' Bubbles,"Vietnamese, Bubble Tea",Vietnamese,Vietnamese,4.5,"7 - 7204 Fairmount Drive SE, Calgary",50.98917,-114.063283,24,2122.12,15873538198,False,$,Calgary
+Spinelli Italian Centre Shop,"Italian, Grocery",Italian,Italian,4.0,"9919 Fairmount Drive SE, Calgary",50.963103,-114.060119,18,1295.75,14032384869,False,$$,Calgary
+Moxies,"Canadian (New), Sports Bars, Lounges",Sports Bars,Canadian (New),2.5,"7995 11th Street SE, Calgary",50.982541,-114.044567,54,1170.97,14032505973,False,$$,Calgary
+Moxies,"Canadian (New), Steakhouses, Lounges",Steakhouses,Canadian (New),3.5,"8001 11 St SE, Calgary",50.981476,-114.045263,22,1044.11,14032522483,False,$$,Calgary
+Hearts Choices,"Vegan, Thai",Vegan,Thai,5.0,"510 77th Avenue SE, Calgary",50.985928,-114.052,8,1523.11,14032762163,False,$$,Calgary
+Five Guys,"Burgers, Fast Food","Burgers, Fast Food",NA,4.0,"33 Heritage Meadows Way SE, Calgary",50.98296,-114.039345,39,1354.33,14032523373,False,$$,Calgary
+Fatburger,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"1000 - 33 Heritage Meadows Way SE, Calgary",50.982334,-114.04075,38,1246.2,14032551144,False,$$,Calgary
+Golden Gate Restaurant,Chinese,Chinese,Chinese,2.5,"14 - 430 Acadia Drive SE, Calgary",50.9698,-114.04854,9,289.9,14032592777,False,$$,Calgary
+Starlite Restaurant & Bar,"Canadian (New), Pizza",Pizza,Canadian (New),3.5,"369 Heritage Drive SE, Calgary",50.978573,-114.061506,20,1120.09,14032553333,False,$$,Calgary
+Ikea Restaurant,"Bistros, Scandinavian",Bistros,NA,3.5,"8000 11 Street SE, Calgary",50.98061,-114.042987,10,1005.47,18668664532,False,$,Calgary
+Shef's Fiery Kitchen,"Thai, Indian",Thai,"Thai, Indian",4.0,"Calgary Farmer's Market, Calgary",50.984737,-114.051163,9,1384.26,14039187433,False,$,Calgary
+Denny's,"American, Diners, Breakfast & Brunch",American,American,2.0,"8001 11th St SE, Calgary",50.982628,-114.04508,20,1171.6,14032520960,False,$$,Calgary
+Tang,Vietnamese,Vietnamese,Vietnamese,3.5,"909 - 33 Heritage Meadows Way SE, Calgary",50.982087,-114.040534,20,1228.99,14032581808,False,$$,Calgary
+Gondola Incomparable Pizza,Pizza,Pizza,NA,2.0,"430 Acadia Drive SE, Calgary",50.9698,-114.04854,10,289.9,14032594747,False,$$,Calgary
+Ricky's All Day Grill,Breakfast & Brunch,Breakfast & Brunch,NA,2.0,"860-8180 11 Street SE, Calgary",50.978936,-114.041185,17,908.17,14032661616,False,$$,Calgary
+Chilitos Taqueria,"Farmers Market, Mexican",Farmers Market,Mexican,3.5,"510 77th Ave SE, Calgary",50.98454,-114.05071,19,1523.11,14032285528,False,$$,Calgary
+FastLane Pizza,"Pizza, Salad, Fast Food","Pizza, Fast Food",NA,3.5,"2A-675 Acadia Drive SE, Calgary",50.960403,-114.046422,18,1341.93,14032711181,False,$,Calgary
+Ma Bonne Crepes & Sandwiches,"Creperies, Sandwiches, Food Stands",Sandwiches,NA,4.0,"510 77 Avenue SE, Calgary",50.98454,-114.05071,2,1523.11,14038693316,False,$,Calgary
+Pho Nam Vietnamese Cuisine,Vietnamese,Vietnamese,Vietnamese,3.5,"8302 Fairmont Drive SE, Calgary",50.979238,-114.059494,14,1064.57,14032556444,False,$$,Calgary
+European Market Deli & Produce,"Modern European, Delis",Modern European,Modern European,4.5,"7151 11 Street SE, Calgary",50.990179,-114.041134,3,2053.52,14032557564,False,$$,Calgary
+Sushi Shop,Sushi Bars,Sushi Bars,NA,3.5,"33 Heritage Meadows Way SE, Calgary",50.98299,-114.039659,11,1346.51,14034602577,False,$$,Calgary
+Boston Pizza,Pizza,Pizza,NA,2.5,"7 Heritage Gate SE, Calgary",50.98749,-114.045436,21,1698.68,14032533333,False,$$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,4.5,"7979 11 Street SE, Calgary",50.984014,-114.046084,2,1309.63,14032472683,False,$,Calgary
+Cherry Pit,"Salad, Juice Bars & Smoothies, Fruits & Veggies",Juice Bars & Smoothies,NA,3.5,"510 77 Avenue SE, Calgary",50.98459,-114.05091,9,1523.11,14037709689,False,$$,Calgary
+Shanghai Fine Food,"Dim Sum, Food Stands",Dim Sum,NA,4.0,"510 77 Avenue SE, Calgary",50.985928,-114.052,9,1523.11,14038309352,False,$$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,2.5,"1400-33 Heritage Meadows Way SE, Calgary",50.983412,-114.040929,15,1348.71,14036634395,False,$,Calgary
+TacoTime,Mexican,Mexican,Mexican,3.5,"33 Heritage Meadows Way SE, Calgary",50.981196,-114.039651,7,1175.77,14032338226,False,$,Calgary
+M Bistro Dim Sum & Peking Duck,"Chinese, Noodles, Asian Fusion",Chinese,"Chinese, Asian Fusion",3.5,"150-25 Heritage Meadows Way SE, Calgary",50.9858,-114.04422,8,1462.14,14032556377,False,$,Calgary
+Tops Pizza and Steakhouse South,Pizza,Pizza,NA,3.5,"9919 Fairmount Drive SE, Calgary",50.962671,-114.059334,13,1302.67,14032781511,False,$$$,Calgary
+Yoon's Chicken,"Chicken Wings, Burgers",Burgers,NA,5.0,"510-77 Avenue SE, Calgary",50.984783,-114.051507,2,1392.25,15878960588,False,$$$,Calgary
+Thai express,Thai,Thai,Thai,4.0,"33 Heritage Meadows Way SE, Calgary",50.98333,-114.03997,3,1276.71,14032581808,False,$$$,Calgary
+Simply Good Eats,"Farmers Market, Breakfast & Brunch",Farmers Market,NA,4.5,"510 77 Avenue SE, Calgary",50.98459,-114.05091,2,1523.11,14038755688,False,$$$,Calgary
+Mucho Burrito Fresh Mexican Grill,Mexican,Mexican,Mexican,3.0,"933-33 Heritage Meadows Way SE, Calgary",50.98206,-114.04088,8,1215.01,14034609616,False,$,Calgary
+Dairy Queen Grill & Chill,"Ice Cream & Frozen Yogurt, Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"8180 11th St Se, Calgary",50.978945,-114.041035,3,915.29,14032528230,False,$,Calgary
+The Chopped Leaf,"Salad, Soup, Sandwiches",Sandwiches,NA,3.5,"33 Heritage Meadows Way, Calgary",50.981004,-114.039643,3,1158.35,15873525323,False,$,Calgary
+Pita Queen,Fast Food,Fast Food,NA,4.5,"7204 Fairmount Drive SE, Calgary",50.98924,-114.06345,3,2134.53,14032594999,False,$,Calgary
+Big T's BBQ,Barbeque,Barbeque,NA,4.0,"510 - 77th Avenue SE, Calgary",50.98459,-114.05091,1,1523.11,15878972545,False,$,Calgary
+Twotwo’s Fish and Chips,Fish & Chips,Fish & Chips,NA,5.0,"510 77 Avenue SE, Calgary",50.985055,-114.051623,1,1423.35,14038806924,False,$,Calgary
+Popeyes Louisiana Chicken,"Fast Food, Chicken Shop, Chicken Wings",Fast Food,NA,1.5,"395 Heritage Dr SE, Calgary",50.979273,-114.06133,7,1159.35,14033868241,False,$,Calgary
+Petit Mousse,"Farmers Market, French",Farmers Market,French,3.0,"77th Avenue SE, Calgary",50.98439,-114.050911,8,1494.74,14036681744,False,$,Calgary
+OPA! of Greece Deerfoot Meadows,"Greek, Fast Food",Fast Food,Greek,4.5,"33 Heritage Meadows Way SE, Calgary",50.983758,-114.041276,2,1276.71,14032717762,False,$,Calgary
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,3.0,"8-7929 11 Street SE, Calgary",50.983957,-114.043034,7,1352.29,14032556661,False,$$,Calgary
+Dairy Queen / Orange Julius,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,2.0,"9919 Fairmount Dr SE, Calgary",50.962828,-114.060074,5,1333.15,14032710828,False,$$,Calgary
+2 Greek Gals,"Greek, Mediterranean",Greek,"Greek, Mediterranean",2.5,"510 77 Ave SE, Calgary",50.98459,-114.05091,11,1523.11,14032421590,False,$,Calgary
+Matador Pizza & Steak House,"Pizza, Steakhouses","Pizza, Steakhouses",NA,3.5,"101- 4625 Varsity Drive NW, Calgary",51.09287,-114.153601,88,344.35,14032863133,False,$$,Calgary
+Euphoria Cafe,"Coffee & Tea, Sandwiches, Bakeries","Coffee & Tea, Sandwiches",NA,4.0,"110 - 8 Varsity Estates Circle NW, Calgary",51.103325,-114.164253,71,1097.27,14033130503,False,$,Calgary
+Kinjo Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"415-5005 Dalhousie Drive NW, Calgary",51.10503,-114.162202,159,1166.79,14034528389,False,$$,Calgary
+Varsity Pizza & Subs,Pizza,Pizza,NA,4.0,"1-4624 Varsity Drive NW, Calgary",51.093563,-114.154427,18,270.78,14032887928,False,$,Calgary
+Peking Garden,Chinese,Chinese,Chinese,3.0,"4625 Varsity Drive NW, Calgary",51.092673,-114.153947,52,366.2,14032860488,False,$$,Calgary
+Fresh Blend Coffee & Sandwich Bar,"Coffee & Tea, Sandwiches, Cafes","Coffee & Tea, Sandwiches, Cafes",NA,3.5,"4625 Varsity Drive NW, Calgary",51.091985,-114.154347,20,444.28,14032881888,False,$$,Calgary
+Earls Kitchen + Bar,"Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),2.5,"5005 Dalhousie Dr. NW, Calgary",51.105485,-114.163267,64,1248.52,14032471143,False,$$,Calgary
+Saffron Fine Indian Takeout,Indian,Indian,Indian,4.5,"136-3604 52 Avenue  NW, Calgary",51.099873,-114.139629,18,1079.87,14034417700,False,$$,Calgary
+Bro's To Go,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"303-4820 Northland Drive NW, Calgary",51.095814,-114.14051,7,927.19,14033002246,False,$$,Calgary
+Milestones,"Comfort Food, Bars, Canadian (New)",Bars,Canadian (New),3.0,"3625 Shaganappi Trail NW, Calgary",51.085941,-114.154462,63,1115.64,14032473792,False,$$,Calgary
+The Keg Steakhouse + Bar,"Bars, Seafood, Steakhouses","Bars, Seafood, Steakhouses",NA,4.0,"3625 Shaganappi Trail Nw, Calgary",51.08299,-114.15385,10,1442.74,15873550300,False,$$,Calgary
+Lazy Monkey,"Cafes, Taiwanese, Bubble Tea",Cafes,NA,3.0,"3616 52 Avenue NW, Calgary",51.101352,-114.140061,46,1130.15,14033382123,False,$$,Calgary
+Snow Palace,Chinese,Chinese,Chinese,4.0,"5403 Crowchild Trail NW, Calgary",51.103846,-114.164672,17,1200.85,14032083533,False,$$,Calgary
+Bo Ri Korean Restaurant,"Japanese, Korean, Barbeque",Barbeque,"Japanese, Korean",4.5,"35-3616 52 Avenue NW, Calgary",51.101709,-114.139514,5,1183.67,14032826551,False,$$,Calgary
+Essence of Saigon Vietnamese Bistro,Vietnamese,Vietnamese,Vietnamese,3.5,"128 - 3604 52 Avenue NW, Calgary",51.101717,-114.139048,23,1211.68,14032104909,False,$$,Calgary
+OEB Breakfast,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"4132 University Ave NW, Calgary",51.0779,-114.14689,27,2043.11,18252059942,False,$$,Calgary
+Damas Cafe,"Mediterranean, Chicken Shop, Kebab",Mediterranean,Mediterranean,5.0,"5111 Northland Drive NW, Calgary",51.09741,-114.14192,2,750.94,14034535563,False,$$,Calgary
+OPA! of Greece Market Mall,"Greek, Fast Food",Fast Food,Greek,4.0,"3625 Shaganappi Trail NW, Calgary",51.084846,-114.154017,13,1236.51,14032470777,False,$,Calgary
+South St. Burger,Burgers,Burgers,NA,4.5,"003A-3625 Shaganappi Trail NW, Calgary",51.085341,-114.153714,3,1181.34,15873167378,False,$,Calgary
+Hurry Curry,Indian,Indian,Indian,5.0,"3625 Shaganappi Trail NW, Calgary",51.085307,-114.153644,2,1185.17,16476430536,False,$,Calgary
+Vietnamese Beef Stew Noodle House,Vietnamese,Vietnamese,Vietnamese,4.0,"3 - 3616 52nd Avenue NW, Calgary",51.101352,-114.139697,14,1151.83,14032200681,False,$,Calgary
+Chachi's Sandwich Bar,Sandwiches,Sandwiches,NA,3.5,"3625 Shaganappi Trail NW, Calgary",51.085148,-114.153708,17,1202.75,14034743004,False,$$,Calgary
+Cuty Restaurant,Vietnamese,Vietnamese,Vietnamese,4.0,"505-5005 Dalhousie Drive, Calgary",51.105208,-114.162576,8,1197.12,14034556098,False,$$,Calgary
+Thai Express,Thai,Thai,Thai,3.5,"3625 Shaganappi Trail NW, Calgary",51.085241,-114.153615,7,1192.47,14032659553,False,$,Calgary
+Sesame,"Chinese, Vietnamese, Thai",Chinese,"Chinese, Vietnamese, Thai",4.5,"4122 University Avenue NW, Calgary",51.07822,-114.146702,3,2034.25,15873534122,False,$,Calgary
+NAM Vietnamese Kitchen,Vietnamese,Vietnamese,Vietnamese,4.0,"3625 Shaganappi Trail NW, Calgary",51.085188,-114.153663,4,1198.32,14034607311,False,$,Calgary
+GoGo Chicken,"Korean, Chicken Shop",Korean,Korean,5.0,"3616 52 Ave NW, Calgary",51.101344,-114.139614,2,1156.31,<NA>,False,$,Calgary
+The Banquet,"Bars, Salad, Pizza","Bars, Pizza",NA,4.0,"3957 University Avenue NW, Calgary",51.0779,-114.14689,4,2072.76,15879434726,False,$,Calgary
+Koya Japan,Japanese,Japanese,Japanese,3.0,"5111 Northland Drive NW, Calgary",51.097977,-114.144092,4,712.94,14032868010,False,$,Calgary
+TacoTime,Mexican,Mexican,Mexican,2.5,"3625 Shaganappi Trail NW, Calgary",51.08455,-114.155405,7,1274.31,14034528826,False,$,Calgary
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"5120 Shaganappi Trail NW, Calgary",51.101085,-114.14348,5,917.63,14032470603,False,$,Calgary
+Don’t Yell At Me,"Bubble Tea, Coffee & Tea, Food Court",Coffee & Tea,NA,4.0,"3625 Shaganappi Trail NW, Calgary",51.08541,-114.153948,2,1173.69,14034526008,False,$,Calgary
+New York Fries,Fast Food,Fast Food,NA,3.5,"3625 Shaganappi Trail NW, Calgary",51.085067,-114.154312,5,1212.38,14032552744,False,$,Calgary
+Boston Pizza,"Pizza, Italian, Chicken Wings",Pizza,Italian,2.5,"703 5005 Dalhousie Drive NW, Calgary",51.105804,-114.163676,13,1293.79,14032881700,False,$$,Calgary
+Dairy Queen/Orange Julius Treat Ctr,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,4.0,"3625 Shaganappi Trail NW, Calgary",51.084741,-114.155368,1,1254.08,14034529199,False,$$,Calgary
+Bourbon Street Grill,Cajun/Creole,Cajun/Creole,NA,3.0,"3625 Shaganappi Trail NW, Calgary",51.085092,-114.153769,9,1208.95,14032886829,False,$,Calgary
+Chang Mai Thai Food,Thai,Thai,Thai,1.5,", Northwest Calgary",51.093336,-114.153387,5,293.61,14032471200,False,$,Calgary
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"5111 Norland Drive NW, Calgary",51.098444,-114.144018,1,735.66,14032869205,False,$,Calgary
+Dairy Queen Grill & Chill,"Fast Food, Ice Cream & Frozen Yogurt, Burgers","Fast Food, Burgers",NA,3.5,"5005 Dalhousie Drive Nw, Calgary",51.104711,-114.161586,3,1185.04,14032021355,False,$,Calgary
+Silver Wok,"Chinese, Noodles",Chinese,Chinese,1.5,"5111 Northland Drive NW, Calgary",51.09776,-114.144288,4,692.65,14032884949,False,$,Calgary
+Donair Palace,"Mediterranean, Donairs",Mediterranean,Mediterranean,3.5,"3604 52nd Avenue NW, Calgary",51.101559,-114.138199,10,1253.59,14034576011,False,$,Calgary
+Crepeworks,"Specialty Food, French, Creperies",Specialty Food,French,2.0,"3625 Shaganappi Trail NW, Calgary",51.085144,-114.154325,8,1203.76,14034526632,False,$,Calgary
+Hula,"Poke, Food Court",Poke,NA,3.0,"3625 Shaganappi Trail NW, Calgary",51.084888,-114.153978,7,1231.79,14032881798,False,$,Calgary
+Boston Pizza,Pizza,Pizza,NA,2.0,"3625 Shaganappi Trail NW, Calgary",51.086096,-114.154754,7,1099.48,14038185500,False,$,Calgary
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,1.0,"120-5111 Northland Drive NW, Calgary",51.097957,-114.144538,1,682.74,14033984622,False,$,Calgary
+The Canadian Brewhouse,"Canadian (New), Sports Bars",Sports Bars,Canadian (New),3.0,"3953 University Avenue NW, Calgary",51.078062,-114.145326,6,2076.51,15879434470,False,$,Calgary
+McDonald's,"Burgers, Fast Food, Coffee & Tea","Burgers, Fast Food, Coffee & Tea",NA,2.0,"5221 Northland Drive N.W., Calgary",51.099515,-114.141921,4,917.73,14032865185,False,$,Calgary
+Umi Sushi Express,Japanese,Japanese,Japanese,3.0,"3625 Shaganappi Trl NW, Calgary",51.084855,-114.154196,4,1235.71,14032478878,False,$$,Calgary
+Panago Pizza,"Pizza, Chicken Wings, Food Delivery Services",Pizza,NA,2.0,"319 - 4820 Northland Drive NW, Calgary",51.09529,-114.14086,3,957.82,18663100001,False,$$,Calgary
+Fuwa Fuwa,"Desserts, Pancakes, Cafes","Desserts, Cafes",NA,3.0,"3945 University Avenue NW, Calgary",51.0779,-114.14689,1,2077.88,18252059696,False,$$,Calgary
+Eggs & More,"Breakfast & Brunch, Burgers",Burgers,NA,4.0,"5441 Falsbridge Drive NE, Calgary",51.097486,-113.957587,64,864.54,14032809488,False,$$,Calgary
+Shawarma Palace,"Mediterranean, Middle Eastern, Donairs",Mediterranean,"Mediterranean, Middle Eastern",4.5,"5208 Falsbridge Drive NE, Calgary",51.09896,-113.956211,24,714.72,14034555544,False,$$,Calgary
+Pho Hoang Vietnamese Restaurant,Vietnamese,Vietnamese,Vietnamese,4.5,"1113 Falconridge Drive NE, Calgary",51.098357,-113.95571,19,787.81,14033133525,False,$,Calgary
+Faisal Kabab Hut,Pakistani,Pakistani,NA,4.0,"5120 47 Street NE, Calgary",51.098849,-113.964659,34,836.69,14035907101,False,$$,Calgary
+Bikaner Sweets & Restaurant,Indian,Indian,Indian,4.0,"304-4774 Westwinds Driver NE, Calgary",51.101114,-113.966426,13,727.38,14035685555,False,$$,Calgary
+Punjabi Chulha Restaurant & Sweet Shop,Indian,Indian,Indian,4.5,"83 Martindale Boulevard NE, Calgary",51.113964,-113.95192,12,1058.84,14034539000,False,$$,Calgary
+Royal Paan,Indian,Indian,Indian,4.0,"5075 Falconridge Boulevard NE, Calgary",51.097681,-113.962845,20,897.84,14034548768,False,$$,Calgary
+Fatima Karahi Corner,Pakistani,Pakistani,NA,4.0,"55 Castleridge Boulevard NE, Calgary",51.098334,-113.961744,25,804.26,14034522575,False,$$,Calgary
+Marina Dosa & Tandoori Grill,Indian,Indian,Indian,3.5,"3690 Westwinds Drive NE, Calgary",51.108454,-113.969887,45,881.01,14032936993,False,$$,Calgary
+La Jawab,"Indian, Imported Food",Indian,Indian,3.5,"5075 Falconridge Boulevard NE, Calgary",51.09765,-113.961941,26,881.09,14032643544,False,$$,Calgary
+Alberta King of Subs,Sandwiches,Sandwiches,NA,3.5,"7196 Temple Drive North East, Calgary",51.091067,-113.957522,74,1577.68,14032935809,False,$$,Calgary
+Peshawari Kabab Hut,"Pakistani, Kebab",Pakistani,NA,4.5,"55 Westwinds Crescent NE, Calgary",51.10728,-113.9698,7,830.84,14034552977,False,$$,Calgary
+The Samosa Factory,Indian,Indian,Indian,3.5,"55 Westwinds Cres NE, Calgary",51.107056,-113.969411,19,798.1,14035681447,False,$,Calgary
+Emerald Palace Restaurant,Chinese,Chinese,Chinese,3.0,"55 Castleridge Blvd NE, Calgary",51.098444,-113.962012,13,798.41,14035682832,False,$$,Calgary
+Golden Hill Chinese Food,"Chinese, Imported Food",Chinese,Chinese,4.5,"12 Castleridge Dr NE, Calgary",51.10725,-113.95019,8,632.61,14032801048,False,$$,Calgary
+India Palace,Indian,Indian,Indian,3.5,"5700 Falsbridge Drive, Calgary",51.098701,-113.954748,9,769.94,14032853097,False,$$,Calgary
+Bombay Sweet House & Restaurant,Indian,Indian,Indian,3.5,"55 Castleridge Boulevard NE, Calgary",51.100216,-113.961668,11,756.21,14035901393,False,$$,Calgary
+La-Zee-Za Pizza & Pub,"Pizza, Pubs, Burgers","Pizza, Pubs, Burgers",NA,3.0,"12 Castleridge Drive NE, Calgary",51.107444,-113.950075,10,627.27,14035903131,False,$$,Calgary
+Sector 17,"Fast Food, Burgers, Comfort Food","Fast Food, Burgers",NA,4.5,"3770 Westwinds Drive NE, Calgary",51.107542,-113.974583,2,1109.64,14034741717,False,$$,Calgary
+My Donair,"Delis, Sandwiches, Salad",Sandwiches,NA,4.0,"55 Castleridge Boulevard NE, Calgary",51.100216,-113.961668,6,756.21,14032850840,False,$$,Calgary
+Fahad Restaurant,Pakistani,Pakistani,NA,3.5,"1009-5075 Falconridge Boulevard NE, Calgary",51.097729,-113.960863,8,854.11,14032806677,False,$$,Calgary
+Taste of Ceylon Takeout & Catering,"Sri Lankan, Indian",Sri Lankan,Indian,4.5,"55 Westwinds Crescent Northeast, Calgary",51.107225,-113.969023,3,777.01,14032856808,False,$$,Calgary
+OPA! of Greece McKnight Village,"Greek, Fast Food",Fast Food,Greek,5.0,"5214 Falsbridge Dr NE, Calgary",51.098961,-113.957001,1,721.75,15873517722,False,$$,Calgary
+McDonald's,"Fast Food, Burgers, Coffee & Tea","Fast Food, Burgers, Coffee & Tea",NA,1.5,"5219 Falsbridge Drive N.E., Calgary",51.09896,-113.957,15,694.38,14032934052,False,$,Calgary
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,5.0,"1095 Falconridge Drive, Calgary",51.098916,-113.956284,1,718.43,14035906700,False,$,Calgary
+Bombay Dosa Cafe,Indian,Indian,Indian,4.0,"726-5075 Falconridge Boulevard NE, Calgary",51.096814,-113.961599,2,964.25,14036255878,False,$,Calgary
+Desi Junction Indian Cuisine,"Indian, Pizza, Food Delivery Services",Pizza,Indian,5.0,"108-4850 Westwinds Drive NE, Calgary",51.100885,-113.964021,1,626.01,14034758765,False,$,Calgary
+Savoy's South Indian Restaurant,Indian,Indian,Indian,3.5,"4655 54 Avenue NE, Calgary",51.102147,-113.96777,5,742.56,15876237888,False,$,Calgary
+Mucho Burrito Fresh Mexican Grill,Mexican,Mexican,Mexican,2.5,"5179 Falconridge Boulevard NE, Calgary",51.098729,-113.959359,7,728.02,14037988809,False,$,Calgary
+Sharma Sweets & Restaurant,Indian,Indian,Indian,3.0,"535-4774 Westwinds Drive NE, Calgary",51.100837,-113.96576,2,712.8,14034740033,False,$,Calgary
+Calgary Hot Plate Restaurant,Pakistani,Pakistani,NA,2.5,"5075 Falconridge Boulevard NE, Calgary",51.096933,-113.96297,12,979.03,14035901244,False,$$,Calgary
+Daawat,"Kebab, Pakistani",Kebab,NA,4.0,"9 - 4825 Westwind Drive NE, Calgary",51.099876,-113.964317,1,728.11,14039234500,False,$$,Calgary
+Afghan Chatkhara Restaurant,"Pakistani, Indian",Pakistani,Indian,2.5,"3-12 Castleridge Drive NE, Calgary",51.106765,-113.950085,10,601.19,14039842464,False,$$$,Calgary
+Aryana Cuisine,"Kebab, Afghan",Kebab,NA,4.0,"323, 55 WestWinds Crescent NE, Calgary",51.106867,-113.970102,2,840.11,15873525590,False,$$$,Calgary
+Anaya Paan And Falooda,"Desserts, Indian, Kebab",Desserts,Indian,4.5,"5120 47 Street North East, Calgary",51.099032,-113.965095,3,836.16,14036079312,False,$$$,Calgary
+Dosa Garden,"Indian, Desserts",Desserts,Indian,5.0,"58-55 Castleridge Boulevard NE, Calgary",51.098948,-113.962374,1,754.56,14097980122,False,$$$,Calgary
+Mo's Kitchen,Indian,Indian,Indian,5.0,"4440-44th Ave NE, Calgary",51.092614,-113.967805,2,1552.06,14032805415,False,$$$,Calgary
+M & N Pizza & Restaurant,Pizza,Pizza,NA,5.0,"4656 Westwinds Dr NE, Calgary",51.10028,-113.96804,1,866.02,14035686969,False,$$$,Calgary
+Edo Japan,"Japanese, Fast Food",Fast Food,Japanese,3.5,"5412 Falsbridge Drive NE, Calgary",51.098262,-113.956512,3,787.07,14034575336,False,$,Calgary
+Pho Phu Huong,Vietnamese,Vietnamese,Vietnamese,3.5,"55 Castleridge Boulevard North East, Calgary",51.100216,-113.96167,7,701.18,14032857830,False,$,Calgary
+Gillz Grill,Indian,Indian,Indian,5.0,"105-5120 47 Street NE, Calgary",51.09882,-113.96551,1,857.38,14034532000,False,$,Calgary
+Select Pizza,Pizza,Pizza,NA,4.0,"4851 Westwinds Drive NE, Calgary",51.100208,-113.964294,4,650.91,14035684747,False,$,Calgary
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,2.5,"200-5075 Falconridge Boulevard NE, Calgary",51.097342,-113.959449,3,882.21,14032859070,False,$,Calgary
+Ali's BBQ & Restaurant,Pakistani,Pakistani,NA,3.0,"5120 47 Street NE, Calgary",51.099024,-113.964735,2,823.09,14037780989,False,$,Calgary
+Punjaabi Indian Cuisine,Indian,Indian,Indian,4.5,"838 - 5075 Falconridge Boulevard NE, Calgary",51.09735,-113.95906,2,890.96,14039843500,False,$,Calgary
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,2.0,"McKnight Village Shopping Ctr, Calgary",51.09833,-113.95624,5,786.83,14032851644,False,$,Calgary
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"3660 Westwinds NE, Calgary",51.108356,-113.968017,6,758.39,14032803411,False,$,Calgary
+Boston Pizza,Pizza,Pizza,NA,2.5,"850 Saddletowne Circle NE, Calgary",51.12292,-113.946396,11,2135.08,<NA>,False,$$,Calgary
+Lovely Sweets & Restaurant,Indian,Indian,Indian,2.0,"4818 Westwinds Dr NE, Calgary",51.100368,-113.965042,10,691.86,14035905159,False,$$,Calgary
+KFC,"Chicken Wings, Fast Food, Chicken Shop",Fast Food,NA,1.5,"5335 Falsbridge Drive NE, Calgary",51.09839,-113.95756,6,774.36,14032932252,False,$$$,Calgary

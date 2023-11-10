@@ -1,0 +1,963 @@
+Name,Categories,Cuisine Types,Nationalities,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price,City
+Viana Grillades Portugaises,Portuguese,Portuguese,NA,4.5,"2042 Rue Lapierre, LaSalle",45.43658,-73.61502,36,224.02,15143796789,False,$$,Montreal
+Restaurant  Kyomi,Pan Asian,Pan Asian,Pan Asian,3.5,"7660 Boulevard Newman, Lasalle",45.43849,-73.622699,35,456.51,15143633602,False,$$$,Montreal
+Redipizza,"Pizza, Sandwiches, Salad","Pizza, Sandwiches",NA,4.5,"2074 Rue Thierry, Montreal",45.436594,-73.62668,9,679.22,15143654141,False,$$$,Montreal
+Eggsquis,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"7401 boulevard Newman, Lasalle",45.440671,-73.621192,11,572.29,15143680333,False,$$,Montreal
+Rabu Sushi,Sushi Bars,Sushi Bars,NA,4.5,"7824 Boulevard Champlain, Montreal",45.428644,-73.609474,13,1057.72,15143647228,False,$$,Montreal
+Sous Le Palmier,Haitian,Haitian,NA,3.5,"2038 LaPierre, Montreal",45.436822,-73.615024,7,249.08,15145953444,False,$$,Montreal
+Casa Grecque Restaurants,Greek,Greek,Greek,3.5,"7218 Newman Boulevard, Lasalle",45.44238,-73.61586,16,713.41,15143640494,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,4.0,"8080 Boul Champlain, Lasalle",45.42748,-73.61071,5,1107.03,15143682114,False,$,Montreal
+Cora,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"7573 Boulevard Newman, Lasalle",45.44013,-73.622443,6,571.87,15143645884,False,$,Montreal
+Coco Frutti,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"7741 Boulevard Newman, Montreal",45.438423,-73.624646,3,581.88,14383876793,False,$,Montreal
+Harvey's,"Burgers, Fast Food, Canadian (New)","Burgers, Fast Food",Canadian (New),4.0,"7881 Boul Newman, Lasalle",45.4369,-73.62563,5,614.43,15143638616,False,$,Montreal
+Chez Ping,Dim Sum,Dim Sum,NA,3.5,"7401 Boul Newman, LaSalle",45.441025,-73.620079,16,551.26,15145951888,False,$$,Montreal
+Petinos,"Breakfast & Brunch, Coffee & Tea, Burgers","Coffee & Tea, Burgers",NA,4.0,"7203 Boulevard Newman, Lasalle",45.443158,-73.617026,4,796.01,15144196969,False,$$,Montreal
+Nawab-e Punjab,"Indian, Cocktail Bars",Cocktail Bars,Indian,3.5,"7681 Boulevard Newman, Lasalle",45.43827,-73.62452,6,529.13,15143634444,False,$$,Montreal
+Centrale Bergham,"Burgers, Sandwiches","Burgers, Sandwiches",NA,4.0,"7773 Boulevard Newman, Montreal",45.43827,-73.62452,3,583.84,15143793777,False,$$,Montreal
+Excellente Fondue Chinoise,"Hot Pot, Chinese",Hot Pot,Chinese,2.5,"2036 Rue Lapierre, Montreal",45.436548,-73.615021,4,240.23,<NA>,False,$$,Montreal
+Newman Steakhouse,"Steakhouses, Desserts, Seafood","Steakhouses, Desserts, Seafood",NA,5.0,"7205 Boulevard Newman, Montreal",45.44301,-73.61718,1,778.56,15143036850,False,$$,Montreal
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.5,"7919 Boulevard Newman, Lasalle",45.43642,-73.62613,5,634.22,15143645151,False,$,Montreal
+Restaurant Peddlers,Canadian (New),Canadian (New),Canadian (New),3.0,"7500 Newman Boulevard, Lasalle",45.43994,-73.62077,10,492.29,15143647204,False,$$,Montreal
+Marchigiani,"Sandwiches, Butcher",Sandwiches,NA,5.0,"7790 Rue Juliette, Lasalle",45.43758,-73.625919,1,638.06,15144896819,False,$$,Montreal
+New Lasalle,Pizza,Pizza,NA,3.5,"1715 Rue Thierry, LaSalle",45.436444,-73.624172,6,482.85,15143668520,False,$$,Montreal
+Kazo Ramen,Ramen,Ramen,NA,5.0,"7569 Boulevard Newman, Montreal",45.440352,-73.622429,4,591.16,15148002375,False,$$,Montreal
+Sorriso,Italian,Italian,Italian,3.0,"7681 Boulevard Newman, Montreal",45.43827,-73.62452,2,529.13,15143653131,False,$$,Montreal
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,2.5,"7575 Boulevard Newman, Lasalle",45.440146,-73.622586,17,580.27,15145953944,False,$,Montreal
+A&W,"Burgers, Fast Food","Burgers, Fast Food",NA,2.0,"7610 Boulevard Newman, Montreal",45.438992,-73.621993,2,452.52,15143687770,False,$,Montreal
+Boustan,Lebanese,Lebanese,NA,3.5,"7757 Boulevard Newman, Lasalle",45.438268,-73.624521,2,575.86,14383803003,False,$,Montreal
+PFK,"Fast Food, Chicken Wings, Chicken Shop",Fast Food,NA,1.5,"1551 Boulevard Shevchenko, LaSalle",45.431698,-73.625107,14,734.08,15143636660,False,$,Montreal
+Pizza Pizza,Pizza,Pizza,NA,3.5,"7745 Boulevard Newman, Lasalle",45.43827,-73.62452,4,581.23,15147371111,False,$,Montreal
+Le Taklamakan,Chinese,Chinese,Chinese,4.5,"7401 Boulevard Newman, Lasalle",45.4408,-73.621489,2,595.4,15143650005,False,$,Montreal
+Café Intervallo Bistro-Bar,Cafes,Cafes,NA,5.0,"7786 Boulevard Newman, Lasalle",45.43702,-73.62411,2,485.29,15143644838,False,$,Montreal
+Mon Tacos,"Mexican, Poutineries, Fast Food",Fast Food,Mexican,1.0,"7773b Boulevard Newman, Lasalle",45.437788,-73.625083,1,585.24,15143793777,False,$,Montreal
+Pizza Boom,Pizza,Pizza,NA,5.0,"1711 Rue Thierry, Lasalle",45.43638,-73.62404,1,475.89,15143688000,False,$,Montreal
+O'Sushi,Japanese,Japanese,Japanese,3.0,"7577 Newman Boul, Lasalle",45.439724,-73.622271,6,579.03,15143665777,False,$,Montreal
+Sushi Newman,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.5,"7763 Boulevard Newman, Lasalle",45.437975,-73.624881,4,577.85,15143638888,False,$,Montreal
+Archibald Microbrasserie,"Salad, Burgers, Pizza","Burgers, Pizza",NA,3.5,"Aeroport de Montreal, Dorval",45.45786,-73.750892,95,458.98,15146879977,False,$$,Montreal
+QDC Burger,"Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"Zone réglementée - International, Dorval",45.461012,-73.748818,19,92.11,15146336773,False,$$,Montreal
+Pork & Pickle,"Pubs, Barbeque","Pubs, Barbeque",NA,3.5,"975 Boulevard Roméo-Vachon N, Dorval",45.458344,-73.74852,40,388.06,15146339972,False,$$,Montreal
+Paramount,"Lebanese, Halal",Lebanese,NA,4.0,"975 Boulevard Roméo-Vachon N, Dorval",45.45859,-73.748431,9,361.93,15145533993,False,$$,Montreal
+UBar Resto Bar,"Bars, Burgers, Pizza","Bars, Burgers, Pizza",NA,3.5,"975 Boulevard Roméo Vachon N, Dorval",45.458758,-73.75307,20,455.77,15146316134,False,$$,Montreal
+Eclipse Restaurant,"American, Bars",Bars,American,3.0,"Sheraton Montreal Airport Hotel, Dorval",45.453336,-73.741778,20,1103.78,15146312411,False,$$,Montreal
+Restaurant Houston Steaks et Cotes Levees,Steakhouses,Steakhouses,NA,2.0,"Aeroport Trudeau Montreal, Dorval",45.456099,-73.753125,132,705.73,<NA>,False,$$,Montreal
+Hurley's à Yul,"Pubs, Irish",Pubs,Irish,3.0,"975 Boulevard Roméo-Vachon N, Dorval",45.455484,-73.754261,56,807.6,15147731185,False,$$,Montreal
+Bijou Resto Bar,"Bars, Canadian (New)",Bars,Canadian (New),3.5,"800 Place Leigh Capreol, Dorval",45.456055,-73.752193,21,681.63,15148285117,False,$$$,Montreal
+Six Pints - Académie de la Bière,"Pubs, Gastropubs","Pubs, Gastropubs",NA,3.5,"975 Boulevard Roméo-Vachon, Dorval",45.460338,-73.747731,13,197.56,15146339972,False,$$,Montreal
+Urban Crave,Sandwiches,Sandwiches,NA,2.5,"975 Boulveard Roméo-Vachon N, Dorval",45.457421,-73.752978,59,571.17,15146336773,False,$$,Montreal
+Rotisserie St-Hubert,Fast Food,Fast Food,NA,3.0,"Trudeau International Airport, Dorval",45.457771,-73.748428,7,92.17,<NA>,False,$$,Montreal
+YUL Pizza,Pizza,Pizza,NA,3.5,"975 Boulevard Roméo-Vachon N, Dorval",45.45816,-73.7472,11,433.16,15146316134,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch, Fast Food","Coffee & Tea, Fast Food",NA,2.5,"975 Boulevard Roméo-Vachon N, Dorval",45.45789,-73.748561,27,437.81,15146339972,False,$,Montreal
+Bagel Bar,"Bagels, Sandwiches",Sandwiches,NA,2.5,"975 Boulevard Roméo-Vachon N, Montreal",45.45559,-73.753931,28,784.83,15146360606,False,$$,Montreal
+L'Auberge Saint-Gabriel,"Bars, Canadian (New)",Bars,Canadian (New),2.0,"975 Boulevard Roméo Vachon N, Dorval",45.458977,-73.752504,17,408.48,15146339972,False,$$$,Montreal
+Ryú,"Japanese, Sushi Bars",Sushi Bars,Japanese,3.0,"975 Boulevard Roméo-Vachon N, Dorval",45.469746,-73.744921,17,942.9,15144200005,False,$$,Montreal
+John Molson Pub,"Bars, Burgers, Sandwiches","Bars, Burgers, Sandwiches",NA,3.5,"975 Boulevard Roméo-Vachon N, Dorval",45.45795,-73.75157,3,459.2,15146339972,False,$$,Montreal
+Upper Crust,Sandwiches,Sandwiches,NA,3.0,"975 Boulevard Roméo Vachon N, Dorval",45.459073,-73.755816,5,601.43,15146336773,False,$$,Montreal
+Ryú,"Japanese, Sushi Bars, Poke",Sushi Bars,Japanese,2.5,"800 Place Leigh Capreol, Dorval",45.455772,-73.75391,8,766.28,15146310455,False,$$,Montreal
+Moe's Déli et Bar,Delis,Delis,NA,2.0,"Montréal-Pierre Elliott Trudeau International Airport, Dorval",45.458373,-73.747026,41,416.33,15146339972,False,$$,Montreal
+Sushi Shop,Sushi Bars,Sushi Bars,NA,3.0,"975 Boulevard Roméo-Vachon N, Dorval",45.458159,-73.750344,3,415.75,15146319634,False,$$,Montreal
+Java U,"Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",NA,3.0,"975 Boulevard Roméo Vachon N, Dorval",45.457804,-73.751904,9,493.63,15146364449,False,$,Montreal
+Vino Volo,"Wine Bars, Tapas/Small Plates",Wine Bars,NA,2.5,"975 Boulevard Roméo Vachon, Dorval",45.457406,-73.751616,3,525.22,15146369877,False,$$,Montreal
+Le Bar Sportif,"Sports Bars, American",Sports Bars,American,2.5,"975 Boulevard Roméo Vachon Nord, Dorval",45.455568,-73.750607,21,702.56,<NA>,False,$$,Montreal
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.5,"975 Boulevard Roméo-Vachon Nord, Dorval",45.45795,-73.75157,3,459.12,15146337333,False,$$,Montreal
+Le Petit Comptoir à Sandwich,Sandwiches,Sandwiches,NA,4.5,"975 Boulevard Roméo-Vachon N, Montreal",45.455992,-73.753985,2,747.9,15146360606,False,$$,Montreal
+Bistrot Montréal-Trudeau,Cafes,Cafes,NA,2.0,"7 Boulevard Roméo-Vachon N, Dorval",45.45766,-73.75058,8,530.79,15146339972,False,$$,Montreal
+MBCo La Boulangerie de Montréal,"Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",NA,2.0,"975 Boulevard Romeo-Vachon, Dorval",45.457951,-73.751572,1,459.2,<NA>,False,$$,Montreal
+Baero,"Wine Bars, Beer, Wine & Spirits, Canadian (New)","Wine Bars, Beer, Wine & Spirits",Canadian (New),4.0,"975 Boulevard Roméo Vachon Nord, Dorval",45.458653,-73.757207,1,718.74,<NA>,False,$$,Montreal
+ICE Bar,"Pubs, Middle Eastern",Pubs,Middle Eastern,2.0,"Zone réglementée, Dorval",45.458864,-73.748159,2,336.2,15146339972,False,$$,Montreal
+Casey'S,"American, Bars",Bars,American,2.5,"Aéroport Montréal-Trudeau, Dorval",45.457951,-73.751572,4,464.98,15146339972,False,$$,Montreal
+Cafe Bagel 2 Montreal,"Bagels, Sandwiches",Sandwiches,NA,2.0,"975 boul. Roméo-Vachon N, Dorval",45.455616,-73.754107,1,788.88,<NA>,False,$$,Montreal
+La Tapenade,Mediterranean,Mediterranean,Mediterranean,2.5,", Dorval",45.469738,-73.74492,2,942.13,15146339972,False,$$,Montreal
+Cabine M,American,American,American,3.5,"975 Rue Romeo Vachon N, Montreal",45.457951,-73.751572,3,459.2,15146339972,False,$$$$,Montreal
+Burger King,Fast Food,Fast Food,NA,1.5,"975 Boulevard Roméo-Vachon N, Dorval",45.458449,-73.750404,6,385.53,<NA>,False,$,Montreal
+DBurger,"Burgers, Food Trucks",Burgers,NA,2.5,"59 Avenue Monseigneur-Langlois, Pincourt",45.374494,-73.992268,3,21314.14,15145121328,False,$,Montreal
+Camden Food Co,Gluten-Free,Gluten-Free,NA,1.5,"975 Boulevard Roméo-Vachon N, Dorval",45.45795,-73.75157,4,459.2,15146336773,False,$,Montreal
+Crescendo,"Breakfast & Brunch, Italian, French",Breakfast & Brunch,"Italian, French",3.5,"5150 Boulevard LaSalle, Verdun",45.4548,-73.563846,44,84.69,15147662171,False,$$,Montreal
+Comptoir 21,Fish & Chips,Fish & Chips,NA,4.0,"4844 Rue Wellington, Montreal",45.456885,-73.56741,48,438.99,15145643474,False,$$,Montreal
+Villa Wellington,Peruvian,Peruvian,Peruvian,4.0,"4701 Rue Wellington, Verdun",45.45776,-73.56772,60,526.77,15147680102,False,$$,Montreal
+Sweet Lee's,"Desserts, Bakeries, Cafes","Desserts, Cafes",NA,4.5,"4150 Rue Wellington, Verdun",45.462591,-73.567018,51,985.1,15148469318,False,$,Montreal
+Palais d'Ajit,Indian,Indian,Indian,4.5,"4801 Avenue Verdun, Montreal",45.457381,-73.571999,47,762.01,15147023699,False,$$,Montreal
+Sushi Bae,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"4910A Rue Wellington, Montreal",45.456536,-73.5674,16,411.91,14383873868,False,$$,Montreal
+L'in-Time,"Italian, Seafood",Seafood,Italian,4.5,"4619 Rue Wellington, Verdun",45.45819,-73.56773,17,557.95,15142271797,False,$$,Montreal
+Jack Le Coq,Chicken Shop,Chicken Shop,NA,4.0,"4501 Rue Wellington, Montreal",45.459091,-73.567559,22,641.19,15144747777,False,$$,Montreal
+El Sabor de México,Mexican,Mexican,Mexican,4.0,"5013 Rue Wellington, Verdun",45.455904,-73.567797,43,395.84,15143628888,False,$$,Montreal
+Restaurant Woodland,Pizza,Pizza,NA,3.5,"5443 Rue Wellington, Verdun",45.45249,-73.568076,31,404.59,15147681171,False,$$,Montreal
+Paname,Bistros,Bistros,NA,4.0,"4847 Rue Wellington, Verdun",45.456775,-73.567689,9,446.38,15146576263,False,$$,Montreal
+Cafe Frejus,Cafes,Cafes,NA,4.5,"5810 Rue De Verdun, Verdun",45.4492,-73.57226,32,885.07,15147682134,False,$$,Montreal
+Mr. Dumpling,"Dumplings, Bubble Tea, Chinese",Dumplings,Chinese,4.0,"5045 Rue Wellington, Verdun",45.45563,-73.56797,10,381.23,15147698666,False,$$,Montreal
+Bossa,"Imported Food, Sandwiches",Sandwiches,NA,4.0,"4354 Rue Wellington, Montreal",45.460407,-73.567082,23,757.3,14383871211,False,$$,Montreal
+Les îles en ville,Canadian (New),Canadian (New),Canadian (New),4.0,"5335 Rue Wellington, Montreal",45.45338,-73.567974,9,363.83,15145440854,False,$$,Montreal
+Honi Honi,Hawaiian,Hawaiian,NA,3.5,"4559 Rue Wellington, Montreal",45.45868,-73.56762,23,605.29,15143796828,False,$$,Montreal
+Boustan,Lebanese,Lebanese,NA,3.5,"4912 Rue Wellington, Verdun",45.45645,-73.56729,19,405.05,15143794912,False,$$,Montreal
+Café Jardin,"Cafes, Venues & Event Spaces, Shared Office Spaces",Cafes,NA,4.5,"4437 Rue Wellington, Verdun",45.45965,-73.5676,6,693.78,14384764791,False,$$,Montreal
+Namasté Inde,Indian,Indian,Indian,4.5,"4320 Rue Wellington, Verdun",45.461532,-73.567008,5,872.6,15144192224,False,$$,Montreal
+Komma Rosta,"Asian Fusion, Coffee Roasteries",Coffee Roasteries,Asian Fusion,5.0,"5300 Rue Wellington, Montreal",45.453765,-73.567719,5,337.13,14383754265,False,$$,Montreal
+Falafel Yoni,Falafel,Falafel,NA,4.5,"4549 Rue Wellington, Verdun",45.458777,-73.567524,5,610.64,15144245473,False,$$,Montreal
+GaNaDaRa,Korean,Korean,Korean,4.5,"4436 Rue Wellington, Verdun",45.459645,-73.567109,4,680.45,15147678880,False,$$,Montreal
+Lili & Oli,Cafes,Cafes,NA,4.5,"4554 Rue Wellington, Montreal",45.458709,-73.567186,7,590.74,<NA>,False,$$,Montreal
+New Verdun,International,International,NA,3.5,"5001 Rue de Verdun, Verdun",45.45613,-73.57227,12,722.48,15147662375,False,$$,Montreal
+Pho Bac No1,Vietnamese,Vietnamese,Vietnamese,3.0,"4707 Wellington Rue, Verdun",45.45769,-73.56772,25,523.9,15143621022,False,$$,Montreal
+Moa Moa,Korean,Korean,Korean,4.5,"4424 Rue Wellington, Montreal",45.459841,-73.567091,9,699.69,15147320000,False,$$,Montreal
+Zappy Pizza,Pizza,Pizza,NA,3.5,"11 De L'eglise Rue, Verdun",45.462887,-73.563881,16,977.87,15147622222,False,$$,Montreal
+Menu Sur Le Pouce,Canadian (New),Canadian (New),Canadian (New),4.5,"5155 Rue Wellington, Montreal",45.45482,-73.56794,2,358.21,15146169996,False,$$,Montreal
+Triple Pizza,"Pizza, Burgers, Sandwiches","Pizza, Burgers, Sandwiches",NA,4.5,"4594 Rue de Verdun, Montreal",45.458842,-73.571589,4,826.97,15145077587,False,$$,Montreal
+Uniburger,Burgers,Burgers,NA,4.0,"4621 Rue Wellington, Verdun",45.45818,-73.567647,5,555.63,<NA>,False,$$,Montreal
+Viet Express,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,4.0,"4536 Rue Wellington, Montreal",45.458815,-73.567208,11,604.4,15149039877,False,$$,Montreal
+Rex Pizza,Pizza,Pizza,NA,4.0,"4811 Rue Wellington, Verdun",45.45713,-73.56782,10,472.82,15147683718,False,$,Montreal
+Luciano Ristorante,Italian,Italian,Italian,3.5,"4609 Rue de Verdun, Verdun",45.4585,-73.57199,7,824.04,15148071353,False,$$,Montreal
+Le Cheese Truck,"Food Trucks, Comfort Food",Food Trucks,NA,4.0,", Montreal",45.471466,-73.626518,14,5273.95,15144873316,False,$,Montreal
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,4.5,"4650 Rue de Verdun, Verdun",45.458121,-73.571617,2,780.07,15145640190,False,$,Montreal
+P.A. & Gargantua,"Food Trucks, Sandwiches",Sandwiches,NA,4.0,", Montreal",45.512402,-73.554688,13,5322.82,15146790038,False,$$,Montreal
+Café Chato,Themed Cafes,Themed Cafes,NA,4.5,"4833 Rue de Verdun, Montreal",45.457104,-73.572059,4,751.94,15147685555,False,$$,Montreal
+Basha,Lebanese,Lebanese,NA,3.0,"5001 Rue Wellington, Verdun",45.455971,-73.567848,5,400.27,15143620300,False,$$,Montreal
+Pizza Wellington,Pizza,Pizza,NA,4.0,"4230A Rue Wellington, Montreal",45.46149,-73.56688,5,869.28,15147620101,False,$$,Montreal
+Pizza Expresso,Pizza,Pizza,NA,3.0,"4634 Rue Wellington, Verdun",45.458106,-73.567302,9,538.61,15147675999,False,$,Montreal
+Slice + Soda - Verdun,Pizza,Pizza,NA,4.0,"4319 Rue Wellington, Montreal",45.460737,-73.567336,2,798.76,<NA>,False,$,Montreal
+Chef Tang,"Thai, Dim Sum, Seafood",Seafood,Thai,3.5,"4123 Rue de Verdun, Verdun",45.462685,-73.571519,4,1144.68,15147687777,False,$,Montreal
+St-Hubert Express,"Chicken Shop, Barbeque",Barbeque,NA,3.5,"4120 Boulevard Lasalle, Montreal",45.462407,-73.562979,5,924.55,15143855555,False,$,Montreal
+L'Oeufrier,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"10 Rue de l'Église, Verdun",45.462261,-73.563444,2,907.58,15144192122,False,$,Montreal
+Brook,"Pizza, Cafes","Pizza, Cafes",NA,3.5,"4900 Rue Wellington, Montreal",45.456584,-73.567437,7,417.61,<NA>,False,$,Montreal
+Dragon de Chine,Chinese,Chinese,Chinese,2.5,"4596 Rue de Verdun, Verdun",45.458806,-73.571583,18,824.05,15143620505,False,$,Montreal
+Tandoori Delicious,Indian,Indian,Indian,2.5,"4616 Rue Wellington, Montreal",45.45816,-73.56714,5,538.88,15147673000,False,$,Montreal
+Casse Croute Normand,Canadian (New),Canadian (New),Canadian (New),3.5,"4826 De Verdun Rue, Verdun",45.45719,-73.57158,10,734.63,15144398285,False,$$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.5,"4300 Boulevard la Salle, Verdun",45.460774,-73.562746,13,744.15,15147677924,False,$,Montreal
+Elvita's,"Food Trucks, Mediterranean, Latin American",Food Trucks,"Mediterranean, Latin American",4.5,"2931 Rue Masson, Montreal",45.54847,-73.574876,4,10531.54,15146041515,False,$,Montreal
+L'Annexe St-Ambroise,Brasseries,Brasseries,NA,4.0,"5080 Rue Saint-Ambroise, Montreal",45.468584,-73.590714,44,370.92,15149393060,False,$$,Montreal
+Tuck Shop,"Italian, Canadian (New)",Italian,"Italian, Canadian (New)",4.5,"4662 Rue Notre-Dame O, Montreal",45.47289,-73.58826,81,603.27,15144397432,False,$$$,Montreal
+Elena,"Italian, Wine Bars",Wine Bars,Italian,4.0,"5090 Rue Notre-Dame O, Montreal",45.46971,-73.59172,57,495.17,15143794883,False,$$$,Montreal
+McKiernan,"Breakfast & Brunch, Sandwiches",Sandwiches,NA,4.5,"5524 Rue Saint-Patrick, Montreal",45.463602,-73.594949,40,835.8,15147596677,False,$$$,Montreal
+Adamo,Pizza,Pizza,NA,4.0,"4629 Rue Notre-Dame O, Montreal",45.473375,-73.58829,71,640.75,14383861800,False,$,Montreal
+Arthurs,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),4.0,"4621 Notre Dame St, Montreal",45.473435,-73.588285,206,647.06,15147575190,False,$$,Montreal
+Tacos Frida,Mexican,Mexican,Mexican,4.5,"4350 Rue Notre Dame O, Montreal",45.475189,-73.586303,72,819.08,15149359696,False,$,Montreal
+Tejano BBQ Burrito,Tex-Mex,Tex-Mex,NA,4.0,"511 Rue de Courcelle, Montreal",45.47293,-73.58887,62,622.92,15143033500,False,$$,Montreal
+Seasoned Dreams,Caribbean,Caribbean,Caribbean,4.5,"5509 Rue Laurendeau, Montreal",45.463398,-73.588098,18,516.68,15147692222,False,$$,Montreal
+Cordova,"Coffee & Tea, Cocktail Bars, Tapas Bars","Coffee & Tea, Cocktail Bars, Tapas Bars",NA,4.5,"4606 Rue Notre-Dame O, Montreal",45.47334,-73.588007,20,646.33,15146474338,False,$$,Montreal
+Ruby Café,"Breakfast & Brunch, Themed Cafes, Sandwiches","Themed Cafes, Sandwiches",NA,4.5,"3824 Rue Saint-Patrick, Montreal",45.468903,-73.582439,6,308.4,15149388899,False,$$,Montreal
+Le Tequila Bar,"Bars, Mexican",Bars,Mexican,3.5,"4401 rue Notre-Dame Ouest, Saint-Henri",45.47478,-73.58713,44,783.15,15143034401,False,$$,Montreal
+Campanelli,Cafes,Cafes,NA,4.5,"4634 Notre Dame O, Montreal",45.47324,-73.58804,23,624.97,15149337770,False,$$,Montreal
+TRAN Cantine,Vietnamese,Vietnamese,Vietnamese,4.0,"4690 Rue Notre-Dame O, Montreal",45.472788,-73.588507,38,583.45,15143794690,False,$$,Montreal
+Tacos Victor,Mexican,Mexican,Mexican,4.0,"4280 Rue Notre-Dame O, Montréal-Ouest",45.475692,-73.585989,71,874.83,15149326837,False,$,Montreal
+Bar Bara,"Italian, Wine Bars",Wine Bars,Italian,4.0,"4450 Rue Notre-Dame O, Montreal",45.474368,-73.587245,18,729.92,14383757209,False,$,Montreal
+Dreamy,"Bakeries, Coffee & Tea, Pop-Up Restaurants",Coffee & Tea,NA,4.5,"3780 Rue Saint-Patrick, Montreal",45.470163,-73.581394,5,448.68,15148825288,False,$,Montreal
+Cafe Del Monko,"Bars, Cafes, Canadian (New)","Bars, Cafes",Canadian (New),5.0,"4710 Rue St-Ambroise, Montreal",45.470273,-73.585849,1,272.86,15149899945,False,$,Montreal
+L'Ambroisie,French,French,French,3.5,"4020 Rue Saint-Ambroise, Montreal",45.475198,-73.580314,8,935.18,15149320641,False,$$,Montreal
+Moonshine BBQ Smokehouse,"Smokehouse, Barbeque",Barbeque,NA,5.0,"4370 Rue Notre-Dame O, Montreal",45.475023,-73.58659,4,801.42,15149385333,False,$$,Montreal
+F+F Pizza,Pizza,Pizza,NA,3.0,"Rue Notre-Dame Ouest, Montreal",45.474758,-73.586887,32,773.51,15145080808,False,$$,Montreal
+SILOVE,Themed Cafes,Themed Cafes,NA,5.0,", Montreal",45.466744,-73.588422,1,218.47,<NA>,False,$$,Montreal
+Uniburger,"Burgers, Fast Food","Burgers, Fast Food",NA,3.5,"4412 Rue Notre-Dame O, Montreal",45.474614,-73.586966,23,758.15,15144196555,False,$$,Montreal
+Ramen 9000,Ramen,Ramen,NA,4.5,"4609 Rue Notre Dame O, Montreal",45.47359,-73.58826,7,662.41,15148461555,False,$$,Montreal
+Lloydie's - Saint-Henri,Caribbean,Caribbean,Caribbean,4.5,"4601 Rue Notre Dame O, Montreal",45.473643,-73.588135,4,666.45,15149383883,False,$$,Montreal
+Club Social PS,Pizza,Pizza,NA,4.5,"5090 Rue Notre-Dame O, Montreal",45.46971,-73.59172,2,495.17,15143794883,False,$$,Montreal
+Restaurant Da Frank,Italian,Italian,Italian,4.5,"5651 Rue Laurendeau, Montreal",45.46181,-73.5883,5,680.68,15147650389,False,$$,Montreal
+Oorja,"Cocktail Bars, Chinese",Cocktail Bars,Chinese,3.0,"4293 R. Notre Dame Street W, Montreal",45.475578,-73.586467,2,862.63,15149622215,False,$$,Montreal
+G.O.A.T Grill,"Chicken Shop, Burgers, Poutineries",Burgers,NA,5.0,"4376 Rue Notre-Dame O, Montreal",45.474966,-73.586623,1,795.22,15148461981,False,$$,Montreal
+Crofre,"Desserts, Food Delivery Services, Korean",Desserts,Korean,4.0,"4207 Notre-Dame Street W, Montreal",45.476378,-73.585923,1,951.22,<NA>,False,$$,Montreal
+Hank,"Breakfast & Brunch, Sandwiches",Sandwiches,NA,3.0,"4619 Rue Notre-Dame O, Montreal",45.47355,-73.58837,1,652.75,15144395970,False,$$,Montreal
+Allo Pizza Express,Pizza,Pizza,NA,3.5,"1783 Avenue De L'Eglise, Montreal",45.463778,-73.587615,2,465.51,15146582556,False,$,Montreal
+Obvious Burger,Burgers,Burgers,NA,5.0,"1800 Avenue de l'Église, Montreal",45.46353,-73.58811,1,501.49,<NA>,False,$,Montreal
+Café Zin-Zin,"Cafes, French",Cafes,French,4.0,"1001 Rue Lenoir, Montreal",45.476747,-73.592259,3,1102.87,15144394999,False,$$,Montreal
+Pizza Safine,Pizza,Pizza,NA,4.0,"1545 Avenue de l'Église, Montreal",45.463606,-73.58354,1,509.28,15149039005,False,$$,Montreal
+Churros St-Henri,Argentine,Argentine,NA,4.0,"291 Rue Beaudoin, Montreal",45.474343,-73.585565,1,725.96,15147479988,False,$$,Montreal
+Cafe Moccaccino,"Salad, Cafes, Sandwiches","Cafes, Sandwiches",NA,3.0,"4945 Rue Notre-Dame O, Montreal",45.470743,-73.590812,1,491.27,15149898111,False,$$,Montreal
+Cafe Cantinova,"Delicatessen, Cafes",Cafes,NA,3.5,"4035 Rue Saint-Ambroise, Montreal",45.475592,-73.580605,2,963.53,15149372227,False,$$,Montreal
+Estiatorio Milos,Greek,Greek,Greek,4.5,"5357 Ave Du Parc, Montreal",45.521735,-73.600452,167,171.47,15142723522,False,$$$$,Montreal
+Île Flottante,French,French,French,4.5,"174-176 Rue Saint-Viateur O, Montreal",45.52352,-73.60079,130,204.38,15142786854,False,$$$,Montreal
+Taza Flores,Tapas Bars,Tapas Bars,NA,4.5,"5375 Avenue du Parc, Montreal",45.52183,-73.60072,49,191.33,15142745516,False,$$,Montreal
+Mythos Ouzeri,Greek,Greek,Greek,4.5,"5318 Avenue Du Parc, Montreal",45.52088,-73.59997,55,214.89,15142700235,False,$$$,Montreal
+Lloydie's,Caribbean,Caribbean,Caribbean,4.5,"66 Rue Saint Viateur O, Montreal",45.524844,-73.59957,59,262.23,15142747474,False,$$,Montreal
+Sparrow,"Breakfast & Brunch, Cocktail Bars",Cocktail Bars,NA,4.0,"5322 Boulevard Saint-Laurent, Montreal",45.52453,-73.59662,208,277.68,15145071642,False,$$,Montreal
+La Tamalera,Mexican,Mexican,Mexican,4.5,"226 Avenue Fairmount O, Montreal",45.52114,-73.59664,57,218.82,14383815034,False,$$,Montreal
+QDC Burger,Burgers,Burgers,NA,4.5,"210 Rue Saint Viateur O, Montreal",45.523098,-73.601261,26,214.04,15143120321,False,$$,Montreal
+La Khaïma,"Moroccan, Egyptian",Moroccan,NA,4.0,"142 Avenue Fairmount O, Montreal",45.522006,-73.595967,90,215.95,15149489993,False,$$,Montreal
+larrys,"Bars, Breakfast & Brunch",Bars,NA,4.5,"5201 Boulevard Saint Laurent, Montreal",45.524074,-73.594693,107,347.57,<NA>,False,$$,Montreal
+Caribou Gourmand,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),4.0,"5308 Boulevard Saint-Laurent, Montreal",45.52442,-73.59636,52,269.91,14383876677,False,$$$,Montreal
+Poutineville,Poutineries,Poutineries,NA,4.5,"5145 Avenue du Parc, Montreal",45.5202,-73.5966,40,307.34,15149038179,False,$$,Montreal
+Falafel Yoni,Falafel,Falafel,NA,4.5,"54 Rue Saint-Viateur O, Montreal",45.525064,-73.599441,51,283.35,15144247767,False,$$,Montreal
+Bánh Mì Banh Yiu,"Salad, Sandwiches, Desserts","Sandwiches, Desserts",NA,4.5,"255 Rue Saint Viateur O, Montreal",45.52286,-73.602,35,253.02,15143791400,False,$,Montreal
+B & M Restaurant,"Breakfast & Brunch, Steakhouses, Poutineries",Steakhouses,NA,4.0,"120 Rue Saint-Viateur O, Montreal",45.52421,-73.60014,64,220.06,15142239255,False,$$,Montreal
+Pizzeria Magpie,Pizza,Pizza,NA,4.0,"16 Rue Maguire, Montreal",45.52461,-73.59544,98,337.27,15145072900,False,$$,Montreal
+Lawrence,Modern European,Modern European,Modern European,4.5,"9 Avenue Fairmount E, Montreal",45.524143,-73.59465,234,354.17,15147965686,False,$$,Montreal
+Leméac,French,French,French,4.0,"1045 Avenue Laurier O, Montreal",45.51832,-73.59735,287,490.6,15142700999,False,$$$,Montreal
+Jun I,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"156 Avenue Laurier O, Montreal",45.521119,-73.594311,89,372.65,15142765864,False,$$$,Montreal
+Fabergé,"Breakfast & Brunch, Creperies",Breakfast & Brunch,NA,4.0,"25 Avenue Fairmount O, Montreal",45.52351,-73.594997,414,300.03,15149036649,False,$$,Montreal
+Mile End,"Portuguese, Barbeque",Barbeque,NA,4.0,"100 Rue Saint-Viateur O, Montreal",45.524503,-73.599908,22,236.12,15142777676,False,$$,Montreal
+Burger de Ville,"Burgers, Fast Food","Burgers, Fast Food",NA,4.0,"5282 Boulevard Saint-Laurent, Montreal",45.52429,-73.59608,64,286.36,15145075050,False,$$,Montreal
+Boucherie Lawrence,"Sandwiches, Meat Shops",Sandwiches,NA,4.5,"5237 Boulevard Saint-Laurent, Montreal",45.524307,-73.595214,35,326.96,15142778880,False,$$,Montreal
+Ta Pies,"Australian, Comfort Food, Desserts",Desserts,NA,4.5,"4520 Avenue du Parc, Montreal",45.51688,-73.590151,134,914.79,15142777437,False,$,Montreal
+Wilensky,Delis,Delis,NA,4.5,"34 Avenue Fairmount Ouest, Montreal",45.52331,-73.59472,126,305.16,15142710247,False,$,Montreal
+La Chronique,Canadian (New),Canadian (New),Canadian (New),4.5,"104 Avenue Laurier O, Montreal",45.52154,-73.59374,36,384.11,15142713095,False,$$$$,Montreal
+Le Butterblume,"Cafes, Breakfast & Brunch, Flowers & Gifts",Cafes,NA,4.5,"5836 Boulevard Saint-Laurent, Montreal",45.52748,-73.60304,86,647.9,15149039115,False,$$,Montreal
+Bar Henrietta,"Wine Bars, Portuguese, Cocktail Bars","Wine Bars, Cocktail Bars",NA,4.0,"115 Avenue Laurier O, Montreal",45.521624,-73.594354,42,348.55,15142764282,False,$$,Montreal
+Le Bay Cà Phê,Vietnamese,Vietnamese,Vietnamese,4.5,"5263 Saint Laurent Boulevard, Montreal",45.524526,-73.595474,19,326.4,15145501283,False,$$,Montreal
+Buvette Chez Simone,"Wine Bars, Tapas/Small Plates",Wine Bars,NA,4.5,"4869 Avenue du Parc, Montreal",45.51888,-73.59341,118,577.46,15147506577,False,$$,Montreal
+Bistro Lustucru,French,French,French,4.0,"5159 Ave du Parc, Montreal",45.52035,-73.59681,39,284.26,15144396701,False,$$$,Montreal
+Lola Rosa,"Vegetarian, Vegan, Gluten-Free",Vegetarian,NA,4.0,"4581 Avenue Du Parc, Montreal",45.517478,-73.590881,156,827.76,15148435652,False,$$,Montreal
+Les P'tits Enfants de Felice,Cafes,Cafes,NA,4.5,"5563 Avenue du Parc, Montreal",45.522431,-73.602485,13,302.06,15142777033,False,$$,Montreal
+Lester's Deli,"Delis, Sandwiches, Caterers",Sandwiches,NA,4.0,"1057 Avenue Bernard, Outremont",45.522144,-73.607076,119,661.07,15142131313,False,$$,Montreal
+Philinos,Greek,Greek,Greek,4.5,"4806 Avenue du Parc, Montreal",45.518108,-73.592972,27,660.47,15142719099,False,$$$,Montreal
+Serrano B-B-Q,"Barbeque, Sandwiches","Barbeque, Sandwiches",NA,4.5,"161 Rue Saint-Viateur O, Montreal",45.52385,-73.60095,34,229.35,15142713728,False,$,Montreal
+L'Gros Luxe Mile End,"Cocktail Bars, Breakfast & Brunch, Canadian (New)",Cocktail Bars,Canadian (New),4.0,"150 Rue Bernard O, Montreal",45.52525,-73.60387,84,507.08,15145078883,False,$$,Montreal
+Yuukai,"Sushi Bars, Asian Fusion",Sushi Bars,Asian Fusion,4.5,"5407 Avenue du Parc, Montreal",45.52205,-73.60122,10,210.94,15143030332,False,$$,Montreal
+Tsukuyomi Ramen,Ramen,Ramen,NA,4.0,"5207 Boulevard Saint-Laurent, Montreal",45.52421,-73.59475,59,348.32,15142738886,False,$$,Montreal
+Arahova,Greek,Greek,Greek,3.5,"256 Rue Saint-Viateur O, Montreal",45.522701,-73.601659,44,237.63,15142747828,False,$$,Montreal
+Ta Chido,"Mexican, Gluten-Free",Mexican,Mexican,4.0,"5611 Avenue du Parc, Montreal",45.52285,-73.603,81,343.25,15144390935,False,$$,Montreal
+Sushi Shoten,Sushi Bars,Sushi Bars,NA,4.5,"5458 Avenue du Parc, Montreal",45.521945,-73.601995,10,272.84,15142768998,False,$$,Montreal
+Kesté,"Italian, Pizza",Pizza,Italian,4.0,"275 Avenue Fairmount O, Montreal",45.520809,-73.597565,44,207.26,15145091341,False,$$,Montreal
+Maria Bonita,Mexican,Mexican,Mexican,4.0,"5163 Boulevard Saint-Laurent, Montreal",45.523661,-73.593882,32,387.63,15148074377,False,$$,Montreal
+KazaMaza,Middle Eastern,Middle Eastern,Middle Eastern,4.0,"4629 av du parc, Montreal",45.517858,-73.591312,135,774.37,15148446292,False,$$,Montreal
+Caffè Grazie Mille,"Coffee & Tea, Sandwiches, Salad","Coffee & Tea, Sandwiches",NA,4.5,"58 Avenue Fairmount O, Montreal",45.52306,-73.595,66,294.39,15145649988,False,$$,Montreal
+Ubi Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"72 Rue Saint-Viateur O, Montreal",45.52474,-73.59962,11,257.99,15143037888,False,$$,Montreal
+Rumi,Middle Eastern,Middle Eastern,Middle Eastern,3.5,"5198 Hutchison Rue, Outremont",45.51924,-73.59827,53,376.71,15144901999,False,$$$,Montreal
+Soy,Chinese,Chinese,Chinese,4.0,"5258 Boulevard Saint-Laurent, Montreal",45.52409,-73.59566,19,292.01,15144999399,False,$$,Montreal
+Sushi Fiji,Sushi Bars,Sushi Bars,NA,4.0,"5235 Avenue du Parc, Montreal",45.52083,-73.59845,9,195.28,15149035079,False,$$,Montreal
+Harvey's,"Burgers, Fast Food, American","Burgers, Fast Food",American,3.5,"4247 Jean Talon Est, St. Léonard",45.56811,-73.59064,6,155.87,15143743440,False,$$,Montreal
+Bako Sushi,Sushi Bars,Sushi Bars,NA,5.0,"4326 Rue Bélanger, Montreal",45.566953,-73.585258,4,465.08,15143765000,False,$$,Montreal
+Bar Zoé,"Cocktail Bars, Karaoke, Fondue",Cocktail Bars,NA,4.0,"3296 Rue Jean-Talon E, Montreal",45.559577,-73.597456,12,947.68,15143740666,False,$,Montreal
+Poissonnerie Rayan,"Seafood Markets, Seafood, Mediterranean","Seafood Markets, Seafood",Mediterranean,4.0,"4528 Rue Bélanger, Montreal",45.569195,-73.58324,5,672.38,15147256868,False,$,Montreal
+Fu Lam,"Buffets, Chinese, Barbeque",Barbeque,Chinese,3.0,"4275 Rue Jean-Talon E, Montreal",45.568534,-73.591253,6,181.48,15147213883,False,$$,Montreal
+Flamant Crêpes Café,"Creperies, Coffee & Tea",Coffee & Tea,NA,4.5,"4593 Rue Bélanger, Montreal",45.57007,-73.58322,6,721.78,15146026036,False,$$,Montreal
+Akwaba,"African, Greek",African,"African, Greek",3.5,"4541 Rue Bélanger, Montreal",45.569396,-73.583776,19,643.28,15145071186,False,$$,Montreal
+Double Pizza,Pizza,Pizza,NA,3.0,"7180 Boulevard Pie-IX, Montreal",45.566251,-73.591248,2,72.39,15143430343,False,$$,Montreal
+Centrale Bergham,"Sandwiches, Burgers, Poutineries","Sandwiches, Burgers",NA,3.0,"3921 Rue Jean-Talon E, Montreal",45.56578,-73.59246,1,155.95,14383873440,False,$$,Montreal
+Steve Anna,Haitian,Haitian,NA,4.0,"3302 Rue Bélanger E, Montreal",45.557919,-73.593167,5,1010.15,15147253776,False,$,Montreal
+Pho Hin,"Vietnamese, Thai",Vietnamese,"Vietnamese, Thai",1.0,"4130 Rue Jean Talon E, Montreal",45.567859,-73.589978,1,208.75,15147230999,False,$,Montreal
+Nouveau Crystal Rest,"Breakfast & Brunch, Poutineries, Pizza",Pizza,NA,4.5,"3390 Belanger Rue, Montreal",45.55848,-73.59262,4,937.78,15147294992,False,$,Montreal
+Istanbul Gunes Kebab,"Turkish, Kebab",Turkish,NA,4.5,"7600 Boulevard Viau, Montreal",45.574264,-73.592569,7,825.21,15145441144,False,$,Montreal
+Subway,"Fast Food, Sandwiches","Fast Food, Sandwiches",NA,1.0,"7148 Pie-IX Boulevard, Montréal",45.566755,-73.58918,1,160.59,<NA>,False,$,Montreal
+Tim Hortons,"Breakfast & Brunch, Coffee & Tea",Coffee & Tea,NA,2.0,"4266 Rue Jean-Talon  E, Saint-Leonard",45.568039,-73.589814,1,169.13,14383871101,False,$,Montreal
+Sapore,"French, Mediterranean",French,"French, Mediterranean",4.0,"4490 Rue Jean-Talon E, Saint-Leonard",45.57016,-73.58775,5,475.73,15147211110,False,$,Montreal
+Pizza Lagua,"Pizza, Chicken Wings, Poutineries",Pizza,NA,3.0,"3793 Rue Villeray, Montreal",45.56619,-73.5997,2,650.5,15142270405,False,$,Montreal
+Chez Alberto,Portuguese,Portuguese,NA,4.0,"3380 Jean Talon East, Montreal",45.56026,-73.59673,1,841.12,15147223771,False,$,Montreal
+Kim Jian,Chinese,Chinese,Chinese,4.0,"3270 Rue Jean-Talon E, Montreal",45.559258,-73.597725,1,988.92,15147233821,False,$,Montreal
+Super Pizza,Pizza,Pizza,NA,4.0,"3882 Rue Bélanger, Montreal",45.56294,-73.58869,1,477.81,15147270222,False,$,Montreal
+Pho Asie,Vietnamese,Vietnamese,Vietnamese,4.0,"3271 Rue Jean-Talon E, Montreal",45.559406,-73.598031,2,987.36,15147278888,False,$,Montreal
+Restobar Chez Toutou,"Cajun/Creole, Seafood, Caribbean",Seafood,Caribbean,4.0,"4310 Belanger Rue, Montreal",45.56678,-73.58538,1,451.87,15147295111,False,$,Montreal
+Champion,Pizza,Pizza,NA,3.0,"3571 Rue Beaubien E, Montreal",45.55791,-73.58412,3,1148.2,15143760376,False,$$,Montreal
+La Table Fleurie,"Desserts, Arabic",Desserts,NA,5.0,"3704 Rue Jean-Talon E, Montreal",45.56293,-73.59434,1,497.44,15145931999,False,$$,Montreal
+Pizza Pizza,Pizza,Pizza,NA,1.5,"5050 Rue Jean Talon E, Montreal",45.57526,-73.58309,2,1152.17,15147371111,False,$$,Montreal
+Restaurant TGV,"Turkish, Halal",Turkish,NA,2.5,"4745 Rue Jean-Talon E, Montreal",45.572998,-73.586169,5,784.11,14383873990,False,$$,Montreal
+Le Déjeuner Cosmopolitain,"Breakfast & Brunch, Creperies",Breakfast & Brunch,NA,2.5,"7600 Boulevard Viau, Saint-Léonard",45.57528,-73.593636,10,950.15,15145965656,False,$$,Montreal
+Papichulo Resto Bar,"Bars, Latin American, Mexican",Bars,"Latin American, Mexican",3.0,"3388 Rue Jean-Talon E, Montreal",45.560394,-73.596768,2,842.26,15149297194,False,$$,Montreal
+Pizza Pino,Pizza,Pizza,NA,4.0,"3532 Rue Jean-Talon E, Montreal",45.56129,-73.5958,1,712.33,15145933535,False,$$,Montreal
+Pizza Hut,"Pizza, Chicken Wings, Fast Food","Pizza, Fast Food",NA,2.0,"4689 Jean-Talon East, Saint-Leonard",45.57232,-73.58697,5,690.13,15145937474,False,$$,Montreal
+Café & Resto Jean Talon,Diners,Diners,NA,5.0,"3355 Rue Jean Talon W, Mont-Royal",45.560232,-73.597299,1,879.29,<NA>,False,$$,Montreal
+Thaï Express,Thai,Thai,Thai,2.5,"5040 Rue Jean-Talon E, Montreal",45.575417,-73.58286,2,1149.44,15147213131,False,$$,Montreal
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"5005 Jean Talon Est, Saint Leonard",45.575601,-73.584678,2,1093.59,15147257272,False,$$,Montreal
+Auberge du Dragon Rouge,"Dinner Theater, Burgers",Burgers,NA,4.5,"8870 Rue Lajeunesse, Montreal",45.547292,-73.641411,50,325.79,15148585711,False,$$$,Montreal
+Sushi Ville,Sushi Bars,Sushi Bars,NA,4.5,"9100 Rue Lajeunesse, Montreal",45.548453,-73.645238,10,82.92,15143885920,False,$$$,Montreal
+Wok ToGo Crémazie,"Vietnamese, Chinese, Thai",Vietnamese,"Vietnamese, Chinese, Thai",4.5,"110 Boulevard Crémazie O, Montreal",45.540083,-73.642045,8,1023.65,15143898686,False,$,Montreal
+Patate Rouge,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.5,"755 Boulevard Crémazie E, Montreal",45.548916,-73.636187,9,663.56,15148585454,False,$,Montreal
+Martini Pizzeria,Pizza,Pizza,NA,4.0,"9481 Lajeunesse Rue, Montreal",45.55038,-73.65093,13,505.69,15143889672,False,$,Montreal
+Les Faims Finauds,"French, Cafes, Delis",Cafes,French,4.5,"9443 Rue Lajeunesse, Montreal",45.55014,-73.650777,6,486.8,15149033293,False,$$,Montreal
+Georgina,"Pizza, Italian",Pizza,Italian,3.5,"9245 Rue Lajeunesse, Montreal",45.549362,-73.647383,5,210.6,15143842222,False,$$,Montreal
+Café Sandrino,"Cafes, Coffee & Tea","Cafes, Coffee & Tea",NA,5.0,"718 Rue Legendre E, Montreal",45.550551,-73.643712,2,179.07,<NA>,False,$$,Montreal
+Tasty,"Fast Food, Burgers, Sandwiches","Fast Food, Burgers, Sandwiches",NA,3.5,"8899 Rue Berri, Montreal",45.547111,-73.64213,5,298.41,15145448899,False,$,Montreal
+Restaurant Pasta Bar,Italian,Italian,Italian,4.5,"230 Chabanel Rue W, Montreal",45.5407,-73.65293,6,1135.01,15143893888,False,$$,Montreal
+Pho 99 Chabanel,Vietnamese,Vietnamese,Vietnamese,3.5,"9345 Boulevard Saint-Laurent, Montreal",45.54487,-73.65144,7,724.08,15143878881,False,$$,Montreal
+Pho Viet Huong,"Vietnamese, Soup",Vietnamese,Vietnamese,5.0,"8567 Boulevard Saint-Laurent, Montreal",45.54117,-73.63848,3,1006.09,15143791688,False,$$,Montreal
+C-Dumpling & Pho,Chinese,Chinese,Chinese,4.5,"8567 Boulevard Saint-Laurent, Montreal",45.541157,-73.638491,2,1006.99,15143791688,False,$$,Montreal
+Thai Express,Thai,Thai,Thai,4.5,"8780 Boulevard Saint-Laurent, Montreal",45.541686,-73.643454,2,829.97,15143891188,False,$$,Montreal
+Georges Pizza,Pizza,Pizza,NA,4.5,"844 Sauve Rue Est, Montreal",45.55489,-73.65364,6,951.03,15143879321,False,$$,Montreal
+Sandwiches Thai Saigon,Thai,Thai,Thai,3.5,"8774, Rue Lajeunesse, Montreal",45.546785,-73.639245,5,496.98,15143887999,False,$$,Montreal
+Sushi Naniyori,Sushi Bars,Sushi Bars,NA,4.0,"8779 Lajeunesse Rue, Montreal",45.54703,-73.63929,8,478.49,15143813787,False,$$,Montreal
+Gourmets des Iles,Mauritius,Mauritius,NA,5.0,"Boulevard Saint Laurent, Montreal",45.541442,-73.639394,2,946.51,15146554987,False,$$,Montreal
+Paloma,"Italian, French",Italian,"Italian, French",5.0,"8521 Boulevard Saint-Laurent, Montreal",45.540999,-73.637906,1,1044.72,15145448521,False,$$,Montreal
+Vivez Santé,Cafes,Cafes,NA,4.0,"9275 Rue Lajeunesse, Montreal",45.549501,-73.6479,1,252.79,15143839275,False,$$,Montreal
+Lion Cite,"Food Delivery Services, Pan Asian",Food Delivery Services,Pan Asian,4.0,"8567 Boulevard Saint-Laurent, Montreal",45.54123,-73.63836,1,1007.47,15143813218,False,$$,Montreal
+Restaurant Lima14,Peruvian,Peruvian,Peruvian,5.0,"8551 Boul. Saint-Laurent, Montreal",45.541091,-73.638153,1,1026.22,15143888393,False,$$,Montreal
+Pho Saigon 27,"Vietnamese, Thai",Vietnamese,"Vietnamese, Thai",4.0,"8567 Boulevard Saint Laurent, Montreal",45.541157,-73.638478,1,1007.47,15143813218,False,$$,Montreal
+Nurï,"Vietnamese, Sandwiches, Imported Food",Sandwiches,Vietnamese,4.5,"367 Rue de Liège E, Montreal",45.54394,-73.635813,2,899.15,15148432430,False,$$,Montreal
+Burger King,"Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"55 Boulevard Crémazie O, Montreal",45.541124,-73.642679,3,900.65,15143899542,False,$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,5.0,"8677 Boulevard Saint-Laurent, Montreal",45.542048,-73.640521,1,848.99,15143811736,False,$,Montreal
+Raphaël,"Wine Bars, Italian, French",Wine Bars,"Italian, French",2.5,"8497 Rue Saint-Dominique, Montreal",45.5414,-73.63688,2,1050.48,15148070033,False,$,Montreal
+Café Noir,Cafes,Cafes,NA,2.0,"430 Boulevard Cremazie E, Montreal",45.54556,-73.63783,8,643.07,15143816647,False,$$$$,Montreal
+Elephant Thai,"Thai, Food Delivery Services",Thai,Thai,4.0,"8523 Boulevard Saint-Laurent, Montreal",45.541044,-73.63794,2,1039.1,<NA>,False,$$$$,Montreal
+Phó Express,Vietnamese,Vietnamese,Vietnamese,3.0,"8523 Saint-Laurent, Montreal",45.541019,-73.637894,3,1033.35,<NA>,False,$$,Montreal
+Uncle Potato,"Fast Food, Burgers","Fast Food, Burgers",NA,4.0,"70 Rue Chabanel O, Montreal",45.543319,-73.651517,1,833.33,14383809990,False,$$,Montreal
+Sushi Saumon,Sushi Bars,Sushi Bars,NA,3.0,"8519 Saint-Laurent Boul, Montreal",45.54105,-73.63773,2,1041.11,15143891940,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,2.5,"9485 Boul St Laurent, Montreal",45.54547,-73.65355,3,788.08,15143837676,False,$$,Montreal
+Fernandos,Portuguese,Portuguese,NA,3.0,"8555 Boulevard Saint Laurent, Montreal",45.541119,-73.638252,2,1024.69,15147180314,False,$$,Montreal
+Soleil d'Indochine,"Vietnamese, Thai",Vietnamese,"Vietnamese, Thai",1.0,"8567 Boulevard Saint-Laurent, Montreal",45.541219,-73.638584,1,1007.47,14385001840,False,$$,Montreal
+Bar A Tapas Tapeo,"Tapas Bars, Spanish",Tapas Bars,NA,4.5,"511 Rue Villeray E, Montreal",45.541609,-73.622668,76,379.4,15144951999,False,$$$,Montreal
+Restaurant Da Lillo,"Italian, Pizza",Pizza,Italian,4.0,"615 Jarry Rue E, Montreal",45.54464,-73.62823,31,268.21,15142761888,False,$$,Montreal
+Fanfare Brunch Boulangerie,"Breakfast & Brunch, Bakeries",Breakfast & Brunch,NA,4.5,"751 Rue Jarry E, Montreal",45.54613,-73.62692,12,227.54,14382897508,False,$$,Montreal
+Baristello,Cafes,Cafes,NA,5.0,"709B Rue Jarry E, Montreal",45.54562,-73.62734,9,222.62,15142722113,False,$,Montreal
+Solymar,Peruvian,Peruvian,Peruvian,4.0,"7610 Rue Saint-Hubert, Montreal",45.543651,-73.619965,52,387.5,15142734446,False,$$,Montreal
+Restaurant Alep,"Middle Eastern, Syrian",Middle Eastern,Middle Eastern,4.5,"199 Rue Jean-Talon E, Montreal",45.5365,-73.61646,44,1119.59,15142706396,False,$$$,Montreal
+Le Petit Alep,"Middle Eastern, Syrian",Middle Eastern,Middle Eastern,4.0,"191 Rue Jean-Talon E, Montreal",45.536446,-73.616349,92,1123.82,15142709361,False,$$,Montreal
+Mesón,"Spanish, Breakfast & Brunch",Spanish,NA,4.0,"345 rue Villeray, Montreal",45.540019,-73.623589,48,528.66,15144399089,False,$$$,Montreal
+Marché Méli-Mélo,"Haitian, Delicatessen",Haitian,NA,4.5,"640 Rue Jarry E, Montreal",45.544713,-73.627571,33,223.09,15142776409,False,$,Montreal
+Pinocchio,"Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",NA,4.5,"505 Rue Gounod, Montreal",45.542512,-73.625696,23,256.04,14383844500,False,$,Montreal
+EtOH Brasserie,Brasseries,Brasseries,NA,3.5,"8100 rue Saint-Denis, Montreal",45.542623,-73.629359,42,430.2,15145089894,False,$$,Montreal
+Le Marquis,"Bakeries, Gluten-Free",Bakeries,NA,5.0,"367 Rue de Castelnau E, Montreal",45.538806,-73.617828,46,847.21,15142787047,False,$$,Montreal
+Oui Mais Non,"Cafes, Coffee & Tea","Cafes, Coffee & Tea",NA,4.5,"72 Rue Jarry Est, Montreal",45.53965,-73.63062,64,724.71,15145075387,False,$,Montreal
+Café Vito,Cafes,Cafes,NA,4.5,"151 Rue Villeray, Montreal",45.53849,-73.62458,62,699.55,15145643131,False,$,Montreal
+El Rey del Taco,Mexican,Mexican,Mexican,4.0,"232 Rue Jean-Talon E, Montreal",45.536422,-73.615961,187,1145.81,15142743336,False,$$,Montreal
+Le Toasteur,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"767 Rue Villeray, Montreal",45.543983,-73.62121,21,283.93,15147596377,False,$$,Montreal
+Le Pain dans les Voiles,"Coffee & Tea, Bakeries, Sandwiches","Coffee & Tea, Sandwiches",NA,4.5,"357 rue de Castelnau Est, Montreal",45.538529,-73.617758,46,874.58,15142781515,False,$,Montreal
+GUSTA,Vegan,Vegan,NA,4.5,"191 Place du Marché-du-Nord, Montreal",45.535984,-73.616161,21,1176.44,<NA>,False,$,Montreal
+Le Pourvoyeur,"Breakfast & Brunch, Canadian (New), Pubs",Pubs,Canadian (New),3.5,"184 Jean Talon E, Montreal",45.53596,-73.61626,76,1166.83,15142775858,False,$$,Montreal
+Moccione Pizza,Italian,Italian,Italian,5.0,"380 Rue Villeray, Montreal",45.540448,-73.623029,9,491.41,15142704441,False,$$,Montreal
+Braseiro,Portuguese,Portuguese,NA,4.0,"8261 Saint-Laurent Boulevard, Montreal",45.539737,-73.633601,27,886.21,15143890606,False,$$,Montreal
+Ogo Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"655 Rue Jarry Est, Montreal",45.5451,-73.62776,12,240.25,15142728868,False,$$,Montreal
+Lundis au Soleil,"Wine Bars, Canadian (New)",Wine Bars,Canadian (New),4.5,"801 Rue Jarry E, Montreal",45.546535,-73.626442,4,241.56,15144190606,False,$$,Montreal
+Daou,Lebanese,Lebanese,NA,4.0,"519 Rue Faillon E, Montreal",45.540909,-73.619918,24,559.34,15142768310,False,$$,Montreal
+Restaurant Moccione,Italian,Italian,Italian,4.5,"7495 R. Saint-Denis, Montreal",45.540112,-73.620002,10,628.9,15144959899,False,$$,Montreal
+Café Larue & Fils,Cafes,Cafes,NA,4.5,"405 Rue Jarry E, Montreal",45.542858,-73.629265,16,410.33,15145646444,False,$,Montreal
+Café Ferlucci,Cafes,Cafes,NA,4.5,"432 Rue de Castelnau E, Montreal",45.539692,-73.616967,24,821.23,15143796575,False,$,Montreal
+Vesta,"Pizza, Salad",Pizza,NA,4.0,"206 Rue Jarry E, Montreal",45.54082,-73.62999,13,590.6,15145437725,False,$,Montreal
+Iris,Salvadoran,Salvadoran,NA,4.5,"50 Jarry Rue E, Montreal",45.539572,-73.630774,9,741.24,15143812992,False,$,Montreal
+Banh Mi Saigon,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,3.5,"696 Jarry Est, Montreal",45.545374,-73.627094,5,200.14,15144399344,False,$$,Montreal
+Corvette Express,Fast Food,Fast Food,NA,3.5,"744 Rue Jarry E, Montreal",45.54568,-73.62658,7,178.79,15142709996,False,$,Montreal
+Pho Dô,Vietnamese,Vietnamese,Vietnamese,4.0,"676 Rue Jarry E, Montreal",45.545138,-73.627168,5,197.57,15143031368,False,$,Montreal
+Huis Clos,"Cocktail Bars, French, Italian",Cocktail Bars,"French, Italian",3.5,"7659 Rue Saint-Denis, Montreal",45.54084,-73.62226,17,474.11,15144198579,False,$$,Montreal
+Mini Bouchées Café,"Creperies, Pancakes, Ice Cream & Frozen Yogurt",Creperies,NA,5.0,"502 Rue Jarry E, Montreal",45.543272,-73.628533,6,338.1,14383751221,False,$$,Montreal
+Pâtisserie Lajeunesse,"Bakeries, Patisserie/Cake Shop, Portuguese",Bakeries,NA,4.5,"533 Rue Gounod, Montreal",45.542792,-73.625628,2,224.85,15142720362,False,$$,Montreal
+Quebec Delicatessen,"Sandwiches, Burgers, Pizza","Sandwiches, Burgers, Pizza",NA,3.0,"590 Jarry Rue E, Montreal",45.5441,-73.628,10,261.63,15142732833,False,$$,Montreal
+Pho Ong Rau,Vietnamese,Vietnamese,Vietnamese,3.5,"300 Rue Jarry E, Montreal",45.54141,-73.62966,22,531.93,15149037722,False,$$,Montreal
+Restaurant Pho Mylys,Vietnamese,Vietnamese,Vietnamese,3.5,"738 Rue Jarry E, Montreal",45.54563,-73.62664,4,184.78,15142791111,False,$$,Montreal
+Pizza Campanello,Pizza,Pizza,NA,5.0,"587 Rue Jarry E, Montreal",45.544266,-73.62848,2,297.91,15149033334,False,$$,Montreal
+Frite Alors!,"Belgian, Canadian (New)",Belgian,Canadian (New),3.5,"171 Villeray, Montreal",45.53872,-73.62439,16,678.76,15145077127,False,$$,Montreal
+L'Arrêt,"Burgers, Mexican",Burgers,Mexican,4.0,"651 Rue Jarry E, Montreal",45.5451,-73.62776,3,241.32,15142724555,False,$$,Montreal
+Centrale Bergham,"Halal, Sandwiches, Burgers","Sandwiches, Burgers",NA,1.5,"8093 Rue Saint-Hubert, Montreal",45.54647,-73.625936,3,218.07,15142727552,False,$$,Montreal
+Restaurant Per Te,Italian,Italian,Italian,5.0,"371 Rue Guizot Est, Montreal",45.543098,-73.632759,3,613.24,15143893000,False,$$,Montreal
+Café Larue & Fils,Cafes,Cafes,NA,3.5,"244 Rue de Castelneau E, Montreal",45.537698,-73.617912,29,942.14,15142728087,False,$,Montreal
+Bành Mi Thinh,"Vietnamese, Sandwiches",Sandwiches,Vietnamese,4.5,"8084 Rue Lajeunesse, Montreal",45.543478,-73.628108,2,298.16,15142794905,False,$,Montreal
+Imperio,Portuguese,Portuguese,NA,4.0,"1292 Jarry Est, Montreal",45.549656,-73.622057,13,587.53,15147215665,False,$,Montreal
+Monsieur Hotdog Plus,Fast Food,Fast Food,NA,5.0,"7751 Rue Saint-Hubert, Montreal",45.54484,-73.62172,2,232.59,15142773333,False,$,Montreal
+Bistro l'Enchanteur,"French, Breakfast & Brunch",French,French,3.5,"7331 avenue Henri Julien, Montreal",45.53805,-73.61818,28,904.23,15142734766,False,$$,Montreal
+Sushi 426,Sushi Bars,Sushi Bars,NA,3.0,"426 Villeray, Montreal",45.541115,-73.622574,9,433.06,15145087878,False,$$,Montreal
+Las Palmas,Latin American,Latin American,Latin American,3.5,"632 Rue Jarry E, Montreal",45.544658,-73.627652,3,229.47,15142707334,False,$$,Montreal
+Le Valois,Bistros,Bistros,NA,4.0,"25 Place Simon Valois, Montreal",45.547529,-73.5434,64,377.75,15145280202,False,$$,Montreal
+Antidote,Vegan,Vegan,NA,3.5,"3459 Rue Ontario E, Montreal",45.543888,-73.545833,39,107.5,15143036300,False,$$,Montreal
+Poutine Centrale,Poutineries,Poutineries,NA,4.5,"3971 Rue Hochelaga, Montreal",45.55141,-73.549132,159,875.04,15145079494,False,$$,Montreal
+Arhoma,"Bakeries, Sandwiches",Sandwiches,NA,4.5,"15 Place Simon-Valois, Montreal",45.54771,-73.54398,60,383.13,15145264662,False,$$,Montreal
+Hélicoptère,Canadian (New),Canadian (New),Canadian (New),4.5,"4255 Rue Ontario E, Montreal",45.55205,-73.54045,52,922.66,15145434255,False,$$,Montreal
+Ôma Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,5.0,"3550 Rue Ontario E, Montreal",45.544599,-73.544817,4,46.57,14383802812,False,$$,Montreal
+État-Major,Canadian (New),Canadian (New),Canadian (New),4.5,"4005 Rue Ontario E, Montreal",45.549453,-73.541967,41,614.62,15149058288,False,$$$,Montreal
+Le Trèfle,"Irish Pub, Whiskey Bars, Burgers","Irish Pub, Whiskey Bars, Burgers",NA,4.0,"3971 Rue Ontario E, Montreal",45.54906,-73.542078,35,570.49,14383863737,False,$$,Montreal
+Canard Café,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,4.0,"4299 Ontario Street East, Montreal",45.55247,-73.54006,77,983.54,15144197997,False,$,Montreal
+Les Canailles,French,French,French,3.5,"3854 Rue Ontario E, Montreal",45.54771,-73.542908,35,372.34,15145268186,False,$$$,Montreal
+Heirloom,Pizza,Pizza,NA,4.0,"3991 Rue Ontario E, Montreal",45.549369,-73.541973,35,605.66,15149058211,False,$$,Montreal
+Piri Piri Hochelaga,Portuguese,Portuguese,NA,4.5,"3753 Rue Ontario E, Montreal",45.546791,-73.544022,16,285.72,15145212779,False,$$,Montreal
+Atomic Café,Cafes,Cafes,NA,4.0,"3606 Rue Ontario E, Montreal",45.545073,-73.54457,24,94.02,15145001905,False,$,Montreal
+Bagatelle,"French, Breakfast & Brunch",French,French,4.0,"4323 Rue Ontario E, Montreal",45.552822,-73.539624,54,1029.48,15142543838,False,$$,Montreal
+Fusion Latino,"Mexican, Cocktail Bars",Cocktail Bars,Mexican,4.5,"3336 Rue Ontario E, Montreal",45.542647,-73.5462,18,218.15,15145222397,False,$$,Montreal
+William J. Walter,"Meat Shops, Beer, Wine & Spirits, Sandwiches","Beer, Wine & Spirits, Sandwiches",NA,4.5,"5 Place Simon Valois, Montreal",45.5475,-73.54413,9,373.43,15145235444,False,$$,Montreal
+Hélico,"Cafes, Patisserie/Cake Shop",Cafes,NA,4.5,"2009 Avenue de la Salle, Montreal",45.552108,-73.540469,11,931.87,15145433543,False,$,Montreal
+Gerry's Delicatessen,Delis,Delis,NA,3.5,"3982 Rue Ontario E, Montreal",45.549282,-73.541514,24,609.45,15142541691,False,$$,Montreal
+Pizza Piroz,Pizza,Pizza,NA,4.0,"3445 Rue Ontario E, Montreal",45.54357,-73.54611,10,129.93,15145288088,False,$$,Montreal
+L'Olive Noire,"Moroccan, African",Moroccan,African,4.0,"4271 Rue Ontario Est, Montreal",45.552158,-73.540184,16,944.83,15145049484,False,$$,Montreal
+Restaurant Tex Mex,"Mexican, Tex-Mex",Mexican,Mexican,3.5,"2212 Rue Saint Germain, Montreal",45.542547,-73.55021,14,479.43,15145981234,False,$$,Montreal
+La Pataterie,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.5,"3860 Rue Ontario E, Montreal",45.54775,-73.54275,14,417.9,15145233202,False,$,Montreal
+Le Blind Pig,"Bars, Burgers, American","Bars, Burgers",American,3.5,"3890 Rue Ontario E, Montreal",45.54815,-73.54242,25,468.48,<NA>,False,$$,Montreal
+Le Comptoir Sushi à la Maison,Sushi Bars,Sushi Bars,NA,4.0,"3870 Rue Ontario E, Montreal",45.54802,-73.54261,13,447.49,15145447653,False,$$,Montreal
+Boustan,"Middle Eastern, Mediterranean",Middle Eastern,"Middle Eastern, Mediterranean",3.5,"3417 Rue Ontario E, Montreal",45.54333,-73.54628,5,160.03,15143794141,False,$$,Montreal
+Basha,Lebanese,Lebanese,NA,5.0,"3552 Rue Ontario E, Montreal",45.54465,-73.54476,1,54.36,15146585007,False,$$,Montreal
+Au Pain Doré,"Bakeries, Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",NA,5.0,"3075 Rue de Rouen, Montreal",45.539708,-73.552572,5,802.37,15145288877,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,4.0,"3634 Rue Ontario Est, Montreal",45.54547,-73.544333,2,139.16,15145268181,False,$$,Montreal
+Resto-Bar le Pick Up,"Burgers, Sandwiches, Wine Bars","Burgers, Sandwiches, Wine Bars",NA,4.0,"3739 Rue Ontario E, Montreal",45.546652,-73.544046,2,272.33,15145263739,False,$$,Montreal
+Jimmy Restaurant,"Pizza, Chinese, Smokehouse",Pizza,Chinese,3.5,"3924 Rue Hochelaga, Montreal",45.550766,-73.548931,14,803.46,15142552462,False,$$,Montreal
+Café Jones,Cafes,Cafes,NA,4.5,"3349 Rue Ontario E, Montreal",45.542808,-73.546448,2,217.15,15145107282,False,$$,Montreal
+Bistro 360,Pizza,Pizza,NA,4.0,"3353 Rue Ontario E, Montreal",45.54284,-73.54658,8,210.99,15143791809,False,$$,Montreal
+Café Des Alizés,"Coffee & Tea, Desserts, Sandwiches","Coffee & Tea, Desserts, Sandwiches",NA,3.5,"3776 Ontario E, Montreal",45.547088,-73.543559,13,327.08,15146585608,False,$,Montreal
+La Bonne Bouffe Créole,"Cajun/Creole, Haitian",Cajun/Creole,NA,4.0,"3715 Rue Sainte-Catherine E, Montreal",45.544573,-73.537999,4,510.87,15146567347,False,$,Montreal
+Fugazzi Pizza - Hochelaga,Pizza,Pizza,NA,4.5,"3905 Rue Ontario E, Montreal",45.54839,-73.54286,3,480.98,<NA>,False,$,Montreal
+Fusion Express,Asian Fusion,Asian Fusion,Asian Fusion,4.5,"3974 Avenue Pierre-De Coubertin, Montreal",45.552549,-73.552148,7,1098.7,14383816628,False,$,Montreal
+Délices et Gourmandises,"Chocolatiers & Shops, Bakeries, Sandwiches",Sandwiches,NA,5.0,"3475 Rue Ontario E, Montreal",45.54404,-73.54589,1,97.32,15144196644,False,$,Montreal
+Madame Smith,"Bars, French",Bars,French,3.5,"4061 Rue Ontario E, Montreal",45.550075,-73.541499,5,692.01,15145071725,False,$,Montreal
+Le Flamant,Canadian (New),Canadian (New),Canadian (New),4.5,"4043 Rue Ontario E, Montreal",45.549964,-73.541639,4,664.72,15145434245,False,$,Montreal
+Les Jus Kanasuk,"Bars, Cafes","Bars, Cafes",NA,3.5,"3545A Rue Ontario E, Montreal",45.544633,-73.545299,2,74.34,15146993336,False,$,Montreal
+L'Oeufrier,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"4060 Rue Ontario Saint E, Montreal",45.550031,-73.541124,7,698.01,15143793694,False,$,Montreal
+Frères,"Bubble Tea, Dim Sum",Bubble Tea,NA,5.0,"3892 Rue Ontario E, Montreal",45.548483,-73.542491,1,499.38,15145223888,False,$,Montreal
+Marco Rosa,"Imported Food, Mexican",Imported Food,Mexican,4.5,"3668 Rue Ontario E, Montreal",45.545851,-73.543991,2,185.53,15146574668,False,$,Montreal
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,1.5,"3326 Rue Ontario E, Montreal",45.54255,-73.54606,3,232.3,15145253333,False,$,Montreal
+Anticafé,Cafes,Cafes,NA,4.0,"3989 Rue Ontario E, Montreal",45.549309,-73.542121,4,595.62,14383877991,False,$,Montreal
+Double Pizza,Pizza,Pizza,NA,2.0,"3899 Rue Ontario E, Montreal",45.548293,-73.542949,5,468.74,15143430343,False,$,Montreal
+Bistro Lamifa,"Bistros, Creperies",Bistros,NA,4.5,"3976 Rue Ontario E, Montreal",45.5492,-73.54168,4,595.32,15143738239,False,$,Montreal
+Pizza 2 Pour 1,"Pizza, Food Delivery Services",Pizza,NA,5.0,"3699 Rue Ontario E, Montreal",45.54633,-73.54443,1,224.14,15145280528,False,$,Montreal
+Pizzeria Bros,Pizza,Pizza,NA,5.0,"3979 Rue Ontario E, Montreal",45.549262,-73.542095,1,591.28,15144193979,False,$,Montreal
+Pita Bar,Greek,Greek,Greek,3.5,"4315 Rue Ontario E, Montreal",45.552803,-73.539842,3,1033.8,15143030233,False,$,Montreal
+Beatrice,Italian,Italian,Italian,4.0,"1504 Rue Sherbrooke O, Montreal",45.49697,-73.580937,92,869.25,15149376009,False,$$$,Montreal
+YEN Cuisine Japonaise,Japanese,Japanese,Japanese,4.0,"2157 Rue Mackay, Montreal",45.497504,-73.580187,69,856.42,15145433354,False,$$,Montreal
+Nos Thés,"Taiwanese, Tea Rooms",Taiwanese,NA,4.0,"1609 Rue Sainte-Catherine Ouest, Montreal",45.494956,-73.57826,168,1172.46,15149040246,False,$$,Montreal
+Chez Hailar,"Pizza, Sandwiches, Halal","Pizza, Sandwiches",NA,4.5,"1612 Rue Sherbrooke O, Montreal",45.49618,-73.5815,29,902.95,15148460000,False,$$,Montreal
+Cafe Aunja,Cafes,Cafes,NA,4.0,"1448 Sherbrooke Street W, Montreal",45.49773,-73.580254,102,823.31,15149148337,False,$$,Montreal
+Qing Hua,"Chinese, Dumplings",Chinese,Chinese,3.5,"1675 Boulevard de Maisonneuve O, Montreal",45.494861,-73.580467,226,1088.96,14382885366,False,$$,Montreal
+Antep Kabab,Turkish,Turkish,NA,4.5,"1626 Boulevard de Maisonneuve O, Montreal",45.495214,-73.579508,126,1093.54,15149037979,False,$,Montreal
+Chez Chen,Chinese,Chinese,Chinese,4.0,"1618 Avenue Lincoln, Montreal",45.49575,-73.58036,31,999.49,15149336888,False,$$,Montreal
+Otto Yakitori Izakaya,Japanese,Japanese,Japanese,4.0,"1441 Rue Saint-Mathieu, Montreal",45.494529,-73.579877,119,1143.61,15145078886,False,$$,Montreal
+Cocktail Hawaii,"Breakfast & Brunch, Juice Bars & Smoothies, Creperies",Juice Bars & Smoothies,NA,4.0,"1645 Rue Maisonneuve O, Montreal",45.806287,-74.050511,56,1065.75,15149338887,False,$$,Montreal
+Chung Chun,"Hot Dogs, Korean, Fast Food",Fast Food,Korean,4.5,"1418 Rue Pierce, Montreal",45.494617,-73.579082,32,1167.31,<NA>,False,$$,Montreal
+L'Autre Saison,French,French,French,3.5,"2137 Crescent Rue, Montreal",45.49864,-73.57816,65,879.48,15148450058,False,$$$,Montreal
+Château Kabab,"Persian/Iranian, Halal, Kebab",Persian/Iranian,Persian/Iranian,3.5,"2140 Rue Guy, Montreal",45.49607,-73.58068,91,1000.1,15149321114,False,$$,Montreal
+Hinnawi Bros Bagel & Café,"Bagels, Cafes",Cafes,NA,4.0,"2002 Mackay, Montreal",45.496544,-73.579173,49,989.07,15149330600,False,$,Montreal
+Poulet Rouge Ste-Catherine,"Chicken Shop, Fast Food, Salad",Fast Food,NA,4.0,"1623 rue Sainte-Catherine Ouest ,, Montreal",45.494701,-73.578407,42,1188.83,15144095959,False,$,Montreal
+Étudiant Savoureux Biryani,"Pakistani, Indian",Pakistani,Indian,4.0,"1620A Avenue Lincoln, Montreal",45.495787,-73.580358,40,1004.23,15148851036,False,$,Montreal
+Hôtel et Café Ambrose,"Hotels, Breakfast & Brunch, Cafes",Cafes,NA,4.0,"3422 Rue Stanley, Montreal",45.50135,-73.57839,29,724.72,15142886922,False,$$,Montreal
+Altaïb,"Pizza, Lebanese",Pizza,NA,4.0,"2125 Rue Guy, Montreal",45.49607,-73.579962,48,994.7,15149311999,False,$,Montreal
+KimGalbi,Korean,Korean,Korean,4.5,"2100 Rue Saint-Mathieu, Montreal",45.49472,-73.5813,27,1065.66,14383877766,False,$,Montreal
+Ramen Misoya,"Ramen, Noodles",Ramen,NA,3.5,"2065A Rue Bishop, Montreal",45.49786,-73.57849,160,925.32,15143734888,False,$$,Montreal
+3 Amigos,"Tex-Mex, Mexican",Tex-Mex,Mexican,2.5,"1657 Rue Sainte-Catherine O, Montreal",45.49441,-73.57906,250,1189.47,15149393329,False,$$,Montreal
+Le Poké Bar,"Hawaiian, Poke",Hawaiian,NA,3.5,"2153 Rue Crescent, Montreal",45.49871,-73.57831,101,869.3,15149036777,False,$$,Montreal
+L'Academie,"French, Italian",French,"French, Italian",3.0,"2100 Rue Crescent, Montreal",45.49816,-73.5783,109,905.78,15146644455,False,$$,Montreal
+Hero Certified Burgers,Burgers,Burgers,NA,3.5,"2019 Rue Bishop, Montreal",45.497519,-73.578358,31,952.1,15148436767,False,$$,Montreal
+Cuisine Szechuan,Chinese,Chinese,Chinese,3.5,"2350 Rue Guy, Montreal",45.496391,-73.581426,112,903.89,15149335041,False,$$,Montreal
+Allô! Mon Coco,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"1684 Boulevard de Maisonneuve O, Montreal",45.494584,-73.580233,124,1124.75,15144196161,False,$$,Montreal
+Il Cortile,Italian,Italian,Italian,3.5,"1442 Sherbrooke Rue O, Montreal",45.49775,-73.58011,29,831.81,15148438230,False,$$$,Montreal
+Sandwicherie Ka'ek,"Sandwiches, Lebanese",Sandwiches,NA,4.5,"2002 Rue Mackay, Montreal",45.49652,-73.5791,10,992.7,15149359944,False,$$$,Montreal
+Vinh's Café,Vietnamese,Vietnamese,Vietnamese,4.5,"740 Avenue du Dr Penfield, Montreal",45.50297,-73.57971,10,725.1,<NA>,False,$,Montreal
+La Palette Gourmande,"Breakfast & Brunch, Bistros",Breakfast & Brunch,NA,4.0,"1486 Rue Sherbrooke O, Montreal",45.497134,-73.580848,12,858.1,15147501492,False,$$$,Montreal
+Sakura,Japanese,Japanese,Japanese,3.0,"3450 Rue Drummond, Montreal",45.501129,-73.579891,28,622.62,15142889122,False,$$$,Montreal
+Humus Bol,Middle Eastern,Middle Eastern,Middle Eastern,4.5,"2110 Rue Guy, Montreal",45.495589,-73.579958,11,1039.51,15144094004,False,$$$,Montreal
+Maiolo Montréal,Italian,Italian,Italian,4.5,"1800 Rue Sherbrooke O, Montreal",45.495527,-73.582419,6,956.15,15149041900,False,$$$,Montreal
+Nouilles du Yunnan,"Noodles, Chinese",Noodles,Chinese,3.5,"2065b Rue Bishop, Montreal",45.49786,-73.57849,25,917.21,15145430299,False,$$$,Montreal
+Angela,Pizza,Pizza,NA,3.0,"1662 Boulevard de Maisonneuve O, Montreal",45.494897,-73.579962,68,1104.89,15149332000,False,$$,Montreal
+Poulet Bronzé,"Chicken Shop, Chicken Wings, Fast Food",Fast Food,NA,3.5,"1622 Avenue Lincoln, Montreal",45.495887,-73.580361,44,994.63,15149898555,False,$,Montreal
+Restaurant Shi Tang,Chinese,Chinese,Chinese,4.0,"1622 De Maisonneuve W, Montreal",45.805767,-74.050766,26,1071.07,15146270888,False,$,Montreal
+Shifu,Chinese,Chinese,Chinese,4.5,"1460 Rue Mackay, Montreal",45.496412,-73.578598,8,1031.19,15149338868,False,$,Montreal
+Bombay Mahal Thali,Indian,Indian,Indian,3.5,"1629 Rue Sainte-Catherine O, Montreal",45.494512,-73.578481,39,1202.89,15149039600,False,$$,Montreal
+M4 Burritos,Mexican,Mexican,Mexican,3.0,"1530 Boul. Maisonneuve Ouest, Montreal",45.495882,-73.579212,36,1045.61,15145083478,False,$$,Montreal
+Tacos Victor,Mexican,Mexican,Mexican,4.0,"2145 Rue Crescent, Montreal",45.49862,-73.578348,9,872.2,15148448008,False,$$,Montreal
+MonoMtl,"Sandwiches, Coffee & Tea, Desserts","Sandwiches, Coffee & Tea, Desserts",NA,4.5,"2035 rue Crescent, Montreal",45.498354,-73.578321,6,892.37,14383805151,False,$$,Montreal
+Pizza Bella,Pizza,Pizza,NA,4.0,"1550 Boul De Maisonneuve O, Montreal",45.49585,-73.57879,20,1058.86,15149331748,False,$,Montreal
+Oriental Rice Noodle House,Noodles,Noodles,NA,4.0,"2055 Rue Bishop, Montreal",45.49783,-73.57841,5,925.86,15142850516,False,$,Montreal
+Simmer Huang,"Chinese, Hot Pot",Chinese,Chinese,3.5,"2045 Rue Bishop, Montreal",45.49776,-73.57828,14,939.75,15149858818,False,$,Montreal
+M.Gao,Chinese,Chinese,Chinese,3.5,"1550 Boulevard de Maisonneuve O, Montreal",45.495861,-73.578976,15,1058.37,15149898887,False,$$,Montreal
+Osmow’s,Mediterranean,Mediterranean,Mediterranean,4.5,"1627 Sainte Catherine O, Montreal",45.494787,-73.578543,4,1174.91,15144191915,False,$$,Montreal
+Wonton Express,"Dumplings, Chinese",Dumplings,Chinese,4.5,"1668 Maisonneuve Boulevard W, Montreal",45.494794,-73.579967,5,1114.61,<NA>,False,$$,Montreal
+DQ / Orange Julius,"Ice Cream & Frozen Yogurt, Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"1439 Rue Guy, Montreal",45.495738,-73.578855,5,1075.02,15149384888,False,$,Montreal
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"1540 Boulevard de Maisonneuve O, Montreal",45.496058,-73.578833,13,1047.87,15149375001,False,$,Montreal
+Zykaa,Indian,Indian,Indian,4.0,"8792 Rue Hochelaga, Montreal",45.60239,-73.51897,27,491.74,15149039952,False,$$,Montreal
+Viet Gril Express,Vietnamese,Vietnamese,Vietnamese,4.0,"8736 Rue Hochelaga, Montreal",45.601835,-73.519603,11,465.35,15143514916,False,$$,Montreal
+Chez Simon Cantine Urbaine,"Fast Food, Burgers, Sandwiches","Fast Food, Burgers, Sandwiches",NA,4.5,"8517 Rue Hochelaga, Montreal",45.599333,-73.521325,11,443.87,14383759281,False,$$,Montreal
+Chez To Go,Asian Fusion,Asian Fusion,Asian Fusion,5.0,"9041 Rue Notre-Dame E, Montreal",45.603689,-73.512833,4,601.76,15143533453,False,$$,Montreal
+Restaurant Coronel,Pizza,Pizza,NA,3.0,"8746 Rue Notre-Dame E, Montreal",45.599685,-73.512209,9,294.5,15143532800,False,$$,Montreal
+Café Sésame,Cafes,Cafes,NA,5.0,"8628 Rue Hochelaga, Montreal",45.60041,-73.52015,1,408.35,15144937656,False,$,Montreal
+Basha,"Lebanese, Vegetarian",Lebanese,NA,3.0,"8645 Rue Hochelaga, Montreal",45.600749,-73.520491,2,438.94,15143556555,False,$,Montreal
+Le M café,Cafes,Cafes,NA,4.0,"9079 Rue Hochelaga, Montreal",45.605551,-73.517851,1,784.02,<NA>,False,$,Montreal
+Tonkin Express,Vietnamese,Vietnamese,Vietnamese,3.0,"8582 Rue Hochelaga, Montreal",45.59991,-73.52046,1,396.88,15143552882,False,$$,Montreal
+Resto au Goût  Tropical,Cajun/Creole,Cajun/Creole,NA,4.0,"8720 Rue Hochelaga E, Montreal",45.60155,-73.51947,1,436.27,15144938720,False,$$,Montreal
+Malay Thaï,"Thai, Malaysian",Thai,"Thai, Malaysian",3.0,"9007 Rue Hochelaga, Montreal",45.60476,-73.51821,4,705.71,15149038833,False,$$,Montreal
+Plat Sushi,Sushi Bars,Sushi Bars,NA,3.5,"8812 Rue Hochelaga, Montreal",45.60255,-73.51886,3,508.18,15143568898,False,$$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"8235 Boulevard Notre-Dame E, Montreal",45.593017,-73.511108,1,722.41,15144938404,False,$$,Montreal
+Dominic Sous-Marins,Fast Food,Fast Food,NA,4.0,"8980 Rue Hochelaga E, Montreal",45.604377,-73.517712,1,654.36,15143547717,False,$$,Montreal
+Basha Restaurant,Restaurants,Restaurants,NA,3.5,"10650 Lajeunesse Rue, Montreal",45.55473,-73.66736,5,5.87,15142232049,False,$$,Montreal
+Le St-Urbain,French,French,French,4.0,"96 Rue Fleury O, Montreal",45.54702,-73.66549,29,876.58,15145047700,False,$$$,Montreal
+Le Petit Flore,"French, Wine Bars",Wine Bars,French,4.0,"1145 Rue Fleury E, Montreal",45.558962,-73.659049,10,800.85,15143872640,False,$$,Montreal
+Sama Fusion,"Vietnamese, Sushi Bars, Thai",Sushi Bars,"Vietnamese, Thai",4.0,"945 Rue Fleury E, Montreal",45.55757,-73.659651,8,680.56,15143888989,False,$$,Montreal
+Le Millen,French,French,French,4.0,"1185 Rue Fleury Est, Montreal",45.55894,-73.65894,10,813.78,15149030636,False,$$$,Montreal
+StHubert,"Barbeque, Chicken Shop",Barbeque,NA,2.5,"10520 Rue Lajeunesse, Montreal",45.554225,-73.665304,6,179.12,15143855555,False,$$,Montreal
+Resto Bar Coin Du Metro,"Sports Bars, Canadian (New)",Sports Bars,Canadian (New),3.0,"10719 Rue Lajeunesse, Montreal",45.555462,-73.668457,4,102.21,15143894929,False,$$,Montreal
+Restaurant Les Brides,Sushi Bars,Sushi Bars,NA,4.0,"10420 Lajeunesse Street, Montreal",45.55376,-73.664,3,244.45,15143838596,False,$$,Montreal
+Pizza Pizza,Pizza,Pizza,NA,2.0,"500 Boulevard Henri-Bourassa E, Montreal",45.554538,-73.668288,5,71.75,15147371111,False,$$,Montreal
+Toujours Mikes,Pizza,Pizza,NA,3.5,"10490 Rue Lajeunesse, Montreal",45.55407,-73.66486,2,221.73,15143850123,False,$$,Montreal
+Madre,"Seafood, Latin American",Seafood,Latin American,4.0,"124 Rue Fleury Ouest, Montreal",45.54668,-73.665853,7,912.1,15144391966,False,$$,Montreal
+Restaurant Madre,Latin American,Latin American,Latin American,3.5,"124 Rue Fleury O, Montreal",45.54667,-73.665848,11,913.27,15143157932,False,$$,Montreal
+Tutti Frutti,Breakfast & Brunch,Breakfast & Brunch,NA,2.5,"10820 Avenue Millen, Montreal",45.557074,-73.669142,3,284.49,15143835579,False,$$,Montreal
+La Molisana,Italian,Italian,Italian,2.5,"1014 Rue Fleury E, Montreal",45.557876,-73.659058,13,739.86,15143827100,False,$$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"10400 Rue Lajeunesse, Montreal",45.553619,-73.663526,5,332.83,15143840151,False,$,Montreal
+Pizzéria N° 900 Fleury,Pizza,Pizza,NA,3.5,"1021 Rue Fleury E, Montreal",45.55803,-73.65944,8,727.25,14383873900,False,$,Montreal
+Le Romarin,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"160 Rue Fleury O, Montreal",45.54606,-73.66603,1,976.09,15149039396,False,$,Montreal
+Marabou Créole,"Cajun/Creole, Haitian",Cajun/Creole,NA,4.0,"9880 Boulevard Saint Laurent, Montreal",45.546715,-73.659592,3,1088.06,15143815830,False,$,Montreal
+Pho Mymy,Vietnamese,Vietnamese,Vietnamese,4.0,"1031 Rue Fleury E, Montreal",45.558195,-73.659309,2,737.41,14383871970,False,$,Montreal
+Sushi Japango,Sushi Bars,Sushi Bars,NA,3.0,"431 Henri-Bourassa Boul E, Montreal",45.55405,-73.66929,3,159.48,15143880808,False,$,Montreal
+Ichi Sushi,Sushi Bars,Sushi Bars,NA,4.0,"1037 Fleury Rue E, Montreal",45.55828,-73.65938,7,741.99,15143886333,False,$,Montreal
+Frites Alors,Comfort Food,Comfort Food,NA,3.5,"128 Fleury O, Montreal",45.546524,-73.665886,5,919.01,15144199131,False,$,Montreal
+Pizza Roni,Pizza,Pizza,NA,3.0,"196 Henri-Bourassa Boul W, Montreal",45.547662,-73.672213,7,876.74,15143321332,False,$,Montreal
+Chocolaterie Bonneau,"Creperies, Chocolatiers & Shops",Creperies,NA,4.0,"69 Rue Fleury Ouest, Montreal",45.547347,-73.665612,1,841.65,15144197892,False,$,Montreal
+Double Pizza,Pizza,Pizza,NA,2.0,"9870 St-Laurent, Montreal",45.54659,-73.65973,5,1092.02,15143430343,False,$,Montreal
+Wawa Sushi,Sushi Bars,Sushi Bars,NA,4.0,"925, rue Fleury est, Montreal",45.557465,-73.659519,2,684.6,<NA>,False,$,Montreal
+Chef Mak,Cajun/Creole,Cajun/Creole,NA,3.0,"125 Boulevard Henri-Bourassa E, Montreal",45.551885,-73.67028,1,392.55,15145319848,False,$,Montreal
+Les Brídês,Sushi Bars,Sushi Bars,NA,3.0,"10420 Lajeunesse Street, Montreal",45.553848,-73.663803,1,244.45,15143838596,False,$,Montreal
+IBoba Thé,"Poke, Bubble Tea, Sandwiches",Sandwiches,NA,4.0,"1009 Rue Fleury E, Montreal",45.557938,-73.659422,1,715.53,15147591099,False,$,Montreal
+Palais Des Chaussons (Le),Restaurants,Restaurants,NA,3.5,"81 Henri-Bourassa Boul W, Montreal",45.54921,-73.67206,3,717.96,15143360838,False,$,Montreal
+Restaurant Casa Vertoudos,Restaurants,Restaurants,NA,2.0,"5 Henri-Bourassa Boul W, Montreal",45.54978,-73.67157,3,518.48,15143312233,False,$,Montreal
+Gi-Mo,Fast Food,Fast Food,NA,3.5,"1197 Fleury Rue E, Montreal",45.55903,-73.65889,2,823.06,15145444404,False,$,Montreal
+Pizza 4 Freres,Pizza,Pizza,NA,3.0,"1155 Fleury E, Montreal",45.558861,-73.658958,2,800.69,15148500858,False,$,Montreal
+Restaurant Kazumi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"6394 Sherbrooke E, Montreal",45.580833,-73.543984,41,543.99,14383809898,False,$$$,Montreal
+Vincent Sous-Marins,"Poutineries, Pizza",Pizza,NA,3.0,"6649 Rue de Marseille, Montreal",45.581725,-73.539282,12,319.46,15148999999,False,$$,Montreal
+Chez Lien,Vietnamese,Vietnamese,Vietnamese,4.5,"6780 Rue Sherbrooke E, Montreal",45.58449,-73.54169,7,688.39,15142529088,False,$$,Montreal
+Ronda Sushi,Sushi Bars,Sushi Bars,NA,4.5,"7066 Sherbrooke Rue E, Montreal",45.58744,-73.53994,7,942.09,15142539991,False,$$,Montreal
+Nouilles Etc,"Chinese, Asian Fusion",Chinese,"Chinese, Asian Fusion",3.5,"6666 Rue Sherbrooke E, Montreal",45.5832,-73.54219,8,587.7,15142518883,False,$,Montreal
+Aurora Brasserie,Tapas Bars,Tapas Bars,NA,4.0,"3175 Av De Granby, Montreal",45.580498,-73.541249,1,417.94,15142532668,False,$,Montreal
+Pacini,Italian,Italian,Italian,3.0,"6583 Rue Sherbrooke E, Montreal",45.58221,-73.54394,10,594.54,15142544927,False,$$$,Montreal
+New Milano,"Pizza, Italian",Pizza,Italian,3.0,"6625 Rue de Marseille, Montreal",45.58157,-73.53955,3,307.89,15142549929,False,$$,Montreal
+Harvey's,"Burgers, Fast Food, American","Burgers, Fast Food",American,4.5,"7100 Est Sherbrooke, Montreal",45.58799,-73.53966,3,1005.54,15142550643,False,$$,Montreal
+Salon de Quilles du Domaine,"Bowling, Bars, Fast Food","Bars, Fast Food",NA,5.0,"3275 Avenue de Granby, Montreal",45.581837,-73.541716,1,439.14,15142558436,False,$$,Montreal
+Ronde 1 Sushi,"Sushi Bars, Pan Asian, Buffets",Sushi Bars,Pan Asian,4.5,"6343 Rue Sherbrooke E, Montreal",45.579976,-73.545246,3,597.64,15142567333,False,$$,Montreal
+Piri Piri,"Portuguese, Poutineries, Sandwiches",Sandwiches,NA,4.0,"6060 Rue Sherbrooke E, Montreal",45.577579,-73.545724,1,648.42,15145647474,False,$$,Montreal
+Ramona Pizzeria,Pizza,Pizza,NA,5.0,"5760 Rue Hochelaga, Montreal",45.570698,-73.537338,2,932.6,15142593221,False,$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,1.5,"6765 Rue Hochelaga, Montreal",45.580438,-73.531964,3,469.28,15142531386,False,$,Montreal
+St-Hubert,"Chicken Shop, Barbeque",Barbeque,NA,2.5,"6225 Rue Sherbrooke E, Montreal",45.57914,-73.54575,6,634.01,15143855555,False,$$,Montreal
+Boustan,"Lebanese, Mediterranean",Lebanese,Mediterranean,5.0,"6366 Rue Sherbrooke E, Montreal",45.580185,-73.543778,1,490.6,15142560505,False,$$,Montreal
+Pizza Pizza,Pizza,Pizza,NA,1.0,"3235 Avenue de Granby, Montreal",45.581709,-73.542013,3,446.52,15147371111,False,$$,Montreal
+La Dinette,Mexican,Mexican,Mexican,5.0,"7066A Rue Sherbrooke E, Montreal",45.587443,-73.539942,1,948.17,14384764330,False,$$,Montreal
+Thaïzone,Thai,Thai,Thai,2.0,"6060 Rue Sherbrooke E, Montreal",45.577508,-73.545944,6,667.02,15145081814,False,$$,Montreal
+Soupe & Roll,Chinese,Chinese,Chinese,3.5,"5865 Rue Hochelaga, Montreal",45.57226,-73.53687,3,774.22,15142510808,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,2.5,"6860 Rue Sherbrooke E, Montreal",45.58553,-73.54107,4,771.33,15142550832,False,$,Montreal
+Pizza Lafontaine,Pizza,Pizza,NA,1.0,"6065 Rue Hochelaga, Montreal",45.574127,-73.535434,1,577.9,15146676060,False,$,Montreal
+Le Gout De La Thailande,Thai,Thai,Thai,3.5,"6361 Rue Sherbrooke E, Montreal",45.58041,-73.545,6,588.72,15142527031,False,$$,Montreal
+Ô Asie,Vietnamese,Vietnamese,Vietnamese,2.5,"7060 Rue Sherbrooke E, Montreal",45.587279,-73.539988,2,929.11,15142556277,False,$$,Montreal
+Sake Sushi,Japanese,Japanese,Japanese,3.5,"6365 Rue Sherbrooke E, Montreal",45.580318,-73.545151,5,584.5,<NA>,False,$$,Montreal
+Deli Paulos,Delis,Delis,NA,3.0,"3365 Avenue De Granby, Montreal",45.580938,-73.542555,2,382.8,14383811618,False,$$,Montreal
+Salut Asie,Vietnamese,Vietnamese,Vietnamese,4.0,"6361 Rue Sherbrooke E, Montreal",45.58041,-73.545,1,588.72,<NA>,False,$$,Montreal
+Casa Pescara,Italian,Italian,Italian,2.5,"6752 Rue Sherbrooke E, Montreal",45.58404,-73.54197,6,645.69,15142532658,False,$$,Montreal
+Restaurant Le Lai,Vietnamese,Vietnamese,Vietnamese,2.5,"6343 Rue Sherbrooke E, Montreal",45.57995,-73.54525,4,606.56,15142567333,False,$$,Montreal
+Pasta Tutti Giorni,Italian,Italian,Italian,2.0,"3365 Av De Granby, Montreal",45.580938,-73.542555,1,382.8,15148995757,False,$$,Montreal
+Restaurants Burger King Du Canada,"Hot Dogs, Burgers, Fast Food","Burgers, Fast Food",NA,3.0,"6348 Rue Sherbrooke E, Montreal",45.57999,-73.54405,1,497.62,15142529634,False,$$,Montreal
+Sherbrooke Pizza,Pizza,Pizza,NA,2.0,"6371 Sherbrooke Rue E, Montreal",45.58041,-73.545,3,588.56,15142556255,False,$$,Montreal
+Boswell,"Pubs, Brasseries, Breweries",Pubs,NA,4.5,"2407 Avenue du Mont-Royal E, Montreal",45.5384,-73.56974,46,1131.72,14383864661,False,$$,Montreal
+Pot Masson,"Cocktail Bars, Canadian (New), Breakfast & Brunch",Cocktail Bars,Canadian (New),3.5,"3141 Rue Masson, Montreal",45.54976,-73.5742,47,327.36,15149034585,False,$,Montreal
+Rose Ross,Canadian (New),Canadian (New),Canadian (New),4.5,"3017 Rue Masson, Montreal",45.54902,-73.57465,8,242.55,15143791900,False,$,Montreal
+Café Lézard,Cafes,Cafes,NA,4.0,"3119, rue Masson, Montreal",45.549468,-73.574062,21,308.46,15147293777,False,$$,Montreal
+Quai No.4,Brasseries,Brasseries,NA,3.5,"2800 Rue Masson, Montreal",45.54701,-73.57523,27,131.67,15145070516,False,$$,Montreal
+Gaston,Bistros,Bistros,NA,4.0,"2666 Rue Masson, Montreal",45.54605,-73.57582,10,159.54,15145240002,False,$$,Montreal
+Pho Lâm Ici - Suisen Sushi,"Sushi Bars, Vietnamese",Sushi Bars,Vietnamese,5.0,"2641 Rue Masson, Montreal",45.545756,-73.576521,4,185.26,15142235150,False,$$,Montreal
+L'Entre-Pots,"American, Coffee & Tea, Breakfast & Brunch",Coffee & Tea,American,4.5,"1995 Rue Masson, Montreal",45.538967,-73.582602,46,1044.93,15145072212,False,$$,Montreal
+Joyo Burger ,"Burgers, Fast Food, Poutineries","Burgers, Fast Food",NA,4.5,"3036 Rue Masson, Montreal",45.549043,-73.574147,5,270.39,15145085696,False,$$,Montreal
+Planet Oeuf,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"2732 Rue Masson, Montreal",45.54661,-73.57548,12,124.33,15145225466,False,$$,Montreal
+Rotisserie Piri-Piri Masson,Portuguese,Portuguese,NA,3.5,"3038 Rue Masson, Montreal",45.549077,-73.574149,17,272.82,15144195620,False,$$,Montreal
+Ma Brasserie,Brasseries,Brasseries,NA,4.5,"2300 Rue Holt, Montreal",45.543396,-73.584453,15,749.56,15145083309,False,$$,Montreal
+Tandoori Masson,Indian,Indian,Indian,4.0,"3008 Rue Masson, Montreal",45.548766,-73.574331,5,239.5,15145647283,False,$$,Montreal
+Sushi Time,Sushi Bars,Sushi Bars,NA,4.0,"3129 Rue Masson, Montreal",45.54963,-73.57426,8,313.54,15147258181,False,$$,Montreal
+Express Pizza,Pizza,Pizza,NA,4.5,"2917 Rue Masson, Montreal",45.548302,-73.574799,2,179.59,15147215721,False,$$,Montreal
+Restaurant La Corvette,"Pizza, Burgers, Hot Dogs","Pizza, Burgers",NA,4.0,"2801 Rue Masson, Montreal",45.54721,-73.57575,1,91.07,15147212000,False,$$,Montreal
+Maesmi,"Cafes, Coffee & Tea, Bakeries","Cafes, Coffee & Tea",NA,4.5,"3353 Rue Masson, Montreal",45.551654,-73.572834,10,560.34,15149037353,False,$,Montreal
+Canada Hot Dog,"Hot Dogs, Burgers",Burgers,NA,3.5,"2672 Masson Rue, Montreal",45.54611,-73.57578,3,150.84,15145259526,False,$,Montreal
+Poulet Rouge Masson,"Chicken Shop, Fast Food, Salad",Fast Food,NA,5.0,"2917 Rue Masson,, Montreal",45.54838,-73.57504,1,169.14,15143794484,False,$,Montreal
+Frite Alors,"Burgers, Sandwiches, Hot Dogs","Burgers, Sandwiches",NA,3.5,"5405 9e Avenue, Montreal",45.55002,-73.57429,6,343.82,15145938008,False,$,Montreal
+Tori Tora Sushis,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.0,"3033 Rue Masson, Montreal",45.54903,-73.574516,4,252.07,14383826868,False,$,Montreal
+L'Oeufrier,Breakfast & Brunch,Breakfast & Brunch,NA,2.0,"2876 Rue Masson, Montreal",45.547827,-73.574849,2,153.22,15143743777,False,$,Montreal
+Casa Vinho,Portuguese,Portuguese,NA,4.0,"3750 Rue Masson, Montreal",45.55543,-73.5704,6,1018.62,15147218885,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,3.0,"2980 Rue Masson, Montreal",45.548397,-73.574286,2,219.18,15143794100,False,$$,Montreal
+Mojito & Margarita,"Cuban, Mexican",Cuban,Mexican,5.0,"3127 Rue Masson, Montreal",45.549568,-73.574167,4,311.49,15149715536,False,$$,Montreal
+Zytynsky's Deli,"Delis, Ukrainian",Delis,NA,4.5,"3350 Rue Beaubien Est, Montreal",45.55588,-73.58534,7,1160.52,15147220826,False,$$,Montreal
+Quai Roulant Food Truck,"Food Trucks, Fish & Chips",Food Trucks,NA,1.5,", Montreal",45.54784,-73.57509,3,125.31,14503327824,False,$$,Montreal
+Le Petit Quebec,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.5,"3255 Boulevard Rosemont, Montreal",45.553629,-73.58046,3,749.57,15147290123,False,$$,Montreal
+Juste Nouilles,"Pan Asian, Noodles",Pan Asian,Pan Asian,3.5,"3244 Rue Masson, Montreal",45.55073,-73.57288,7,474.93,15147253747,False,$$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.5,"2530 Rue Masson, Montreal",45.543318,-73.577509,6,459.64,15145251220,False,$,Montreal
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,4.0,"3290 Boul Rosemont, Montreal",45.553343,-73.579849,1,714.5,15147299111,False,$,Montreal
+Buona Forchetta,"Italian, Steakhouses",Steakhouses,Italian,5.0,"2407 Avenue Du Mont-Royal E, Montreal",45.5384,-73.56974,1,1131.72,15145216766,False,$,Montreal
+Yakki Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"3765 Rue Masson E, Montreal",45.55582,-73.57086,4,1038.41,14383836688,False,$,Montreal
+Frite Alors,"French, Belgian",French,French,3.0,"5409 9E Avenue, Montreal",45.550037,-73.574092,1,332.3,15145938008,False,$$,Montreal
+Poulet 3 Pattes,"Portuguese, Barbeque",Barbeque,NA,3.0,"3224 Boulevard Rosemont, Montreal",45.55271,-73.58051,2,661.46,14383876477,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,2.5,"2460 Rue Dandurand, Montreal",45.54391,-73.58095,3,511.45,15145212646,False,$,Montreal
+Toujours Mikes,"Pizza, Noodles, Breakfast & Brunch",Pizza,NA,2.0,"2570 Boulevard Rosemont, Montreal",45.547248,-73.585275,3,665.92,15147273762,False,$,Montreal
+Pizza Stromboli,Italian,Italian,Italian,2.5,"5550 Fullum 508, Montreal",45.54241,-73.58185,2,673.62,15145280588,False,$,Montreal
+Pizza Masson,Pizza,Pizza,NA,2.0,"2585 Rue Masson, Montreal",45.544926,-73.576847,1,277.01,15147217721,False,$,Montreal
+O Fuzion,"Asian Fusion, Chinese, Thai",Asian Fusion,"Asian Fusion, Chinese, Thai",3.0,"2862 Boulevard Rosemont, Montreal",45.550041,-73.582938,8,564.89,15147271889,False,$,Montreal
+Bánh Mì Ngon,Vietnamese,Vietnamese,Vietnamese,4.0,"3775 Rue Masson, Montreal",45.55582,-73.57086,1,1041.02,15145198668,False,$,Montreal
+Maison Chabot,"Cafes, Patisserie/Cake Shop",Cafes,NA,4.0,"5477 Rue Chabot, Montreal",45.539302,-73.584495,1,1086.24,15143796033,False,$,Montreal
+Le Majestique,"Bars, Canadian (New)",Bars,Canadian (New),4.5,"4105 Boulevard Saint-Laurent, Montreal",45.517544,-73.580262,201,432.3,15144391850,False,$$,Montreal
+Ichigo Ichie,"Japanese, Pubs",Pubs,Japanese,4.5,"360 Rue Rachel E, Montreal",45.52128,-73.57842,117,860.64,15142820009,False,$$,Montreal
+Saint Sushi Plateau,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"424 Avenue Duluth E, Montreal",45.521106,-73.575346,368,981.96,15145077537,False,$$,Montreal
+Yokato Yokabai,Ramen,Ramen,NA,4.5,"4185 Rue Drolet, Montreal",45.521221,-73.578519,476,850.47,15142829991,False,$$,Montreal
+Romados,"Barbeque, Bakeries, Portuguese",Barbeque,NA,4.0,"115 Rue Rachel E, Montreal",45.519262,-73.580703,527,579.97,15144195515,False,$$,Montreal
+Schwartz's,"Delis, Sandwiches",Sandwiches,NA,4.0,"3895 Boulevard Saint-Laurent, Montreal",45.516353,-73.577642,3148,514.4,15148424813,False,$$,Montreal
+Breizh Café,"Creperies, Breakfast & Brunch",Creperies,NA,4.5,"3991 Boulevard Saint-Laurent, Montreal",45.516703,-73.578791,96,454.05,15144195634,False,$$,Montreal
+Le Filet,Seafood,Seafood,NA,4.5,"219 Ave du Mont Royal W, Montreal",45.522402,-73.584489,114,542.7,15143606060,False,$$$,Montreal
+Lola Rosa,Vegetarian,Vegetarian,NA,4.5,"545 Rue Milton, Montreal",45.507325,-73.575748,298,1007.51,15142879337,False,$$,Montreal
+Aux Vivres Plateau,Vegan,Vegan,NA,4.5,"4631 Boulevard Saint-Laurent, Montreal",45.521239,-73.588301,415,833.33,15148423479,False,$$,Montreal
+Che Churros & Empanadas,Argentine,Argentine,NA,5.0,"100 Rue Marie-Anne O, Montreal",45.51767,-73.58522,24,366.52,15149829212,False,$$,Montreal
+Patati Patata,"Burgers, Poutineries",Burgers,NA,4.0,"4177 Boulevard Saint-Laurent, Montreal",45.51814,-73.581503,351,440.8,15148440216,False,$,Montreal
+Chez José Café,"Breakfast & Brunch, Sandwiches, Portuguese",Sandwiches,NA,4.0,"173 Avenue Duluth E, Montreal",45.51869,-73.57799,145,652.68,15146632381,False,$$,Montreal
+Restaurant Atma,Indian,Indian,Indian,4.0,"3962 Boulevard Saint-Laurent, Montreal",45.516657,-73.579113,77,430.26,15147988484,False,$$,Montreal
+Le Réservoir,"Breakfast & Brunch, Brasseries",Breakfast & Brunch,NA,4.0,"9 Avenue Duluth E, Montreal",45.517237,-73.57932,145,457.48,15148497779,False,$$,Montreal
+Café Santropol,"Sandwiches, Desserts, Cafes","Sandwiches, Desserts, Cafes",NA,3.5,"3990 Rue Saint-Urbain, Montreal",45.51555,-73.58054,195,280.49,15148423110,False,$$,Montreal
+Joséphine,Seafood,Seafood,NA,4.5,"4007 Rue Saint-Denis, Montreal",45.52086,-73.57556,32,948.83,15148405015,False,$$,Montreal
+Les Torchés,"Pubs, Tapas/Small Plates, Cocktail Bars","Pubs, Cocktail Bars",NA,4.0,"74 Avenue du Mont-Royal E, Montreal",45.520851,-73.585593,36,723.83,15145646011,False,$$,Montreal
+Hà,"Vietnamese, Laotian",Vietnamese,Vietnamese,4.0,"243 Avenue Mont-Royal O, Montreal",45.51778,-73.58888,95,544.49,15148480336,False,$$,Montreal
+Le Vieux St-Laurent,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"3993 Boulevard Saint-Laurent, Montreal",45.516987,-73.57871,75,477.04,15148480983,False,$$,Montreal
+Le Colonel Moutarde,Canadian (New),Canadian (New),Canadian (New),4.5,"4418 Rue Saint-Denis, Montreal",45.52324,-73.5819,26,992.46,14383854418,False,$$,Montreal
+RAKU,Japanese,Japanese,Japanese,4.5,"12 Rue Rachel E, Montreal",45.51822,-73.58116,38,466.84,14385205130,False,$$,Montreal
+Jano Grillades,"Portuguese, Barbeque",Barbeque,NA,4.0,"3883 Boulevard Saint Laurent, Montreal",45.51623,-73.57725,84,534.1,15148490646,False,$$,Montreal
+Café Replika,"Cafes, Turkish",Cafes,NA,4.5,"252 Rue Rachel Est, Montreal",45.520494,-73.579421,86,746.43,15149034384,False,$,Montreal
+Trip de Bouffe,"Bakeries, Lebanese",Bakeries,NA,4.5,"277 Avenue du Mont-Royal Est, Montreal",45.52271,-73.58419,58,914.34,14383814388,False,$,Montreal
+Boca Iberica,Iberian,Iberian,NA,4.5,"12 Rue Rachel O, Montreal",45.517652,-73.581805,19,381.65,15145079996,False,$$,Montreal
+Casa Minhota,Portuguese,Portuguese,NA,4.0,"3959 Boulevard Saint-Laurent, Montreal",45.51664,-73.57791,44,487.69,15148422661,False,$$,Montreal
+Noren,Japanese,Japanese,Japanese,4.5,"77 Rue Rachel O, Montreal",45.51723,-73.58265,47,307.38,15143971141,False,$$,Montreal
+Hof Kelsten,"Bakeries, Soup, Sandwiches",Sandwiches,NA,4.0,"4524 Boulevard Saint Laurent, Montreal",45.520389,-73.587033,101,706.99,15146497991,False,$$,Montreal
+La Vieille Europe,"Sandwiches, Cheese Shops, Grocery",Sandwiches,NA,4.5,"3855 Boulevard Saint-Laurent, Montreal",45.515958,-73.57679,43,561.37,15148425773,False,$$,Montreal
+Café Chat l'Heureux,"Vegetarian, Sandwiches, Themed Cafes","Sandwiches, Themed Cafes",NA,4.0,"172 Avenue Duluth Est, Montreal",45.518594,-73.577769,108,649.08,14383331505,False,$$,Montreal
+Beautys Luncheonette,"Breakfast & Brunch, Diners",Breakfast & Brunch,NA,3.5,"93 Avenue du Mont-Royal O, Montreal",45.51911,-73.58748,242,598.2,15148498883,False,$$,Montreal
+Bagel Etc,"Bagels, Breakfast & Brunch",Bagels,NA,4.0,"4320 Boulevard St-Laurent, Montreal",45.51876,-73.58396,116,482.47,15148459462,False,$$,Montreal
+Sapa,"Ice Cream & Frozen Yogurt, Sandwiches, Bubble Tea",Sandwiches,NA,4.5,"4074 Boulevard Saint-Laurent, Montreal",45.5171,-73.58017,20,407.15,14382902865,False,$,Montreal
+Pitarifique,"Greek, Poutineries",Greek,Greek,4.5,"4160 Boulevard Saint-Laurent, Montreal",45.51777,-73.58172,63,401.58,15148427793,False,$,Montreal
+Ramen-Ya,"Ramen, Noodles",Ramen,NA,3.5,"4274 Boulevard Saint-Laurent, Montreal",45.518626,-73.583334,88,461.71,15142863832,False,$$,Montreal
+Hachoir,Burgers,Burgers,NA,4.0,"4177 Boul Saint-Denis, Montreal",45.52192,-73.57784,86,949.17,15149031331,False,$$,Montreal
+Au Coin Berbère,"Moroccan, African",Moroccan,African,4.5,"73 Avenue Duluth E, Montreal",45.5178,-73.57884,19,526.93,15148447405,False,$$,Montreal
+Julian's Comptoir Gourmand,"Sandwiches, Salad, Coffee & Tea","Sandwiches, Coffee & Tea",NA,5.0,"111 Avenue du Mont-Royal O, Montreal",45.51888,-73.58788,15,572.3,15143794622,False,$$,Montreal
+Om,"Indian, Himalayan/Nepalese",Indian,Indian,4.0,"4382 Boulevard Saint-Laurent, Montreal",45.51913,-73.58481,39,538.39,15142873553,False,$$,Montreal
+Coco Rico,Portuguese,Portuguese,NA,4.0,"3907 Boulevard Saint-Laurent, Montreal",45.51641,-73.57775,114,517.62,15148495554,False,$,Montreal
+Sophie Sucrée,"Desserts, Vegan, Patisserie/Cake Shop",Desserts,NA,4.5,"3770 Boulevard Saint Laurent, Montreal",45.515137,-73.575712,98,625.07,15148235865,False,$$,Montreal
+Arriba Burrito,Mexican,Mexican,Mexican,4.5,"322 Avenue du Mont-Royal E, Montreal",45.523168,-73.58344,29,966.15,15148449999,False,$$,Montreal
+Bar Suzanne,"Speakeasies, Dumplings",Speakeasies,NA,4.0,"20 Avenue Duluth E, Montreal",45.517262,-73.578974,48,479.61,14383873007,False,$$,Montreal
+Pamika Thai,"Thai, Barbeque, Cocktail Bars","Barbeque, Cocktail Bars",Thai,4.5,"4902 Boulevard Saint-Laurent, Montreal",45.52205,-73.59123,19,1031.56,15145089444,False,$$,Montreal
+La Panzeria,"Italian, Coffee & Tea, Pizza","Coffee & Tea, Pizza",Italian,5.0,"4084 Rue Saint-Denis, Montreal",45.521,-73.57663,13,897.37,15148061897,False,$$,Montreal
+T&T Tacos et Tortas,Mexican,Mexican,Mexican,3.5,"51 Rue Rachel O, Montreal",45.517712,-73.582401,65,372.84,15143980172,False,$$,Montreal
+Le Passé Composé,"Breakfast & Brunch, Bistros",Breakfast & Brunch,NA,4.5,"1310 Boulevard de Maisonneuve E, Montreal",45.520079,-73.556603,400,239.18,15145246663,False,$$$,Montreal
+Poutineville,Poutineries,Poutineries,NA,4.5,"1365 Rue Ontario E, Montreal",45.523205,-73.5613,602,341.57,15144195444,False,$$,Montreal
+O'Thym,"French, Breakfast & Brunch",French,French,4.5,"1112 Boulevard de Maisonneuve E, Montreal",45.518377,-73.558126,169,250.31,15145253443,False,$$$,Montreal
+Le Red Tiger,"Vietnamese, Pubs, Cocktail Bars","Pubs, Cocktail Bars",Vietnamese,4.0,"1201 Boulevard de Maisonneuve E, Montreal",45.519202,-73.557836,136,191.0,15144397006,False,$$,Montreal
+Le Mousso,Canadian (New),Canadian (New),Canadian (New),4.5,"1023 Rue Ontario E, Montreal",45.52006,-73.56322,54,284.89,14383847410,False,$$$$,Montreal
+L'Oeufrier,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"1441 Rue Amherst, Montreal",45.517935,-73.557583,139,313.94,15145072868,False,$$,Montreal
+Bistro Tôt ou Tard,"French, Breakfast & Brunch",French,French,4.0,"1030 Rue Cherrier, Montreal",45.52153,-73.56647,87,560.25,15145647357,False,$$,Montreal
+En Couleur,"Cafes, Creperies",Cafes,NA,4.5,"1212 Boulevard de Maisonneuve E, Montreal",45.519196,-73.557588,68,206.09,15145252100,False,$$,Montreal
+Café Sfouf,Cafes,Cafes,NA,4.0,"1250 Ontario Est, Montreal",45.521523,-73.562106,30,231.14,15145078777,False,$,Montreal
+Palme,"Cajun/Creole, Caribbean",Cajun/Creole,Caribbean,4.5,"1487 Rue Sainte-Catherine E, Montreal",45.52111,-73.55408,25,446.02,15145298480,False,$,Montreal
+Darbar,Indian,Indian,Indian,4.0,"2027 Boulevard Saint-Laurent, Montreal",45.51174,-73.56731,303,1133.98,15149823724,False,$$,Montreal
+Macbar et Fromage,"Bars, Sandwiches, Comfort Food","Bars, Sandwiches",NA,4.0,"1345 Rue Ontario E, Montreal",45.522827,-73.561532,44,314.28,15143036622,False,$$,Montreal
+Saloon Bistro Bar,"Bars, International",Bars,NA,3.5,"1333 Rue Sainte-Catherine E, Montreal",45.51988,-73.55505,95,362.1,15145221333,False,$$,Montreal
+Uchi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1799 Rue Amherst, Montreal",45.519589,-73.561365,32,158.96,15145288228,False,$$,Montreal
+Pizzeria Dei Compari,Pizza,Pizza,NA,4.0,"1668 Rue Saint-Denis, Montreal",45.515,-73.56375,90,678.54,15148436411,False,$$,Montreal
+La Graine Brûlée,Cafes,Cafes,NA,4.5,"921 Rue Sainte-Catherine Est, Montreal",45.516806,-73.557851,71,410.61,15149038550,False,$,Montreal
+Juliette & Chocolat,"Desserts, Creperies, Chocolatiers & Shops",Desserts,NA,4.0,"1615 Rue Saint-Denis, Montreal",45.515001,-73.56278,229,643.93,15142873555,False,$$,Montreal
+Café Lulu,"Breakfast & Brunch, Coffee & Tea, Creperies",Coffee & Tea,NA,4.5,"852 Rue Sainte-Catherine E, Montreal",45.515945,-73.558177,74,504.1,15148480706,False,$,Montreal
+Mozza Pâtes et Passions,"Canadian (New), Italian",Canadian (New),"Canadian (New), Italian",4.0,"1326 Rue Sainte-Catherine E, Montreal",45.5195,-73.55484,22,382.68,15145240295,False,$$,Montreal
+Le Saint-Bock,Brasseries,Brasseries,NA,4.0,"1749 Rue Saint-Denis, Montreal",45.51582,-73.564641,208,637.37,15146808052,False,$$,Montreal
+Au Petit Extra,French,French,French,4.0,"1690, Rue Ontario Est, Montreal",45.5254,-73.55936,56,574.21,15145275552,False,$$$,Montreal
+Sardine Rose,Portuguese,Portuguese,NA,4.0,"1480 Ontario Rue E, Montreal",45.523925,-73.560469,25,401.55,15145212221,False,$$,Montreal
+L'Amère à Boire,"Tapas Bars, Brewpubs","Tapas Bars, Brewpubs",NA,4.0,"2049 Rue Saint-Denis, Montreal",45.51642,-73.566042,68,663.49,15142827448,False,$$,Montreal
+Acajou Br,"Brazilian, Tapas/Small Plates",Brazilian,NA,4.0,"3425A Rue St-Denis, Montreal",45.51743,-73.56797,64,728.73,15149637064,False,$$,Montreal
+Tendresse,"Vegan, Breakfast & Brunch",Vegan,NA,4.5,"1259 Rue Sainte-Catherine E, Montreal",45.51918,-73.55584,24,329.84,14383871471,False,$$,Montreal
+Cora,"Breakfast & Brunch, Creperies, Sandwiches",Sandwiches,NA,4.0,"1017 Rue Sainte-Catherine E, Montreal",45.517282,-73.557432,49,383.24,15142852672,False,$$,Montreal
+Vua,"Vietnamese, Asian Fusion, Sandwiches",Sandwiches,"Vietnamese, Asian Fusion",4.0,"1579 Rue Saint-Denis, Montreal",45.51485,-73.56229,108,639.2,15144391231,False,$,Montreal
+Ginkgo,"Bars, Tapas Bars, Breakfast & Brunch","Bars, Tapas Bars",NA,4.0,"308 Rue Sainte-Catherine E, Montreal",45.512797,-73.561099,75,848.58,15143794449,False,$$,Montreal
+Resto Keela,"Modern European, Cocktail Bars",Cocktail Bars,Modern European,5.0,"1237 Rue Atateken, Montreal",45.516995,-73.55569,12,484.82,15145287617,False,$$,Montreal
+Le Cheval Blanc,Brasseries,Brasseries,NA,4.0,"809 Rue Ontario E, Montreal",45.518188,-73.564263,53,433.26,15145220211,False,$$,Montreal
+Resto Végo,"Vegetarian, Vegan, Gluten-Free",Vegetarian,NA,4.0,"1720 Rue Saint-Denis, Montreal",45.515505,-73.564665,84,666.57,15148452627,False,$$,Montreal
+La Piazzetta,"Pizza, Italian",Pizza,Italian,3.5,"1101 Rue Sainte-Catherine Est, Montreal",45.517626,-73.557129,45,361.77,15145262244,False,$$,Montreal
+Kamehameha,Hawaiian,Hawaiian,NA,3.5,"1190 Rue Sainte-Catherine E, Montreal",45.51818,-73.55611,44,366.89,15143030550,False,$$,Montreal
+Eva B,"Used, Vintage & Consignment, Vegan, Cafes",Cafes,NA,4.0,"2013 St Laurent Blvd, Montreal",45.511551,-73.567029,115,1137.76,15148498246,False,$$,Montreal
+Kasumi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"1429 Rue Amherst, Montreal",45.51787,-73.55752,18,325.46,15148139898,False,$$$,Montreal
+Taiyo,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1709 Rue Saint-denis, Montreal",45.51568,-73.56409,35,633.28,15147596868,False,$$,Montreal
+Alejandro,"Mexican, Breakfast & Brunch",Mexican,Mexican,5.0,"1481 Rue Amherst, Montreal",45.51813,-73.55809,15,277.22,15145276000,False,$$,Montreal
+Pourquoi Pas Espresso Bar,"Coffee & Tea, Cafes","Coffee & Tea, Cafes",NA,4.5,"1447 Rue Amherst, Montreal",45.517929,-73.55777,89,307.43,15144199400,False,$,Montreal
+Bouffe Dave Plant Food,"Salad, Breakfast & Brunch, Sandwiches",Sandwiches,NA,5.0,"1206 Boulevard de Maisonneuve E, Montreal",45.51908,-73.55746,11,217.1,14388626619,False,$,Montreal
+Restaurant Pho Viet,Vietnamese,Vietnamese,Vietnamese,4.0,"1663 Rue Atateken, Montreal",45.518908,-73.559937,15,163.03,15145224116,False,$$$,Montreal
+Grenade,"Bars, Asian Fusion",Bars,Asian Fusion,4.0,"1603 Rue Ontario E, Montreal",45.525043,-73.560247,54,522.82,15145254251,False,$$,Montreal
+Omnivore,Middle Eastern,Middle Eastern,Middle Eastern,4.5,"1633 Rue Saint-Denis, Montreal",45.515059,-73.56297,15,643.81,15147504040,False,$$,Montreal
+Lafayette,"Hot Dogs, Breakfast & Brunch, Pizza",Pizza,NA,4.0,"1874 Rue Sainte-Catherine Est, Montreal",45.523278,-73.551569,23,708.06,15145225028,False,$$,Montreal
+Le Psy Bar,"Bars, Tapas/Small Plates",Bars,NA,5.0,"2073 Rue Saint-Denis, Montreal",45.516609,-73.566314,8,666.19,15148053050,False,$$,Montreal
+Saint-Henri,Cafes,Cafes,NA,4.5,"301-C1 Rue Émery, Montreal",45.514466,-73.56394,19,735.78,<NA>,False,$,Montreal
+Frite Alors,"Burgers, Poutineries, Sandwiches","Burgers, Sandwiches",NA,4.0,"1710 Rue Saint-Denis, Montreal",45.515455,-73.564448,135,661.34,15146585522,False,$$,Montreal
+Café Pamplemousse,"Breakfast & Brunch, Canadian (New), Coffee & Tea",Coffee & Tea,Canadian (New),4.5,"1251 Rue Ontario E, Montreal",45.52175,-73.56231,12,251.64,15142273206,False,$,Montreal
+Beijing Dumpling,"Dumplings, Soup",Dumplings,NA,4.0,"1723 Rue Saint Denis, Montreal",45.51573,-73.56421,19,632.6,15142851504,False,$,Montreal
+Casa Galicia,"Spanish, Basque",Spanish,NA,3.5,"2087 Saint-Denis Rue, Montreal",45.51673,-73.56654,25,679.34,15148436698,False,$$$,Montreal
+Dame Tartine Dejeuner Et Diner,"Diners, Breakfast & Brunch",Diners,NA,3.5,"1653 Ontario Rue E, Montreal",45.52527,-73.56003,29,552.48,15145241134,False,$$,Montreal
+Damas,Syrian,Syrian,NA,4.5,"1201 Avenue Van Horne, Montreal",45.52258,-73.61344,428,366.34,15144395435,False,$$$,Montreal
+Dinette Triple Crown,"Southern, American, Diners",Southern,American,4.5,"6704 Rue Clark, Montreal",45.531226,-73.612636,270,606.61,15142722617,False,$$,Montreal
+Vices et Versa,"Poutineries, Brewpubs, Burgers","Brewpubs, Burgers",NA,4.0,"6631 Boulevard Saint-Laurent, Montreal",45.531338,-73.610497,148,664.23,15142722498,False,$$,Montreal
+Gus,"Seafood, Steakhouses","Seafood, Steakhouses",NA,4.5,"38 Rue Beaubien E, Montreal",45.530638,-73.608075,93,696.35,15147222175,False,$$$,Montreal
+Pastaga,"Wine Bars, Breakfast & Brunch, Tapas/Small Plates",Wine Bars,NA,4.0,"6389 Boulevard Saint-Laurent, Montreal",45.53012,-73.6077,72,659.09,14383816389,False,$$$,Montreal
+Mile-Ex Restaurant,Canadian (New),Canadian (New),Canadian (New),4.5,"6631 Rue Jeanne-Mance, Montreal",45.52877,-73.614243,30,327.93,15142727919,False,$$,Montreal
+Bloomfield,"Comfort Food, Breakfast & Brunch",Comfort Food,NA,4.5,"1199 Avenue Van Horne, Montreal",45.52282,-73.61304,25,337.46,15142771001,False,$$,Montreal
+Impasto,Italian,Italian,Italian,4.0,"48 Rue Dante, Montreal",45.53314,-73.61323,85,810.41,15145086508,False,$$$,Montreal
+Boxermans,Bistros,Bistros,NA,4.5,"1041 Avenue Van Horne, Montreal",45.52462,-73.61147,22,232.59,15144954000,False,$$$,Montreal
+Brasserie Harricana,Brasseries,Brasseries,NA,4.0,"95 Rue Jean-Talon O, Montreal",45.534074,-73.619483,75,1017.56,15143033039,False,$$,Montreal
+Thammada,Thai,Thai,Thai,4.5,"1205 Avenue Bernard O, Montreal",45.52049,-73.60868,48,708.73,15142765888,False,$$,Montreal
+Caifan Tacos Bar,Mexican,Mexican,Mexican,4.5,"67 Rue Beaubien E, Montreal",45.53119,-73.60795,16,757.42,15149038585,False,$$,Montreal
+Le Pick-Up,"Convenience Stores, Breakfast & Brunch, Sandwiches",Sandwiches,NA,4.5,"7032 Rue Waverly, Montreal",45.53176,-73.61774,86,730.57,15142718011,False,$,Montreal
+Cafeden,Vietnamese,Vietnamese,Vietnamese,4.5,"6576 Boulevard Saint-laurent, Montreal",45.531163,-73.610787,18,637.69,15144191589,False,$$,Montreal
+San Gennaro,"Pizza, Coffee & Tea, Bakeries","Pizza, Coffee & Tea",NA,4.5,"69 Rue Saint-Zotique Est, Montreal",45.53285,-73.61138,46,801.02,15142736868,False,$,Montreal
+Le Cagibi,Vegetarian,Vegetarian,NA,4.0,"6596 Boulevard Saint-Laurent, Montreal",45.53115,-73.61112,74,640.35,15145091199,False,$,Montreal
+Caffè Italia,"Italian, Coffee & Tea",Coffee & Tea,Italian,4.5,"6840 Boulevard Saint-Laurent, Montreal",45.53264,-73.6144,53,765.05,15144950059,False,$,Montreal
+Pizzeria Gema Crèmerie,"Pizza, Ice Cream & Frozen Yogurt",Pizza,NA,4.0,"6827 Rue Saint-Dominique, Montreal",45.53333,-73.61297,86,838.17,15144194448,False,$$,Montreal
+Le Vieux Vélo,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"59 Rue Beaubien Est, Montreal",45.531166,-73.607803,171,742.77,15144395595,False,$$,Montreal
+Restaurant Douro,"Portuguese, Seafood",Seafood,NA,4.5,"6518 Boulevard St-Laurent, Montreal",45.530795,-73.609835,17,632.58,15142736969,False,$$$,Montreal
+Bocadillo,Venezuelan,Venezuelan,Venezuelan,4.5,"6918 Boulevard St-Laurent, Montreal",45.53306,-73.61534,46,820.53,15145087172,False,$$,Montreal
+Ristorante Lucca,Italian,Italian,Italian,4.5,"12 Rue Dante, Montreal",45.53284,-73.61344,27,780.1,15142786502,False,$$$,Montreal
+Nouveau Palais,"Diners, Breakfast & Brunch",Diners,NA,4.0,"281 Rue Bernard O, Montreal",45.523946,-73.605495,71,680.56,15142731180,False,$$,Montreal
+Mamie Clafoutis,"Bakeries, Desserts, Sandwiches","Desserts, Sandwiches",NA,4.5,"1291 Avenue Van Horne, Outremont",45.5215,-73.61421,35,471.82,15147507245,False,$$,Montreal
+Ristorante Primo & Secondo,Italian,Italian,Italian,4.5,"7023 Saint-Dominique Rue, Montreal",45.53455,-73.61537,20,968.51,15149080838,False,$$$$,Montreal
+Le Diplomate,Canadian (New),Canadian (New),Canadian (New),4.0,"129 Rue Beaubien O, Montreal",45.529089,-73.611032,21,421.69,15143039727,False,$$,Montreal
+Bottega,Pizza,Pizza,NA,4.0,"65 Rue Saint-Zotique E, Montreal",45.53279,-73.61143,75,797.1,15142778104,False,$$,Montreal
+Il Bazzali,"Italian, French",Italian,"Italian, French",4.5,"285 Rue Beaubien E, Montreal",45.53283,-73.60635,26,976.27,15144394878,False,$$$,Montreal
+Marconi,Bistros,Bistros,NA,4.0,"45 Avenue Mozart O, Montreal",45.53293,-73.61607,26,802.06,15144900777,False,$$$,Montreal
+Les Enfants Terribles,"French, Breakfast & Brunch, Canadian (New)",French,"French, Canadian (New)",3.5,"1257 Avenue Bernard, Montreal",45.519886,-73.609169,91,753.42,15147599918,False,$$$,Montreal
+Pumpui,"Thai, Imported Food",Thai,Thai,4.5,"83 Rue Saint-Zotique E, Montreal",45.53296,-73.61119,54,808.42,15143793024,False,$$,Montreal
+Phyllo Bar Melina's,Greek,Greek,Greek,5.0,"5733 Avenue Du Parc, Montreal",45.52369,-73.60504,35,716.71,15142701675,False,$,Montreal
+Brasserie Bernard,"French, Brasseries",French,French,4.0,"1249 Avenue Bernard O, Montreal",45.520127,-73.608984,30,737.27,15145085519,False,$$$,Montreal
+Bazar Café,"Breakfast & Brunch, Sandwiches",Sandwiches,NA,4.5,"278 Rue Beaubien E, Montreal",45.532604,-73.606041,35,976.68,14387990981,False,$$,Montreal
+Roch le Coq,"Chicken Shop, Burgers",Burgers,NA,4.0,"1541 Avenue Van Horne, Montreal",45.51867,-73.61689,46,833.7,15146372337,False,$$,Montreal
+Tsak-Tsak,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"280 Rue Beaubien E, Montreal",45.532704,-73.605993,40,976.87,15142723369,False,$$,Montreal
+Bar Cicchetti,"Bars, Italian",Bars,Italian,4.5,"6703 Avenue du Parc, Montreal",45.52864,-73.61596,10,385.9,15143794879,False,$$,Montreal
+Caffè Della Pace,"Cafes, Vegetarian, Vegan",Cafes,NA,4.5,"1002 Avenue Van Horne, Outremont",45.52485,-73.61077,7,256.79,15143418845,False,$,Montreal
+Restaurant Tre Marie,Italian,Italian,Italian,4.0,"6934 Rue Clark, Montreal",45.532587,-73.615883,28,768.32,15142779859,False,$$,Montreal
+Beau Mont,Canadian (New),Canadian (New),Canadian (New),4.5,"950 Avenue Beaumont, Montreal",45.524275,-73.622275,11,682.11,15142708882,False,$$,Montreal
+Quindici 15,"Italian, Steakhouses",Steakhouses,Italian,4.0,"15 Rue Bélanger, Montreal",45.533424,-73.61468,17,848.53,15145643424,False,$$,Montreal
+DJ Poulet,Chicken Shop,Chicken Shop,NA,4.5,"1134 Avenue Van Horne, Montreal",45.523376,-73.612062,7,305.03,15142775151,False,$$,Montreal
+Moustache Café,Cafes,Cafes,NA,4.5,"35 Beaubien E, Montreal",45.530652,-73.608106,30,696.01,15149990685,False,$,Montreal
+Porchetta,"Italian, Sandwiches",Sandwiches,Italian,4.0,"6887 Boulevard Saint-Laurent, Montreal",45.53317,-73.61441,29,806.86,15142787672,False,$$,Montreal
+Ristorante Corneli,"Italian, Pizza",Pizza,Italian,4.0,"6741 Boulevard St-Laurent, Montreal",45.532139,-73.612497,72,708.65,15143251300,False,$$,Montreal
+La Carreta,Salvadoran,Salvadoran,NA,4.0,"350 Rue Saint-Zotique Est, Montreal",45.53484,-73.60888,46,1074.42,15142738884,False,$$,Montreal
+Pizzeria Napoletana,"Italian, Pizza",Pizza,Italian,3.0,"189 Rue Dante, Montreal",45.534379,-73.612562,177,955.28,15142768226,False,$$,Montreal
+Étoile Rouge,"Chinese, Dumplings",Chinese,Chinese,4.5,"6707 Boulevard Saint-Laurent, Montreal",45.53211,-73.61219,35,700.0,14383869788,False,$$,Montreal
+Ristorante Pomodoro,"Italian, Pizza",Pizza,Italian,4.0,"6834 Boulevard Saint-Laurent, Montreal",45.532624,-73.614257,28,756.02,15146673867,False,$$,Montreal
+Régine Café,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"1840 Beaubien E, Montreal",45.543561,-73.596022,302,659.9,15149030676,False,$$,Montreal
+Isle de Garde,Brasseries,Brasseries,NA,4.5,"1039 Rue Beaubien Est, Montreal",45.53756,-73.60205,67,969.68,15148354007,False,$$,Montreal
+Soucoupe Café,Cafes,Cafes,NA,4.5,"6910 Rue Fabre, Montreal",45.544876,-73.604331,11,160.96,15147591638,False,$,Montreal
+Cabanas Restaurant Et Pupuseria,Salvadoran,Salvadoran,NA,4.5,"1453 Rue Bélanger, Montreal",45.54478,-73.60535,17,209.05,15147257208,False,$,Montreal
+Darna Bistroquet,Bistros,Bistros,NA,4.5,"1106 Rue Beaubien E, Montreal",45.53815,-73.60102,16,938.38,15142731106,False,$,Montreal
+Le Super Qualité,Indian,Indian,Indian,4.5,"1211 Rue Bélanger, Montreal",45.542027,-73.607694,39,565.96,15143980184,False,$$,Montreal
+Poutineville,Poutineries,Poutineries,NA,4.0,"1348 Rue Beaubien E, Montreal",45.540491,-73.598844,110,737.33,15145448800,False,$$,Montreal
+Comptoir Plaza Créole,"Cajun/Creole, Haitian",Cajun/Creole,NA,4.5,"6670 Rue Saint-Hubert, Montreal",45.537362,-73.606202,29,1006.58,15143796670,False,$$,Montreal
+Sushi Sama,Sushi Bars,Sushi Bars,NA,4.5,"1889 Rue Beaubien E, Montreal",45.544132,-73.595895,25,643.07,15149030969,False,$$,Montreal
+Casse-Croûte Sissi & Paul,Haitian,Haitian,NA,4.5,"2517 Rue Jean-Talon E, Montreal",45.55398,-73.60214,29,865.12,15149032517,False,$$,Montreal
+Restaurant le Colbert,"Italian, Pizza",Pizza,Italian,4.0,"1235 Rue Jean-Talon E, Montreal",45.543757,-73.611109,21,646.69,15142713890,False,$$,Montreal
+La Belle Tonki,"Asian Fusion, Vietnamese",Asian Fusion,"Asian Fusion, Vietnamese",4.5,"1335 Rue Beaubien E, Montreal",45.54066,-73.599463,11,697.64,15144190660,False,$$,Montreal
+Luciano Trattoria,Italian,Italian,Italian,4.0,"1212 Rue Saint-Zotique E, Montreal",45.54037,-73.60388,22,660.15,15143031204,False,$$,Montreal
+Café Zezin,Cafes,Cafes,NA,5.0,"2351 Rue Jean Talon Est, Montreal",45.55268,-73.60326,9,711.95,14383871888,False,$$,Montreal
+Pizza Villa,"Pizza, Italian",Pizza,Italian,4.0,"6672 Papineau Avenue, Montreal",45.54431,-73.5998,10,361.04,15147214711,False,$$,Montreal
+Restaurant Roberto,Italian,Italian,Italian,3.5,"2221 Rue Bélanger E, Montreal",45.54956,-73.60106,21,424.42,15143749844,False,$$,Montreal
+Panzzerotti,Italian,Italian,Italian,5.0,"2115 Rue Jean-Talon E, Montreal",45.55063,-73.60508,14,493.24,15147221462,False,$$,Montreal
+Extra Œufs,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"6945 Avenue Papineau, Montreal",45.54648,-73.6032,8,38.89,15143745958,False,$,Montreal
+L’Hamburger,"Burgers, Juice Bars & Smoothies","Burgers, Juice Bars & Smoothies",NA,5.0,"933 Rue Saint-Zotique, Montreal",45.53851,-73.60603,9,877.75,14383759400,False,$,Montreal
+Thai Sep,"Laotian, Thai",Laotian,Thai,4.0,"1900 Jean-Talon E, Montreal",45.548722,-73.606156,17,341.75,15143037767,False,$$,Montreal
+Le Roi du Smoked Meat,Diners,Diners,NA,3.5,"6705 Rue Saint-Hubert, Montreal",45.53797,-73.60657,52,946.86,15142737566,False,$$,Montreal
+Mastard,Canadian (New),Canadian (New),Canadian (New),5.0,"1879 Rue Bélanger, Montreal",45.54722,-73.60304,5,113.66,15148432152,False,$$,Montreal
+Lobü Sushi,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1813 Rue Jean-Talon E, Montreal",45.548069,-73.606952,17,332.21,15145646627,False,$$,Montreal
+Antonietta,Italian,Italian,Italian,4.5,"6672 Avenue Papineau, Montreal",45.54431,-73.5998,7,361.04,15147292633,False,$$,Montreal
+Beaufort,Bistros,Bistros,NA,4.0,"6653 Rue St-Hubert, Montreal",45.537444,-73.605651,35,989.76,15142746969,False,$$,Montreal
+Café Chiado 28,Cafes,Cafes,NA,4.5,"1404 Rue Beaubien E, Montreal",45.54109,-73.59808,14,700.05,15142742228,False,$,Montreal
+SSAM,"Korean, Gluten-Free",Korean,Korean,4.5,"756 Rue Bélanger, Montreal",45.53865,-73.61029,13,991.44,15143793303,False,$,Montreal
+Pat'e Palo,"Peruvian, International",Peruvian,Peruvian,4.0,"2534 Beaubien Street East, Montreal",45.540899,-73.598482,14,713.77,15143155521,False,$$,Montreal
+Gastronomia Roberto,"Italian, Ice Cream & Frozen Yogurt",Italian,Italian,4.0,"2227 Rue Belanger, Montreal",45.54955,-73.60091,11,432.76,15143765653,False,$$,Montreal
+Hawaii Poke,"Poke, Hawaiian",Poke,NA,3.0,"1672 Rue Bélanger, Montreal",45.545919,-73.603745,1,36.32,15143746666,False,$$,Montreal
+Super Taco,Mexican,Mexican,Mexican,4.0,"500-A Rue Belanger Est, Montreal",45.53795,-73.61096,45,1087.5,15143579335,False,$,Montreal
+Los Planes,Salvadoran,Salvadoran,NA,4.0,"531 Belanger Rue, Montreal",45.53841,-73.61107,30,1047.86,15142773678,False,$,Montreal
+Sabor Latino,"Latin American, International Grocery, Bakeries",Latin American,Latin American,4.0,"6955 Rue Saint-Hubert, Montreal",45.539563,-73.610034,24,894.91,15142774130,False,$$,Montreal
+Bo'Dégât,"Spanish, Tapas Bars",Tapas Bars,NA,4.5,"1392 Rue Beaubien E, Montreal",45.54097,-73.59836,7,723.67,15144958104,False,$$,Montreal
+La Baia Dei Formaggi,"Cheese Shops, Delicatessen, Sandwiches",Sandwiches,NA,3.5,"1715 Jean-Talon Est, Montreal",45.54758,-73.60778,8,348.56,15147278850,False,$$,Montreal
+Casse-Croûte MangeDansMonHood,Burgers,Burgers,NA,5.0,"1380 Rue Jean-Talon E, Montreal",45.545722,-73.608755,5,406.01,<NA>,False,$$,Montreal
+Le Petit Boui Boui,Vietnamese,Vietnamese,Vietnamese,5.0,"1498 Rue Bélanger, Montreal",45.544965,-73.604662,1,163.35,15147278000,False,$$,Montreal
+Restaurant Sizzle,"Portuguese, Italian",Portuguese,Italian,4.5,"2468 Rue Jean-Talon E, Montreal",45.553204,-73.602194,3,783.28,15147270404,False,$$,Montreal
+Dilallo,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"1840 Rue Jean-Talon E, Montreal",45.548229,-73.606523,10,318.78,15147282193,False,$,Montreal
+Santiago,"Caribbean, International",Caribbean,Caribbean,5.0,"1376 Rue Beaubien E, Montreal",45.54088,-73.59827,4,713.94,14382893944,False,$,Montreal
+PRIMO,"Barbers, Cafes","Barbers, Cafes",NA,5.0,"1306 Rue Bélanger, Montreal",45.54309,-73.60618,2,395.83,15142720002,False,$,Montreal
+La Rose Des Sables,Mediterranean,Mediterranean,Mediterranean,4.0,"1815 Rue Beaubien E, Montreal",45.543616,-73.596377,9,632.49,15145936655,False,$$,Montreal
+F+F Pizza,Pizza,Pizza,NA,4.0,"1298 Rue Beaubien E, Montreal",45.539846,-73.599494,7,778.07,15145075033,False,$$,Montreal
+San Pietro,"Bakeries, Desserts, Pizza","Desserts, Pizza",NA,3.5,"1950 Rue Jean-Talon E, Montreal",45.54913,-73.60575,7,364.34,15147221388,False,$$,Montreal
+Caffè Mille Gusti,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,4.5,"1038 Rue Saint-Zotique Est, Montreal",45.53899,-73.60513,6,810.25,15146564559,False,$$,Montreal
+Itamea Sushi,Sushi Bars,Sushi Bars,NA,4.5,"1898 Rue Beaubien E, Montreal",45.544217,-73.595503,12,668.43,15142778688,False,$$,Montreal
+Kim Quy,Vietnamese,Vietnamese,Vietnamese,5.0,"2098 Rue Jean-Talon E, Montreal",45.55027,-73.60463,2,459.55,15147289879,False,$$,Montreal
+Charro's Restaurant,Mexican,Mexican,Mexican,4.0,"7002 Saint Hubert Rue, Montreal",45.5396,-73.611191,15,944.87,15142712223,False,$,Montreal
+Stella Pizzeria,"Pizza, Italian",Pizza,Italian,4.5,"1100 Rue Bélanger, Montreal",45.54113,-73.60804,3,683.56,15145437743,False,$,Montreal
+Doña María,Salvadoran,Salvadoran,NA,5.0,"2489 Rue Jean Talon E, Montreal",45.55362,-73.60242,4,818.51,15143740074,False,$,Montreal
+Thanjai,Indian,Indian,Indian,4.0,"4759 Avenue Van Horne, Montreal",45.49484,-73.63767,135,73.03,15144199696,False,$$,Montreal
+Didar,Indian,Indian,Indian,4.5,"5987 Avenue Victoria, Montreal",45.49392,-73.63623,45,141.36,15147335353,False,$$,Montreal
+Dak Hing Barbecue,"Chinese, Barbeque",Barbeque,Chinese,5.0,"4705 Avenue Van Horne, Montreal",45.49521,-73.63733,15,122.47,15145608033,False,$$,Montreal
+Caribbean Curry House,Caribbean,Caribbean,Caribbean,4.0,"6892 Avenue Victoria, Montreal",45.497117,-73.644139,66,585.51,15147330828,False,$$,Montreal
+Sen Vang,Vietnamese,Vietnamese,Vietnamese,4.5,"5690 Avenue Victoria, Montreal",45.492034,-73.632688,51,479.86,15145072771,False,$,Montreal
+Café Solaris,"Bars, Pizza","Bars, Pizza",NA,4.5,"5487 Boulevard Décarie, Montreal",45.48682,-73.63518,12,837.02,15144879743,False,$$,Montreal
+Nguyen Phi,Vietnamese,Vietnamese,Vietnamese,4.5,"6260 Chemin de la Côte-des-Neiges, Montreal",45.50122,-73.63365,49,846.77,15143441863,False,$,Montreal
+Pinoy Pansitan,Filipino,Filipino,Filipino,4.0,"5940 Avenue Victoria, Montreal",45.49339,-73.63613,22,157.94,14383867999,False,$$,Montreal
+Cuisine de Manille,Filipino,Filipino,Filipino,3.5,"5781 Avenue Victoria, Montreal",45.493021,-73.634232,16,321.17,15143443670,False,$$,Montreal
+Parthenon,Greek,Greek,Greek,4.0,"3543 Avenue Van Horne, Montreal",45.501326,-73.631999,24,907.21,15147385758,False,$$,Montreal
+Kawali,Filipino,Filipino,Filipino,4.0,"4735 Avenue Van Horne, Montreal",45.495075,-73.637215,10,102.12,15147331841,False,$$,Montreal
+Hoai Huong,Vietnamese,Vietnamese,Vietnamese,4.0,"5485 Avenue Victoria, Montreal",45.491598,-73.630966,48,620.21,15147386610,False,$$,Montreal
+Restaurant Pho Hao,Vietnamese,Vietnamese,Vietnamese,4.0,"6230 Chemin de la Cote-des-Neiges, Montreal",45.50095,-73.63288,12,841.41,15143435018,False,$,Montreal
+Rayan,"Seafood, Seafood Markets, Mediterranean","Seafood, Seafood Markets",Mediterranean,3.5,"6080 Chemin de la Côte-des-Neiges, Montreal",45.50021,-73.63143,79,838.41,15147356866,False,$$,Montreal
+Kam Shing,Chinese,Chinese,Chinese,3.5,"6730 Chemin de la Côte-des-Neiges, Montreal",45.50299,-73.63718,37,991.27,15147311401,False,$$,Montreal
+Kam Shing,Chinese,Chinese,Chinese,3.0,"4771 Avenue Van Horne, Montreal",45.49484,-73.63767,21,61.47,15143411628,False,$$,Montreal
+Pizza Gourmetti,"Pizza, Italian",Pizza,Italian,5.0,"5795 Avenue Victoria, Montreal",45.493153,-73.634555,5,292.12,15147397707,False,$$,Montreal
+Restaurant Jolee,"Indian, Sri Lankan",Indian,Indian,3.5,"5495 Avenue Victoria, Montreal",45.491817,-73.631268,33,587.88,15147336362,False,$,Montreal
+Sushi Plus,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.5,"5940 Chemin de la Côte-des-Neiges, Montreal",45.49993,-73.630495,36,841.35,15147391888,False,$$,Montreal
+Second Cup,Cafes,Cafes,NA,3.0,"4795 Avenue Van Horne, Montreal",45.494603,-73.63771,8,37.25,15147351098,False,$$,Montreal
+Mon Ami Express,Korean,Korean,Korean,4.0,"5889A-5891 Avenue Victoria, Montreal",45.493481,-73.635202,9,231.06,15147383500,False,$$,Montreal
+La Mer Rouge,"Mediterranean, Seafood",Seafood,Mediterranean,4.5,"3593 Avenue Appleton, Montreal",45.502402,-73.634909,6,930.72,15147453304,False,$$,Montreal
+TNT Palace,Caribbean,Caribbean,Caribbean,5.0,"6346 Avenue Victoria, Montreal",45.495091,-73.639531,4,152.82,15145878423,False,$$,Montreal
+Janani Restaurant,"Indian, Halal, Vegetarian",Indian,Indian,5.0,"6450 Avenue Victoria, Montreal",45.49537,-73.64038,2,213.03,15149038300,False,$$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,3.0,"4819, Av. Van Horne Local 117 A, Montreal",45.494209,-73.638643,6,56.99,15147392016,False,$,Montreal
+Restaurant Papa,Filipino,Filipino,Filipino,5.0,"5955 Avenue Victoria, Montreal",45.49385,-73.63598,2,159.71,15146581918,False,$,Montreal
+Fiesta Pilipino,"Bakeries, Filipino",Bakeries,Filipino,4.0,"5980 Av Victoria, Montreal",45.49347,-73.63632,4,152.44,15143417441,False,$,Montreal
+Lefalafel,"Falafel, Middle Eastern, Kosher",Falafel,Middle Eastern,4.5,"6245 Boulevard Décarie, Montreal",45.490168,-73.642841,7,603.26,15147311221,False,$,Montreal
+Love Joy Express,"Filipino, Chicken Shop",Filipino,Filipino,5.0,"6444 Avenue Victoria, Montreal",45.49537,-73.64038,2,211.3,15145080868,False,$,Montreal
+Frontline Restaurant,Caribbean,Caribbean,Caribbean,5.0,"4615 Avenue Van Horne, Montreal",45.49633,-73.63631,1,262.31,15147365720,False,$,Montreal
+La Maison de Kum Mon,Chinese,Chinese,Chinese,4.0,"6565 Chemin de la Côte-des-Neiges, Montreal",45.50267,-73.63513,16,923.92,15147336029,False,$$,Montreal
+Chef Foo,"Filipino, Chinese",Filipino,"Filipino, Chinese",4.0,"4715 Avenue Van Horne, Montreal",45.495629,-73.636793,2,171.79,15143449999,False,$$,Montreal
+Sonny's Bistro,"Asian Fusion, Bistros, American",Asian Fusion,"Asian Fusion, American",5.0,"4048 Rue Jean-Talon O, Montreal",45.50099,-73.645306,2,940.07,15147649676,False,$$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,4.0,"6025 Boulevard de la Côte-des-Neiges, Montreal",45.500693,-73.631111,5,887.03,15143416137,False,$,Montreal
+Goong Sushi,Sushi Bars,Sushi Bars,NA,4.5,"6700 Rue de la Côte-des-Neiges, Montreal",45.5025,-73.63706,9,931.78,15143401004,False,$,Montreal
+District Bagel,"Bagels, Breakfast & Brunch, Soup",Bagels,NA,3.5,"709 Chemin Lucerne, Montreal",45.50365,-73.64749,11,1104.03,15147351174,False,$,Montreal
+Boulangerie Habib,"Desserts, Halal, Bakeries",Desserts,NA,2.5,"6655 Victoria Avenue, Montreal",45.496529,-73.641952,6,387.42,15145041745,False,$,Montreal
+Boulangerie Spicee,"Bakeries, Caribbean",Bakeries,Caribbean,5.0,"6889 Avenue Victoria, Montreal",45.497384,-73.643923,4,579.61,15147399714,False,$,Montreal
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,2.0,"2659 VAN HORNE AV, Montreal",45.495671,-73.636536,5,186.57,15143448080,False,$,Montreal
+Restaurant Ideal,Restaurants,Restaurants,NA,4.0,"5955 Av Victoria, Montreal",45.49385,-73.63598,1,159.71,15143422219,False,$,Montreal
+Food 4 Less,Filipino,Filipino,Filipino,4.0,"5997 Avenue Victoria, Montreal",45.493968,-73.636338,1,129.14,15149050300,False,$,Montreal
+Restaurant Johnny B,Filipino,Filipino,Filipino,5.0,"5899A Avenue Victoria, Montreal",45.493575,-73.635317,1,218.77,<NA>,False,$,Montreal
+A Bowled Café,Salad,Salad,NA,4.5,"5400 Avenue de Westbury, Montreal",45.488271,-73.633978,2,737.97,15142423011,False,$,Montreal
+Chloe’s,"Salad, Sandwiches",Sandwiches,NA,4.5,"4175 Rue Jean-Talon O, Montreal",45.500999,-73.646616,2,1006.58,15144764175,False,$,Montreal
+Restaurant Chin-Chow,Chinese,Chinese,Chinese,5.0,"6700 De La Cote-Des-Neiges Ch, Montreal",45.5025,-73.63706,3,931.78,15147353982,False,$,Montreal
+PFK,"Chicken Shop, Chicken Wings, Fast Food",Fast Food,NA,2.5,"6625 Avenue Victoria, Montreal",45.496477,-73.641519,5,370.02,15147375125,False,$,Montreal
+California Pizza,Pizza,Pizza,NA,3.0,"6400 Boulevard Decarie, Montreal",45.49016,-73.64473,10,694.9,15143033222,False,$$,Montreal
+Yangtze Restaurant,Chinese,Chinese,Chinese,3.5,"4645 Van Horne Avenue, Montreal",45.49575,-73.63685,3,197.16,15147337171,False,$$,Montreal
+Pizza Pizza,Pizza,Pizza,NA,4.0,"6185 Chemin De La Côte Des Neiges, Montreal",45.5009,-73.63179,4,876.94,15147371111,False,$$,Montreal
+Resto Rim,"African, Food Delivery Services",African,African,5.0,"4100 Rue Bouchette, Montreal",45.49919,-73.639535,1,557.66,<NA>,False,$$,Montreal
+Orange Julep,"Fast Food, Poutineries, Hot Dogs",Fast Food,NA,4.0,"7700 Boulevard Décarie, Montreal",45.495696,-73.656699,296,295.51,15147387486,False,$$,Montreal
+Bâton Rouge Steakhouse & Bar,"Seafood, Steakhouses, Cocktail Bars","Seafood, Steakhouses, Cocktail Bars",NA,3.5,"5385 Rue des Jockeys, Montreal",45.494544,-73.655591,64,206.64,15147381616,False,$$$,Montreal
+Marathon Souvlaki,"Greek, Mediterranean",Greek,"Greek, Mediterranean",4.0,"5365 Rue des Jockeys, Montreal",45.494916,-73.655264,102,174.56,15147316455,False,$$,Montreal
+Dunn's,"Burgers, Poutineries, Pizza","Burgers, Pizza",NA,3.5,"7385 Boulevard Décarie, Montreal",45.49472,-73.65187,52,96.58,15147312424,False,$$,Montreal
+Pushap,"Indian, Vegetarian",Indian,Indian,4.0,"5195 Rue Paré, Montreal",45.49766,-73.6538,164,286.79,15147374527,False,$,Montreal
+Kanda Sushi Bar,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.5,"7373 Blvd Décarie, Montreal",45.494608,-73.65186,46,102.34,15147357888,False,$$,Montreal
+Bomboloni Boss,"Italian, Desserts",Desserts,Italian,4.5,"5475 Rue des Jockeys, Montreal",45.493135,-73.657248,11,390.24,<NA>,False,$$,Montreal
+Table 51,"Bars, Breakfast & Brunch, Canadian (New)",Bars,Canadian (New),4.5,"5475 Rue des Jockeys, Montreal",45.49317,-73.65721,18,390.24,15143165152,False,$$,Montreal
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,5.0,"7340 Decarie Blvd, Montreal",45.494404,-73.654591,5,139.9,15147316748,False,$$,Montreal
+Rib N Reef Steakhouse,"Steakhouses, Seafood","Steakhouses, Seafood",NA,3.5,"8105 Boulevard Décarie, Montreal",45.498954,-73.659016,80,639.1,15147351601,False,$$$$,Montreal
+Allô ! Mon Coco,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"5405 Rue des Jockeys, Montreal",45.494143,-73.656007,18,251.9,15147339494,False,$$,Montreal
+Harvey's,"Burgers, Fast Food, Canadian (New)","Burgers, Fast Food",Canadian (New),3.0,"7475 Boulevard Décarie, Montreal",45.495532,-73.653857,12,84.29,15147383588,False,$$,Montreal
+Amir,Lebanese,Lebanese,NA,3.0,"5252 Rue Jean Talon O, Montreal",45.49487,-73.651904,21,89.51,15147392647,False,$$,Montreal
+Oriental Fusion,Chinese,Chinese,Chinese,4.5,"7373 Blvd Décarie, Montreal",45.494583,-73.651851,8,101.57,15147357888,False,$$,Montreal
+Eggspectation,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"Ruby Foo's Hotel, Montreal",45.496371,-73.655613,20,250.81,15143413434,False,$$,Montreal
+La Belle Province,Fast Food,Fast Food,NA,2.5,"7555 Boulevard Décarie, Montreal",45.49582,-73.6543,18,135.83,15143426577,False,$,Montreal
+Forno West,"Bakeries, Sandwiches, Pizza","Sandwiches, Pizza",NA,4.5,"5237 Avenue de Courtrai, Montreal",45.493652,-73.649406,4,321.15,15147370345,False,$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,3.0,"7340, Boul. Decarie, Montreal",45.494189,-73.653684,8,137.8,15147361001,False,$,Montreal
+Burger King,"Burgers, Fast Food","Burgers, Fast Food",NA,2.5,"5300 Rue Jean-Talon O, Montreal",45.49377,-73.653586,6,146.17,15147310001,False,$,Montreal
+Otago,International,International,NA,2.0,"7657 Boulevard Décarie, Montreal",45.496375,-73.655624,11,251.74,15143414040,False,$,Montreal
+Madisons,"Bars, Steakhouses","Bars, Steakhouses",NA,2.0,"7977 Boulevard Décarie, Montreal",45.49809,-73.65806,10,517.59,15145433131,False,$,Montreal
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.5,"5375 Rue des Jockeys, Montreal",45.494792,-73.655392,4,185.92,15147333226,False,$,Montreal
+Café Triangle,Cafes,Cafes,NA,4.5,"5000 Rue Buchan, Montreal",45.49761,-73.65075,4,341.98,15146867176,False,$,Montreal
+Sushi Shop,"Sushi Bars, Thai",Sushi Bars,Thai,3.5,"5510 Rue Jean-Talon O, Montreal",45.492466,-73.655989,10,366.34,15147350009,False,$$,Montreal
+Arahova,Greek,Greek,Greek,4.0,"7965 Boulevard Décarie, Montreal",45.49809,-73.65806,8,500.93,14382398788,False,$$,Montreal
+Pancho,"Mexican, Bars",Bars,Mexican,4.5,"6939 Boulevard Décarie, Montreal",45.492906,-73.648789,2,406.0,15146572649,False,$$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"7570 Boulevard Décarie, Montreal",45.495067,-73.656114,5,240.39,15147384133,False,$,Montreal
+Pizza Pita,Pizza,Pizza,NA,3.5,"5345 Vezina St, Montreal",45.491449,-73.649005,14,506.57,15147317482,False,$$,Montreal
+Vinaigrette,Salad,Salad,NA,4.0,"6900 Boulevard Décarie, Montreal",45.49146,-73.649,4,489.59,15147390909,False,$$,Montreal
+Tasty Foods,Pizza,Pizza,NA,3.5,"6660 Decarie Boul, Montreal",45.49118,-73.64701,17,635.19,15147399333,False,$$,Montreal
+Thai Express,Thai,Thai,Thai,3.5,"5510 Rue Jean-Talon, Montreal",45.49221,-73.65534,6,355.0,15147336060,False,$$,Montreal
+Blandino Brasserie,"Brasseries, Italian",Brasseries,Italian,2.5,"6939 Blvd Décarie, Montreal",45.492807,-73.648615,6,406.64,15146572622,False,$$,Montreal
+Boustan,Lebanese,Lebanese,NA,2.0,"5150 Rue Jean-Talon O, Montreal",45.495745,-73.650902,2,184.19,15143794155,False,$$,Montreal
+Cremalati,"Creperies, Coffee & Tea, Patisserie/Cake Shop",Coffee & Tea,NA,5.0,"6900 Boulevard Décarie, Côte Saint-Luc",45.492031,-73.648904,1,489.59,15145076900,False,$$,Montreal
+Java U,Cafes,Cafes,NA,4.0,"5345 Rue Ferrier, Mount Royal",45.49668,-73.659132,1,509.92,15147372220,False,$$,Montreal
+Resto Broskis,"Pizza, Burgers, Fast Food","Pizza, Burgers, Fast Food",NA,3.0,"5000 Rue Jean-Talon O, Montreal",45.49619,-73.64917,3,325.8,15147382323,False,$$,Montreal
+La Prep,"Breakfast & Brunch, Sandwiches, Salad",Sandwiches,NA,3.0,"8000 Decarie Boulevard, Montreal",45.49741,-73.65915,4,564.21,15147358233,False,$$,Montreal
+Tom's Cafe And Catering,Salad,Salad,NA,5.0,"6775 Boulevard Decarie, Montreal",45.492161,-73.647293,1,551.03,14389337439,False,$$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"5400 Boulevard Jean-Talon O, Montreal",45.49165,-73.65341,1,376.5,15147397272,False,$$,Montreal
+Luzzatto,Kosher,Kosher,NA,1.0,"6445 Boulevard Décarie, Montreal",45.49106,-73.644939,1,769.55,15147398535,False,$$,Montreal
+Café Paninoteca,Cafes,Cafes,NA,5.0,"5252 Rue Ferrier, Montreal",45.49812,-73.65674,1,449.95,15143448686,False,$$,Montreal
+Cafe d'Lux,"French, Coffee & Tea",Coffee & Tea,French,1.0,"7655 Boulevard Decarie, Montreal",45.49703,-73.6551,1,246.88,15147354452,False,$$,Montreal
+Bucarest Charcuterie & Patisserie,"Delis, Sandwiches, Specialty Food",Sandwiches,NA,2.0,"4888 Rue Jean-Talon O, Montreal",45.497897,-73.648237,6,491.49,15144814732,False,$$,Montreal
+L'Oeufrier,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"350 Rue de Liège E, Montreal",45.54382,-73.63551,36,1074.89,15148586030,False,$$,Montreal
+Malhi Sweets Indian Cuisine,Indian,Indian,Indian,4.0,"880 Rue Jarry O, Montreal",45.52899,-73.63669,64,954.14,15142730407,False,$$,Montreal
+Elatos,Greek,Greek,Greek,4.5,"550 Rue Jarry O, Montreal",45.53148,-73.63527,19,676.63,15142735358,False,$$,Montreal
+Village Grec,Greek,Greek,Greek,4.0,"654 Rue Jean-Talon O, Montreal",45.5274,-73.62369,30,971.19,15142744371,False,$$,Montreal
+Marven's Restaurant,Greek,Greek,Greek,3.5,"880 Avenue Ball, Montreal",45.52809,-73.63362,128,906.22,15142773625,False,$$,Montreal
+Restaurant India's Oven,Indian,Indian,Indian,4.0,"454 Rue Jean-Talon O, Montreal",45.52882,-73.62286,18,864.59,15145098678,False,$$,Montreal
+Diolo,Senegalese,Senegalese,NA,4.0,"232-A Rue Jean-Talon O, Montreal",45.532035,-73.62042,11,744.9,15147128112,False,$$$,Montreal
+Sana,"Pakistani, Indian, Bangladeshi",Pakistani,Indian,4.0,"655 Rue Jarry Ouest, Montreal",45.530991,-73.635943,50,753.12,15146132206,False,$,Montreal
+Café Saint-Henri,"Coffee Roasteries, Breakfast & Brunch",Coffee Roasteries,NA,5.0,"7335 Rue du Mile End, Montreal",45.53245,-73.6234,8,541.57,15145437468,False,$,Montreal
+Appayon,Bangladeshi,Bangladeshi,NA,4.5,"520 Avenue Ogilvy, Montreal",45.528881,-73.625184,12,777.99,15142709090,False,$,Montreal
+Rose,"Cafes, Sandwiches","Cafes, Sandwiches",NA,5.0,"6 Rue Gounod, Montreal",45.538139,-73.628011,7,302.68,14383804477,False,$,Montreal
+Cantine Emilia,Portuguese,Portuguese,NA,3.5,"7901 Rue Saint-Dominique, Montreal",45.53884,-73.62799,14,381.24,15145434313,False,$,Montreal
+Restaurant Lyla,Vietnamese,Vietnamese,Vietnamese,4.0,"431 Jean-Talon Rue O, Montreal",45.52945,-73.62316,21,790.16,15142728332,False,$$,Montreal
+Panama Restaurant,Greek,Greek,Greek,3.5,"789 Rue Jean-Talon W, Montreal",45.52649,-73.6249,18,1043.9,15142765223,False,$$$,Montreal
+Restaurant Le Coin G,French,French,French,4.0,"8297 Saint-Dominique Rue, Montreal",45.54054,-73.63387,14,690.12,15143881914,False,$$$,Montreal
+Rawesome,"Vegan, Gluten-Free, Bakeries",Vegan,NA,4.0,"151 Rue Gounod, Montreal",45.53934,-73.62775,5,439.84,14389399575,False,$$$,Montreal
+Inochi Express,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.0,"7381 Boulevard Saint-Laurent, Montreal",45.535839,-73.620464,9,639.47,15145078744,False,$$,Montreal
+Presse Café,Cafes,Cafes,NA,5.0,"7077 Avenue du Parc, Montreal",45.530171,-73.620809,4,846.73,14383857272,False,$,Montreal
+Shoshur Bari,Bangladeshi,Bangladeshi,NA,4.0,"470 Avenue Ogilvy, Montreal",45.52917,-73.62491,9,738.65,15142798888,False,$,Montreal
+Bistro Pépito,"Salad, Juice Bars & Smoothies",Juice Bars & Smoothies,NA,5.0,"7887 Boulevard Saint-Laurent, Montreal",45.538071,-73.627895,1,298.29,15143893026,False,$$$,Montreal
+Café Bistro Mysterium,Cafes,Cafes,NA,4.5,"195 Rue Jarry E, Montreal",45.540672,-73.630511,3,599.23,14383850766,False,$$,Montreal
+YKO Chicken BBQ,"Barbeque, African, Seafood","Barbeque, Seafood",African,4.5,"133 Rue Jean Talon W, Montreal",45.5896,-73.463188,3,726.39,15148076958,False,$$,Montreal
+Central Sweets & Food-Hub,Indian,Indian,Indian,4.0,"624 Rue Jarry O, Montreal",45.531166,-73.635661,3,723.8,15145437222,False,$$,Montreal
+Pizzellicoq Restaurant,Peruvian,Peruvian,Peruvian,4.0,"7614 Saint-Hubert Rue, Montreal",45.54363,-73.62014,5,1132.36,15144950111,False,$$,Montreal
+Knuckles,"Italian, Wine Bars",Wine Bars,Italian,4.0,"241 Rue Jarry E, Montreal",45.541225,-73.630222,6,658.01,<NA>,False,$$,Montreal
+Rue20,"Fast Food, Venezuelan, Burgers","Fast Food, Burgers",Venezuelan,4.5,"7807 Boulevard Saint-Laurent, Montreal",45.537837,-73.626944,2,297.83,15145769948,False,$$,Montreal
+India Beau Village,"Indian, Steakhouses",Steakhouses,Indian,2.5,"640 Rue Jarry O, Montreal",45.530887,-73.635717,20,747.75,15142725847,False,$,Montreal
+Restaurant Salateen,"Indian, Halal, Pakistani",Indian,Indian,2.5,"762 Jean Talon W, Montreal",45.52652,-73.624344,14,1047.34,15144950495,False,$$,Montreal
+Olive + Gourmando,"Sandwiches, Breakfast & Brunch, Salad",Sandwiches,NA,4.5,"351 Rue Saint-Paul O, Montreal",45.501197,-73.556475,1618,713.86,15143501083,False,$$,Montreal
+Monarque,Brasseries,Brasseries,NA,4.5,"406 Rue Saint-Jacques, Montreal",45.50158,-73.55962,148,503.74,15148753896,False,$$,Montreal
+The Keg Steakhouse + Bar,"Steakhouses, Bars, Seafood","Steakhouses, Bars, Seafood",NA,4.0,"5 Place Ville Marie, Montreal",45.500752,-73.569497,312,385.23,15148681999,False,$$$,Montreal
+Jérôme Ferrer Europea,French,French,French,4.5,"1065 Rue de la Montagne, Montreal",45.496475,-73.571785,378,595.46,15143989229,False,$$$$,Montreal
+Le Serpent,"Italian, Brasseries",Italian,Italian,4.5,"257 Rue Prince, Montreal",45.497564,-73.556864,168,667.74,15143164666,False,$$$,Montreal
+Reuben's Deli & Steakhouse,"Delis, Sandwiches, Steakhouses","Sandwiches, Steakhouses",NA,4.0,"1116 Rue Sainte-Catherine Ouest, Montreal",45.49959,-73.57294,670,620.14,15148661029,False,$$,Montreal
+Holder,"French, Bars",Bars,French,4.0,"407 Rue McGill, Montreal",45.50047,-73.55734,375,623.56,15148490333,False,$$$,Montreal
+L'Orignal,Canadian (New),Canadian (New),Canadian (New),4.0,"479 Rue Saint-Alexis, Montreal",45.50275,-73.55798,285,687.79,15143030479,False,$$$,Montreal
+Toqué,Canadian (New),Canadian (New),Canadian (New),4.5,"900 Place Jean-Paul-Riopelle, Montreal",45.502948,-73.561204,286,524.92,15144992084,False,$$$$,Montreal
+Il Focolaio,"Pizza, Italian",Pizza,Italian,4.5,"1223 Rue du Square-Phillips, Montreal",45.50407,-73.56807,487,593.92,15148791045,False,$$,Montreal
+Escondite,"Bars, Mexican",Bars,Mexican,4.0,"1206 Avenue Union, Montreal",45.502978,-73.567959,247,482.33,15144199755,False,$$,Montreal
+Portus360,Portuguese,Portuguese,NA,4.0,"777 Boulevard Robert-Bourassa, Montreal",45.49997,-73.56242,80,207.85,15148492070,False,$$$,Montreal
+Brit & Chips,"British, Fish & Chips",British,British,4.0,"433 Rue McGill, Montreal",45.50074,-73.55806,300,576.38,15148401001,False,$$,Montreal
+Jatoba,Japanese,Japanese,Japanese,4.0,"1184 Place Phillips, Montreal",45.503313,-73.567344,140,497.24,15148711184,False,$$$,Montreal
+Chez Delmo,Seafood,Seafood,NA,4.5,"275 Rue Notre-Dame O, Montreal",45.502845,-73.558353,91,672.05,15142884288,False,$$$,Montreal
+Crew Collective & Café,"Shared Office Spaces, Venues & Event Spaces, Cafes",Cafes,NA,4.5,"360 Rue Saint-Jacques, Montreal",45.502323,-73.559316,370,577.18,15142857095,False,$$,Montreal
+Nora Gray,Italian,Italian,Italian,4.0,"1391 Rue Saint-Jacques, Montreal",45.49303,-73.568495,112,725.56,15144196672,False,$$$,Montreal
+Tiradito,"Peruvian, Cocktail Bars, Asian Fusion",Cocktail Bars,"Peruvian, Asian Fusion",4.0,"1076 Rue de Bleury, Montreal",45.50434,-73.56348,150,613.5,15148666776,False,$$$,Montreal
+KYO,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"711 Côte de la Place d'Armes, Montreal",45.505569,-73.557988,255,908.48,15142822711,False,$$,Montreal
+Dunn's,"Poutineries, Burgers, Pizza","Burgers, Pizza",NA,4.0,"1249 Rue Metcalfe, Montreal",45.500557,-73.571625,329,530.25,15143951927,False,$$,Montreal
+NYK'S,"Pubs, Burgers, Tapas Bars","Pubs, Burgers, Tapas Bars",NA,4.0,"1250 Rue de Bleury, Montreal",45.506032,-73.566685,187,778.38,15148661787,False,$$,Montreal
+Nouilles de Lan Zhou,"Chinese, Noodles",Chinese,Chinese,4.5,"1006 Boulevard Saint-Laurent, Montreal",45.507781,-73.559594,674,1055.98,15148002959,False,$$,Montreal
+Escondite,Mexican,Mexican,Mexican,4.5,"1224 Rue Drummond, Montreal",45.497994,-73.573128,56,634.99,15143755945,False,$$,Montreal
+Biirū,"Japanese, Bars",Bars,Japanese,4.0,"1433 City Councillors, Montreal",45.504916,-73.56865,189,700.5,15149031555,False,$$,Montreal
+LOV McGill,"Vegan, Vegetarian, Breakfast & Brunch",Vegan,NA,4.0,"464 Rue McGill, Montreal",45.500553,-73.559051,271,500.7,15142871155,False,$$,Montreal
+Helena,"Portuguese, Seafood",Seafood,NA,4.0,"438 McGill, Montreal",45.50028,-73.55837,96,549.92,15148781555,False,$$$,Montreal
+Dandy,Breakfast & Brunch,Breakfast & Brunch,NA,4.5,"244 Rue Saint-Jacques, Montreal",45.5033,-73.55857,113,690.4,15142899996,False,$$$,Montreal
+Les Enfants Terribles,"Canadian (New), French, Breakfast & Brunch",Canadian (New),"Canadian (New), French",3.5,"1 Place Ville Marie, Montreal",45.501658,-73.568164,213,367.99,15145448884,False,$$,Montreal
+Saiko Bistrot Izakaya,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1065 Côte du Beaver Hill, Montreal",45.502394,-73.564791,86,365.48,14383867888,False,$$$,Montreal
+Eggspectation,"Breakfast & Brunch, Burgers, American",Burgers,American,4.0,"190 Rue Saint-Catherine O, Montreal",45.507183,-73.564806,451,927.38,15142886448,False,$$,Montreal
+Lola Rosa,Vegan,Vegan,NA,4.5,"276 Rue Sainte-Catherine O, Montreal",45.50682,-73.56614,79,864.07,15145430613,False,$$,Montreal
+La Finca,"Breakfast & Brunch, Venues & Event Spaces, Cafes",Cafes,NA,4.5,"1067 Rue de Bleury, Montreal",45.504328,-73.562884,164,605.56,15149038911,False,$$,Montreal
+Café Parvis,"Pizza, Cafes, Bars","Pizza, Cafes, Bars",NA,4.0,"433 Rue Mayor, Montreal",45.505822,-73.569301,221,813.09,15147643589,False,$$,Montreal
+MajesThé,"Asian Fusion, Bubble Tea, Taiwanese",Asian Fusion,Asian Fusion,4.0,"2077 Boulevard Robert-Bourassa, Montreal",45.50484,-73.572759,166,864.8,15148405128,False,$$,Montreal
+N° 900,Pizza,Pizza,NA,4.5,"444 Rue McGill, Montreal",45.500436,-73.558316,46,551.7,15143794900,False,$$,Montreal
+Vargas,"Steakhouses, Sushi Bars, Wine Bars","Steakhouses, Sushi Bars, Wine Bars",NA,3.5,"690 Boulevard René Levesque O, Montreal",45.50155,-73.56733,95,316.29,15148754545,False,$$$,Montreal
+Gokudo,"Cocktail Bars, Japanese, Speakeasies",Cocktail Bars,Japanese,4.5,"630 Rue Cathcart, Montreal",45.50303,-73.56838,62,520.31,15143753715,False,$$,Montreal
+Le 409,"Gastropubs, Indian",Gastropubs,Indian,4.5,"409 Rue McGill, Montreal",45.50053,-73.55772,44,604.08,15147500409,False,$$,Montreal
+Lotus Bleu,Chinese,Chinese,Chinese,4.5,"988 Boulevard Saint-Laurent, Montreal",45.507663,-73.559314,29,1053.18,15146913519,False,$$,Montreal
+La Habanera,Cuban,Cuban,NA,4.0,"1216 Avenue Union, Montreal",45.50311,-73.56822,87,500.12,15143755355,False,$$,Montreal
+La Bête à Pain,"Bakeries, Cafes",Cafes,NA,4.5,"195 Rue Young, Montreal",45.493167,-73.558505,58,839.69,15145098937,False,$$,Montreal
+Chifa,Peruvian,Peruvian,Peruvian,4.5,"1080 Rue de Bleury, Montreal",45.50441,-73.5637,34,598.06,15145438488,False,$$,Montreal
+Restaurant Rosélys,Bistros,Bistros,NA,3.5,"900 Boulevard René-Lévesque O, Montreal",45.50027,-73.56814,53,240.24,15149542261,False,$$$,Montreal
+Cookie Stéfanie,"Gluten-Free, Patisserie/Cake Shop, Sandwiches",Sandwiches,NA,4.5,"272 Rue Saint Jacques O, Montreal",45.502983,-73.558952,83,646.07,14383801560,False,$,Montreal
+Place Carmin,"French, Bars, Seafood","Bars, Seafood",French,4.5,"740 Rue William, Montreal",45.498208,-73.557607,33,595.75,15144390740,False,$,Montreal
+Bloom Sushi,"Vegan, Sushi Bars",Sushi Bars,NA,4.5,"368 Rue Saint-Paul O, Montreal",45.50089,-73.55639,48,709.93,15149062005,False,$,Montreal
+Lloyd,"Lounges, Desserts, Tapas Bars","Desserts, Tapas Bars",NA,4.5,"1050 Rue de la Gauchetière O, Montreal",45.497772,-73.567657,12,246.62,15148786799,False,$,Montreal
+Sammi & Soupe Dumpling,Dumplings,Dumplings,NA,4.5,"68 Rue de la Gauchetière O, Montreal",45.50734,-73.5603,45,991.04,15143931888,False,$,Montreal
+Shawarmaz,"Middle Eastern, Mediterranean",Middle Eastern,"Middle Eastern, Mediterranean",4.0,"1206 Rue Peel, Montreal",45.499508,-73.572079,173,542.58,15144319345,False,$,Montreal
+Tommy,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,4.0,"200 Rue Notre-Dame O, Montreal",45.50362,-73.55733,310,789.42,15149038669,False,$$,Montreal
+Snowdon Deli,Delis,Delis,NA,4.5,"5265 Boulevard Décarie, Montreal",45.484809,-73.631948,152,258.11,15144889129,False,$$,Montreal
+Estiatorio Yia Sou!,Greek,Greek,Greek,4.0,"5375 Chemin Queen-Mary, Montreal",45.482456,-73.630264,85,157.81,15144884222,False,$$,Montreal
+Pho 88,Vietnamese,Vietnamese,Vietnamese,3.5,"5136 Boulevard Décarie, Montreal",45.483627,-73.630103,45,77.79,15144889990,False,$$,Montreal
+Poutineville,Poutineries,Poutineries,NA,4.0,"5405 Chemin Queen Mary, Montreal",45.48233,-73.6307,18,191.93,15143692347,False,$$,Montreal
+Karin,"Japanese, Korean, Sushi Bars",Sushi Bars,"Japanese, Korean",4.5,"5332 Chemin Queen Mary, Montreal",45.48277,-73.62939,16,82.97,15144820645,False,$$,Montreal
+Peking Garden,Chinese,Chinese,Chinese,2.5,"5255 Chemin Queen Mary, Montreal",45.484266,-73.628959,22,72.72,15144849139,False,$$,Montreal
+Chops,"Asian Fusion, Steakhouses, Sushi Bars","Steakhouses, Sushi Bars",Asian Fusion,3.5,"5322 Chemin Queen-Mary, Montreal",45.483104,-73.629451,19,63.35,15147594677,False,$$$$,Montreal
+Olu Olu,"Hawaiian, Poke",Hawaiian,NA,4.5,"4986A Chemin Queen Mary, Montreal",45.48565,-73.62703,8,275.88,14387716400,False,$$$$,Montreal
+Tropical Paradise,Caribbean,Caribbean,Caribbean,4.0,"5208 Boulevard Décarie, Montreal",45.48445,-73.63181,38,243.51,15144812614,False,$$,Montreal
+Georgia,Russian,Russian,NA,4.5,"5112 Boulevard Décarie, Montreal",45.48357,-73.62982,8,56.94,15144821881,False,$$$,Montreal
+Lucille's Oyster Dive,"Seafood, Steakhouses, Bars","Seafood, Steakhouses, Bars",NA,3.5,"5669 Monkland Avenue, Montreal",45.474896,-73.623716,108,1057.06,15144821471,False,$$$,Montreal
+Parthenon Souvlaki,"Seafood, Greek",Seafood,Greek,4.0,"5405 Ch Queen Mary, Montreal",45.482286,-73.630569,5,187.13,15143699989,False,$,Montreal
+Rockaberry,Cafes,Cafes,NA,4.0,"5557 Monkland, Montreal",45.476154,-73.622505,42,976.65,15144876252,False,$$,Montreal
+Monkland Taverne,"Canadian (New), Bars",Bars,Canadian (New),4.0,"5555 Monkland Avenue, Montreal",45.47624,-73.62267,35,968.1,15144865768,False,$$,Montreal
+Le Uptown,"African, Chicken Shop, Cocktail Bars",Cocktail Bars,African,4.0,"5265 Chemin Queen Mary, Montreal",45.484191,-73.629001,1,64.1,15145231228,False,$$,Montreal
+Mozart,Kosher,Kosher,NA,4.0,"5335A Chemin Queen Mary, Montreal",45.4832,-73.62994,7,74.28,15144194411,False,$$,Montreal
+Punjab Canteen,Indian,Indian,Indian,3.5,"5323 Queen Mary Road, Montreal",45.48333,-73.629606,3,50.66,15144821080,False,$$,Montreal
+Trattoria Cinecita,"Italian, Russian, Mediterranean",Italian,"Italian, Mediterranean",4.0,"5220 Boulevard Decarie, Montreal",45.484037,-73.630918,7,148.78,15144832345,False,$$,Montreal
+Ye Olde Orchard Pub & Grill,"Barbeque, Irish Pub","Barbeque, Irish Pub",NA,3.5,"5563 Monkland Avenue, Montreal",45.47624,-73.62267,45,976.69,15144841569,False,$$,Montreal
+Sopoong,Korean,Korean,Korean,3.5,"5385 Chemin Queen Mary, Montreal",45.482325,-73.630679,7,176.59,15144813141,False,$$,Montreal
+Côte St-Luc BAR-B-Q,"Barbeque, Chicken Shop, Poutineries",Barbeque,NA,4.0,"5403 Chemin de la Côte Saint-Luc, Montreal",45.47953,-73.62448,29,582.7,15144884011,False,$$,Montreal
+L'Escape,"Caribbean, African",Caribbean,"Caribbean, African",4.0,"5167 Boulevard Décarie, Montreal",45.48451,-73.63017,4,124.86,15146384494,False,$$,Montreal
+Boustan,Lebanese,Lebanese,NA,4.0,"5236 Chemin Queen Mary, Montreal",45.48414,-73.62831,2,88.65,14383803855,False,$$,Montreal
+Shushu,"Poke, Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"4943 Chemin Queen Mary, Montreal",45.486873,-73.626575,6,379.45,14383804838,False,$$,Montreal
+Wendy's,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"5180 Decarie Blvd., Montreal",45.48418,-73.63156,17,199.14,15144814060,False,$,Montreal
+Buffalo Bill Wings,"Fast Food, Chicken Wings, Poutineries",Fast Food,NA,2.0,"5248 Chemin Queen Mary, Hampstead",45.484082,-73.628348,23,78.28,15144865479,False,$$,Montreal
+Plan B,Sandwiches,Sandwiches,NA,4.0,"5334 Chemin Queen Mary, Montreal",45.482856,-73.629403,5,88.04,15144866060,False,$$,Montreal
+Le Poke Shop,"Poke, Japanese, Hawaiian",Poke,Japanese,3.5,"5209 Boulevard Décarie, Montreal",45.48486,-73.63087,7,193.12,15143698860,False,$$,Montreal
+Saizen,"Sushi Bars, Japanese",Sushi Bars,Japanese,5.0,"5177 Boulevard Décarie, Montreal",45.484572,-73.630263,1,139.21,15149030505,False,$$,Montreal
+Masala Palace,Indian,Indian,Indian,3.5,"4961-D Chemin Queen-Mary, Montreal",45.486384,-73.627071,15,345.88,15147315277,False,$$,Montreal
+Pigeon Café,"Salad, Coffee & Tea, Sandwiches","Coffee & Tea, Sandwiches",NA,3.5,"5625 Avenue de Monkland, Montreal",45.47536,-73.62341,29,1019.15,15144840062,False,$$,Montreal
+N° 900,Pizza,Pizza,NA,3.5,"5611 Avenue de Monkland, Montreal",45.475552,-73.623042,26,1014.04,15145049009,False,$$,Montreal
+Pendeli's Pizza,Pizza,Pizza,NA,4.0,"5599 Chemin de La Côte Saint Luc, Montreal",45.478569,-73.629188,43,562.3,15144861155,False,$$,Montreal
+Le Petit Pêcheur,"Seafood, Steakhouses","Seafood, Steakhouses",NA,4.5,"5131 Boulevard Decarie, Montreal",45.48425,-73.62957,2,67.11,15144851485,False,$$,Montreal
+Wasabi Sushi,Sushi Bars,Sushi Bars,NA,3.5,"5410 Chemin Queen-Mary, Montreal",45.48204,-73.63007,13,195.55,15144888882,False,$$,Montreal
+Ô Fish,"Fish & Chips, Seafood",Seafood,NA,4.0,"5641 Avenue de Monkland, Montreal",45.475371,-73.623267,13,1023.98,15144891815,False,$$,Montreal
+Bangkok Express,Thai,Thai,Thai,2.5,"5645 De Monkland Avenue, Montreal",45.47536,-73.62341,48,1027.13,15142234552,False,$$,Montreal
+Nyam & Jam,"Caribbean, Barbeque",Barbeque,Caribbean,3.0,"5255 Queen Mary, Montreal",45.484314,-73.628876,2,72.72,15145085375,False,$,Montreal
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.5,"5155 Rue Queen-Mary, Montreal",45.485222,-73.628199,5,191.73,15143698904,False,$,Montreal
+Okinawa poke,"Sushi Bars, Poke, Ramen",Sushi Bars,NA,2.0,"5194 Chem. Queen Mary, Montreal",45.484621,-73.627821,1,150.2,15143791115,False,$,Montreal
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,1.5,"5120 Chemin Queen Mary, Montreal",45.48527,-73.627226,6,234.8,15143031205,False,$,Montreal
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,3.0,"5180, Boul. Decarie, Montreal",45.48418,-73.63156,1,199.14,15144860552,False,$,Montreal
+Foodine,Indian,Indian,Indian,4.5,"4939 Chemin Queen Mary, Montreal",45.48661,-73.62703,2,384.26,15149133481,False,$,Montreal
+Restaurant Chase,Lebanese,Lebanese,NA,4.0,"5672 Monkland Ave, Montreal",45.47466,-73.6233,16,1095.24,15144822256,False,$,Montreal
+Kiku,Japanese,Japanese,Japanese,3.5,"5515 Avenue de Monkland, Montreal",45.4767,-73.62218,20,938.21,15143693659,False,$$$,Montreal
+TGG Indian Restaurant,Indian,Indian,Indian,5.0,"5209 Bd Décarie, Montreal",45.484802,-73.630913,1,192.75,15146610641,False,$$$,Montreal

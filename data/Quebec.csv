@@ -1,0 +1,358 @@
+Name,Categories,Cuisine Types,Nationalities,Rating,Address,Res_Latitude,Res_Longitude,Reviews,Distance,Phone,Closed,Price,City
+Le Fin Gourmet,"Canadian (New), Burgers, Breakfast & Brunch",Burgers,Canadian (New),4.5,"774 Rue Raoul-Jobin, Quebec City",46.80685,-71.24584,15,2175.48,14186825849,False,$$,Quebec
+L'Oeuforie,"Steakhouses, Breakfast & Brunch",Steakhouses,NA,4.0,"850 Boulevard Pierre-Bertrand, Vanier",46.826615,-71.273329,7,897.75,14186814419,False,$$,Quebec
+Casa Grecque,Greek,Greek,Greek,4.0,"955 Boulevard Pierre-Bertrand, Quebec City",46.82717,-71.27568,5,1108.44,14185271210,False,$$,Quebec
+Le Soleil Rouge,Breakfast & Brunch,Breakfast & Brunch,NA,5.0,"380A Avenue Turcotte, Ville de Québec",46.82148,-71.25752,2,450.24,<NA>,False,$$,Quebec
+Chez Ashton,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.0,"550 Boulevard Wilfrid-Hamel, Quebec City",46.82144,-71.251607,1,908.56,14186480895,False,$$,Quebec
+Restaurant Au Vieux Duluth,Restaurants,Restaurants,NA,4.5,"371 Rue Soumande, Quebec City",46.82015,-71.25508,3,674.31,14186817274,False,$$,Quebec
+Viva,"Modern European, Italian",Modern European,"Modern European, Italian",5.0,"670 Rue Bouvier, Quebec City",46.835253,-71.273372,2,1639.56,14189149956,False,$$,Quebec
+Rôtisserie Scores,"Barbeque, Chicken Shop",Barbeque,NA,3.5,"710 Rue Bouvier, Quebec City",46.834365,-71.274545,7,1597.57,14186237777,False,$$,Quebec
+East Side Mario's,"Italian, Pizza",Pizza,Italian,3.5,"550 Boulevard Wilfrid-Hamel, Quebec City",46.822819,-71.250561,3,987.67,14186482922,False,$$,Quebec
+Pacini,Italian,Italian,Italian,2.0,"245 Rue Soumande, Quebec City",46.81822,-71.25336,2,921.03,14185278623,False,$$,Quebec
+Harvey's,"Burgers, Fast Food, American","Burgers, Fast Food",American,5.0,"1095 Boul Wilfrid Hamel, Quebec",46.80879,-71.26043,1,1478.99,14186837313,False,$$,Quebec
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,3.5,"552 Boulevard Wilfrid-Hamel, Quebec City",46.822166,-71.251335,2,925.9,14186401540,False,$,Quebec
+Au Petit Chalet,"Breakfast & Brunch, Burgers",Burgers,NA,3.5,"840 Rue Bouvier, Quebec City",46.833329,-71.278168,3,1670.33,14185279009,False,$,Quebec
+Cécile et Ramone,"Breakfast & Brunch, Music Venues, American",Breakfast & Brunch,American,3.0,"1061, Boulevard Pierre-Bertrand, Quebec City",46.828708,-71.276805,8,1247.73,14186817625,False,$,Quebec
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,4.0,"680 Boulevard Wilfrid-Hamel, Quebec City",46.814692,-71.253189,1,1141.35,14186813363,False,$$,Quebec
+Normandin,"Burgers, Pizza","Burgers, Pizza",NA,3.0,"986 Rue Bouvier, Quebec City",46.83276,-71.27898,15,1661.46,14186271265,False,$$,Quebec
+Mysa Sushi,Sushi Bars,Sushi Bars,NA,4.5,"Centre commercial Fleur de Lys, Quebec City",46.822082,-71.251468,2,915.84,14185690595,False,$,Quebec
+Tonton,"Salad, Canadian (New), Sandwiches",Sandwiches,Canadian (New),5.0,"655 Rue Saint-Vallier O, Quebec City",46.80992,-71.245606,1,1925.91,14184540993,False,$,Quebec
+Sushi Taxi - Lebourgneuf,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.5,"670 Rue Bouvier, Quebec City",46.83449,-71.272,6,1542.44,14186272020,False,$$$,Quebec
+Pizza Salvatoré,"Pizza, Poutineries",Pizza,NA,2.5,"980 Rue Bouvier, Quebec City",46.832866,-71.278252,2,1637.19,14186246666,False,$$$,Quebec
+Quesada Burritos & Tacos,Mexican,Mexican,Mexican,2.5,"575 Boulevard Wilfrid-Hamel, Quebec City",46.81704,-71.24922,2,1190.43,14185238226,False,$$$,Quebec
+Cora,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"Quebec, Chicoutimi",46.834045,-71.27491,1,1582.49,<NA>,False,$$$,Quebec
+Chez Diane,"Pizza, Breakfast & Brunch, Poutineries",Pizza,NA,5.0,"695 Avenue Godin, Quebec City",46.8195,-71.2771,1,1049.19,14186811645,False,$$$,Quebec
+Resto Vanier,"Canadian (New), Fast Food",Fast Food,Canadian (New),5.0,"227 Avenue Bélanger, Quebec City",46.815,-71.25766,1,901.35,14185273025,False,$$$,Quebec
+Café de La Vie,"Cafes, Asian Fusion",Cafes,Asian Fusion,3.0,"600 Rue Bouvier, Quebec City",46.833461,-71.276076,1,1580.58,14186241783,False,$$$,Quebec
+Pizza Royale,Pizza,Pizza,NA,3.5,"623 Boul Wilfrid-Hamel, Quebec City",46.8147,-71.25174,2,1185.08,14186831544,False,$$,Quebec
+Tim Hortons,"Coffee & Tea, Breakfast & Brunch",Coffee & Tea,NA,2.0,"589 Boulevard Wilfrid-hamel, Quebec City",46.81669,-71.24984,1,1192.3,14185241759,False,$$,Quebec
+Boston Pizza,"Pizza, Salad, Sandwiches","Pizza, Sandwiches",NA,2.0,"4500 Boulevard des Gradins, Quebec City",46.83574,-71.27066,4,1648.87,14186233323,False,$$,Quebec
+Yeh! Yogourt Glacé & Café,"Cafes, Ice Cream & Frozen Yogurt, Creperies",Cafes,NA,2.0,"552 Boulevard Wilfrid-Hamel, Quebec City",46.820419,-71.248947,1,1033.72,14185213333,False,$$,Quebec
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"760 Rue Bouvier, Quebec City",46.833662,-71.27693,1,1638.18,14186277300,False,$$,Quebec
+Sushi X,Sushi Bars,Sushi Bars,NA,3.0,"840 rue Bouvier, Quebec City",46.833302,-71.278195,6,1669.91,14186264848,False,$$,Quebec
+Sushi X,Sushi Bars,Sushi Bars,NA,1.0,"840 Rue Bouvier, Quebec City",46.833329,-71.278168,1,1670.33,14186264848,False,$$,Quebec
+Kyran-Ô-Pizza,Pizza,Pizza,NA,3.0,"125 Rue Marie de l'Incarnation, Quebec City",46.809719,-71.246963,3,1868.99,14186816208,False,$$,Quebec
+La Shop À Violette,Fast Food,Fast Food,NA,4.0,"695 Avenue Godin, Quebec City",46.819264,-71.276428,2,1049.19,14186811645,False,$$,Quebec
+Vietnam Express,"Vietnamese, Thai",Vietnamese,"Vietnamese, Thai",3.0,"3238 1re Avenue, Quebec City",46.839701,-71.24635,1,2348.22,14186238288,False,$$,Quebec
+Burger King Bouvier,"Hot Dogs, Burgers, Fast Food","Burgers, Fast Food",NA,2.0,"730 Rue Bouvier, Quebec City",46.83381,-71.2757,2,1622.07,14182609356,False,$$,Quebec
+Le Café du Clocher Penché,"French, Modern European",French,"French, Modern European",4.5,"203, Rue Saint-Joseph E, Quebec City",46.812945,-71.228301,126,710.12,14186400597,False,$$$,Quebec
+Le Billig,"Creperies, French",Creperies,French,4.5,"481 Rue Saint-Jean, Quebec City",46.809379,-71.221245,590,1342.08,14185248341,False,$$,Quebec
+Le Hobbit,French,French,French,4.0,"700 Rue Saint Jean, Quebec City",46.810738,-71.21873,439,1371.61,14186472677,False,$$,Quebec
+Buvette Scott,"Canadian (New), Bars",Bars,Canadian (New),5.0,"821 Rue Scott, Quebec City",46.809244,-71.221158,177,1357.84,15817414464,False,$$$,Quebec
+La Korrigane,Brasseries,Brasseries,NA,4.0,"380 Rue Dorchester, Quebec City",46.813924,-71.22681,74,682.76,14186140932,False,$$,Quebec
+Nina Pizza Napolitaine,Pizza,Pizza,NA,4.5,"410 Rue Saint-Anselme, Quebec City",46.812263,-71.229774,70,738.05,15817422012,False,$$,Quebec
+Patente et Machin,Canadian (New),Canadian (New),Canadian (New),4.5,"82 Rue Saint-Joseph O, Quebec City",46.811604,-71.232932,70,779.57,15819813999,False,$$$,Quebec
+Poutineville,"Burgers, Sandwiches, Poutineries","Burgers, Sandwiches",NA,4.0,"735 Rue Saint-Joseph E, Quebec City",46.815872,-71.219806,132,1020.44,15819818188,False,$$,Quebec
+Ophelia,"Seafood, Steakhouses","Seafood, Steakhouses",NA,4.5,"634 Grande Allée E, Quebec City",46.806534,-71.216661,72,1809.88,14185248228,False,$$$,Quebec
+Le Bureau de Poste,"Bars, Comfort Food, American",Bars,American,4.0,"296 Rue Saint Joseph E, Quebec City",46.813698,-71.226698,102,707.47,14189146161,False,$,Quebec
+Ciel! Bistro-bar,French,French,French,4.0,"1225 Cours Du Général De Montcalm, Quebec City",46.80513,-71.217148,122,1888.76,14186405802,False,$$$,Quebec
+Phil Smoked Meat,"Sandwiches, Steakhouses, Poutineries","Sandwiches, Steakhouses",NA,4.5,"461 Rue Saint-Joseph E, Quebec City",46.814351,-71.223838,35,818.21,14185234545,False,$$,Quebec
+La Gueule de Bois,"Canadian (New), French",Canadian (New),"Canadian (New), French",5.0,"207 Rue Saint-Vallier E, Quebec City",46.811472,-71.227298,26,890.61,14183530505,False,$$$,Quebec
+Le Croquembouche Pâtissier et traiteur,"Bakeries, Sandwiches, Chocolatiers & Shops",Sandwiches,NA,4.5,"225 Rue Saint-Joseph E, Quebec City",46.81299,-71.22776,123,720.13,14185239009,False,$,Quebec
+La Planque,"French, Bars",Bars,French,4.5,"1027 3e Avenue, Quebec City",46.8266,-71.23032,32,907.94,14189148780,False,$$$,Quebec
+Chez Victor,Burgers,Burgers,NA,4.5,"145 Rue Saint-Jean, Quebec City",46.807748,-71.225775,70,1315.01,14185297702,False,$$,Quebec
+jjacques,"Cocktail Bars, Seafood, Wine Bars","Cocktail Bars, Seafood, Wine Bars",NA,5.0,"341 Rue Notre-Dame-des-Anges, Quebec City",46.813565,-71.225578,20,775.09,15814913286,False,$$,Quebec
+Casa Calzone,Italian,Italian,Italian,5.0,"1298 Rue de la Pointe-aux-Lièvres, Quebec City",46.822379,-71.241561,26,799.93,14185223000,False,$$,Quebec
+Tora-Ya Ramen,Ramen,Ramen,NA,4.5,"75 Rue Saint-Joseph E, Ville de Québec",46.81223,-71.23009,52,725.51,14187801903,False,$$,Quebec
+Louis Hebert,French,French,French,4.5,"668 Grande-Allee Est, Quebec City",46.80681,-71.2162,50,1815.63,14185257812,False,$$$,Quebec
+Le Bouchon du Pied Bleu,French,French,French,4.5,"179 Rue Saint-Vallier O, Quebec City",46.81171,-71.234525,21,781.19,14189143554,False,$$$,Quebec
+Bistro B,"French, Breakfast & Brunch, Cocktail Bars",Cocktail Bars,French,4.5,"1144 Avenue Cartier, Quebec City",46.803169,-71.225472,44,1801.48,14186145444,False,$$$$,Quebec
+Cendrillon,"Canadian (New), Seafood, Tapas Bars","Seafood, Tapas Bars",Canadian (New),4.5,"1039 3e Avenue, Quebec City",46.82665,-71.23039,25,911.83,14189149838,False,$$$,Quebec
+La Boîte à Pain,"Bakeries, Pizza, Sandwiches","Pizza, Sandwiches",NA,4.5,"289 Rue Saint-Joseph Est, Quebec City",46.81331,-71.22668,106,728.36,14186473666,False,$,Quebec
+Ciccio Cafe,Italian,Italian,Italian,4.5,"875 Claire Fontaine, Quebec City",46.80831,-71.22166,61,1416.82,14185256161,False,$$,Quebec
+Chez Tao!,"Pan Asian, Cocktail Bars",Cocktail Bars,Pan Asian,4.5,"104 Rue Saint-Vallier O, Quebec City",46.81178,-71.23362,33,760.01,14182041850,False,$$,Quebec
+L'Affaire Est Ketchup,French,French,French,4.5,"46 Rue Saint-Joseph E, Quebec City",46.81248,-71.23054,184,704.47,14185299020,False,$$$,Quebec
+Soupe et Cie,"Soup, Live/Raw Food",Soup,NA,4.0,"522 3e Avenue, Quebec City",46.82357,-71.22678,42,698.32,14189488996,False,$$,Quebec
+Deux 22,"Bars, Gastropubs, Beer, Wine & Spirits","Bars, Gastropubs, Beer, Wine & Spirits",NA,4.5,"222 Saint Joseph, Quebec City",46.813129,-71.228256,24,695.01,15817425222,False,$$,Quebec
+Chez Gaston,Poutineries,Poutineries,NA,4.5,"332 Rue Dorchester, Quebec City",46.814423,-71.227452,53,608.83,14185230677,False,$,Quebec
+L'Atelier,"Canadian (New), Gastropubs, Cocktail Bars","Gastropubs, Cocktail Bars",Canadian (New),4.0,"624, Grande Allée Est, Quebec City",46.806427,-71.216637,122,1831.21,14185222225,False,$$$,Quebec
+Miyagi Bistro Thaï Et Sushi,"Sushi Bars, Thai",Sushi Bars,Thai,4.5,"523, 3e Avenue, Quebec City",46.823365,-71.227176,19,665.15,14186144040,False,$$,Quebec
+Griendel,Brasseries,Brasseries,NA,4.0,"195 Rue Saint-Vallier O, Quebec City",46.81169,-71.23481,21,782.2,15817422884,False,$$,Quebec
+La Cuisine,"Canadian (New), Pubs",Pubs,Canadian (New),4.0,"205 Rue Saint-Vallier E, Quebec City",46.81129,-71.22726,36,910.03,14185233387,False,$$,Quebec
+Bati Bassac,"Thai, Cambodian",Thai,Thai,4.0,"125 Rue Saint-Joseph E, Quebec City",46.81244,-71.22942,34,717.3,14185224567,False,$$,Quebec
+La Revanche,"Cafes, Pubs, Cocktail Bars","Cafes, Pubs, Cocktail Bars",NA,4.5,"585 Charest E, Quebec City",46.814308,-71.221752,21,954.51,14182635389,False,$$,Quebec
+Boîte à Pain - Café Napoli,"Pizza, Bakeries",Pizza,NA,4.5,"396 3e Avenue, Quebec City",46.822543,-71.226157,16,657.17,14189777571,False,$$,Quebec
+Table,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),4.0,"395 Rue de la Couronne, Quebec City",46.814646,-71.223851,30,798.86,14186472458,False,$$$,Quebec
+Les Sales Gosses,Canadian (New),Canadian (New),Canadian (New),4.5,"620 Rue Saint-Joseph E, Quebec City",46.81532,-71.22166,16,913.48,14185225501,False,$$$,Quebec
+Bügel fabrique de bagels,"Breakfast & Brunch, Bagels",Breakfast & Brunch,NA,4.0,"164 rue Crémazie Ouest, Quebec City",46.8043,-71.22869,85,1621.5,14185237666,False,$$,Quebec
+Au Bonnet d'Âne,"Cafes, Breakfast & Brunch",Cafes,NA,4.0,"298 Rue Saint-Jean, Quebec City",46.80856,-71.2239,50,1302.17,14186473031,False,$$,Quebec
+Frite Alors!,Fast Food,Fast Food,NA,4.5,"122 Rue Crémazie O, Quebec City",46.804777,-71.227728,21,1582.44,14186145522,False,$$,Quebec
+Café Pékoe,Cafes,Cafes,NA,4.5,"433 rue Saint-Joseph Est, Quebec City",46.814289,-71.224225,20,798.53,14185224888,False,$,Quebec
+La Galette Libanaise,Lebanese,Lebanese,NA,4.5,"641 Grande-Allée E, Quebec City",46.80614,-71.21615,43,1860.22,14189147927,False,$,Quebec
+Brûlerie Saint-Roch,Cafes,Cafes,NA,4.0,"375 Rue Saint Joseph E, Quebec City",46.81382,-71.22536,26,764.51,14187044420,False,$,Quebec
+GAO,Vietnamese,Vietnamese,Vietnamese,4.5,"555 Rue Saint-Jean, Quebec City",46.80972,-71.22032,16,1351.76,14189145858,False,$,Quebec
+Les Salons d'Edgar,"Pool Halls, Modern European, Bars",Bars,Modern European,4.5,"263 Rue Saint-Vallier E, Quebec City",46.81165,-71.22577,10,913.86,14185237811,False,$$,Quebec
+La Grolla,Fondue,Fondue,NA,4.0,"815 Côte d'Abraham, Quebec City",46.81256,-71.21766,34,1322.24,14185298107,False,$$$$,Quebec
+La Piazzetta,"Pizza, Italian",Pizza,Italian,4.0,"357 Rue Saint-Joseph Est, Quebec City",46.813865,-71.225632,18,748.38,14185237171,False,$$,Quebec
+Montego,Italian,Italian,Italian,4.5,"1460 Avenue Maguire, Quebec City",46.779546,-71.249524,16,797.73,14186887991,False,$$$,Quebec
+Pizzéria No 900 Napolitaine,Pizza,Pizza,NA,4.5,"1332 Avenue Maguire, Quebec City",46.780923,-71.251234,15,882.27,15817425900,False,$$$,Quebec
+Bagel Maguire,"Bagels, Cafes",Cafes,NA,4.0,"1400 Avenue Maguire, Ville de Québec",46.7804,-71.25052,9,848.27,14185272303,False,$$$,Quebec
+Café au Temps Perdu,"Modern European, Pubs, Cafes","Pubs, Cafes",Modern European,4.0,"867 Avenue Myrand, Quebec City",46.78758,-71.26827,14,1852.38,14186815601,False,$$,Quebec
+Faks Café,"American, Modern European",American,"American, Modern European",4.0,"1308 Avenue Maguire, Quebec City",46.78141,-71.25171,7,923.23,14186860808,False,$$,Quebec
+L'Épicurien,"Breakfast & Brunch, Creperies, Patisserie/Cake Shop",Breakfast & Brunch,NA,4.5,"1292 Avenue Maguire, Quebec City",46.78163,-71.25198,3,938.99,14186143003,False,$$,Quebec
+Boulangerie Artisanale Paul,"Bakeries, French",Bakeries,French,4.5,"1646 Chemin Saint-Louis, Quebec City",46.78394,-71.24631,9,1340.89,14186840200,False,$$,Quebec
+Tapas & Liège,Tapas/Small Plates,Tapas/Small Plates,NA,4.5,"1297 Avenue Maguire, Quebec City",46.781475,-71.252436,7,914.29,14186532727,False,$$,Quebec
+Brynd Smoked Meat,"Burgers, Sandwiches, Poutineries","Burgers, Sandwiches",NA,3.5,"1360 Avenue Maguire, Quebec City",46.78088,-71.25109,12,875.97,15817423844,False,$$,Quebec
+Le Pub universitaire,"Gastropubs, Pubs","Gastropubs, Pubs",NA,3.5,"2325 Rue de l'Université, Quebec City",46.778947,-71.269521,8,1244.03,14186567075,False,$$,Quebec
+Pat Retro,"Fast Food, Diners, Burgers","Fast Food, Burgers",NA,3.5,"1983 Rue de Bergerville, Quebec City",46.77978,-71.24964,8,820.35,14186818536,False,$,Quebec
+La Cuisine Ludique,French,French,French,4.0,"840 Avenue Myrand, Quebec City",46.787923,-71.269409,3,1933.34,14182041777,False,$$,Quebec
+L'Gros Luxe Québec,"Breakfast & Brunch, Canadian (New), Cocktail Bars",Cocktail Bars,Canadian (New),3.0,"859 Avenue Myrand, Quebec City",46.787584,-71.268028,9,1844.66,15819815727,False,$$,Quebec
+Café du Marché,Gastropubs,Gastropubs,NA,4.5,"2215 Chemin du Fleuve, Lévis",46.758537,-71.239567,2,2047.38,14188392525,False,$$,Quebec
+La Galette Libanaise,"Lebanese, Falafel",Lebanese,NA,4.0,"1394 Avenue Maguire, Quebec City",46.780493,-71.250895,1,847.41,14186828889,False,$$,Quebec
+Restaurant Santa Barbara,British,British,British,5.0,"1623 Rue Sheppard, Quebec City",46.784679,-71.247833,1,1324.53,14189141042,False,$$,Quebec
+Smith Cafe,Cafes,Cafes,NA,3.5,"2012 Chem. Saint-Louis, Quebec City",46.77917,-71.25007,3,746.46,14185290096,False,$$,Quebec
+Le Theophile,"Bistros, Cafes",Cafes,NA,5.0,"67 Rue de Saint-Romuald, Lévis",46.75801,-71.23909,2,2112.81,14186030670,False,$$,Quebec
+La Gaspésienne No. 51,"Seafood, Bars","Seafood, Bars",NA,3.5,"1626 Chemin Saint-Louis, Quebec City",46.784672,-71.246409,5,1415.09,14189145606,False,$$,Quebec
+Champa Maguire,"Thai, Vietnamese",Thai,"Thai, Vietnamese",2.5,"1414 Avenue Maguire, Quebec City",46.780265,-71.250493,4,837.02,14186881333,False,$$,Quebec
+Saveurs de l'Inde,Indian,Indian,Indian,2.5,"1275 Avenue Maguire, Quebec City",46.78175,-71.25285,12,941.48,14186830006,False,$$,Quebec
+Verre Pickl’,"Canadian (New), Vegetarian, Mexican",Canadian (New),"Canadian (New), Mexican",5.0,"1314 Avenue Maguire, Quebec City",46.781316,-71.251704,1,912.12,15817488750,False,$$,Quebec
+Bougeotte et placotine,Cafes,Cafes,NA,4.0,"1500 rue Sheppard, Quebec City",46.785455,-71.24671,1,1481.94,14189142377,False,$$,Quebec
+Restaurant Tonino,Italian,Italian,Italian,5.0,"1274 Avenue du Chanoine Morel, Quebec City",46.784547,-71.247879,2,1361.66,14186886060,False,$$,Quebec
+Saint-Germain,"Pizza, Italian, American",Pizza,"Italian, American",3.5,"1525 Rue Sheppard, Quebec City",46.78512,-71.24679,4,1447.03,14186816035,False,$$,Quebec
+Rameau D'olivier,"Seafood, Greek, Mediterranean",Seafood,"Greek, Mediterranean",4.0,"1282 Av Maguire, Quebec City",46.78175,-71.25211,4,943.37,14186879725,False,$$,Quebec
+Erawan,Thai,Thai,Thai,3.5,"1432 Av Maguire, Quebec City",46.78016,-71.25024,4,839.5,14186886038,False,$$,Quebec
+Salam Namaste,Indian,Indian,Indian,3.5,"1282 Avenue Maguire, Quebec City",46.78175,-71.25211,2,943.43,14186837077,False,$$,Quebec
+Cafe Myrtina,Middle Eastern,Middle Eastern,Middle Eastern,5.0,"1363 Av Maguire, Quebec City",46.78054,-71.25137,1,841.97,14186882062,False,$$,Quebec
+Jumelles Pizza,Pizza,Pizza,NA,3.0,"833 Av Myrand, Quebec City",46.78812,-71.26901,1,1939.3,14186825005,False,$,Quebec
+Bab Sang Korean Restaurant,Korean,Korean,Korean,3.0,"1282 Avenue Maguire, Quebec City",46.781704,-71.252192,2,943.43,<NA>,False,$,Quebec
+Bistro la Cohue,Bistros,Bistros,NA,4.5,"3440 Chemin des Quatre-Bourgeois, Quebec City",46.763222,-71.317718,13,1058.35,14186591322,False,$$$,Quebec
+Bali-Lotus,"Cambodian, Vietnamese, Thai",Cambodian,"Vietnamese, Thai",3.5,"3185 Chemin Sainte-Foy, Quebec City",46.772799,-71.315514,7,42.02,14186566667,False,$$,Quebec
+Chez Ashton,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.0,"3065 Chemin Sainte-Foy, Sainte-Foy",46.77528,-71.31094,10,479.68,14186529919,False,$,Quebec
+Lanterne Rouge,Chinese,Chinese,Chinese,4.0,"3280 Chemin Sainte-Foy, Quebec City",46.771061,-71.319708,10,332.2,14186516578,False,$$,Quebec
+Tutti Frutti,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"999 Avenue de Bourgogne, Quebec City",46.764458,-71.308353,10,1084.31,14186536383,False,$$,Quebec
+Le Cèdre,Lebanese,Lebanese,NA,5.0,"2750 Chemin Sainte-Foy, Quebec City",46.781128,-71.300194,12,1529.47,15813003002,False,$$,Quebec
+Normandin,"Pizza, Sandwiches, Fast Food","Pizza, Sandwiches, Fast Food",NA,3.0,"5146 Boulevard Wilfrid-Hamel, Quebec City",46.771974,-71.321799,5,445.9,14188771192,False,$$,Quebec
+Chez Mai,"Vietnamese, Thai",Vietnamese,"Vietnamese, Thai",3.5,"2750 Ch Ste-Foy, Quebec City",46.781135,-71.300999,18,1482.15,14185237701,False,$,Quebec
+La Boite à Pain,"Sandwiches, Bakeries, Pizza","Sandwiches, Pizza",NA,4.0,"2836 Chemin Sainte-Foy, Quebec City",46.778725,-71.304578,7,1101.87,14189141133,False,$$,Quebec
+Ben & Florentine,Breakfast & Brunch,Breakfast & Brunch,NA,3.5,"1015 Avenue Wilfrid-Pelletier, Sainte-Foy",46.769626,-71.303175,6,1036.06,14186586222,False,$$,Quebec
+Le Subtil - Campanile,"Pizza, Sandwiches, Salad","Pizza, Sandwiches",NA,4.0,"893 Rue Grandjean, Quebec City",46.761795,-71.331551,3,1690.93,14186518904,False,$$,Quebec
+Casa Grecque,Greek,Greek,Greek,1.0,"3291 Chemin Sainte-Foy, Quebec City",46.77014,-71.3185,1,346.3,14186566151,False,$$,Quebec
+Sakura BBQ Coréen,"Sushi Bars, Korean",Sushi Bars,Korean,4.0,"3121 Boulevard Hochelaga, Quebec City",46.763542,-71.301882,7,1480.46,15813009161,False,$$,Quebec
+St-Hubert Express,"Chicken Shop, Barbeque",Barbeque,NA,4.0,"2772 Chemin Sainte-foy, Quebec City",46.779981,-71.302234,2,1329.63,14186581234,False,$$,Quebec
+Pacini,Italian,Italian,Italian,2.0,"999 Avenue de Bourgogne, Sainte-Foy",46.764236,-71.309171,5,1073.56,14186581202,False,$$,Quebec
+Lilla Baya,"Coffee & Tea, Mediterranean, Patisserie/Cake Shop",Coffee & Tea,Mediterranean,3.5,"2900 Chemin Sainte-Foy, Quebec City",46.778169,-71.306161,3,969.03,14186570707,False,$$,Quebec
+L'Envers,"Burgers, Pizza, Steakhouses","Burgers, Pizza, Steakhouses",NA,4.0,"3700 Rue du Campanile, Quebec City",46.761953,-71.333488,1,1785.38,14186585599,False,$$,Quebec
+Restaurant Saint-Germain,"Italian, Pizza",Pizza,Italian,4.0,"2750 Chemin Sainte-Foy, Quebec City",46.780922,-71.301295,1,1449.65,14186586068,False,$$,Quebec
+Monte Cristo Lounge,"Diners, Breakfast & Brunch",Diners,NA,5.0,"3400 Chemin Sainte-Foy, Quebec City",46.768986,-71.324835,1,785.6,14186504550,False,$$,Quebec
+Portofino Club Italiano,Italian,Italian,Italian,3.5,"965 Route de l'Église, Quebec City",46.774336,-71.298424,8,1353.69,14186578888,False,$$$,Quebec
+Épicerie Quatre Bourgeois,"Butcher, Delis, Grocery",Butcher,NA,3.0,"3062 Chemin des Quatre Bourgeois, Quebec City",46.7706,-71.305587,1,828.13,14186500811,False,$$$,Quebec
+Banlao,Thai,Thai,Thai,3.5,"2690 Chemin Sainte-Foy, Sainte-Foy",46.781487,-71.29854,10,1653.97,14186528188,False,$$$,Quebec
+Sushi Sakura,"Sushi Bars, Pan Asian",Sushi Bars,Pan Asian,3.0,"3400 Chemin des Quatre-Bourgeois, Quebec City",46.76348,-71.317216,5,1025.82,15819818008,False,$$$,Quebec
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.0,"3240 Chemin des Quatre-Bourgeois, Sainte-Foy",46.7669,-71.31146,2,730.02,14186515085,False,$$$,Quebec
+Ingrid's Restaurant,German,German,German,5.0,"3175, Chemin Des Quatre-Bourgeois, Quebec City",46.76724,-71.30911,1,813.21,15819990122,False,$$$,Quebec
+Resto du Campanile,Canadian (New),Canadian (New),Canadian (New),3.0,"3700 Rue du Campanile, Quebec City",46.76171,-71.33414,1,1805.37,14189145113,False,$$$,Quebec
+Valentine,Fast Food,Fast Food,NA,3.0,"2860 Chemin des Quatre-Bourgeois, Quebec City",46.774475,-71.299811,1,1251.55,14186584348,False,$$$,Quebec
+Ocean Grill,"Seafood, Barbeque, Fish & Chips","Seafood, Barbeque",NA,1.5,"3400, Chemin Des Quatre-bourgeois, Sainte Foy Sillery",46.76331,-71.316612,2,983.58,14186877977,False,$$$,Quebec
+La Bûche,"Canadian (New), French",Canadian (New),"Canadian (New), French",4.0,"49 Rue Saint-Louis, Quebec City",46.81125,-71.20789,664,573.4,14186947272,False,$$,Quebec
+Le Lapin Sauté,French,French,French,4.5,"52 Rue du Petit-Champlain, Quebec City",46.81184,-71.20391,708,251.39,14186925325,False,$$$,Quebec
+Bistro St-Malo,Bistros,Bistros,NA,4.5,"75 Rue Saint-Paul, Quebec City",46.816224,-71.204054,379,407.24,14186922004,False,$$,Quebec
+Chez Boulay - Bistro Boréal,"Breakfast & Brunch, Bistros",Breakfast & Brunch,NA,4.5,"1110 Rue Saint-Jean, Quebec City",46.814016,-71.210808,399,750.32,14183808166,False,$$$,Quebec
+Q-de-Sac Resto-Pub,"Gastropubs, Canadian (New)",Gastropubs,Canadian (New),4.5,"10 Rue du Cul-de-Sac, Quebec City",46.812405,-71.203402,99,202.1,14186924862,False,$$,Quebec
+Sapristi,"Italian, Bars",Bars,Italian,4.0,"24 Boulevard Champlain, Quebec City",46.81211,-71.20347,138,224.02,14186940303,False,$$,Quebec
+Cochon Dingue,"Breakfast & Brunch, French",Breakfast & Brunch,French,4.0,"46 Boulevard Champlain, Quebec City",46.811519,-71.203405,661,261.17,14186922013,False,$$,Quebec
+Le Saint-Amour,French,French,French,4.5,"48 Rue Sainte-Ursule, Quebec City",46.811275,-71.210292,198,741.27,14186940667,False,$$$$,Quebec
+Le Continental,French,French,French,4.5,"26 Rue Saint Louis, Quebec City",46.81191,-71.20698,200,474.8,14186949995,False,$$$$,Quebec
+Le Chic Shack,Burgers,Burgers,NA,4.0,"15 Rue du Fort, Quebec City",46.81309,-71.205263,392,323.24,14186921485,False,$$,Quebec
+1608 Wine & Cheese Bar,"Wine Bars, Cocktail Bars, Tapas/Small Plates","Wine Bars, Cocktail Bars",NA,4.5,"1 Rue des Carrières, Quebec City",46.81187,-71.2053,90,338.94,14186923861,False,$$$,Quebec
+L'Échaudé,French,French,French,4.0,"73, rue Sault-au-Matelot, Quebec City",46.815807,-71.203543,123,347.09,14186921299,False,$$$,Quebec
+Matto,Italian,Italian,Italian,4.0,"71 Rue Saint-Pierre, Quebec City",46.814539,-71.203004,116,211.5,14182669444,False,$$$,Quebec
+Chez Jules,Brasseries,Brasseries,NA,4.0,"24 Rue Sainte-Anne, Quebec City",46.813088,-71.20655,158,421.07,14186947000,False,$$,Quebec
+Bistro le Sam,Canadian (New),Canadian (New),Canadian (New),4.0,"1 Rue des Carrières, Quebec City",46.811931,-71.205136,139,343.95,14186923861,False,$$$,Quebec
+Chez Victor,"Burgers, Poutineries",Burgers,NA,4.5,"300 Rue Saint-Paul, Quebec City",46.817001,-71.211677,144,914.17,14187812511,False,$$,Quebec
+L'Orygine,Bistros,Bistros,NA,4.5,"36 1/2 Rue Saint-Pierre, Quebec City",46.813401,-71.202346,64,103.23,14188724386,False,$$,Quebec
+Légende,Canadian (New),Canadian (New),Canadian (New),4.5,"255 Rue Saint-Paul, Quebec City",46.816994,-71.210137,145,811.58,14186142555,False,$$$$,Quebec
+Bistro 1640,French,French,French,4.0,"20 Rue Sainte-Anne, Quebec City",46.813142,-71.20588,229,369.97,14186949063,False,$$,Quebec
+Restaurant Tanière³,Canadian (New),Canadian (New),Canadian (New),5.0,"36 1/2 Rue Saint-Pierre, Quebec City",46.813538,-71.202484,23,117.37,14188724386,False,$$,Quebec
+Bello Ristorante,"Italian, Pizza",Pizza,Italian,4.0,"73 Rue Saint-Louis, Quebec City",46.810578,-71.209134,206,683.26,14186940030,False,$$$,Quebec
+Aux Anciens Canadiens,Canadian (New),Canadian (New),Canadian (New),4.0,"34 Rue Saint-Louis, Quebec City",46.812,-71.20741,379,504.53,14186921627,False,$$$,Quebec
+L'ENTRECOTE SAINT-JEAN,"Steakhouses, Bistros",Steakhouses,NA,4.0,"1080 Rue Saint-Jean, Quebec City",46.813739,-71.211398,178,792.04,14186940234,False,$$,Quebec
+Sapristi,"Italian, Bars",Bars,Italian,4.0,"1001 Rue Saint-Jean, Quebec City",46.81277,-71.21249,242,880.75,14186922030,False,$$,Quebec
+Polina Pizzeria,"Pizza, Italian",Pizza,Italian,4.0,"44 Rue Saint-Louis, Quebec City",46.811564,-71.207755,85,544.19,14186141202,False,$$,Quebec
+Le Buffet de l'Antiquaire,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),4.0,"95 Rue Saint-Paul, Quebec City",46.81625,-71.2046,166,434.69,14186922661,False,$$,Quebec
+Laurie Raphaël,"French, Canadian (New)",French,"French, Canadian (New)",4.5,"117 Rue Dalhousie, Quebec City",46.81717,-71.203,37,446.45,14186924555,False,$$$$,Quebec
+Chez Rioux & Pettigrew,French,French,French,4.5,"160 Rue Saint-Paul, Quebec City",46.81649,-71.20711,97,585.33,14186944448,False,$$$$,Quebec
+La Pizz,"Italian, Pizza",Pizza,Italian,4.0,"3A Place Royale, Quebec City",46.813252,-71.202809,67,136.26,14186923003,False,$$,Quebec
+Chez Muffy,"French, Canadian (New), Breakfast & Brunch",French,"French, Canadian (New)",4.0,"10 Rue Saint-Antoine, Quebec City",46.81452,-71.20191,48,166.7,14186921022,False,$$$$,Quebec
+D'Orsay,"Gastropubs, French",Gastropubs,French,3.5,"65 Rue De Buade, Quebec City",46.813644,-71.207276,166,478.58,14186941582,False,$$,Quebec
+Champlain,French,French,French,4.0,"1 Rue des Carrières, Quebec City",46.81187,-71.2053,79,338.94,14186923861,False,$$$$,Quebec
+Paillard,"Bakeries, Sandwiches, Macarons",Sandwiches,NA,4.0,"1097 Rue Saint-Jean, Quebec City",46.813808,-71.210798,662,747.14,14186924392,False,$$,Quebec
+Côtes à Côtes Resto-Grill,"French, Steakhouses, Barbeque","Steakhouses, Barbeque",French,3.5,"32 Rue du Marché-Champlain, Quebec City",46.812519,-71.202276,77,122.51,14186925151,False,$$,Quebec
+Portofino,"Italian, Pizza",Pizza,Italian,4.0,"54 Rue Couillard, Quebec City",46.81486,-71.20921,159,650.26,14186928888,False,$$$,Quebec
+Le Café du Monde,"French, Modern European, Breakfast & Brunch",French,"French, Modern European",3.5,"84 Rue Dalhousie, Quebec City",46.816972,-71.200526,95,420.29,14186924455,False,$$,Quebec
+Le Clan,French,French,French,5.0,"44 Rue des Jardins Québec, Quebec City",46.811867,-71.207452,17,511.73,14186920333,False,$$,Quebec
+La Maison Smith,"Coffee & Tea, Coffee Roasteries, Sandwiches","Coffee & Tea, Coffee Roasteries, Sandwiches",NA,4.0,"9 Rue des Jardins, Quebec City",46.81338,-71.2073,84,474.83,15819817778,False,$,Quebec
+Café-Bar Artefact,"Cocktail Bars, Modern European",Cocktail Bars,Modern European,4.5,"Auberge Saint-Antoine, Quebec City",46.814576,-71.202242,21,178.37,18886922211,False,$,Quebec
+La Maison Smith,Cafes,Cafes,NA,4.5,"1141 Rue Saint-Jean, Quebec City",46.814,-71.21009,35,693.85,15817413484,False,$,Quebec
+Sagamité,Canadian (New),Canadian (New),Canadian (New),4.5,"68 Rue Saint Louis, Quebec City",46.810936,-71.208957,24,654.73,14188476999,False,$,Quebec
+La Pizzaio,"Italian, Pizza",Pizza,Italian,5.0,"319 rue Saint-Paul, Quebec City",46.81646,-71.21211,40,928.48,14186925329,False,$$,Quebec
+BEClub Bistro-Bar,"Canadian (New), Cocktail Bars, Wine Bars","Cocktail Bars, Wine Bars",Canadian (New),4.5,"17 Rue Saint-Stanislas, Ville de Québec",46.813922,-71.211593,87,808.56,14186925488,False,$$,Quebec
+Chez Temporel,French,French,French,4.5,"25 Rue Couillard, Quebec City",46.815147,-71.208229,101,589.51,14186941813,False,$$,Quebec
+Les Cafés du Soleil,"Cafes, Coffee & Tea, Italian","Cafes, Coffee & Tea",Italian,4.5,"143 Rue Saint-Paul, Quebec City",46.8164,-71.205857,36,510.21,14186921147,False,$$,Quebec
+Le Don,Vegan,Vegan,NA,4.5,"97 Rue du Sault-au-Matelot, Quebec City",46.81602,-71.20386,38,390.3,14188009663,False,$$,Quebec
+Chez Biceps BBQ,Barbeque,Barbeque,NA,4.5,"5151 Boulevard Henri-Bourassa, Quebec City",46.8504,-71.24723,21,1758.37,14189145991,False,$$,Quebec
+Chez Ashton,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.0,"2690 1ère Avenue, Quebec City",46.83628,-71.24321,1,291.2,14186266584,False,$$,Quebec
+Restaurant Latino La Salsa,"Latin American, Mexican",Latin American,"Latin American, Mexican",4.0,"1063 3e Ave, Quebec City",46.82674,-71.23048,11,1468.21,14185220032,False,$$,Quebec
+Nguyen,Thai,Thai,Thai,5.0,"2647 1ère Avevue, Quebec City",46.836166,-71.243686,2,247.81,14186235888,False,$$,Quebec
+Resto la Mama Grilled Cheese,"Sandwiches, Fast Food, American","Sandwiches, Fast Food",American,4.5,"1804 1er Avenue, Québec City",46.83029,-71.2377,5,785.29,15813007074,False,$,Quebec
+Saveurs des Continents,"Buffets, International",Buffets,NA,3.0,"4250 1ère Avenue, Quebec City",46.843682,-71.246338,24,1010.94,14186219999,False,$$,Quebec
+Chez Carlos Café,"Colombian, Bakeries",Colombian,NA,5.0,"1398 Rue Ozanam, Quebec City",46.827057,-71.23678,6,1092.55,14185222882,False,$$,Quebec
+Pizza Salvatoré,Pizza,Pizza,NA,2.0,"3065 1ère Avenue, Quebec City",46.83815,-71.24551,6,404.31,14186272222,False,$$,Quebec
+Benny&Co.,"Chicken Shop, Chicken Wings",Chicken Shop,NA,4.0,"3300 1re Avenue, Quebec City",46.840327,-71.246898,2,641.23,14186244449,False,$$,Quebec
+Sous-Marins le Marinier,Sandwiches,Sandwiches,NA,5.0,"1769 1re Avenue, Quebec City",46.829753,-71.237753,3,826.3,14185291101,False,$,Quebec
+Toujours Mikes,"Noodles, Breakfast & Brunch, Pizza",Pizza,NA,1.0,"3395 1Re Avenue, Quebec City",46.840347,-71.247601,2,651.33,14186213030,False,$,Quebec
+Pizzeria Cappriccio,"Pizza, Italian, Tapas/Small Plates",Pizza,Italian,4.5,"970 1re Avenue, Quebec City",46.82498,-71.232809,2,1465.95,14184765657,False,$,Quebec
+Yuzu Sushi,Sushi Bars,Sushi Bars,NA,4.0,"159 41e Rue O, Quebec City",46.841382,-71.248816,1,784.8,14186261999,False,$,Quebec
+La Signature,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"1073 3e Avenue, Quebec City",46.82681,-71.23053,2,1461.87,14185247272,False,$,Quebec
+Izgara,Kebab,Kebab,NA,5.0,"1238 1ère Avenue, Quebec City",46.826761,-71.234396,1,1239.79,14185237634,False,$,Quebec
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,4.0,"4685 1re Avenue, Charlesbourg",46.845171,-71.252407,1,1273.29,14186232336,False,$,Quebec
+La Merveille du Vietnam,Vietnamese,Vietnamese,Vietnamese,3.0,"1800 Av 1Re, Quebec City",46.830418,-71.2379,4,790.51,14185221334,False,$,Quebec
+Le Trèfle Limoilou,"Irish Pub, Breakfast & Brunch",Irish Pub,NA,5.0,"699 3e avenue, Quebec City",46.82428,-71.22826,3,1767.79,14189149596,False,$,Quebec
+Poulet Rouge Limoilou,"Chicken Shop, Fast Food, Salad",Fast Food,NA,5.0,"1381 1ère avenue,, Quebec City",46.827593,-71.235496,1,1121.2,14183532653,False,$,Quebec
+Restaurant Normandin,"Breakfast & Brunch, Pizza",Pizza,NA,2.5,"4960 3e Av O, Quebec",46.84501,-71.25679,2,1435.38,14186271420,False,$$,Quebec
+Domino's Pizza,"Pizza, Chicken Wings, Sandwiches","Pizza, Sandwiches",NA,2.0,"3400 1Re Avenue, Quebec",46.841115,-71.246882,2,728.32,14186223336,False,$$,Quebec
+La Taqueria,Mexican,Mexican,Mexican,5.0,"1300 4e Avenue, Ville de Québec",46.82944,-71.22962,1,1371.53,14185232282,False,$$,Quebec
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,1.5,"4100 1Re Avenue, Charlesbourg",46.842035,-71.248276,2,845.46,14186271641,False,$$,Quebec
+La Bourgeoise,"Bars, Barbeque","Bars, Barbeque",NA,2.0,"5930 1re Avenue, Quebec City",46.851262,-71.256825,1,2028.28,14186234996,False,$$,Quebec
+Brûlerie Limilou,Cafes,Cafes,NA,4.0,"1789 1st Avenue, Quebec City",46.829955,-71.23781,2,808.47,14187044420,False,$$,Quebec
+Subway,"Sandwiches, Fast Food","Sandwiches, Fast Food",NA,3.0,"4625 1st Avenue, Quebec City",46.844811,-71.25198,3,1223.93,14186282853,False,$$,Quebec
+Frite Alors!,Fast Food,Fast Food,NA,5.0,"1201 3e Avenue, Quebec City",46.827752,-71.231315,1,1351.23,14189145986,False,$$,Quebec
+Café Tuk Tuk,Cafes,Cafes,NA,4.0,"1238, 1ère Avenue, Quebec City",46.82674,-71.23441,2,1240.68,14185291396,False,$,Quebec
+Royal Tandori,Indian,Indian,Indian,3.0,"1746 1re Avenue, Quebec City",46.82983,-71.23711,4,844.24,14185233663,False,$,Quebec
+Le Ket'Chose,Bistros,Bistros,NA,5.0,"1138 3e Avenue, Quebec City",46.82755,-71.23048,1,1414.3,14183536630,False,$,Quebec
+Guilliss Grill,Steakhouses,Steakhouses,NA,5.0,"1039 3E Avenue, Quebec City",46.82677,-71.230135,1,1487.46,14189774754,False,$,Quebec
+Restaurant Cafe Cam Ranh,Vietnamese,Vietnamese,Vietnamese,4.0,"1650 Av 1Re, Quebec City",46.829296,-71.236572,2,934.18,14185226012,False,$,Quebec
+Kafé Kafa,Cafes,Cafes,NA,2.0,"4250 1re Avenue, Quebec City",46.843595,-71.247543,1,1007.81,<NA>,False,$,Quebec
+Buffet Bardy Casse-Croute,Buffets,Buffets,NA,3.0,"2790 Avenue Maufils, Quebec City",46.847195,-71.235139,1,1626.44,14186637640,False,$,Quebec
+Dépanneur Beau-Soir,"Tobacco Shops, Lebanese",Tobacco Shops,NA,3.0,"1101 3e Avenue, Quebec City",46.827156,-71.230497,2,1440.05,14185245434,False,$,Quebec
+Restaurant Cari,"Thai, Chinese",Thai,"Thai, Chinese",3.0,"5000 3e Avenue O, Quebec City",46.846094,-71.257732,1,1559.57,14186278989,False,$,Quebec
+Apsara,"Thai, Vietnamese, Cambodian",Thai,"Thai, Vietnamese",4.0,"71 Rue d'Auteuil, Quebec City",46.810514,-71.210515,123,410.44,14186940232,False,$$,Quebec
+Conti Caffe,Italian,Italian,Italian,3.5,"32 Rue Saint-Louis, Quebec City",46.81171,-71.20725,61,445.51,14186924191,False,$$$,Quebec
+La Girolle,French,French,French,4.5,"1384 Chemin Sainte-Foy, Quebec City",46.79437,-71.25556,11,1504.1,14185274141,False,$$,Quebec
+La Chope Gobeline,"Steakhouses, Burgers, Pizza","Steakhouses, Burgers, Pizza",NA,5.0,"966 Boulevard René-Lévesque O, Quebec City",46.796847,-71.24047,4,2104.47,14185272777,False,$$,Quebec
+Bistropub Le Sacrement,"Pubs, Brasseries, Gastropubs","Pubs, Gastropubs",NA,3.5,"1380 Chemin Sainte-Foy, Quebec City",46.794371,-71.255379,14,1511.8,14186862067,False,$$,Quebec
+Café Follia,Cafes,Cafes,NA,4.5,"1362 Chemin Sainte-Foy, Quebec City",46.794467,-71.254884,3,1522.36,14186822322,False,$,Quebec
+Marjane,"Moroccan, Meat Shops, Imported Food",Moroccan,NA,5.0,"1370 Chemin Sainte-Foy, Quebec City",46.79446,-71.25534,1,1517.04,14186825222,False,$,Quebec
+Resto-pub Ryna Québec,"Pizza, Italian, Breakfast & Brunch",Pizza,Italian,2.5,"1405 Chemin Ste Foy, Quebec City",46.793755,-71.256088,5,1443.81,<NA>,False,$$,Quebec
+Restaurant Jaim,Diners,Diners,NA,4.0,"1515 Chemin Sainte-Foy, Quebec City",46.792916,-71.258281,1,1371.73,15817424646,False,$$,Quebec
+Le Petit Krieghoff,Cafes,Cafes,NA,4.0,"1220 Rue des Soeurs-du-Bon-Pasteur, Quebec City",46.797433,-71.251418,1,1872.79,15813009775,False,$$,Quebec
+Sushi Shop Québec,Sushi Bars,Sushi Bars,NA,2.5,"1400 Chemin Sainte-Foy, Quebec City",46.79414,-71.25584,3,1487.48,14186833999,False,$$,Quebec
+Cité Saigon,Vietnamese,Vietnamese,Vietnamese,1.0,"1394 Chemin Sainte-Foy, Quebec City",46.79428,-71.25573,1,1495.21,14186811787,False,$$,Quebec
+Charbon Steakhouse,Steakhouses,Steakhouses,NA,4.0,"450 Rue de la Gare-du-Palais, Quebec City",46.817501,-71.214349,44,1110.34,14185220133,False,$$$,Quebec
+Le Varadero,Cuban,Cuban,NA,4.5,"189 Rue Saint-Joseph Est, Quebec City",46.812743,-71.228724,11,346.77,14182655491,False,$,Quebec
+Manoir Montmorency,Canadian (New),Canadian (New),Canadian (New),3.0,"2490 Avenue Royale, Quebec City",46.887802,-71.150471,26,207.46,18445224883,False,$$,Quebec
+Bistro Kent House,"Cafes, Sandwiches","Cafes, Sandwiches",NA,4.0,"2490 Avenue Royale, Quebec City",46.88703,-71.152285,1,202.24,14186633330,False,$$,Quebec
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"2577 Avenue Royale, Beauport",46.891852,-71.149751,2,516.18,14186640632,False,$$,Quebec
+Casse-Croûte du Kent,Fast Food,Fast Food,NA,5.0,"2445 Avnue Royale, Quebec City",46.8864,-71.15338,1,450.75,14186638674,False,$$,Quebec
+Aucoin de Larue,"Pizza, Waffles, Creperies",Pizza,NA,4.5,"2250 Avenue Larue, Quebec City",46.88828,-71.16375,3,1212.33,14186660696,False,$$,Quebec
+Au Sommet De La Chute,"French, American",French,"French, American",3.5,"5014 Royale Avenue, Boischatel",46.89317,-71.14557,4,662.78,14188221422,False,$$,Quebec
+Gourmandises De La Chute (Les),Restaurants,Restaurants,NA,5.0,"2569 Av Royale, Quebec City",46.89146,-71.15007,1,481.46,14186665020,False,$$,Quebec
+Casse-Croûte Checkers,Lebanese,Lebanese,NA,3.5,"2346 Avenue Larue, Quebec City",46.88891,-71.15483,2,561.29,14186602223,False,$$,Quebec
+Chez Harry,Greek,Greek,Greek,4.0,"1190 Boulevard Louis-XIV, Quebec City",46.869755,-71.256446,3,1575.77,14186286187,False,$$,Quebec
+Dairy Queen / Orange Julius,"Ice Cream & Frozen Yogurt, Fast Food, Burgers","Fast Food, Burgers",NA,4.0,"1512 Boul Louis-Xiv, Quebec",46.87967,-71.24579,1,490.48,14186219080,False,$$,Quebec
+Dixie Lee Charlesbourg,Canadian (New),Canadian (New),Canadian (New),4.5,"1279 Boulevard Louis-XIV, Quebec City",46.875191,-71.25164,2,891.16,14186264444,False,$$,Quebec
+A&W,"Fast Food, Burgers","Fast Food, Burgers",NA,5.0,"1190 Boulevard Louis-XIV, Quebec City",46.869797,-71.255823,1,1556.35,15819812902,False,$$,Quebec
+SHAKER Cuisine & Mixologie Charlesbourg,"Cocktail Bars, Burgers, Salad","Cocktail Bars, Burgers",NA,4.5,"8000 Boulevard Henri-Bourassa, Ville de Québec",46.86329,-71.26766,5,1391.05,14186238889,False,$$,Quebec
+Le Grand Bourg,"Seafood, Steakhouses, Brasseries","Seafood, Steakhouses",NA,4.5,"8500 Boulevard Henri-Bourassa, Quebec City",46.866343,-71.270219,3,1767.08,14186235757,False,$$$,Quebec
+Rôtisserie St-Hubert,"Barbeque, Chicken Shop",Barbeque,NA,3.5,"7352 Boulevard Henri-bourassa, Quebec City",46.858729,-71.26268,3,820.71,14186241234,False,$$,Quebec
+Sushi Taxi - Charlesbourg,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"8255 Boulevard Henri-Bourassa, Quebec City",46.86338,-71.26949,3,1428.28,14186225666,False,$$,Quebec
+La Grappe d'Or,Buffets,Buffets,NA,5.0,"7600 3e Avenue Est, Quebec City",46.861242,-71.26164,1,1116.51,14186476600,False,$$,Quebec
+La Piazzetta,"Pizza, Italian",Pizza,Italian,5.0,"6975 Avenue Isaac-Bédard, Quebec City",46.856549,-71.262285,1,576.54,14186288341,False,$$,Quebec
+La Cage aux Sports,"Sports Bars, Tex-Mex, American",Sports Bars,American,2.0,"5540 Boul Des Gradins, Quebec City",46.839636,-71.274257,5,1379.16,14186220555,False,$$,Quebec
+Chez Ashton,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.0,"520 Boulevard Louis-XIV, Quebec City",46.85518,-71.27889,1,1310.23,14186287352,False,$$,Quebec
+Khemara,"Cambodian, Thai, Vietnamese",Cambodian,"Thai, Vietnamese",5.0,"8405 Boulevard Henri-Bourassa, Quebec City",46.864407,-71.270363,1,1590.23,14186246242,False,$$,Quebec
+Fromagerie Victoria,"Fast Food, Breakfast & Brunch, Poutineries",Fast Food,NA,4.0,"100 Rue Bouvier, Quebec City",46.844332,-71.273145,2,1237.58,14189488640,False,$$,Quebec
+Barbies,"Barbeque, Bars, Steakhouses","Barbeque, Bars, Steakhouses",NA,3.0,"330 Rue Bouvier, Quebec City",46.840642,-71.271149,5,1363.48,14186223000,False,$$,Quebec
+Topla!,Italian,Italian,Italian,3.0,"8555 Henri-Bourassa, Quebec City",46.865276,-71.271416,2,1702.81,14187816400,False,$,Quebec
+Tutti Frutti,Breakfast & Brunch,Breakfast & Brunch,NA,3.0,"5560 Boulevard des Gradins, Quebec City",46.839737,-71.274351,2,1457.41,14186241199,False,$$,Quebec
+Sushi Stock,"Sushi Bars, Japanese",Sushi Bars,Japanese,3.0,"9125 Boulevard Henri-Bourassa, Quebec City",46.868105,-71.275161,1,2097.29,14186231616,False,$$,Quebec
+Chez Cora,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"8500 Boul Henri-Bourassa, Quebec City",46.865273,-71.270934,1,1649.22,14186210499,False,$$,Quebec
+Café Christina,Cafes,Cafes,NA,4.0,"8500 Boulevard Henri-Bourassa, Quebec City",46.865273,-71.270934,1,1649.22,14186341352,False,$$,Quebec
+Le Paradis D'Angkor,Asian Fusion,Asian Fusion,Asian Fusion,3.5,"8085 Boulevard Henri-Bourassa, Quebec City",46.863071,-71.268829,3,1385.45,14186242666,False,$$,Quebec
+Café LB9,Cafes,Cafes,NA,4.0,"725 Boulevard Lebourgneuf, Quebec City",46.842748,-71.27982,1,1631.75,14187042233,False,$$,Quebec
+Casse Croute La Degustation,Canadian (New),Canadian (New),Canadian (New),3.0,"4585 Avenue 3E Rue O, Quebec City",46.84264,-71.2553,1,1112.56,14186219660,False,$$,Quebec
+Restaurant Thai Exotique,Thai,Thai,Thai,1.0,"5350 Boul Henri-Bourassa, Quebec City",46.85113,-71.24999,1,937.2,14186269550,False,$$,Quebec
+Paris Grill,"French, Beer, Wine & Spirits, Breakfast & Brunch","Beer, Wine & Spirits",French,4.0,"2820 Boulevard Laurier, Quebec City",46.76771,-71.28789,33,1877.45,14186584415,False,$$$,Quebec
+Allô Mon Coco,Breakfast & Brunch,Breakfast & Brunch,NA,4.0,"2700, boulevard Laurier, suite 0508, Quebec City",46.770575,-71.285229,43,1469.88,15819819998,False,$$,Quebec
+Bâton Rouge Grillhouse,"Seafood, Steakhouses, Cocktail Bars","Seafood, Steakhouses, Cocktail Bars",NA,4.0,"2450 Boulevard Laurier, Quebec City",46.773648,-71.279079,29,1143.56,14186517878,False,$$,Quebec
+La Bête,Steakhouses,Steakhouses,NA,4.0,"2875 Boulevard Laurier, Quebec City",46.76594,-71.28935,21,2058.58,14182661717,False,$$$,Quebec
+Kimono,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.0,"1137 Route de l'Église, Quebec City",46.769543,-71.291909,33,1876.76,14186488821,False,$$,Quebec
+Momento Restaurant,Italian,Italian,Italian,5.0,"2480 Chemin Sainte-Foy, Quebec City",46.784612,-71.28832,5,1076.28,14186522480,False,$$$,Quebec
+Bistango,"French, Wine Bars, Italian",Wine Bars,"French, Italian",4.0,"1200 Avenue Germain-des-Prés, Quebec City",46.768842,-71.287426,11,1722.8,14186588780,False,$$$,Quebec
+Cosmos Café,"Breakfast & Brunch, Canadian (New)",Breakfast & Brunch,Canadian (New),3.5,"2813 Boulevard Laurier, Quebec City",46.76761,-71.2864,33,1795.7,14186522001,False,$$,Quebec
+Phô Tonkinoise,"Soup, Asian Fusion",Soup,Asian Fusion,3.0,"2383 Chemin Sainte-Foy, Quebec City",46.785649,-71.282447,19,726.33,14186573335,False,$,Quebec
+Ô 6ième Sens,Canadian (New),Canadian (New),Canadian (New),5.0,"1200 Av de Germain Des Prés, Ste-Foy",46.769224,-71.287759,9,1702.18,14187047367,False,$$$,Quebec
+SHAKER Cuisine & Mixologie Ste-Foy,"Cocktail Bars, Burgers, Salad","Cocktail Bars, Burgers",NA,3.5,"2360 Chemin Sainte-Foy, Quebec City",46.786736,-71.282286,12,796.17,14186507665,False,$$,Quebec
+La Belle et la Boeuf,"Burgers, Salad, Poutineries",Burgers,NA,3.5,"2450 Boulevard Laurier, Quebec City",46.771955,-71.280093,17,1156.66,15817425444,False,$$,Quebec
+Cochon Dingue,"French, Breakfast & Brunch",French,French,4.0,"2450 Boulevard Laurier, Quebec City",46.772631,-71.280006,7,1083.98,14186842013,False,$$,Quebec
+Rôtisserie St-Hubert,"Barbeque, Chicken Shop",Barbeque,NA,3.5,"2905 Boulevard Laurier, Quebec City",46.765586,-71.290428,12,2150.82,14186501234,False,$$,Quebec
+Win Resto Pub,"Gastropubs, Asian Fusion",Gastropubs,Asian Fusion,4.0,"2326 Chemin Sainte-Foy, Quebec City",46.786639,-71.279208,1,641.04,15819812525,False,$$,Quebec
+Chez Victor,"Burgers, Sandwiches","Burgers, Sandwiches",NA,3.5,"2875 Boulevard Laurier, Quebec City",46.76594,-71.28935,17,2058.58,14189779123,False,$$,Quebec
+Yuzu Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,4.5,"2336 Chemin Sainte-Foy, Quebec City",46.78669,-71.28007,3,683.11,14186534445,False,$$,Quebec
+Restaurant Normandin,Italian,Italian,Italian,4.0,"2500 Chemin Sainte-foy, Quebec City",46.783901,-71.288948,4,1110.29,14186534844,False,$$,Quebec
+Ogari San,Japanese,Japanese,Japanese,4.0,"2360, Chemin Sainte-Foy, Quebec City",46.786677,-71.282032,7,777.85,14186142050,False,$$,Quebec
+Cari de l'Inde,Indian,Indian,Indian,4.0,"2520 Chemin Sainte-Foy, Ville de Québec",46.783975,-71.28995,10,1178.17,14186513520,False,$$,Quebec
+La Cage Aux Sports,Chicken Wings,Chicken Wings,NA,3.5,"2700 Boulevard Laurier, Quebec City",46.76961,-71.28424,8,1449.04,14186537000,False,$$,Quebec
+La Galette Libanaise,Lebanese,Lebanese,NA,4.0,"2480 Chemin Sainte-Foy, Quebec City",46.784137,-71.287488,4,1000.48,14189142666,False,$$,Quebec
+Chez Ashton,"Fast Food, Poutineries, Burgers","Fast Food, Burgers",NA,5.0,"2452 Boulevard Laurier, Quebec City",46.77294,-71.27772,1,946.38,14186586555,False,$,Quebec
+Calao,Asian Fusion,Asian Fusion,Asian Fusion,3.0,"2820 Laurier Boulevard, Quebec City",46.767664,-71.288586,10,1880.79,14186534999,False,$$,Quebec
+Chez Greco,Greek,Greek,Greek,3.5,"2960 Boulevard Laurier, Quebec City",46.765923,-71.292772,10,2224.66,14186520319,False,$$,Quebec
+Pizza Salvatore,Pizza,Pizza,NA,2.5,"2377 Chemin Sainte Foy, Quebec City",46.785653,-71.281959,5,697.32,14186588888,False,$$,Quebec
+Au Petit Coin Breton,Creperies,Creperies,NA,3.0,"2600 Boulevard Laurier, Quebec City",46.771453,-71.282382,9,1277.5,14186536051,False,$$,Quebec
+Chez Ashton,"Burgers, Hot Dogs, Poutineries",Burgers,NA,3.5,"2700 Boulevard Laurier, Quebec City",46.770652,-71.28548,8,1473.09,14186561096,False,$,Quebec
+Cacao 70,"Desserts, Breakfast & Brunch",Desserts,NA,3.0,"2450 Boulevard Laurier, Quebec",46.772249,-71.280342,10,1132.88,15813009388,False,$,Quebec
+Centrale Bergham,"Fast Food, Salad, Poutineries",Fast Food,NA,5.0,"2360 Chemin Sainte-Foy, Quebec City",46.786668,-71.282608,1,808.66,15817411174,False,$,Quebec
+Extreme Pita,Sandwiches,Sandwiches,NA,4.5,"2360, Chemin Ste-foy, Quebec City",46.786004,-71.282047,2,727.52,14186544576,False,$,Quebec
+Van Houtte,Cafes,Cafes,NA,4.0,"2640 Boulevard Laurier, Quebec City",46.770548,-71.282384,1,1299.03,14186511999,False,$,Quebec
+Boston Pizza,"Pizza, Salad, Burgers","Pizza, Burgers",NA,2.5,"2300 Chemin Sainte-Foy, Sainte-Foy",46.787163,-71.27855,5,668.8,14189146044,False,$,Quebec
+BULLE Bistro d'Altitude,Bistros,Bistros,NA,5.0,"2828 Boulevard Laurier, Quebec City",46.767739,-71.289334,1,1906.3,14186535251,False,$,Quebec
+Thaïzone,Thai,Thai,Thai,3.5,"2360 Chemin Sainte-Foy, Quebec City",46.786677,-71.282032,4,777.85,14187804884,False,$,Quebec
+Salad Shop,Salad,Salad,NA,3.5,"2360 Chemin Sainte-Foy, Quebec City",46.786677,-71.282032,3,777.85,14187802222,False,$,Quebec
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,5.0,"2520 Chemin des Quatre-Bourgeois, Sainte-Foy",46.782858,-71.286915,1,928.68,14186594808,False,$,Quebec
+Shogun Sushi,"Sushi Bars, Japanese",Sushi Bars,Japanese,2.0,"2815 Boulevard Laurier, Quebec City",46.76761,-71.2864,17,1837.13,14186500888,False,$,Quebec
+Tartar Station,Fast Food,Fast Food,NA,5.0,"2360 Chemin Sainte-Foy, Ville de Québec",46.786308,-71.28275,2,790.21,14186571777,False,$,Quebec
+Kobe Sushi,Sushi Bars,Sushi Bars,NA,4.0,"2600 Boulevard Laurier, Quebec City",46.771108,-71.281202,1,1275.04,14186576969,False,$,Quebec
+Holà Grill Mexicain,Mexican,Mexican,Mexican,4.0,"2360 Chemin Sainte-Foy, Quebec City",46.78657,-71.281932,1,764.04,14186594652,False,$,Quebec
+Cultures,Canadian (New),Canadian (New),Canadian (New),4.5,"2700 boul. Laurier, Ste Foy",46.768949,-71.284852,3,1611.4,14186591926,False,$,Quebec
+Grigio,Italian,Italian,Italian,2.0,"Complexe Jules Dallaire, Quebec City",46.768162,-71.28701,6,1876.71,14186514040,False,$$,Quebec
+Chong Kee Express,Asian Fusion,Asian Fusion,Asian Fusion,4.5,"2600 Boul Laurier, Quebec City",46.77097,-71.281428,2,1295.87,14186502236,False,$$,Quebec
+Beyrouth Cité,Middle Eastern,Middle Eastern,Middle Eastern,5.0,"2600 Boulevard Laurier, Quebec City",46.771106,-71.280292,1,1250.56,14186517869,False,$$,Quebec
+Chanhda,Asian Fusion,Asian Fusion,Asian Fusion,4.5,"2900 Chemin Saint-Louis, Quebec City",46.762734,-71.283601,15,1236.43,15819812430,False,$,Quebec
+Chez Ashton,"Burgers, Hot Dogs, Poutineries",Burgers,NA,4.0,"2895 Chemin Saint-Louis, Quebec City",46.76166,-71.28335,4,1147.34,14186528665,False,$,Quebec
+Phil’s Fish & Chips,Fish & Chips,Fish & Chips,NA,5.0,"2900 Chemin Saint-Louis, Quebec City",46.76299,-71.283175,1,1232.95,14186503474,False,$,Quebec
+Pizza Taouk,Arabic,Arabic,NA,4.0,"2600 Boul Laurier, Quebec City",46.771108,-71.281202,2,1916.18,14186517869,False,$$,Quebec
+Barbacoa,"Burgers, Barbeque, American","Burgers, Barbeque",American,2.0,"2700 Boulevard Laurier, Quebec City",46.769801,-71.286884,1,1996.88,15817421010,False,$$,Quebec
+Sushiman,Sushi Bars,Sushi Bars,NA,4.0,"Boulevard Hochelaga, Saint Louis",46.770168,-71.286164,1,1999.68,<NA>,False,$$,Quebec
+Place Tevere,Italian,Italian,Italian,3.0,"2700 Boulevard Laurier, Quebec City",46.76978,-71.286594,1,1982.28,14186529966,False,$$,Quebec
+Café Baya,"Cafes, Sandwiches","Cafes, Sandwiches",NA,4.0,"2600, Boul. Laurier, Quebec City",46.770963,-71.281616,2,1913.36,14186528831,False,$$,Quebec
+Copper Branch,"Vegan, Vegetarian, Gluten-Free",Vegan,NA,2.0,"2700 Boulevard Laurier, Quebec City",46.769752,-71.286846,1,1990.76,14189480194,False,$$,Quebec
+Normandin,"Bars, Pizza, Canadian (New)","Bars, Pizza",Canadian (New),2.5,"2600 Boulevard Laurier, Ville de Québec",46.77146,-71.28171,2,2042.96,14186566563,False,$$,Quebec
+Bourbon Café Express,"Fast Food, Burgers","Fast Food, Burgers",NA,3.0,"2600 Boulevard Laurier, Quebec City",46.771462,-71.281708,1,2042.96,14189071008,False,$$,Quebec
+Smoked Meat,Canadian (New),Canadian (New),Canadian (New),3.5,"2600 Boulevard Laurier, Quebec City",46.766874,-71.288869,3,1844.99,14186513461,False,$$,Quebec
+Los Dias,Mexican,Mexican,Mexican,3.0,"Place Sainte-Foy, Quebec City",46.773822,-71.276023,1,2015.55,14186145854,False,$$,Quebec
+Au Vieux Duluth,Steakhouses,Steakhouses,NA,2.5,"475 Route du Pont, Saint-Nicolas",46.739204,-71.288728,3,2194.27,14188315551,False,$$,Quebec
+Thaï Express,Thai,Thai,Thai,3.0,"2600 Boulverd Laurier, Sainte-foy",46.771462,-71.281708,3,2042.96,14186516991,False,$$,Quebec
+Sushi Box,Sushi Bars,Sushi Bars,NA,4.5,"955 Route Jean-Gauvin, Quebec City",46.760132,-71.363635,12,333.97,14188771313,False,$$,Quebec
+Chic Alors,"Pizza, Italian",Pizza,Italian,4.0,"927 Route Jean-Gauvin, Quebec City",46.760651,-71.364947,13,442.4,14188774747,False,$$,Quebec
+Resto-Pub L'Immédia,Fish & Chips,Fish & Chips,NA,4.0,"1221 Rue Charles-Albanel, Quebec City",46.765856,-71.369078,10,1093.08,14188772646,False,$$,Quebec
+Chez Victor,Burgers,Burgers,NA,4.5,"4252, Rue Saint Félix, Quebec City",46.748047,-71.345925,4,1574.53,14182043101,False,$$,Quebec
+Casa Panatoni,Restaurants,Restaurants,NA,4.0,"4328 Rue Saint-Felix, Quebec City",46.74702,-71.34956,4,1475.14,14186502644,False,$$,Quebec
+Paillard,"Pizza, Bakeries, Desserts","Pizza, Desserts",NA,5.0,"811 Route Jean-Gauvin, Quebec City",46.764191,-71.368809,1,932.59,15817050278,False,$$,Quebec
+La Piazzetta,Pizza,Pizza,NA,4.0,"3695 Rue de l'Hêtrière, Quebec City",46.75183,-71.37986,1,1127.3,14182040565,False,$$,Quebec
+McDonald's,"Fast Food, Burgers","Fast Food, Burgers",NA,2.0,"825 Boulevard Jean-Gauvin, Sainte-Foy",46.763519,-71.368233,1,847.12,14188726805,False,$,Quebec
+Maison Thaïlandaise,"Delicatessen, Thai",Delicatessen,Thai,3.5,"4307, Rue Saint-Félix, Quebec City",46.74703,-71.34857,3,1519.23,14186592332,False,$$,Quebec
+Restaurant Normandin,Italian,Italian,Italian,4.0,"1243 Rue Charles-Albanel, Quebec City",46.76557,-71.37053,1,1115.81,14188777790,False,$$,Quebec
+Casse-Croûte La Peltrie,"Fast Food, Ice Cream & Frozen Yogurt",Fast Food,NA,2.5,"4244, Rue Saint-Félix, Quebec City",46.74821,-71.34582,5,1572.1,14186510862,False,$,Quebec
+Le Subtil - Lebourgneuf,"Sandwiches, Salad, Pizza","Sandwiches, Pizza",NA,5.0,"1120 Boulevard Lebourgneuf, Quebec City",46.836944,-71.290918,4,2276.18,14182669999,False,$,Quebec
+Le Snack Branché,"Burgers, Poutineries, Sandwiches","Burgers, Sandwiches",NA,5.0,"1284 Boulevard Bastien, Quebec City",46.849767,-71.305188,1,519.2,14187041616,False,$,Quebec
+Marmiton Pizza,Pizza,Pizza,NA,5.0,"6655 Boulevard Pierre-Bertrand, Quebec City",46.84025,-71.28891,2,2046.12,14189489595,False,$,Quebec
+Delli Libanais,Lebanese,Lebanese,NA,4.5,"1170 Boulevard Lebourgneuf, Quebec City",46.836262,-71.292236,3,2271.57,14186148478,False,$,Quebec
+Pacini,Italian,Italian,Italian,2.0,"1280 Boulevard Lebourgneuf, Quebec City",46.836467,-71.296693,5,2126.71,14186268383,False,$$$,Quebec
+Restaurant Paya Thai,Thai,Thai,Thai,4.0,"6655 Boul Pierre-Bertrand, Quebec City",46.84025,-71.28891,4,2046.12,14186282671,False,$$,Quebec
+Restaurant Hector,"Burgers, Pizza, Sandwiches","Burgers, Pizza, Sandwiches",NA,3.0,"55 Boulevard Louis-XIV, Quebec City",46.849138,-71.293674,3,1149.53,14186232015,False,$,Quebec
+Restaurant Chez Mai Lai,Vietnamese,Vietnamese,Vietnamese,2.0,"1133 Boul Bastien, Quebec City",46.84796,-71.29996,6,864.76,14186215223,False,$,Quebec
+Mille et une Pizzas,Pizza,Pizza,NA,4.0,"363 Rue Saint-Paul, Quebec City",46.816333,-71.213757,34,435.93,14186921910,False,$$,Quebec
+Le Dijon,French,French,French,4.0,"7900 Rue du Marigot, Quebec City",46.883743,-71.307739,5,1538.98,14187812988,False,$$,Quebec
+Pizza Passion,Pizza,Pizza,NA,4.5,"1450 Boulevard Père-Lelièvre, Quebec City",46.88363,-71.282465,3,1789.0,14187812555,False,$$,Quebec
+Sushi Oshima,"Japanese, Sushi Bars",Sushi Bars,Japanese,4.5,"16, rue Georges-Muir, Quebec City",46.899349,-71.305344,3,659.02,14188413838,False,$$,Quebec
+Pizza Passion,Pizza,Pizza,NA,4.0,"5425 Avenue des Platanes, Quebec City",46.883628,-71.282464,2,1789.22,14186224447,False,$$,Quebec
+Restaurant Normandin,NA,NA,NA,3.5,"15021 Boulevard Henri Bourassa, Charlesbourg",46.881569,-71.287918,3,1768.22,14186267216,False,$$,Quebec
